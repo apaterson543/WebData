@@ -1,7 +1,4 @@
-# Homework 5 - Graph Partitioning
-### Andrew Paterson - CS 432
-
-
+# Graph Partitioning
 
 #### 1. Karate Club Graph
 To draw the graph of the Zachary's Karate Club data set, I imported this data set from Networkx. The following graph
@@ -35,7 +32,7 @@ plt.show()
 ```
 As you can see, using `G.nodes[i]["club"]` will return the karate club to which the individual represented by node 'i' belongs. 
 
-#### 2. Girvan-Newman Graph Partitioning    
+#### Girvan-Newman Graph Partitioning    
 
 The **Girvan-Newman** graph partitioning algorithm is used for splitting a graph into sub-graphs by removing the edges with the 
 highest betweenness. By looping through and removing the edge with the highest betweenness one by one, we can observe the graph splitting into groups
@@ -158,7 +155,7 @@ one can see which points belong to which graph.
 ![after_11_iterations](Graphs/after_11%20iterations.png)
 
 
-#### 3. Comparison: Before and After Split
+#### Comparison: Before and After Split
 
 Before the split, I colored the nodes by using the predefined data from NetworkX pertaining to which group each node belongs. However,
 after running enough iterations of the Girvan-Newman algorithm to split the data, I found that nodes 2 and 8 ended up being in the <span style="color: green;">John A</span> 
