@@ -1,9 +1,9 @@
-# Homework 7 - Recommendation Systems
-#### Andrew Paterson - CS 432
+# Recommendation Systems
+
 
 ### Dataset
 
-The datasets used in this assignmement were gathered from https://grouplens.org/datasets/movielens/100k/.
+The datasets used in this project were gathered from https://grouplens.org/datasets/movielens/100k/.
 The datasets were collected by the [GroupLens Research Project](https://grouplens.org/) at the University of 
 Minnesota during the seven-month period from September 19, 1997 through April 22, 1998.  We are using the "100k dataset", available from
 https://grouplens.org/datasets/movielens/100k/ 
@@ -71,9 +71,8 @@ https://github.com/arthur-e/Programming-Collective-Intelligence/blob/master/chap
 
 This code has been slightly modified to function with this project and is also available [here](recommendations.py).
 
-## Questions
 
-### Q1
+### P1
 
 To find 3 users who are closest to me in terms of age, gender, and occupation, I read the `u.user` file into 
 a pandas dataframe. Because this information was needed in other areas, I created the [Data.py](Data.py) module for easy reference.
@@ -106,7 +105,7 @@ in movies to **user 429**.
 For the following questions, **user 429** was used as the substitute me.
 
 
-### Q2
+### P2
 To find the 5 users that are most and least correlated to **user 429**, I used the pre-created [recommendations.py](recommendations.py)
 `topMatches()` function and copy of it that shows the least reccomended `leastMatches()`. From these matches created,
 I used the pre-created [Data.py](Data.py) `get_users()` function to give me a pandas dataframe of all the users in [u.user](ml-100k/u.user). 
@@ -154,7 +153,7 @@ bottom5_frame['correlation'] = bottom_correlations
 ##### 5 users least correlated to me
 ![](tables/q2_bottom5.png)
 
-### Q3
+### P3
 To compute ratings for all the films that **user 429** has not seen, once again I used functions from [recommendations.py](recommendations.py).
 The `getReccomendations()` function takes the initial user/movie grouping `prefs` and single user to generate a list of movie tuples
 (overall rating, film)  that the user has not seen. This list is ordered from highest overall rating to lowest overall rating.
@@ -184,7 +183,7 @@ with open('csv_files/q3_not_seen_ratings.csv', 'w') as output:
 
 ![](tables/q3_sub_bottom_rec.png)
 
-### Q4
+### P4
  
 Choosing my favorite and least favorite from this list was difficult because there are a lot of movies in the 
 [u.item](ml-100k/u.item) dataset that I really like such as The Godfather, Silence of the Lambs, and Trainspotting.
