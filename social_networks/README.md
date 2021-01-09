@@ -1,8 +1,6 @@
-# Homework 4 - Exploring Social Networks
-### Andrew Paterson
+# Exploring Social Networks
 
-
-### Q1. Friendship Paradox on Facebook
+### Friendship Paradox on Facebook
 
 After creating a graph, it is very apparent that the friendship paradox holds true for this user.
 The majority of this user's friends have more friends than they do. This can be seen in the below graph
@@ -20,7 +18,7 @@ by the very large number of friends held by users on the right side of the graph
 
 The program that created this graph can be found at [facebook_friends.py](facebook_friends.py).
 
-### Q2. Friendship Paradox on Twitter
+### Friendship Paradox on Twitter
 
 Because I have less than 50 followers on twitter, I used [weiglemc](https://twitter.com/weiglemc/)
 for this portion of the assignment. In this instance the user has more followers than most of her 
