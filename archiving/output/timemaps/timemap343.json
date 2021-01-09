@@ -1,0 +1,38 @@
+{
+  "original_uri": "https://www.washingtonpost.com/business/2020/10/06/trump-stimulus-economy-unemployment/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.washingtonpost.com/business/2020/10/06/trump-stimulus-economy-unemployment/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T00:20:13Z",
+        "uri": "https://web.archive.org/web/20201007002013/https://www.washingtonpost.com/business/2020/10/06/trump-stimulus-economy-unemployment/"
+      },
+      {
+        "datetime": "2020-10-07T10:13:22Z",
+        "uri": "https://web.archive.org/web/20201007101322/https://www.washingtonpost.com/business/2020/10/06/trump-stimulus-economy-unemployment/"
+      },
+      {
+        "datetime": "2020-10-07T11:51:56Z",
+        "uri": "https://web.archive.org/web/20201007115156/https://www.washingtonpost.com/business/2020/10/06/trump-stimulus-economy-unemployment/"
+      },
+      {
+        "datetime": "2020-10-08T02:35:55Z",
+        "uri": "https://web.archive.org/web/20201008023555/https://www.washingtonpost.com/business/2020/10/06/trump-stimulus-economy-unemployment/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T00:20:13Z",
+      "uri": "https://web.archive.org/web/20201007002013/https://www.washingtonpost.com/business/2020/10/06/trump-stimulus-economy-unemployment/"
+    },
+    "last": {
+      "datetime": "2020-10-08T02:35:55Z",
+      "uri": "https://web.archive.org/web/20201008023555/https://www.washingtonpost.com/business/2020/10/06/trump-stimulus-economy-unemployment/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.washingtonpost.com/business/2020/10/06/trump-stimulus-economy-unemployment/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.washingtonpost.com/business/2020/10/06/trump-stimulus-economy-unemployment/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.washingtonpost.com/business/2020/10/06/trump-stimulus-economy-unemployment/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.washingtonpost.com/business/2020/10/06/trump-stimulus-economy-unemployment/%0A"
+}

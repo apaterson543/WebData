@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.alternet.org/2020/10/arkansas-gop-county-chair-dies-from-covid-19-his-committee-hosted-a-mask-less-gathering-last-month/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.alternet.org/2020/10/arkansas-gop-county-chair-dies-from-covid-19-his-committee-hosted-a-mask-less-gathering-last-month/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-06T16:24:29Z",
+        "uri": "https://web.archive.org/web/20201006162429/https://www.alternet.org/2020/10/arkansas-gop-county-chair-dies-from-covid-19-his-committee-hosted-a-mask-less-gathering-last-month/"
+      },
+      {
+        "datetime": "2020-10-06T18:12:19Z",
+        "uri": "https://web.archive.org/web/20201006181219/https://www.alternet.org/2020/10/arkansas-gop-county-chair-dies-from-covid-19-his-committee-hosted-a-mask-less-gathering-last-month/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-06T16:24:29Z",
+      "uri": "https://web.archive.org/web/20201006162429/https://www.alternet.org/2020/10/arkansas-gop-county-chair-dies-from-covid-19-his-committee-hosted-a-mask-less-gathering-last-month/"
+    },
+    "last": {
+      "datetime": "2020-10-06T18:12:19Z",
+      "uri": "https://web.archive.org/web/20201006181219/https://www.alternet.org/2020/10/arkansas-gop-county-chair-dies-from-covid-19-his-committee-hosted-a-mask-less-gathering-last-month/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.alternet.org/2020/10/arkansas-gop-county-chair-dies-from-covid-19-his-committee-hosted-a-mask-less-gathering-last-month/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.alternet.org/2020/10/arkansas-gop-county-chair-dies-from-covid-19-his-committee-hosted-a-mask-less-gathering-last-month/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.alternet.org/2020/10/arkansas-gop-county-chair-dies-from-covid-19-his-committee-hosted-a-mask-less-gathering-last-month/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.alternet.org/2020/10/arkansas-gop-county-chair-dies-from-covid-19-his-committee-hosted-a-mask-less-gathering-last-month/%0A"
+}

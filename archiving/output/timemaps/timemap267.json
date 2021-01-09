@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.news-medical.net/news/20201005/Supporting-Coronavirus-Research-with-Liquid-Chromatography.aspx%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.news-medical.net/news/20201005/Supporting-Coronavirus-Research-with-Liquid-Chromatography.aspx%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-08T00:19:46Z",
+        "uri": "https://web.archive.org/web/20201008001946/https://www.news-medical.net/news/20201005/Supporting-Coronavirus-Research-with-Liquid-Chromatography.aspx"
+      },
+      {
+        "datetime": "2020-10-08T00:59:05Z",
+        "uri": "https://web.archive.org/web/20201008005905/https://www.news-medical.net/news/20201005/Supporting-Coronavirus-Research-with-Liquid-Chromatography.aspx"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-08T00:19:46Z",
+      "uri": "https://web.archive.org/web/20201008001946/https://www.news-medical.net/news/20201005/Supporting-Coronavirus-Research-with-Liquid-Chromatography.aspx"
+    },
+    "last": {
+      "datetime": "2020-10-08T00:59:05Z",
+      "uri": "https://web.archive.org/web/20201008005905/https://www.news-medical.net/news/20201005/Supporting-Coronavirus-Research-with-Liquid-Chromatography.aspx"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.news-medical.net/news/20201005/Supporting-Coronavirus-Research-with-Liquid-Chromatography.aspx%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.news-medical.net/news/20201005/Supporting-Coronavirus-Research-with-Liquid-Chromatography.aspx%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.news-medical.net/news/20201005/Supporting-Coronavirus-Research-with-Liquid-Chromatography.aspx%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.news-medical.net/news/20201005/Supporting-Coronavirus-Research-with-Liquid-Chromatography.aspx%0A"
+}

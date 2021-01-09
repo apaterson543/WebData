@@ -1,0 +1,3 @@
+https://www.lbcgroup.tv/news/corona-virus/551969/coronavirus-cases-jump-to-1459-9-deaths/en
+
+b'Bad RequestBad Request - Invalid URLHTTP Error 400. The request URL is invalid.'

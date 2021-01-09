@@ -1,0 +1,90 @@
+{
+  "original_uri": "https://www.nytimes.com/2020/10/07/health/new-england-journal-trump.html%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2020/10/07/health/new-england-journal-trump.html%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T21:20:15Z",
+        "uri": "https://web.archive.org/web/20201007212015/https://www.nytimes.com/2020/10/07/health/new-england-journal-trump.html"
+      },
+      {
+        "datetime": "2020-10-07T22:00:25Z",
+        "uri": "https://web.archive.org/web/20201007220025/https://www.nytimes.com/2020/10/07/health/new-england-journal-trump.html"
+      },
+      {
+        "datetime": "2020-10-07T22:04:02Z",
+        "uri": "https://web.archive.org/web/20201007220402/https://www.nytimes.com/2020/10/07/health/new-england-journal-trump.html"
+      },
+      {
+        "datetime": "2020-10-07T22:04:02Z",
+        "uri": "https://web.archive.org/web/20201007220402/https://www.nytimes.com/2020/10/07/health/new-england-journal-trump.html"
+      },
+      {
+        "datetime": "2020-10-07T22:06:03Z",
+        "uri": "https://web.archive.org/web/20201007220603/https://www.nytimes.com/2020/10/07/health/new-england-journal-trump.html"
+      },
+      {
+        "datetime": "2020-10-07T22:16:38Z",
+        "uri": "https://web.archive.org/web/20201007221638/https://www.nytimes.com/2020/10/07/health/new-england-journal-trump.html"
+      },
+      {
+        "datetime": "2020-10-07T22:26:02Z",
+        "uri": "https://web.archive.org/web/20201007222602/https://www.nytimes.com/2020/10/07/health/new-england-journal-trump.html"
+      },
+      {
+        "datetime": "2020-10-07T22:26:02Z",
+        "uri": "https://web.archive.org/web/20201007222602/https://www.nytimes.com/2020/10/07/health/new-england-journal-trump.html"
+      },
+      {
+        "datetime": "2020-10-07T23:47:28Z",
+        "uri": "https://web.archive.org/web/20201007234728/https://www.nytimes.com/2020/10/07/health/new-england-journal-trump.html"
+      },
+      {
+        "datetime": "2020-10-08T06:37:37Z",
+        "uri": "https://web.archive.org/web/20201008063737/https://www.nytimes.com/2020/10/07/health/new-england-journal-trump.html"
+      },
+      {
+        "datetime": "2020-10-08T06:37:37Z",
+        "uri": "https://web.archive.org/web/20201008063737/https://www.nytimes.com/2020/10/07/health/new-england-journal-trump.html"
+      },
+      {
+        "datetime": "2020-10-08T07:42:13Z",
+        "uri": "https://web.archive.org/web/20201008074213/https://www.nytimes.com/2020/10/07/health/new-england-journal-trump.html"
+      },
+      {
+        "datetime": "2020-10-08T07:42:13Z",
+        "uri": "https://web.archive.org/web/20201008074213/https://www.nytimes.com/2020/10/07/health/new-england-journal-trump.html"
+      },
+      {
+        "datetime": "2020-10-08T08:26:13Z",
+        "uri": "https://web.archive.org/web/20201008082613/https://www.nytimes.com/2020/10/07/health/new-england-journal-trump.html"
+      },
+      {
+        "datetime": "2020-10-08T08:26:13Z",
+        "uri": "https://web.archive.org/web/20201008082613/https://www.nytimes.com/2020/10/07/health/new-england-journal-trump.html"
+      },
+      {
+        "datetime": "2020-10-08T10:06:36Z",
+        "uri": "https://web.archive.org/web/20201008100636/https://www.nytimes.com/2020/10/07/health/new-england-journal-trump.html"
+      },
+      {
+        "datetime": "2020-10-08T12:50:15Z",
+        "uri": "https://web.archive.org/web/20201008125015/https://www.nytimes.com/2020/10/07/health/new-england-journal-trump.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T21:20:15Z",
+      "uri": "https://web.archive.org/web/20201007212015/https://www.nytimes.com/2020/10/07/health/new-england-journal-trump.html"
+    },
+    "last": {
+      "datetime": "2020-10-08T12:50:15Z",
+      "uri": "https://web.archive.org/web/20201008125015/https://www.nytimes.com/2020/10/07/health/new-england-journal-trump.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.nytimes.com/2020/10/07/health/new-england-journal-trump.html%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2020/10/07/health/new-england-journal-trump.html%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.nytimes.com/2020/10/07/health/new-england-journal-trump.html%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.nytimes.com/2020/10/07/health/new-england-journal-trump.html%0A"
+}

@@ -1,0 +1,38 @@
+{
+  "original_uri": "https://podcasts.apple.com/us/podcast/divorced-af/id1483327642%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://podcasts.apple.com/us/podcast/divorced-af/id1483327642%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-03-14T07:19:45Z",
+        "uri": "https://web.archive.org/web/20200314071945/https://podcasts.apple.com/us/podcast/divorced-af/id1483327642"
+      },
+      {
+        "datetime": "2020-04-25T23:04:14Z",
+        "uri": "https://web.archive.org/web/20200425230414/https://podcasts.apple.com/us/podcast/divorced-af/id1483327642"
+      },
+      {
+        "datetime": "2020-05-03T01:31:22Z",
+        "uri": "https://web.archive.org/web/20200503013122/https://podcasts.apple.com/us/podcast/divorced-af/id1483327642"
+      },
+      {
+        "datetime": "2020-05-20T04:45:47Z",
+        "uri": "https://web.archive.org/web/20200520044547/https://podcasts.apple.com/us/podcast/divorced-af/id1483327642"
+      }
+    ],
+    "first": {
+      "datetime": "2020-03-14T07:19:45Z",
+      "uri": "https://web.archive.org/web/20200314071945/https://podcasts.apple.com/us/podcast/divorced-af/id1483327642"
+    },
+    "last": {
+      "datetime": "2020-05-20T04:45:47Z",
+      "uri": "https://web.archive.org/web/20200520044547/https://podcasts.apple.com/us/podcast/divorced-af/id1483327642"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://podcasts.apple.com/us/podcast/divorced-af/id1483327642%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://podcasts.apple.com/us/podcast/divorced-af/id1483327642%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://podcasts.apple.com/us/podcast/divorced-af/id1483327642%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://podcasts.apple.com/us/podcast/divorced-af/id1483327642%0A"
+}

@@ -1,0 +1,54 @@
+{
+  "original_uri": "https://www.cnn.com/2020/10/06/politics/plexiglass-vp-debate/index.html%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.cnn.com/2020/10/06/politics/plexiglass-vp-debate/index.html%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T00:15:51Z",
+        "uri": "https://web.archive.org/web/20201007001551/https://www.cnn.com/2020/10/06/politics/plexiglass-vp-debate/index.html"
+      },
+      {
+        "datetime": "2020-10-07T01:46:18Z",
+        "uri": "https://web.archive.org/web/20201007014618/https://www.cnn.com/2020/10/06/politics/plexiglass-vp-debate/index.html"
+      },
+      {
+        "datetime": "2020-10-07T06:13:03Z",
+        "uri": "https://web.archive.org/web/20201007061303/https://www.cnn.com/2020/10/06/politics/plexiglass-vp-debate/index.html"
+      },
+      {
+        "datetime": "2020-10-07T06:56:25Z",
+        "uri": "https://web.archive.org/web/20201007065625/https://www.cnn.com/2020/10/06/politics/plexiglass-vp-debate/index.html"
+      },
+      {
+        "datetime": "2020-10-07T09:33:30Z",
+        "uri": "https://web.archive.org/web/20201007093330/https://www.cnn.com/2020/10/06/politics/plexiglass-vp-debate/index.html"
+      },
+      {
+        "datetime": "2020-10-07T23:03:25Z",
+        "uri": "https://web.archive.org/web/20201007230325/https://www.cnn.com/2020/10/06/politics/plexiglass-vp-debate/index.html"
+      },
+      {
+        "datetime": "2020-10-08T03:49:30Z",
+        "uri": "https://web.archive.org/web/20201008034930/https://www.cnn.com/2020/10/06/politics/plexiglass-vp-debate/index.html"
+      },
+      {
+        "datetime": "2020-10-08T07:12:09Z",
+        "uri": "https://web.archive.org/web/20201008071209/https://www.cnn.com/2020/10/06/politics/plexiglass-vp-debate/index.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T00:15:51Z",
+      "uri": "https://web.archive.org/web/20201007001551/https://www.cnn.com/2020/10/06/politics/plexiglass-vp-debate/index.html"
+    },
+    "last": {
+      "datetime": "2020-10-08T07:12:09Z",
+      "uri": "https://web.archive.org/web/20201008071209/https://www.cnn.com/2020/10/06/politics/plexiglass-vp-debate/index.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.cnn.com/2020/10/06/politics/plexiglass-vp-debate/index.html%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.cnn.com/2020/10/06/politics/plexiglass-vp-debate/index.html%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.cnn.com/2020/10/06/politics/plexiglass-vp-debate/index.html%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.cnn.com/2020/10/06/politics/plexiglass-vp-debate/index.html%0A"
+}

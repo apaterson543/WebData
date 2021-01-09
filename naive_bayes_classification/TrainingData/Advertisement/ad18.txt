@@ -1,0 +1,54 @@
+ AWS M&G
+
+
+Three key actions to improving your operations
+
+
+Organizations today often deal with making a choice between business agility or governance control. Why choose? AWS Management and Governance services offer you and your team the tools to start innovating today.
+
+Get both agility and control with these 3 key AWS features:
+
+    Enablement: AWS provides a suite of services that gives you a foundation of built-in governance best practices, so you can properly manage the resources you already have.
+
+    Provisioning: AWS services will help automate your setup so you can give your team pre-packaged products they can deploy on their own—easily and instantly.
+    Operating your environment: AWS has a modern, integrated approach that’s built for the cloud. That means you can stay on top of your environment, lower costs, and diagnose problems fast.
+
+
+
+Enable. Provision. Operate. Do it all with AWS »
+
+
+
+
+You have options: AWS Third-Party Partner Software
+
+Extend the management and governance of your AWS environment with third-party software from these partners.
+
+
+Cloud Conformity
+
+Enable with Cloud Conformity »
+
+Servicenow
+
+Provision with servicenow »
+
+Cloudability
+
+Cost Control with Cloudability »
+
+Splunk
+
+Continuous Monitoring with Splunk »
+
+AWS on Twitter | AWS on Facebook | AWS on Twitch | AWS Blog | AWS Podcast
+My Account | Getting Started | Products | Solutions | Pricing | Partners | Documentation | Training | Events & Webinars | AWS Activate | Marketplace | What's New | Blog | Analyst Reports
+
+View Online
+
+
+We hope you enjoyed this email. If you'd rather not receive future emails from Amazon Web Services, unsubscribe here.
+Amazon Web Services, Inc. is a subsidiary of Amazon.com, Inc. Amazon.com is a registered trademark of Amazon.com.
+This message was produced and distributed by Amazon Web Services, Inc. and its affiliates, 410 Terry Ave. North, Seattle, WA 98109.
+© 2020, Amazon Web Services, Inc. or its affiliates. All rights reserved. Read our Privacy Policy.
+

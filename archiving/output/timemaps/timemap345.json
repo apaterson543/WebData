@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://newyork.cbslocal.com/2020/10/06/nyc-schools-closed-in-covid-19-clusters/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://newyork.cbslocal.com/2020/10/06/nyc-schools-closed-in-covid-19-clusters/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-06T16:58:31Z",
+        "uri": "https://web.archive.org/web/20201006165831/https://newyork.cbslocal.com/2020/10/06/nyc-schools-closed-in-covid-19-clusters/"
+      },
+      {
+        "datetime": "2020-10-07T05:16:39Z",
+        "uri": "https://web.archive.org/web/20201007051639/https://newyork.cbslocal.com/2020/10/06/nyc-schools-closed-in-covid-19-clusters/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-06T16:58:31Z",
+      "uri": "https://web.archive.org/web/20201006165831/https://newyork.cbslocal.com/2020/10/06/nyc-schools-closed-in-covid-19-clusters/"
+    },
+    "last": {
+      "datetime": "2020-10-07T05:16:39Z",
+      "uri": "https://web.archive.org/web/20201007051639/https://newyork.cbslocal.com/2020/10/06/nyc-schools-closed-in-covid-19-clusters/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://newyork.cbslocal.com/2020/10/06/nyc-schools-closed-in-covid-19-clusters/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://newyork.cbslocal.com/2020/10/06/nyc-schools-closed-in-covid-19-clusters/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://newyork.cbslocal.com/2020/10/06/nyc-schools-closed-in-covid-19-clusters/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://newyork.cbslocal.com/2020/10/06/nyc-schools-closed-in-covid-19-clusters/"
+}

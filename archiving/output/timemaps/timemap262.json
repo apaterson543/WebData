@@ -1,0 +1,54 @@
+{
+  "original_uri": "https://www.itsakruelworld.com/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.itsakruelworld.com/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-02-03T09:52:51Z",
+        "uri": "https://web.archive.org/web/20180203095251/http://itsakruelworld.com/"
+      },
+      {
+        "datetime": "2018-02-03T16:39:04Z",
+        "uri": "https://web.archive.org/web/20180203163904/http://www.itsakruelworld.com/"
+      },
+      {
+        "datetime": "2018-02-04T15:53:17Z",
+        "uri": "https://web.archive.org/web/20180204155317/https://www.itsakruelworld.com/"
+      },
+      {
+        "datetime": "2018-08-07T03:49:24Z",
+        "uri": "https://web.archive.org/web/20180807034924/http://itsakruelworld.com/"
+      },
+      {
+        "datetime": "2018-08-27T14:35:47Z",
+        "uri": "https://web.archive.org/web/20180827143547/https://www.itsakruelworld.com/"
+      },
+      {
+        "datetime": "2019-07-20T06:04:56Z",
+        "uri": "https://web.archive.org/web/20190720060456/http://itsakruelworld.com/"
+      },
+      {
+        "datetime": "2020-01-09T19:57:56Z",
+        "uri": "https://web.archive.org/web/20200109195756/http://www.itsakruelworld.com/"
+      },
+      {
+        "datetime": "2020-01-09T19:57:58Z",
+        "uri": "https://web.archive.org/web/20200109195758/https://www.itsakruelworld.com/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-02-03T09:52:51Z",
+      "uri": "https://web.archive.org/web/20180203095251/http://itsakruelworld.com/"
+    },
+    "last": {
+      "datetime": "2020-01-09T19:57:58Z",
+      "uri": "https://web.archive.org/web/20200109195758/https://www.itsakruelworld.com/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.itsakruelworld.com/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.itsakruelworld.com/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.itsakruelworld.com/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.itsakruelworld.com/%0A"
+}

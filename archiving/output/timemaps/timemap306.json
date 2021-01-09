@@ -1,0 +1,54 @@
+{
+  "original_uri": "https://www.youtube.com/sportsmedicine%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.youtube.com/sportsmedicine%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2011-11-25T20:59:20Z",
+        "uri": "https://web.archive.org/web/20111125205920/http://www.youtube.com/sportsmedicine"
+      },
+      {
+        "datetime": "2013-10-07T08:00:31Z",
+        "uri": "https://web.archive.org/web/20131007080031/http://www.youtube.com/sportsmedicine"
+      },
+      {
+        "datetime": "2014-03-24T02:32:25Z",
+        "uri": "https://web.archive.org/web/20140324023225/http://www.youtube.com/sportsmedicine"
+      },
+      {
+        "datetime": "2014-12-20T16:34:16Z",
+        "uri": "https://web.archive.org/web/20141220163416/http://www.youtube.com/sportsmedicine"
+      },
+      {
+        "datetime": "2015-01-24T02:13:49Z",
+        "uri": "https://web.archive.org/web/20150124021349/https://www.youtube.com/sportsmedicine"
+      },
+      {
+        "datetime": "2015-08-16T01:08:58Z",
+        "uri": "https://web.archive.org/web/20150816010858/http://www.youtube.com/sportsmedicine"
+      },
+      {
+        "datetime": "2016-01-25T10:13:06Z",
+        "uri": "https://web.archive.org/web/20160125101306/http://www.youtube.com/sportsmedicine"
+      },
+      {
+        "datetime": "2018-08-07T00:24:27Z",
+        "uri": "https://web.archive.org/web/20180807002427/http://www.youtube.com:80/sportsmedicine"
+      }
+    ],
+    "first": {
+      "datetime": "2011-11-25T20:59:20Z",
+      "uri": "https://web.archive.org/web/20111125205920/http://www.youtube.com/sportsmedicine"
+    },
+    "last": {
+      "datetime": "2018-08-07T00:24:27Z",
+      "uri": "https://web.archive.org/web/20180807002427/http://www.youtube.com:80/sportsmedicine"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.youtube.com/sportsmedicine%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.youtube.com/sportsmedicine%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.youtube.com/sportsmedicine%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.youtube.com/sportsmedicine%0A"
+}

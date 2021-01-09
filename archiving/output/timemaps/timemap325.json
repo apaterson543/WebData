@@ -1,0 +1,42 @@
+{
+  "original_uri": "https://www.theglobeandmail.com/opinion/article-with-winter-coming-and-the-virus-spreading-a-feeling-of-dread-is/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.theglobeandmail.com/opinion/article-with-winter-coming-and-the-virus-spreading-a-feeling-of-dread-is/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-05T22:27:03Z",
+        "uri": "https://web.archive.org/web/20201005222703/https://www.theglobeandmail.com/opinion/article-with-winter-coming-and-the-virus-spreading-a-feeling-of-dread-is/"
+      },
+      {
+        "datetime": "2020-10-06T01:00:43Z",
+        "uri": "https://web.archive.org/web/20201006010043/https://www.theglobeandmail.com/opinion/article-with-winter-coming-and-the-virus-spreading-a-feeling-of-dread-is/"
+      },
+      {
+        "datetime": "2020-10-06T07:59:39Z",
+        "uri": "https://web.archive.org/web/20201006075939/https://www.theglobeandmail.com/opinion/article-with-winter-coming-and-the-virus-spreading-a-feeling-of-dread-is/"
+      },
+      {
+        "datetime": "2020-10-06T12:54:26Z",
+        "uri": "https://web.archive.org/web/20201006125426/https://www.theglobeandmail.com/opinion/article-with-winter-coming-and-the-virus-spreading-a-feeling-of-dread-is/"
+      },
+      {
+        "datetime": "2020-10-07T10:16:23Z",
+        "uri": "https://web.archive.org/web/20201007101623/https://www.theglobeandmail.com/opinion/article-with-winter-coming-and-the-virus-spreading-a-feeling-of-dread-is/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-05T22:27:03Z",
+      "uri": "https://web.archive.org/web/20201005222703/https://www.theglobeandmail.com/opinion/article-with-winter-coming-and-the-virus-spreading-a-feeling-of-dread-is/"
+    },
+    "last": {
+      "datetime": "2020-10-07T10:16:23Z",
+      "uri": "https://web.archive.org/web/20201007101623/https://www.theglobeandmail.com/opinion/article-with-winter-coming-and-the-virus-spreading-a-feeling-of-dread-is/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.theglobeandmail.com/opinion/article-with-winter-coming-and-the-virus-spreading-a-feeling-of-dread-is/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.theglobeandmail.com/opinion/article-with-winter-coming-and-the-virus-spreading-a-feeling-of-dread-is/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.theglobeandmail.com/opinion/article-with-winter-coming-and-the-virus-spreading-a-feeling-of-dread-is/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.theglobeandmail.com/opinion/article-with-winter-coming-and-the-virus-spreading-a-feeling-of-dread-is/%0A"
+}

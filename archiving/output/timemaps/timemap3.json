@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.dailymail.co.uk/news/article-8817383/Head-White-House-security-office-gravely-ill-coronavirus-hospitalized-Sept.html%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.dailymail.co.uk/news/article-8817383/Head-White-House-security-office-gravely-ill-coronavirus-hospitalized-Sept.html%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-08T08:42:08Z",
+        "uri": "https://web.archive.org/web/20201008084208/https://www.dailymail.co.uk/news/article-8817383/Head-White-House-security-office-gravely-ill-coronavirus-hospitalized-Sept.html"
+      },
+      {
+        "datetime": "2020-10-08T20:46:36Z",
+        "uri": "https://web.archive.org/web/20201008204636/https://www.dailymail.co.uk/news/article-8817383/Head-White-House-security-office-gravely-ill-coronavirus-hospitalized-Sept.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-08T08:42:08Z",
+      "uri": "https://web.archive.org/web/20201008084208/https://www.dailymail.co.uk/news/article-8817383/Head-White-House-security-office-gravely-ill-coronavirus-hospitalized-Sept.html"
+    },
+    "last": {
+      "datetime": "2020-10-08T20:46:36Z",
+      "uri": "https://web.archive.org/web/20201008204636/https://www.dailymail.co.uk/news/article-8817383/Head-White-House-security-office-gravely-ill-coronavirus-hospitalized-Sept.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.dailymail.co.uk/news/article-8817383/Head-White-House-security-office-gravely-ill-coronavirus-hospitalized-Sept.html%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.dailymail.co.uk/news/article-8817383/Head-White-House-security-office-gravely-ill-coronavirus-hospitalized-Sept.html%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.dailymail.co.uk/news/article-8817383/Head-White-House-security-office-gravely-ill-coronavirus-hospitalized-Sept.html%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.dailymail.co.uk/news/article-8817383/Head-White-House-security-office-gravely-ill-coronavirus-hospitalized-Sept.html%0A"
+}

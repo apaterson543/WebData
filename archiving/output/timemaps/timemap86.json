@@ -1,0 +1,70 @@
+{
+  "original_uri": "https://onenote.auscomp.com/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://onenote.auscomp.com/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-03-30T07:13:37Z",
+        "uri": "https://web.archive.org/web/20190330071337/https://onenote.auscomp.com/"
+      },
+      {
+        "datetime": "2019-04-01T00:08:27Z",
+        "uri": "https://web.archive.org/web/20190401000827/https://onenote.auscomp.com/"
+      },
+      {
+        "datetime": "2019-07-24T17:57:02Z",
+        "uri": "https://web.archive.org/web/20190724175702/https://onenote.auscomp.com/"
+      },
+      {
+        "datetime": "2019-08-09T14:58:26Z",
+        "uri": "https://web.archive.org/web/20190809145826/https://onenote.auscomp.com/"
+      },
+      {
+        "datetime": "2020-06-01T07:36:32Z",
+        "uri": "https://web.archive.org/web/20200601073632/https://onenote.auscomp.com/"
+      },
+      {
+        "datetime": "2020-06-17T12:14:45Z",
+        "uri": "https://web.archive.org/web/20200617121445/https://onenote.auscomp.com/"
+      },
+      {
+        "datetime": "2020-08-14T03:22:32Z",
+        "uri": "https://web.archive.org/web/20200814032232/https://onenote.auscomp.com/"
+      },
+      {
+        "datetime": "2020-08-18T20:58:54Z",
+        "uri": "https://web.archive.org/web/20200818205854/https://onenote.auscomp.com/"
+      },
+      {
+        "datetime": "2020-08-30T01:30:15Z",
+        "uri": "https://web.archive.org/web/20200830013015/https://onenote.auscomp.com/"
+      },
+      {
+        "datetime": "2020-09-06T13:05:58Z",
+        "uri": "https://web.archive.org/web/20200906130558/https://onenote.auscomp.com/"
+      },
+      {
+        "datetime": "2020-09-27T00:20:18Z",
+        "uri": "https://web.archive.org/web/20200927002018/https://onenote.auscomp.com/"
+      },
+      {
+        "datetime": "2020-10-03T05:02:50Z",
+        "uri": "https://web.archive.org/web/20201003050250/https://onenote.auscomp.com/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-03-30T07:13:37Z",
+      "uri": "https://web.archive.org/web/20190330071337/https://onenote.auscomp.com/"
+    },
+    "last": {
+      "datetime": "2020-10-03T05:02:50Z",
+      "uri": "https://web.archive.org/web/20201003050250/https://onenote.auscomp.com/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://onenote.auscomp.com/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://onenote.auscomp.com/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://onenote.auscomp.com/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://onenote.auscomp.com/%0A"
+}

@@ -1,0 +1,58 @@
+{
+  "original_uri": "https://www.theguardian.com/us-news/2020/oct/06/us-military-chiefs-coronavirus-quarantine-mark-milley-trump%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.theguardian.com/us-news/2020/oct/06/us-military-chiefs-coronavirus-quarantine-mark-milley-trump%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-06T19:06:02Z",
+        "uri": "https://web.archive.org/web/20201006190602/https://www.theguardian.com/us-news/2020/oct/06/us-military-chiefs-coronavirus-quarantine-mark-milley-trump"
+      },
+      {
+        "datetime": "2020-10-06T19:06:02Z",
+        "uri": "https://web.archive.org/web/20201006190602/https://www.theguardian.com/us-news/2020/oct/06/us-military-chiefs-coronavirus-quarantine-mark-milley-trump"
+      },
+      {
+        "datetime": "2020-10-06T19:08:02Z",
+        "uri": "https://web.archive.org/web/20201006190802/https://www.theguardian.com/us-news/2020/oct/06/us-military-chiefs-coronavirus-quarantine-mark-milley-trump"
+      },
+      {
+        "datetime": "2020-10-06T20:51:04Z",
+        "uri": "https://web.archive.org/web/20201006205104/https://www.theguardian.com/us-news/2020/oct/06/us-military-chiefs-coronavirus-quarantine-mark-milley-trump"
+      },
+      {
+        "datetime": "2020-10-06T21:36:37Z",
+        "uri": "https://web.archive.org/web/20201006213637/https://www.theguardian.com/us-news/2020/oct/06/us-military-chiefs-coronavirus-quarantine-mark-milley-trump"
+      },
+      {
+        "datetime": "2020-10-06T21:48:18Z",
+        "uri": "https://web.archive.org/web/20201006214818/https://www.theguardian.com/us-news/2020/oct/06/us-military-chiefs-coronavirus-quarantine-mark-milley-trump"
+      },
+      {
+        "datetime": "2020-10-07T03:14:13Z",
+        "uri": "https://web.archive.org/web/20201007031413/https://www.theguardian.com/us-news/2020/oct/06/us-military-chiefs-coronavirus-quarantine-mark-milley-trump"
+      },
+      {
+        "datetime": "2020-10-07T11:05:16Z",
+        "uri": "https://web.archive.org/web/20201007110516/https://www.theguardian.com/us-news/2020/oct/06/us-military-chiefs-coronavirus-quarantine-mark-milley-trump"
+      },
+      {
+        "datetime": "2020-10-08T20:04:12Z",
+        "uri": "https://web.archive.org/web/20201008200412/https://www.theguardian.com/us-news/2020/oct/06/us-military-chiefs-coronavirus-quarantine-mark-milley-trump"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-06T19:06:02Z",
+      "uri": "https://web.archive.org/web/20201006190602/https://www.theguardian.com/us-news/2020/oct/06/us-military-chiefs-coronavirus-quarantine-mark-milley-trump"
+    },
+    "last": {
+      "datetime": "2020-10-08T20:04:12Z",
+      "uri": "https://web.archive.org/web/20201008200412/https://www.theguardian.com/us-news/2020/oct/06/us-military-chiefs-coronavirus-quarantine-mark-milley-trump"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.theguardian.com/us-news/2020/oct/06/us-military-chiefs-coronavirus-quarantine-mark-milley-trump%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.theguardian.com/us-news/2020/oct/06/us-military-chiefs-coronavirus-quarantine-mark-milley-trump%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.theguardian.com/us-news/2020/oct/06/us-military-chiefs-coronavirus-quarantine-mark-milley-trump%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.theguardian.com/us-news/2020/oct/06/us-military-chiefs-coronavirus-quarantine-mark-milley-trump%0A"
+}

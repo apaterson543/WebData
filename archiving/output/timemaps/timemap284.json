@@ -1,0 +1,50 @@
+{
+  "original_uri": "https://www.fool.com/amp/investing/2020/10/05/report-moderna-and-pfizer-vaccine-trial-participan/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.fool.com/amp/investing/2020/10/05/report-moderna-and-pfizer-vaccine-trial-participan/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-05T16:27:47Z",
+        "uri": "https://web.archive.org/web/20201005162747/https://www.fool.com/amp/investing/2020/10/05/report-moderna-and-pfizer-vaccine-trial-participan/"
+      },
+      {
+        "datetime": "2020-10-05T17:08:36Z",
+        "uri": "https://web.archive.org/web/20201005170836/https://www.fool.com/amp/investing/2020/10/05/report-moderna-and-pfizer-vaccine-trial-participan/"
+      },
+      {
+        "datetime": "2020-10-05T21:49:47Z",
+        "uri": "https://web.archive.org/web/20201005214947/https://www.fool.com/amp/investing/2020/10/05/report-moderna-and-pfizer-vaccine-trial-participan/"
+      },
+      {
+        "datetime": "2020-10-06T01:37:44Z",
+        "uri": "https://web.archive.org/web/20201006013744/https://www.fool.com/amp/investing/2020/10/05/report-moderna-and-pfizer-vaccine-trial-participan/"
+      },
+      {
+        "datetime": "2020-10-06T07:28:02Z",
+        "uri": "https://web.archive.org/web/20201006072802/https://www.fool.com/amp/investing/2020/10/05/report-moderna-and-pfizer-vaccine-trial-participan/"
+      },
+      {
+        "datetime": "2020-10-06T08:03:03Z",
+        "uri": "https://web.archive.org/web/20201006080303/https://www.fool.com/amp/investing/2020/10/05/report-moderna-and-pfizer-vaccine-trial-participan/"
+      },
+      {
+        "datetime": "2020-10-08T05:44:57Z",
+        "uri": "https://web.archive.org/web/20201008054457/https://www.fool.com/amp/investing/2020/10/05/report-moderna-and-pfizer-vaccine-trial-participan/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-05T16:27:47Z",
+      "uri": "https://web.archive.org/web/20201005162747/https://www.fool.com/amp/investing/2020/10/05/report-moderna-and-pfizer-vaccine-trial-participan/"
+    },
+    "last": {
+      "datetime": "2020-10-08T05:44:57Z",
+      "uri": "https://web.archive.org/web/20201008054457/https://www.fool.com/amp/investing/2020/10/05/report-moderna-and-pfizer-vaccine-trial-participan/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.fool.com/amp/investing/2020/10/05/report-moderna-and-pfizer-vaccine-trial-participan/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.fool.com/amp/investing/2020/10/05/report-moderna-and-pfizer-vaccine-trial-participan/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.fool.com/amp/investing/2020/10/05/report-moderna-and-pfizer-vaccine-trial-participan/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.fool.com/amp/investing/2020/10/05/report-moderna-and-pfizer-vaccine-trial-participan/%0A"
+}

@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://thehill.com/opinion/finance/516659-theres-an-easier-way-to-get-another-round-of-ppp-accomplished%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://thehill.com/opinion/finance/516659-theres-an-easier-way-to-get-another-round-of-ppp-accomplished%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-09-18T19:11:48Z",
+        "uri": "https://web.archive.org/web/20200918191148/https://thehill.com/opinion/finance/516659-theres-an-easier-way-to-get-another-round-of-ppp-accomplished"
+      }
+    ],
+    "first": {
+      "datetime": "2020-09-18T19:11:48Z",
+      "uri": "https://web.archive.org/web/20200918191148/https://thehill.com/opinion/finance/516659-theres-an-easier-way-to-get-another-round-of-ppp-accomplished"
+    },
+    "last": {
+      "datetime": "2020-09-18T19:11:48Z",
+      "uri": "https://web.archive.org/web/20200918191148/https://thehill.com/opinion/finance/516659-theres-an-easier-way-to-get-another-round-of-ppp-accomplished"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://thehill.com/opinion/finance/516659-theres-an-easier-way-to-get-another-round-of-ppp-accomplished%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://thehill.com/opinion/finance/516659-theres-an-easier-way-to-get-another-round-of-ppp-accomplished%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://thehill.com/opinion/finance/516659-theres-an-easier-way-to-get-another-round-of-ppp-accomplished%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://thehill.com/opinion/finance/516659-theres-an-easier-way-to-get-another-round-of-ppp-accomplished%0A"
+}

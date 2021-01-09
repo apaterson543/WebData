@@ -1,0 +1,74 @@
+{
+  "original_uri": "https://www.worldbreadawardsusa.com/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.worldbreadawardsusa.com/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-08-08T11:51:25Z",
+        "uri": "https://web.archive.org/web/20180808115125/http://worldbreadawardsusa.com/"
+      },
+      {
+        "datetime": "2018-08-27T01:52:35Z",
+        "uri": "https://web.archive.org/web/20180827015235/https://www.worldbreadawardsusa.com/"
+      },
+      {
+        "datetime": "2019-07-02T02:56:09Z",
+        "uri": "https://web.archive.org/web/20190702025609/http://www.worldbreadawardsusa.com/"
+      },
+      {
+        "datetime": "2019-08-16T10:15:05Z",
+        "uri": "https://web.archive.org/web/20190816101505/http://worldbreadawardsusa.com/"
+      },
+      {
+        "datetime": "2019-09-24T08:43:31Z",
+        "uri": "https://web.archive.org/web/20190924084331/http://www.worldbreadawardsusa.com/"
+      },
+      {
+        "datetime": "2019-09-25T13:09:46Z",
+        "uri": "https://web.archive.org/web/20190925130946/https://www.worldbreadawardsusa.com/"
+      },
+      {
+        "datetime": "2020-04-05T09:19:45Z",
+        "uri": "https://web.archive.org/web/20200405091945/https://www.worldbreadawardsusa.com/"
+      },
+      {
+        "datetime": "2020-05-14T09:16:21Z",
+        "uri": "https://web.archive.org/web/20200514091621/https://www.worldbreadawardsusa.com/"
+      },
+      {
+        "datetime": "2020-08-03T12:03:05Z",
+        "uri": "https://web.archive.org/web/20200803120305/https://www.worldbreadawardsusa.com/"
+      },
+      {
+        "datetime": "2020-08-10T14:25:48Z",
+        "uri": "https://web.archive.org/web/20200810142548/https://worldbreadawardsusa.com/"
+      },
+      {
+        "datetime": "2020-08-14T06:09:36Z",
+        "uri": "https://web.archive.org/web/20200814060936/https://worldbreadawardsusa.com/"
+      },
+      {
+        "datetime": "2020-08-14T09:33:20Z",
+        "uri": "https://web.archive.org/web/20200814093320/https://www.worldbreadawardsusa.com/"
+      },
+      {
+        "datetime": "2020-10-03T07:14:37Z",
+        "uri": "https://web.archive.org/web/20201003071437/http://worldbreadawardsusa.com/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-08-08T11:51:25Z",
+      "uri": "https://web.archive.org/web/20180808115125/http://worldbreadawardsusa.com/"
+    },
+    "last": {
+      "datetime": "2020-10-03T07:14:37Z",
+      "uri": "https://web.archive.org/web/20201003071437/http://worldbreadawardsusa.com/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.worldbreadawardsusa.com/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.worldbreadawardsusa.com/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.worldbreadawardsusa.com/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.worldbreadawardsusa.com/%0A"
+}

@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.theguardian.com/business/2020/oct/07/greene-king-to-cut-up-to-800-jobs-and-shut-79-pubs-and-restaurants-covid%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.theguardian.com/business/2020/oct/07/greene-king-to-cut-up-to-800-jobs-and-shut-79-pubs-and-restaurants-covid%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-08T04:38:27Z",
+        "uri": "https://web.archive.org/web/20201008043827/https://www.theguardian.com/business/2020/oct/07/greene-king-to-cut-up-to-800-jobs-and-shut-79-pubs-and-restaurants-covid"
+      },
+      {
+        "datetime": "2020-10-08T06:09:08Z",
+        "uri": "https://web.archive.org/web/20201008060908/https://www.theguardian.com/business/2020/oct/07/greene-king-to-cut-up-to-800-jobs-and-shut-79-pubs-and-restaurants-covid"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-08T04:38:27Z",
+      "uri": "https://web.archive.org/web/20201008043827/https://www.theguardian.com/business/2020/oct/07/greene-king-to-cut-up-to-800-jobs-and-shut-79-pubs-and-restaurants-covid"
+    },
+    "last": {
+      "datetime": "2020-10-08T06:09:08Z",
+      "uri": "https://web.archive.org/web/20201008060908/https://www.theguardian.com/business/2020/oct/07/greene-king-to-cut-up-to-800-jobs-and-shut-79-pubs-and-restaurants-covid"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.theguardian.com/business/2020/oct/07/greene-king-to-cut-up-to-800-jobs-and-shut-79-pubs-and-restaurants-covid%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.theguardian.com/business/2020/oct/07/greene-king-to-cut-up-to-800-jobs-and-shut-79-pubs-and-restaurants-covid%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.theguardian.com/business/2020/oct/07/greene-king-to-cut-up-to-800-jobs-and-shut-79-pubs-and-restaurants-covid%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.theguardian.com/business/2020/oct/07/greene-king-to-cut-up-to-800-jobs-and-shut-79-pubs-and-restaurants-covid%0A"
+}

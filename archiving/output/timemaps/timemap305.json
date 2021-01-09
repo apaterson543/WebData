@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://sports.yahoo.com/cdc-celebrate-thanksgiving-safely-144100093.html%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://sports.yahoo.com/cdc-celebrate-thanksgiving-safely-144100093.html%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-01T23:24:43Z",
+        "uri": "https://web.archive.org/web/20201001232443/https://sports.yahoo.com/cdc-celebrate-thanksgiving-safely-144100093.html"
+      },
+      {
+        "datetime": "2020-10-03T00:03:24Z",
+        "uri": "https://web.archive.org/web/20201003000324/https://sports.yahoo.com/cdc-celebrate-thanksgiving-safely-144100093.html"
+      },
+      {
+        "datetime": "2020-10-04T00:33:22Z",
+        "uri": "https://web.archive.org/web/20201004003322/https://sports.yahoo.com/cdc-celebrate-thanksgiving-safely-144100093.html"
+      },
+      {
+        "datetime": "2020-10-05T00:38:33Z",
+        "uri": "https://web.archive.org/web/20201005003833/https://sports.yahoo.com/cdc-celebrate-thanksgiving-safely-144100093.html"
+      },
+      {
+        "datetime": "2020-10-06T06:12:45Z",
+        "uri": "https://web.archive.org/web/20201006061245/https://sports.yahoo.com/cdc-celebrate-thanksgiving-safely-144100093.html"
+      },
+      {
+        "datetime": "2020-10-08T05:25:22Z",
+        "uri": "https://web.archive.org/web/20201008052522/https://sports.yahoo.com/cdc-celebrate-thanksgiving-safely-144100093.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-01T23:24:43Z",
+      "uri": "https://web.archive.org/web/20201001232443/https://sports.yahoo.com/cdc-celebrate-thanksgiving-safely-144100093.html"
+    },
+    "last": {
+      "datetime": "2020-10-08T05:25:22Z",
+      "uri": "https://web.archive.org/web/20201008052522/https://sports.yahoo.com/cdc-celebrate-thanksgiving-safely-144100093.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://sports.yahoo.com/cdc-celebrate-thanksgiving-safely-144100093.html%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://sports.yahoo.com/cdc-celebrate-thanksgiving-safely-144100093.html%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://sports.yahoo.com/cdc-celebrate-thanksgiving-safely-144100093.html%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://sports.yahoo.com/cdc-celebrate-thanksgiving-safely-144100093.html%0A"
+}

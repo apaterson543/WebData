@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.dw.com/en/coronavirus-berlin-imposes-strict-night-time-restrictions-amid-case-spike/a-55176782%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.dw.com/en/coronavirus-berlin-imposes-strict-night-time-restrictions-amid-case-spike/a-55176782%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T19:54:26Z",
+        "uri": "https://web.archive.org/web/20201007195426/https://www.dw.com/en/coronavirus-berlin-imposes-strict-night-time-restrictions-amid-case-spike/a-55176782"
+      },
+      {
+        "datetime": "2020-10-07T19:54:38Z",
+        "uri": "https://web.archive.org/web/20201007195438/http://www.dw.com/en/coronavirus-berlin-imposes-strict-night-time-restrictions-amid-case-spike/a-55176782"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T19:54:26Z",
+      "uri": "https://web.archive.org/web/20201007195426/https://www.dw.com/en/coronavirus-berlin-imposes-strict-night-time-restrictions-amid-case-spike/a-55176782"
+    },
+    "last": {
+      "datetime": "2020-10-07T19:54:38Z",
+      "uri": "https://web.archive.org/web/20201007195438/http://www.dw.com/en/coronavirus-berlin-imposes-strict-night-time-restrictions-amid-case-spike/a-55176782"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.dw.com/en/coronavirus-berlin-imposes-strict-night-time-restrictions-amid-case-spike/a-55176782%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.dw.com/en/coronavirus-berlin-imposes-strict-night-time-restrictions-amid-case-spike/a-55176782%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.dw.com/en/coronavirus-berlin-imposes-strict-night-time-restrictions-amid-case-spike/a-55176782%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.dw.com/en/coronavirus-berlin-imposes-strict-night-time-restrictions-amid-case-spike/a-55176782%0A"
+}

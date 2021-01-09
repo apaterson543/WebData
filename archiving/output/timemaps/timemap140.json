@@ -1,0 +1,106 @@
+{
+  "original_uri": "https://ianrmackintosh-blogsite.com/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://ianrmackintosh-blogsite.com/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2015-04-10T04:50:22Z",
+        "uri": "https://web.archive.org/web/20150410045022/http://ianrmackintosh-blogsite.com:80/"
+      },
+      {
+        "datetime": "2015-09-30T13:02:41Z",
+        "uri": "https://web.archive.org/web/20150930130241/http://ianrmackintosh-blogsite.com:80/"
+      },
+      {
+        "datetime": "2016-01-10T10:44:48Z",
+        "uri": "https://web.archive.org/web/20160110104448/http://ianrmackintosh-blogsite.com/"
+      },
+      {
+        "datetime": "2016-03-12T03:58:59Z",
+        "uri": "https://web.archive.org/web/20160312035859/http://ianrmackintosh-blogsite.com/"
+      },
+      {
+        "datetime": "2016-10-08T01:30:45Z",
+        "uri": "https://web.archive.org/web/20161008013045/http://ianrmackintosh-blogsite.com/"
+      },
+      {
+        "datetime": "2017-11-16T03:03:58Z",
+        "uri": "https://web.archive.org/web/20171116030358/http://ianrmackintosh-blogsite.com/"
+      },
+      {
+        "datetime": "2017-12-19T23:52:20Z",
+        "uri": "https://web.archive.org/web/20171219235220/http://ianrmackintosh-blogsite.com:80/"
+      },
+      {
+        "datetime": "2018-01-03T19:13:57Z",
+        "uri": "https://web.archive.org/web/20180103191357/http://ianrmackintosh-blogsite.com/"
+      },
+      {
+        "datetime": "2018-03-07T15:34:12Z",
+        "uri": "https://web.archive.org/web/20180307153412/http://ianrmackintosh-blogsite.com/"
+      },
+      {
+        "datetime": "2018-08-08T18:43:20Z",
+        "uri": "https://web.archive.org/web/20180808184320/http://ianrmackintosh-blogsite.com/"
+      },
+      {
+        "datetime": "2018-12-30T06:15:58Z",
+        "uri": "https://web.archive.org/web/20181230061558/http://ianrmackintosh-blogsite.com/"
+      },
+      {
+        "datetime": "2019-07-10T06:11:41Z",
+        "uri": "https://web.archive.org/web/20190710061141/http://ianrmackintosh-blogsite.com/"
+      },
+      {
+        "datetime": "2019-08-26T05:12:05Z",
+        "uri": "https://web.archive.org/web/20190826051205/http://ianrmackintosh-blogsite.com/"
+      },
+      {
+        "datetime": "2019-11-21T18:21:35Z",
+        "uri": "https://web.archive.org/web/20191121182135/http://ianrmackintosh-blogsite.com/"
+      },
+      {
+        "datetime": "2019-12-02T06:50:38Z",
+        "uri": "https://web.archive.org/web/20191202065038/http://ianrmackintosh-blogsite.com/"
+      },
+      {
+        "datetime": "2020-05-20T13:37:30Z",
+        "uri": "https://web.archive.org/web/20200520133730/http://ianrmackintosh-blogsite.com/"
+      },
+      {
+        "datetime": "2020-05-28T05:58:53Z",
+        "uri": "https://web.archive.org/web/20200528055853/http://ianrmackintosh-blogsite.com/"
+      },
+      {
+        "datetime": "2020-08-08T02:16:45Z",
+        "uri": "https://web.archive.org/web/20200808021645/http://ianrmackintosh-blogsite.com/"
+      },
+      {
+        "datetime": "2020-08-16T22:56:08Z",
+        "uri": "https://web.archive.org/web/20200816225608/http://ianrmackintosh-blogsite.com/"
+      },
+      {
+        "datetime": "2020-08-21T17:00:49Z",
+        "uri": "https://web.archive.org/web/20200821170049/http://ianrmackintosh-blogsite.com/"
+      },
+      {
+        "datetime": "2020-10-05T00:15:55Z",
+        "uri": "https://web.archive.org/web/20201005001555/http://ianrmackintosh-blogsite.com/"
+      }
+    ],
+    "first": {
+      "datetime": "2015-04-10T04:50:22Z",
+      "uri": "https://web.archive.org/web/20150410045022/http://ianrmackintosh-blogsite.com:80/"
+    },
+    "last": {
+      "datetime": "2020-10-05T00:15:55Z",
+      "uri": "https://web.archive.org/web/20201005001555/http://ianrmackintosh-blogsite.com/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://ianrmackintosh-blogsite.com/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://ianrmackintosh-blogsite.com/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://ianrmackintosh-blogsite.com/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://ianrmackintosh-blogsite.com/%0A"
+}

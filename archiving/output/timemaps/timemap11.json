@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://thestormatimeofmercy.wordpress.com/2020/04/06/the-corona-virus-what-does-god-want-from-us/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://thestormatimeofmercy.wordpress.com/2020/04/06/the-corona-virus-what-does-god-want-from-us/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-04-17T02:15:02Z",
+        "uri": "https://web.archive.org/web/20200417021502/https://thestormatimeofmercy.wordpress.com/2020/04/06/the-corona-virus-what-does-god-want-from-us/"
+      },
+      {
+        "datetime": "2020-10-04T08:43:06Z",
+        "uri": "https://web.archive.org/web/20201004084306/https://thestormatimeofmercy.wordpress.com/2020/04/06/the-corona-virus-what-does-god-want-from-us/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-04-17T02:15:02Z",
+      "uri": "https://web.archive.org/web/20200417021502/https://thestormatimeofmercy.wordpress.com/2020/04/06/the-corona-virus-what-does-god-want-from-us/"
+    },
+    "last": {
+      "datetime": "2020-10-04T08:43:06Z",
+      "uri": "https://web.archive.org/web/20201004084306/https://thestormatimeofmercy.wordpress.com/2020/04/06/the-corona-virus-what-does-god-want-from-us/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://thestormatimeofmercy.wordpress.com/2020/04/06/the-corona-virus-what-does-god-want-from-us/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://thestormatimeofmercy.wordpress.com/2020/04/06/the-corona-virus-what-does-god-want-from-us/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://thestormatimeofmercy.wordpress.com/2020/04/06/the-corona-virus-what-does-god-want-from-us/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://thestormatimeofmercy.wordpress.com/2020/04/06/the-corona-virus-what-does-god-want-from-us/%0A"
+}

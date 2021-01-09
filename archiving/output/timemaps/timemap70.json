@@ -1,0 +1,2954 @@
+{
+  "original_uri": "https://www.alberta.ca/covid-19-alberta-data.aspx%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.alberta.ca/covid-19-alberta-data.aspx%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-03-20T00:33:46Z",
+        "uri": "https://web.archive.org/web/20200320003346/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-03-20T05:43:35Z",
+        "uri": "https://web.archive.org/web/20200320054335/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-03-21T00:54:54Z",
+        "uri": "https://web.archive.org/web/20200321005454/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-03-21T04:06:06Z",
+        "uri": "https://web.archive.org/web/20200321040606/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-03-21T08:56:06Z",
+        "uri": "https://web.archive.org/web/20200321085606/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-03-21T15:05:58Z",
+        "uri": "https://web.archive.org/web/20200321150558/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-03-21T22:06:53Z",
+        "uri": "https://web.archive.org/web/20200321220653/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-03-21T23:43:13Z",
+        "uri": "https://web.archive.org/web/20200321234313/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-03-21T23:52:39Z",
+        "uri": "https://web.archive.org/web/20200321235239/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-03-22T01:58:13Z",
+        "uri": "https://web.archive.org/web/20200322015813/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-03-22T13:52:16Z",
+        "uri": "https://web.archive.org/web/20200322135216/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-03-22T22:57:38Z",
+        "uri": "https://web.archive.org/web/20200322225738/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-03-22T23:51:14Z",
+        "uri": "https://web.archive.org/web/20200322235114/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-03-23T16:21:24Z",
+        "uri": "https://web.archive.org/web/20200323162124/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-03-23T22:50:14Z",
+        "uri": "https://web.archive.org/web/20200323225014/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-03-24T03:56:31Z",
+        "uri": "https://web.archive.org/web/20200324035631/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-03-24T17:25:44Z",
+        "uri": "https://web.archive.org/web/20200324172544/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-03-24T22:08:30Z",
+        "uri": "https://web.archive.org/web/20200324220830/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-03-25T16:08:22Z",
+        "uri": "https://web.archive.org/web/20200325160822/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-03-25T20:46:17Z",
+        "uri": "https://web.archive.org/web/20200325204617/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-03-25T23:47:05Z",
+        "uri": "https://web.archive.org/web/20200325234705/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-03-26T00:50:50Z",
+        "uri": "https://web.archive.org/web/20200326005050/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-03-27T02:33:09Z",
+        "uri": "https://web.archive.org/web/20200327023309/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-03-27T08:58:18Z",
+        "uri": "https://web.archive.org/web/20200327085818/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-03-27T23:59:30Z",
+        "uri": "https://web.archive.org/web/20200327235930/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-03-28T11:51:15Z",
+        "uri": "https://web.archive.org/web/20200328115115/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-03-28T23:04:43Z",
+        "uri": "https://web.archive.org/web/20200328230443/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-03-29T02:08:38Z",
+        "uri": "https://web.archive.org/web/20200329020838/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-03-29T07:42:33Z",
+        "uri": "https://web.archive.org/web/20200329074233/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-03-29T23:39:18Z",
+        "uri": "https://web.archive.org/web/20200329233918/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-03-30T02:22:35Z",
+        "uri": "https://web.archive.org/web/20200330022235/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-03-30T13:08:47Z",
+        "uri": "https://web.archive.org/web/20200330130847/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-03-30T23:05:41Z",
+        "uri": "https://web.archive.org/web/20200330230541/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-01T01:18:32Z",
+        "uri": "https://web.archive.org/web/20200401011832/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-01T20:07:00Z",
+        "uri": "https://web.archive.org/web/20200401200700/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-01T20:54:45Z",
+        "uri": "https://web.archive.org/web/20200401205445/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-01T22:19:04Z",
+        "uri": "https://web.archive.org/web/20200401221904/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-03T07:25:34Z",
+        "uri": "https://web.archive.org/web/20200403072534/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-07T04:34:56Z",
+        "uri": "https://web.archive.org/web/20200407043456/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-07T12:46:55Z",
+        "uri": "https://web.archive.org/web/20200407124655/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-08T01:17:25Z",
+        "uri": "https://web.archive.org/web/20200408011725/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-08T01:39:25Z",
+        "uri": "https://web.archive.org/web/20200408013925/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-08T08:47:22Z",
+        "uri": "https://web.archive.org/web/20200408084722/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-09T03:24:31Z",
+        "uri": "https://web.archive.org/web/20200409032431/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-09T10:55:45Z",
+        "uri": "https://web.archive.org/web/20200409105545/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-09T22:10:49Z",
+        "uri": "https://web.archive.org/web/20200409221049/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-09T22:10:52Z",
+        "uri": "https://web.archive.org/web/20200409221052/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-10T13:51:58Z",
+        "uri": "https://web.archive.org/web/20200410135158/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-10T13:52:17Z",
+        "uri": "https://web.archive.org/web/20200410135217/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-12T20:37:50Z",
+        "uri": "https://web.archive.org/web/20200412203750/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-13T10:00:18Z",
+        "uri": "https://web.archive.org/web/20200413100018/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-14T09:30:31Z",
+        "uri": "https://web.archive.org/web/20200414093031/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-14T11:31:48Z",
+        "uri": "https://web.archive.org/web/20200414113148/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-14T21:16:34Z",
+        "uri": "https://web.archive.org/web/20200414211634/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-15T03:32:45Z",
+        "uri": "https://web.archive.org/web/20200415033245/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-15T20:39:05Z",
+        "uri": "https://web.archive.org/web/20200415203905/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-15T20:39:26Z",
+        "uri": "https://web.archive.org/web/20200415203926/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-15T20:48:56Z",
+        "uri": "https://web.archive.org/web/20200415204856/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-15T20:49:15Z",
+        "uri": "https://web.archive.org/web/20200415204915/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-16T01:32:43Z",
+        "uri": "https://web.archive.org/web/20200416013243/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-16T08:00:26Z",
+        "uri": "https://web.archive.org/web/20200416080026/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-17T02:16:43Z",
+        "uri": "https://web.archive.org/web/20200417021643/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-17T07:04:47Z",
+        "uri": "https://web.archive.org/web/20200417070447/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-17T11:04:49Z",
+        "uri": "https://web.archive.org/web/20200417110449/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-18T13:10:43Z",
+        "uri": "https://web.archive.org/web/20200418131043/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-18T18:43:20Z",
+        "uri": "https://web.archive.org/web/20200418184320/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-18T22:48:17Z",
+        "uri": "https://web.archive.org/web/20200418224817/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-19T00:55:42Z",
+        "uri": "https://web.archive.org/web/20200419005542/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-19T01:54:26Z",
+        "uri": "https://web.archive.org/web/20200419015426/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-19T22:15:29Z",
+        "uri": "https://web.archive.org/web/20200419221529/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-20T01:29:55Z",
+        "uri": "https://web.archive.org/web/20200420012955/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-20T15:16:54Z",
+        "uri": "https://web.archive.org/web/20200420151654/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-21T01:27:49Z",
+        "uri": "https://web.archive.org/web/20200421012749/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-21T12:00:19Z",
+        "uri": "https://web.archive.org/web/20200421120019/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-21T22:27:41Z",
+        "uri": "https://web.archive.org/web/20200421222741/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-22T02:13:42Z",
+        "uri": "https://web.archive.org/web/20200422021342/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-22T08:29:08Z",
+        "uri": "https://web.archive.org/web/20200422082908/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-22T22:23:36Z",
+        "uri": "https://web.archive.org/web/20200422222336/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-22T23:05:45Z",
+        "uri": "https://web.archive.org/web/20200422230545/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-23T11:56:11Z",
+        "uri": "https://web.archive.org/web/20200423115611/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-24T03:26:17Z",
+        "uri": "https://web.archive.org/web/20200424032617/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-24T12:12:54Z",
+        "uri": "https://web.archive.org/web/20200424121254/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-24T12:14:50Z",
+        "uri": "https://web.archive.org/web/20200424121450/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-24T19:03:19Z",
+        "uri": "https://web.archive.org/web/20200424190319/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-25T01:00:34Z",
+        "uri": "https://web.archive.org/web/20200425010034/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-25T04:58:46Z",
+        "uri": "https://web.archive.org/web/20200425045846/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-25T06:02:09Z",
+        "uri": "https://web.archive.org/web/20200425060209/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-25T06:52:23Z",
+        "uri": "https://web.archive.org/web/20200425065223/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-25T07:55:27Z",
+        "uri": "https://web.archive.org/web/20200425075527/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-25T23:11:54Z",
+        "uri": "https://web.archive.org/web/20200425231154/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-26T01:42:47Z",
+        "uri": "https://web.archive.org/web/20200426014247/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-26T20:39:53Z",
+        "uri": "https://web.archive.org/web/20200426203953/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-27T01:42:29Z",
+        "uri": "https://web.archive.org/web/20200427014229/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-27T18:19:17Z",
+        "uri": "https://web.archive.org/web/20200427181917/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-27T22:39:06Z",
+        "uri": "https://web.archive.org/web/20200427223906/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-28T01:33:43Z",
+        "uri": "https://web.archive.org/web/20200428013343/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-28T07:57:41Z",
+        "uri": "https://web.archive.org/web/20200428075741/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-28T09:10:32Z",
+        "uri": "https://web.archive.org/web/20200428091032/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-28T13:35:55Z",
+        "uri": "https://web.archive.org/web/20200428133555/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-28T15:09:26Z",
+        "uri": "https://web.archive.org/web/20200428150926/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-28T21:38:08Z",
+        "uri": "https://web.archive.org/web/20200428213808/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-29T01:27:20Z",
+        "uri": "https://web.archive.org/web/20200429012720/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-29T03:47:14Z",
+        "uri": "https://web.archive.org/web/20200429034714/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-29T20:45:29Z",
+        "uri": "https://web.archive.org/web/20200429204529/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-29T22:13:35Z",
+        "uri": "https://web.archive.org/web/20200429221335/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-29T22:13:51Z",
+        "uri": "https://web.archive.org/web/20200429221351/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-30T03:54:57Z",
+        "uri": "https://web.archive.org/web/20200430035457/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-30T06:14:43Z",
+        "uri": "https://web.archive.org/web/20200430061443/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-30T18:18:54Z",
+        "uri": "https://web.archive.org/web/20200430181854/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-30T21:18:58Z",
+        "uri": "https://web.archive.org/web/20200430211858/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-30T22:30:46Z",
+        "uri": "https://web.archive.org/web/20200430223046/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-04-30T22:41:51Z",
+        "uri": "https://web.archive.org/web/20200430224151/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-01T01:33:22Z",
+        "uri": "https://web.archive.org/web/20200501013322/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-01T03:57:09Z",
+        "uri": "https://web.archive.org/web/20200501035709/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-01T12:04:16Z",
+        "uri": "https://web.archive.org/web/20200501120416/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-01T14:16:39Z",
+        "uri": "https://web.archive.org/web/20200501141639/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-02T01:31:14Z",
+        "uri": "https://web.archive.org/web/20200502013114/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-02T11:05:48Z",
+        "uri": "https://web.archive.org/web/20200502110548/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-02T11:42:30Z",
+        "uri": "https://web.archive.org/web/20200502114230/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-02T18:52:39Z",
+        "uri": "https://web.archive.org/web/20200502185239/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-02T21:08:50Z",
+        "uri": "https://web.archive.org/web/20200502210850/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-03T01:36:20Z",
+        "uri": "https://web.archive.org/web/20200503013620/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-03T01:43:50Z",
+        "uri": "https://web.archive.org/web/20200503014350/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-03T02:50:50Z",
+        "uri": "https://web.archive.org/web/20200503025050/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-03T15:53:59Z",
+        "uri": "https://web.archive.org/web/20200503155359/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-03T22:11:28Z",
+        "uri": "https://web.archive.org/web/20200503221128/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-04T00:54:25Z",
+        "uri": "https://web.archive.org/web/20200504005425/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-04T01:32:05Z",
+        "uri": "https://web.archive.org/web/20200504013205/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-04T14:09:05Z",
+        "uri": "https://web.archive.org/web/20200504140905/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-04T16:18:29Z",
+        "uri": "https://web.archive.org/web/20200504161829/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-04T16:54:20Z",
+        "uri": "https://web.archive.org/web/20200504165420/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-04T16:54:33Z",
+        "uri": "https://web.archive.org/web/20200504165433/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-04T20:23:52Z",
+        "uri": "https://web.archive.org/web/20200504202352/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-04T22:12:03Z",
+        "uri": "https://web.archive.org/web/20200504221203/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-04T22:42:21Z",
+        "uri": "https://web.archive.org/web/20200504224221/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-04T23:17:38Z",
+        "uri": "https://web.archive.org/web/20200504231738/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-05T00:07:01Z",
+        "uri": "https://web.archive.org/web/20200505000701/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-05T01:21:23Z",
+        "uri": "https://web.archive.org/web/20200505012123/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-05T01:27:53Z",
+        "uri": "https://web.archive.org/web/20200505012753/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-05T05:59:37Z",
+        "uri": "https://web.archive.org/web/20200505055937/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-05T17:12:18Z",
+        "uri": "https://web.archive.org/web/20200505171218/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-05T17:12:31Z",
+        "uri": "https://web.archive.org/web/20200505171231/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-05T18:01:03Z",
+        "uri": "https://web.archive.org/web/20200505180103/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-05T23:05:30Z",
+        "uri": "https://web.archive.org/web/20200505230530/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-06T01:32:59Z",
+        "uri": "https://web.archive.org/web/20200506013259/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-06T05:15:58Z",
+        "uri": "https://web.archive.org/web/20200506051558/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-06T16:54:54Z",
+        "uri": "https://web.archive.org/web/20200506165454/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-06T17:33:35Z",
+        "uri": "https://web.archive.org/web/20200506173335/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-07T01:31:10Z",
+        "uri": "https://web.archive.org/web/20200507013110/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-07T06:54:42Z",
+        "uri": "https://web.archive.org/web/20200507065442/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-07T16:54:01Z",
+        "uri": "https://web.archive.org/web/20200507165401/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-07T16:55:22Z",
+        "uri": "https://web.archive.org/web/20200507165522/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-07T20:16:52Z",
+        "uri": "https://web.archive.org/web/20200507201652/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-07T22:10:05Z",
+        "uri": "https://web.archive.org/web/20200507221005/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-08T01:44:28Z",
+        "uri": "https://web.archive.org/web/20200508014428/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-08T05:43:27Z",
+        "uri": "https://web.archive.org/web/20200508054327/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-08T16:54:05Z",
+        "uri": "https://web.archive.org/web/20200508165405/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-08T16:54:30Z",
+        "uri": "https://web.archive.org/web/20200508165430/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-09T01:45:28Z",
+        "uri": "https://web.archive.org/web/20200509014528/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-09T04:47:58Z",
+        "uri": "https://web.archive.org/web/20200509044758/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-09T04:53:29Z",
+        "uri": "https://web.archive.org/web/20200509045329/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-09T16:54:00Z",
+        "uri": "https://web.archive.org/web/20200509165400/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-09T16:54:23Z",
+        "uri": "https://web.archive.org/web/20200509165423/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-09T20:57:36Z",
+        "uri": "https://web.archive.org/web/20200509205736/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-09T22:18:48Z",
+        "uri": "https://web.archive.org/web/20200509221848/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-10T01:17:14Z",
+        "uri": "https://web.archive.org/web/20200510011714/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-10T02:13:51Z",
+        "uri": "https://web.archive.org/web/20200510021351/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-10T16:54:03Z",
+        "uri": "https://web.archive.org/web/20200510165403/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-10T16:54:15Z",
+        "uri": "https://web.archive.org/web/20200510165415/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-10T18:23:51Z",
+        "uri": "https://web.archive.org/web/20200510182351/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-11T00:52:29Z",
+        "uri": "https://web.archive.org/web/20200511005229/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-11T01:27:07Z",
+        "uri": "https://web.archive.org/web/20200511012707/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-11T16:02:55Z",
+        "uri": "https://web.archive.org/web/20200511160255/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-11T16:53:57Z",
+        "uri": "https://web.archive.org/web/20200511165357/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-11T16:54:09Z",
+        "uri": "https://web.archive.org/web/20200511165409/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-11T17:33:35Z",
+        "uri": "https://web.archive.org/web/20200511173335/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-11T19:12:30Z",
+        "uri": "https://web.archive.org/web/20200511191230/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-11T21:40:07Z",
+        "uri": "https://web.archive.org/web/20200511214007/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-12T01:36:59Z",
+        "uri": "https://web.archive.org/web/20200512013659/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-12T02:21:09Z",
+        "uri": "https://web.archive.org/web/20200512022109/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-12T05:34:19Z",
+        "uri": "https://web.archive.org/web/20200512053419/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-12T16:39:13Z",
+        "uri": "https://web.archive.org/web/20200512163913/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-12T16:54:03Z",
+        "uri": "https://web.archive.org/web/20200512165403/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-12T16:54:09Z",
+        "uri": "https://web.archive.org/web/20200512165409/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-12T17:25:19Z",
+        "uri": "https://web.archive.org/web/20200512172519/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-12T20:52:45Z",
+        "uri": "https://web.archive.org/web/20200512205245/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-12T23:21:32Z",
+        "uri": "https://web.archive.org/web/20200512232132/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-13T02:30:53Z",
+        "uri": "https://web.archive.org/web/20200513023053/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-13T06:43:48Z",
+        "uri": "https://web.archive.org/web/20200513064348/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-13T16:57:55Z",
+        "uri": "https://web.archive.org/web/20200513165755/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-13T16:58:18Z",
+        "uri": "https://web.archive.org/web/20200513165818/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-13T22:38:44Z",
+        "uri": "https://web.archive.org/web/20200513223844/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-14T02:18:38Z",
+        "uri": "https://web.archive.org/web/20200514021838/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-14T05:15:32Z",
+        "uri": "https://web.archive.org/web/20200514051532/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-14T10:59:39Z",
+        "uri": "https://web.archive.org/web/20200514105939/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-14T17:01:11Z",
+        "uri": "https://web.archive.org/web/20200514170111/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-14T17:01:41Z",
+        "uri": "https://web.archive.org/web/20200514170141/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-15T02:27:29Z",
+        "uri": "https://web.archive.org/web/20200515022729/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-15T02:53:53Z",
+        "uri": "https://web.archive.org/web/20200515025353/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-15T11:57:27Z",
+        "uri": "https://web.archive.org/web/20200515115727/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-15T17:01:44Z",
+        "uri": "https://web.archive.org/web/20200515170144/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-15T17:01:51Z",
+        "uri": "https://web.archive.org/web/20200515170151/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-16T01:49:42Z",
+        "uri": "https://web.archive.org/web/20200516014942/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-16T02:40:29Z",
+        "uri": "https://web.archive.org/web/20200516024029/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-16T16:53:59Z",
+        "uri": "https://web.archive.org/web/20200516165359/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-16T16:54:23Z",
+        "uri": "https://web.archive.org/web/20200516165423/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-17T01:22:49Z",
+        "uri": "https://web.archive.org/web/20200517012249/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-17T05:33:17Z",
+        "uri": "https://web.archive.org/web/20200517053317/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-17T10:43:25Z",
+        "uri": "https://web.archive.org/web/20200517104325/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-17T16:54:28Z",
+        "uri": "https://web.archive.org/web/20200517165428/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-17T16:54:49Z",
+        "uri": "https://web.archive.org/web/20200517165449/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-18T01:18:44Z",
+        "uri": "https://web.archive.org/web/20200518011844/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-18T07:08:12Z",
+        "uri": "https://web.archive.org/web/20200518070812/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-18T16:53:56Z",
+        "uri": "https://web.archive.org/web/20200518165356/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-18T16:54:01Z",
+        "uri": "https://web.archive.org/web/20200518165401/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-19T01:28:21Z",
+        "uri": "https://web.archive.org/web/20200519012821/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-19T02:34:16Z",
+        "uri": "https://web.archive.org/web/20200519023416/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-19T16:59:58Z",
+        "uri": "https://web.archive.org/web/20200519165958/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-19T17:00:17Z",
+        "uri": "https://web.archive.org/web/20200519170017/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-19T17:29:36Z",
+        "uri": "https://web.archive.org/web/20200519172936/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-19T20:21:59Z",
+        "uri": "https://web.archive.org/web/20200519202159/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-20T01:33:10Z",
+        "uri": "https://web.archive.org/web/20200520013310/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-20T10:42:31Z",
+        "uri": "https://web.archive.org/web/20200520104231/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-20T17:03:04Z",
+        "uri": "https://web.archive.org/web/20200520170304/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-20T17:03:14Z",
+        "uri": "https://web.archive.org/web/20200520170314/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-21T02:52:15Z",
+        "uri": "https://web.archive.org/web/20200521025215/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-21T08:45:41Z",
+        "uri": "https://web.archive.org/web/20200521084541/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-21T16:54:23Z",
+        "uri": "https://web.archive.org/web/20200521165423/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-21T16:54:34Z",
+        "uri": "https://web.archive.org/web/20200521165434/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-21T23:43:18Z",
+        "uri": "https://web.archive.org/web/20200521234318/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-22T02:12:58Z",
+        "uri": "https://web.archive.org/web/20200522021258/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-22T10:59:32Z",
+        "uri": "https://web.archive.org/web/20200522105932/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-22T16:54:13Z",
+        "uri": "https://web.archive.org/web/20200522165413/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-22T16:54:38Z",
+        "uri": "https://web.archive.org/web/20200522165438/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-23T02:14:14Z",
+        "uri": "https://web.archive.org/web/20200523021414/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-23T08:31:06Z",
+        "uri": "https://web.archive.org/web/20200523083106/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-23T09:01:28Z",
+        "uri": "https://web.archive.org/web/20200523090128/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-23T12:32:45Z",
+        "uri": "https://web.archive.org/web/20200523123245/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-23T13:46:20Z",
+        "uri": "https://web.archive.org/web/20200523134620/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-23T16:54:37Z",
+        "uri": "https://web.archive.org/web/20200523165437/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-23T16:55:05Z",
+        "uri": "https://web.archive.org/web/20200523165505/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-24T02:00:24Z",
+        "uri": "https://web.archive.org/web/20200524020024/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-24T10:32:35Z",
+        "uri": "https://web.archive.org/web/20200524103235/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-24T11:38:45Z",
+        "uri": "https://web.archive.org/web/20200524113845/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-24T17:26:11Z",
+        "uri": "https://web.archive.org/web/20200524172611/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-24T17:26:18Z",
+        "uri": "https://web.archive.org/web/20200524172618/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-25T01:55:39Z",
+        "uri": "https://web.archive.org/web/20200525015539/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-25T01:57:15Z",
+        "uri": "https://web.archive.org/web/20200525015715/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-25T07:24:41Z",
+        "uri": "https://web.archive.org/web/20200525072441/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-25T17:25:58Z",
+        "uri": "https://web.archive.org/web/20200525172558/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-25T17:26:24Z",
+        "uri": "https://web.archive.org/web/20200525172624/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-26T01:33:01Z",
+        "uri": "https://web.archive.org/web/20200526013301/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-26T02:26:26Z",
+        "uri": "https://web.archive.org/web/20200526022626/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-26T02:35:54Z",
+        "uri": "https://web.archive.org/web/20200526023554/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-26T16:54:16Z",
+        "uri": "https://web.archive.org/web/20200526165416/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-26T16:54:32Z",
+        "uri": "https://web.archive.org/web/20200526165432/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-26T19:09:52Z",
+        "uri": "https://web.archive.org/web/20200526190952/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-27T01:34:33Z",
+        "uri": "https://web.archive.org/web/20200527013433/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-27T07:59:58Z",
+        "uri": "https://web.archive.org/web/20200527075958/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-27T08:19:06Z",
+        "uri": "https://web.archive.org/web/20200527081906/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-27T16:53:59Z",
+        "uri": "https://web.archive.org/web/20200527165359/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-27T16:54:08Z",
+        "uri": "https://web.archive.org/web/20200527165408/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-28T01:27:46Z",
+        "uri": "https://web.archive.org/web/20200528012746/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-28T09:14:48Z",
+        "uri": "https://web.archive.org/web/20200528091448/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-28T16:54:03Z",
+        "uri": "https://web.archive.org/web/20200528165403/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-28T16:54:36Z",
+        "uri": "https://web.archive.org/web/20200528165436/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-29T01:29:08Z",
+        "uri": "https://web.archive.org/web/20200529012908/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-29T07:15:59Z",
+        "uri": "https://web.archive.org/web/20200529071559/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-29T15:45:42Z",
+        "uri": "https://web.archive.org/web/20200529154542/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-29T16:54:41Z",
+        "uri": "https://web.archive.org/web/20200529165441/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-29T16:55:24Z",
+        "uri": "https://web.archive.org/web/20200529165524/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-29T21:41:58Z",
+        "uri": "https://web.archive.org/web/20200529214158/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-30T01:33:19Z",
+        "uri": "https://web.archive.org/web/20200530013319/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-30T16:54:27Z",
+        "uri": "https://web.archive.org/web/20200530165427/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-30T16:54:38Z",
+        "uri": "https://web.archive.org/web/20200530165438/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-30T21:58:36Z",
+        "uri": "https://web.archive.org/web/20200530215836/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-31T01:17:16Z",
+        "uri": "https://web.archive.org/web/20200531011716/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-31T07:49:31Z",
+        "uri": "https://web.archive.org/web/20200531074931/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-31T16:54:23Z",
+        "uri": "https://web.archive.org/web/20200531165423/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-05-31T16:54:37Z",
+        "uri": "https://web.archive.org/web/20200531165437/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-01T00:00:43Z",
+        "uri": "https://web.archive.org/web/20200601000043/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-01T01:18:52Z",
+        "uri": "https://web.archive.org/web/20200601011852/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-01T16:53:57Z",
+        "uri": "https://web.archive.org/web/20200601165357/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-01T16:54:07Z",
+        "uri": "https://web.archive.org/web/20200601165407/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-02T01:20:42Z",
+        "uri": "https://web.archive.org/web/20200602012042/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-02T01:53:53Z",
+        "uri": "https://web.archive.org/web/20200602015353/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-02T16:54:30Z",
+        "uri": "https://web.archive.org/web/20200602165430/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-02T16:54:40Z",
+        "uri": "https://web.archive.org/web/20200602165440/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-02T19:39:27Z",
+        "uri": "https://web.archive.org/web/20200602193927/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-02T22:08:41Z",
+        "uri": "https://web.archive.org/web/20200602220841/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-03T01:23:30Z",
+        "uri": "https://web.archive.org/web/20200603012330/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-03T01:54:33Z",
+        "uri": "https://web.archive.org/web/20200603015433/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-03T11:22:54Z",
+        "uri": "https://web.archive.org/web/20200603112254/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-03T20:15:34Z",
+        "uri": "https://web.archive.org/web/20200603201534/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-03T20:16:00Z",
+        "uri": "https://web.archive.org/web/20200603201600/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-04T04:17:58Z",
+        "uri": "https://web.archive.org/web/20200604041758/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-04T06:24:55Z",
+        "uri": "https://web.archive.org/web/20200604062455/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-04T17:37:30Z",
+        "uri": "https://web.archive.org/web/20200604173730/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-04T17:37:50Z",
+        "uri": "https://web.archive.org/web/20200604173750/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-04T21:49:46Z",
+        "uri": "https://web.archive.org/web/20200604214946/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-05T04:08:18Z",
+        "uri": "https://web.archive.org/web/20200605040818/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-05T04:39:48Z",
+        "uri": "https://web.archive.org/web/20200605043948/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-05T18:54:09Z",
+        "uri": "https://web.archive.org/web/20200605185409/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-05T19:07:39Z",
+        "uri": "https://web.archive.org/web/20200605190739/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-05T19:07:59Z",
+        "uri": "https://web.archive.org/web/20200605190759/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-05T20:10:24Z",
+        "uri": "https://web.archive.org/web/20200605201024/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-05T22:54:47Z",
+        "uri": "https://web.archive.org/web/20200605225447/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-06T01:28:10Z",
+        "uri": "https://web.archive.org/web/20200606012810/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-06T02:46:07Z",
+        "uri": "https://web.archive.org/web/20200606024607/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-06T16:53:59Z",
+        "uri": "https://web.archive.org/web/20200606165359/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-06T16:54:20Z",
+        "uri": "https://web.archive.org/web/20200606165420/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-06T22:43:36Z",
+        "uri": "https://web.archive.org/web/20200606224336/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-07T01:24:03Z",
+        "uri": "https://web.archive.org/web/20200607012403/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-07T14:08:51Z",
+        "uri": "https://web.archive.org/web/20200607140851/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-07T16:54:00Z",
+        "uri": "https://web.archive.org/web/20200607165400/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-07T16:54:15Z",
+        "uri": "https://web.archive.org/web/20200607165415/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-07T22:19:58Z",
+        "uri": "https://web.archive.org/web/20200607221958/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-07T22:37:45Z",
+        "uri": "https://web.archive.org/web/20200607223745/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-08T01:22:31Z",
+        "uri": "https://web.archive.org/web/20200608012231/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-08T03:24:27Z",
+        "uri": "https://web.archive.org/web/20200608032427/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-08T16:54:09Z",
+        "uri": "https://web.archive.org/web/20200608165409/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-08T16:54:37Z",
+        "uri": "https://web.archive.org/web/20200608165437/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-08T23:20:39Z",
+        "uri": "https://web.archive.org/web/20200608232039/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-09T01:31:15Z",
+        "uri": "https://web.archive.org/web/20200609013115/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-09T10:22:06Z",
+        "uri": "https://web.archive.org/web/20200609102206/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-09T16:54:00Z",
+        "uri": "https://web.archive.org/web/20200609165400/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-09T16:54:45Z",
+        "uri": "https://web.archive.org/web/20200609165445/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-09T18:41:08Z",
+        "uri": "https://web.archive.org/web/20200609184108/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-09T19:03:38Z",
+        "uri": "https://web.archive.org/web/20200609190338/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-10T01:18:10Z",
+        "uri": "https://web.archive.org/web/20200610011810/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-10T01:52:27Z",
+        "uri": "https://web.archive.org/web/20200610015227/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-10T10:32:05Z",
+        "uri": "https://web.archive.org/web/20200610103205/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-10T16:54:44Z",
+        "uri": "https://web.archive.org/web/20200610165444/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-10T16:55:13Z",
+        "uri": "https://web.archive.org/web/20200610165513/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-10T23:22:07Z",
+        "uri": "https://web.archive.org/web/20200610232207/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-11T01:21:50Z",
+        "uri": "https://web.archive.org/web/20200611012150/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-11T16:57:34Z",
+        "uri": "https://web.archive.org/web/20200611165734/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-11T16:58:36Z",
+        "uri": "https://web.archive.org/web/20200611165836/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-11T20:59:46Z",
+        "uri": "https://web.archive.org/web/20200611205946/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-11T22:28:11Z",
+        "uri": "https://web.archive.org/web/20200611222811/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-11T23:51:15Z",
+        "uri": "https://web.archive.org/web/20200611235115/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-11T23:51:15Z",
+        "uri": "https://web.archive.org/web/20200611235115/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-12T01:59:17Z",
+        "uri": "https://web.archive.org/web/20200612015917/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-12T17:03:07Z",
+        "uri": "https://web.archive.org/web/20200612170307/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-12T17:04:03Z",
+        "uri": "https://web.archive.org/web/20200612170403/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-13T01:39:18Z",
+        "uri": "https://web.archive.org/web/20200613013918/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-13T01:41:26Z",
+        "uri": "https://web.archive.org/web/20200613014126/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-13T16:53:59Z",
+        "uri": "https://web.archive.org/web/20200613165359/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-13T16:54:11Z",
+        "uri": "https://web.archive.org/web/20200613165411/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-13T21:36:11Z",
+        "uri": "https://web.archive.org/web/20200613213611/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-13T23:50:35Z",
+        "uri": "https://web.archive.org/web/20200613235035/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-14T01:21:41Z",
+        "uri": "https://web.archive.org/web/20200614012141/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-14T16:53:59Z",
+        "uri": "https://web.archive.org/web/20200614165359/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-14T16:54:28Z",
+        "uri": "https://web.archive.org/web/20200614165428/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-15T00:29:46Z",
+        "uri": "https://web.archive.org/web/20200615002946/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-15T01:45:17Z",
+        "uri": "https://web.archive.org/web/20200615014517/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-15T03:19:10Z",
+        "uri": "https://web.archive.org/web/20200615031910/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-15T03:20:58Z",
+        "uri": "https://web.archive.org/web/20200615032058/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-15T16:54:03Z",
+        "uri": "https://web.archive.org/web/20200615165403/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-15T16:54:33Z",
+        "uri": "https://web.archive.org/web/20200615165433/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-15T19:39:36Z",
+        "uri": "https://web.archive.org/web/20200615193936/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-15T23:34:27Z",
+        "uri": "https://web.archive.org/web/20200615233427/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-16T01:15:27Z",
+        "uri": "https://web.archive.org/web/20200616011527/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-16T02:59:19Z",
+        "uri": "https://web.archive.org/web/20200616025919/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-16T11:41:57Z",
+        "uri": "https://web.archive.org/web/20200616114157/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-16T16:15:03Z",
+        "uri": "https://web.archive.org/web/20200616161503/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-16T16:54:00Z",
+        "uri": "https://web.archive.org/web/20200616165400/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-16T16:54:30Z",
+        "uri": "https://web.archive.org/web/20200616165430/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-16T20:58:47Z",
+        "uri": "https://web.archive.org/web/20200616205847/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-16T21:15:26Z",
+        "uri": "https://web.archive.org/web/20200616211526/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-17T01:21:44Z",
+        "uri": "https://web.archive.org/web/20200617012144/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-17T16:54:29Z",
+        "uri": "https://web.archive.org/web/20200617165429/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-17T16:54:44Z",
+        "uri": "https://web.archive.org/web/20200617165444/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-17T22:54:00Z",
+        "uri": "https://web.archive.org/web/20200617225400/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-18T01:29:08Z",
+        "uri": "https://web.archive.org/web/20200618012908/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-18T01:57:36Z",
+        "uri": "https://web.archive.org/web/20200618015736/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-18T08:46:23Z",
+        "uri": "https://web.archive.org/web/20200618084623/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-18T16:54:09Z",
+        "uri": "https://web.archive.org/web/20200618165409/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-18T16:55:11Z",
+        "uri": "https://web.archive.org/web/20200618165511/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-18T22:43:52Z",
+        "uri": "https://web.archive.org/web/20200618224352/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-19T01:15:11Z",
+        "uri": "https://web.archive.org/web/20200619011511/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-19T01:18:00Z",
+        "uri": "https://web.archive.org/web/20200619011800/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-19T02:38:35Z",
+        "uri": "https://web.archive.org/web/20200619023835/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-19T17:47:08Z",
+        "uri": "https://web.archive.org/web/20200619174708/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-19T17:47:26Z",
+        "uri": "https://web.archive.org/web/20200619174726/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-20T03:01:44Z",
+        "uri": "https://web.archive.org/web/20200620030144/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-20T03:52:55Z",
+        "uri": "https://web.archive.org/web/20200620035255/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-20T09:49:57Z",
+        "uri": "https://web.archive.org/web/20200620094957/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-20T09:49:59Z",
+        "uri": "https://web.archive.org/web/20200620094959/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-20T09:54:12Z",
+        "uri": "https://web.archive.org/web/20200620095412/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-20T13:21:02Z",
+        "uri": "https://web.archive.org/web/20200620132102/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-20T16:55:11Z",
+        "uri": "https://web.archive.org/web/20200620165511/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-20T16:56:06Z",
+        "uri": "https://web.archive.org/web/20200620165606/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-20T23:01:46Z",
+        "uri": "https://web.archive.org/web/20200620230146/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-21T01:23:37Z",
+        "uri": "https://web.archive.org/web/20200621012337/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-21T16:54:11Z",
+        "uri": "https://web.archive.org/web/20200621165411/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-21T16:54:26Z",
+        "uri": "https://web.archive.org/web/20200621165426/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-21T17:21:14Z",
+        "uri": "https://web.archive.org/web/20200621172114/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-21T19:28:44Z",
+        "uri": "https://web.archive.org/web/20200621192844/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-21T21:30:00Z",
+        "uri": "https://web.archive.org/web/20200621213000/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-21T21:30:01Z",
+        "uri": "https://web.archive.org/web/20200621213001/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-21T22:20:53Z",
+        "uri": "https://web.archive.org/web/20200621222053/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-22T01:17:03Z",
+        "uri": "https://web.archive.org/web/20200622011703/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-22T12:07:19Z",
+        "uri": "https://web.archive.org/web/20200622120719/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-22T19:30:01Z",
+        "uri": "https://web.archive.org/web/20200622193001/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-22T19:30:32Z",
+        "uri": "https://web.archive.org/web/20200622193032/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-23T01:23:56Z",
+        "uri": "https://web.archive.org/web/20200623012356/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-23T03:36:08Z",
+        "uri": "https://web.archive.org/web/20200623033608/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-23T03:50:43Z",
+        "uri": "https://web.archive.org/web/20200623035043/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-23T17:29:29Z",
+        "uri": "https://web.archive.org/web/20200623172929/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-23T18:00:38Z",
+        "uri": "https://web.archive.org/web/20200623180038/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-23T18:32:11Z",
+        "uri": "https://web.archive.org/web/20200623183211/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-24T01:37:32Z",
+        "uri": "https://web.archive.org/web/20200624013732/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-24T03:41:57Z",
+        "uri": "https://web.archive.org/web/20200624034157/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-24T20:17:22Z",
+        "uri": "https://web.archive.org/web/20200624201722/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-24T20:17:36Z",
+        "uri": "https://web.archive.org/web/20200624201736/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-25T05:39:11Z",
+        "uri": "https://web.archive.org/web/20200625053911/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-25T05:44:36Z",
+        "uri": "https://web.archive.org/web/20200625054436/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-25T17:31:41Z",
+        "uri": "https://web.archive.org/web/20200625173141/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-25T17:32:17Z",
+        "uri": "https://web.archive.org/web/20200625173217/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-26T01:18:39Z",
+        "uri": "https://web.archive.org/web/20200626011839/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-26T04:44:40Z",
+        "uri": "https://web.archive.org/web/20200626044440/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-26T17:00:49Z",
+        "uri": "https://web.archive.org/web/20200626170049/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-26T17:01:40Z",
+        "uri": "https://web.archive.org/web/20200626170140/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-26T22:31:16Z",
+        "uri": "https://web.archive.org/web/20200626223116/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-27T03:47:03Z",
+        "uri": "https://web.archive.org/web/20200627034703/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-27T15:55:24Z",
+        "uri": "https://web.archive.org/web/20200627155524/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-27T16:54:30Z",
+        "uri": "https://web.archive.org/web/20200627165430/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-27T16:54:51Z",
+        "uri": "https://web.archive.org/web/20200627165451/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-27T23:16:51Z",
+        "uri": "https://web.archive.org/web/20200627231651/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-28T01:22:16Z",
+        "uri": "https://web.archive.org/web/20200628012216/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-28T16:55:56Z",
+        "uri": "https://web.archive.org/web/20200628165556/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-28T16:56:15Z",
+        "uri": "https://web.archive.org/web/20200628165615/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-28T23:46:27Z",
+        "uri": "https://web.archive.org/web/20200628234627/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-29T01:28:14Z",
+        "uri": "https://web.archive.org/web/20200629012814/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-29T16:54:00Z",
+        "uri": "https://web.archive.org/web/20200629165400/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-29T16:54:15Z",
+        "uri": "https://web.archive.org/web/20200629165415/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-29T21:35:09Z",
+        "uri": "https://web.archive.org/web/20200629213509/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-30T01:54:16Z",
+        "uri": "https://web.archive.org/web/20200630015416/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-30T16:54:06Z",
+        "uri": "https://web.archive.org/web/20200630165406/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-30T16:57:33Z",
+        "uri": "https://web.archive.org/web/20200630165733/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-30T19:56:12Z",
+        "uri": "https://web.archive.org/web/20200630195612/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-30T20:07:56Z",
+        "uri": "https://web.archive.org/web/20200630200756/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-06-30T23:21:07Z",
+        "uri": "https://web.archive.org/web/20200630232107/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-01T01:37:26Z",
+        "uri": "https://web.archive.org/web/20200701013726/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-01T18:36:42Z",
+        "uri": "https://web.archive.org/web/20200701183642/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-01T19:05:43Z",
+        "uri": "https://web.archive.org/web/20200701190543/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-02T03:53:42Z",
+        "uri": "https://web.archive.org/web/20200702035342/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-02T05:13:21Z",
+        "uri": "https://web.archive.org/web/20200702051321/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-02T15:04:13Z",
+        "uri": "https://web.archive.org/web/20200702150413/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-02T16:59:39Z",
+        "uri": "https://web.archive.org/web/20200702165939/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-02T17:00:16Z",
+        "uri": "https://web.archive.org/web/20200702170016/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-03T00:32:01Z",
+        "uri": "https://web.archive.org/web/20200703003201/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-03T01:16:57Z",
+        "uri": "https://web.archive.org/web/20200703011657/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-03T17:09:54Z",
+        "uri": "https://web.archive.org/web/20200703170954/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-03T17:10:22Z",
+        "uri": "https://web.archive.org/web/20200703171022/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-03T22:50:14Z",
+        "uri": "https://web.archive.org/web/20200703225014/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-04T01:44:12Z",
+        "uri": "https://web.archive.org/web/20200704014412/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-04T16:54:39Z",
+        "uri": "https://web.archive.org/web/20200704165439/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-04T16:55:03Z",
+        "uri": "https://web.archive.org/web/20200704165503/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-04T22:06:23Z",
+        "uri": "https://web.archive.org/web/20200704220623/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-05T01:22:54Z",
+        "uri": "https://web.archive.org/web/20200705012254/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-05T05:44:15Z",
+        "uri": "https://web.archive.org/web/20200705054415/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-05T05:44:16Z",
+        "uri": "https://web.archive.org/web/20200705054416/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-05T06:48:39Z",
+        "uri": "https://web.archive.org/web/20200705064839/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-05T07:05:15Z",
+        "uri": "https://web.archive.org/web/20200705070515/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-05T16:53:58Z",
+        "uri": "https://web.archive.org/web/20200705165358/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-05T16:54:20Z",
+        "uri": "https://web.archive.org/web/20200705165420/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-05T22:47:22Z",
+        "uri": "https://web.archive.org/web/20200705224722/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-06T01:30:07Z",
+        "uri": "https://web.archive.org/web/20200706013007/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-06T04:19:26Z",
+        "uri": "https://web.archive.org/web/20200706041926/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-06T05:24:32Z",
+        "uri": "https://web.archive.org/web/20200706052432/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-06T05:24:33Z",
+        "uri": "https://web.archive.org/web/20200706052433/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-06T18:08:41Z",
+        "uri": "https://web.archive.org/web/20200706180841/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-06T18:11:19Z",
+        "uri": "https://web.archive.org/web/20200706181119/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-06T22:22:19Z",
+        "uri": "https://web.archive.org/web/20200706222219/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-06T23:01:50Z",
+        "uri": "https://web.archive.org/web/20200706230150/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-07T01:25:26Z",
+        "uri": "https://web.archive.org/web/20200707012526/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-07T01:26:29Z",
+        "uri": "https://web.archive.org/web/20200707012629/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-07T02:04:12Z",
+        "uri": "https://web.archive.org/web/20200707020412/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-07T05:23:53Z",
+        "uri": "https://web.archive.org/web/20200707052353/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-07T16:53:58Z",
+        "uri": "https://web.archive.org/web/20200707165358/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-07T16:54:11Z",
+        "uri": "https://web.archive.org/web/20200707165411/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-07T22:28:15Z",
+        "uri": "https://web.archive.org/web/20200707222815/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-07T23:07:59Z",
+        "uri": "https://web.archive.org/web/20200707230759/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-07T23:22:20Z",
+        "uri": "https://web.archive.org/web/20200707232220/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-08T01:29:18Z",
+        "uri": "https://web.archive.org/web/20200708012918/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-08T11:57:40Z",
+        "uri": "https://web.archive.org/web/20200708115740/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-08T15:09:35Z",
+        "uri": "https://web.archive.org/web/20200708150935/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-08T16:54:01Z",
+        "uri": "https://web.archive.org/web/20200708165401/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-08T16:54:49Z",
+        "uri": "https://web.archive.org/web/20200708165449/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-08T21:25:42Z",
+        "uri": "https://web.archive.org/web/20200708212542/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-09T01:16:51Z",
+        "uri": "https://web.archive.org/web/20200709011651/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-09T02:54:21Z",
+        "uri": "https://web.archive.org/web/20200709025421/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-09T11:00:00Z",
+        "uri": "https://web.archive.org/web/20200709110000/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-09T11:25:18Z",
+        "uri": "https://web.archive.org/web/20200709112518/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-09T16:54:04Z",
+        "uri": "https://web.archive.org/web/20200709165404/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-09T16:54:28Z",
+        "uri": "https://web.archive.org/web/20200709165428/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-09T21:37:08Z",
+        "uri": "https://web.archive.org/web/20200709213708/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-10T01:24:16Z",
+        "uri": "https://web.archive.org/web/20200710012416/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-10T15:10:06Z",
+        "uri": "https://web.archive.org/web/20200710151006/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-10T16:54:12Z",
+        "uri": "https://web.archive.org/web/20200710165412/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-10T16:54:41Z",
+        "uri": "https://web.archive.org/web/20200710165441/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-11T01:31:31Z",
+        "uri": "https://web.archive.org/web/20200711013131/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-11T02:26:22Z",
+        "uri": "https://web.archive.org/web/20200711022622/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-11T12:31:00Z",
+        "uri": "https://web.archive.org/web/20200711123100/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-11T17:06:42Z",
+        "uri": "https://web.archive.org/web/20200711170642/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-11T17:06:59Z",
+        "uri": "https://web.archive.org/web/20200711170659/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-12T01:18:14Z",
+        "uri": "https://web.archive.org/web/20200712011814/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-12T05:05:18Z",
+        "uri": "https://web.archive.org/web/20200712050518/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-12T16:54:49Z",
+        "uri": "https://web.archive.org/web/20200712165449/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-12T16:55:04Z",
+        "uri": "https://web.archive.org/web/20200712165504/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-13T01:16:05Z",
+        "uri": "https://web.archive.org/web/20200713011605/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-13T03:42:07Z",
+        "uri": "https://web.archive.org/web/20200713034207/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-13T05:47:04Z",
+        "uri": "https://web.archive.org/web/20200713054704/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-13T10:04:43Z",
+        "uri": "https://web.archive.org/web/20200713100443/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-13T16:54:45Z",
+        "uri": "https://web.archive.org/web/20200713165445/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-13T16:54:54Z",
+        "uri": "https://web.archive.org/web/20200713165454/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-14T01:45:40Z",
+        "uri": "https://web.archive.org/web/20200714014540/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-14T07:22:57Z",
+        "uri": "https://web.archive.org/web/20200714072257/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-14T17:00:22Z",
+        "uri": "https://web.archive.org/web/20200714170022/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-14T17:00:33Z",
+        "uri": "https://web.archive.org/web/20200714170033/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-14T20:33:58Z",
+        "uri": "https://web.archive.org/web/20200714203358/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-15T01:31:26Z",
+        "uri": "https://web.archive.org/web/20200715013126/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-15T07:17:52Z",
+        "uri": "https://web.archive.org/web/20200715071752/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-15T15:57:32Z",
+        "uri": "https://web.archive.org/web/20200715155732/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-15T16:54:02Z",
+        "uri": "https://web.archive.org/web/20200715165402/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-15T16:54:37Z",
+        "uri": "https://web.archive.org/web/20200715165437/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-15T17:13:11Z",
+        "uri": "https://web.archive.org/web/20200715171311/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-15T17:13:25Z",
+        "uri": "https://web.archive.org/web/20200715171325/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-15T19:27:36Z",
+        "uri": "https://web.archive.org/web/20200715192736/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-15T23:20:57Z",
+        "uri": "https://web.archive.org/web/20200715232057/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-15T23:41:25Z",
+        "uri": "https://web.archive.org/web/20200715234125/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-16T00:38:12Z",
+        "uri": "https://web.archive.org/web/20200716003812/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-16T01:39:22Z",
+        "uri": "https://web.archive.org/web/20200716013922/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-16T04:03:46Z",
+        "uri": "https://web.archive.org/web/20200716040346/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-16T16:54:04Z",
+        "uri": "https://web.archive.org/web/20200716165404/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-16T16:54:34Z",
+        "uri": "https://web.archive.org/web/20200716165434/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-17T01:27:56Z",
+        "uri": "https://web.archive.org/web/20200717012756/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-17T03:24:20Z",
+        "uri": "https://web.archive.org/web/20200717032420/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-17T16:54:33Z",
+        "uri": "https://web.archive.org/web/20200717165433/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-17T16:54:48Z",
+        "uri": "https://web.archive.org/web/20200717165448/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-18T01:26:08Z",
+        "uri": "https://web.archive.org/web/20200718012608/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-18T12:42:02Z",
+        "uri": "https://web.archive.org/web/20200718124202/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-18T16:54:51Z",
+        "uri": "https://web.archive.org/web/20200718165451/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-18T16:55:05Z",
+        "uri": "https://web.archive.org/web/20200718165505/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-19T00:07:44Z",
+        "uri": "https://web.archive.org/web/20200719000744/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-19T00:42:04Z",
+        "uri": "https://web.archive.org/web/20200719004204/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-19T01:14:49Z",
+        "uri": "https://web.archive.org/web/20200719011449/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-19T12:45:11Z",
+        "uri": "https://web.archive.org/web/20200719124511/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-19T16:53:57Z",
+        "uri": "https://web.archive.org/web/20200719165357/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-19T16:54:07Z",
+        "uri": "https://web.archive.org/web/20200719165407/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-19T20:24:38Z",
+        "uri": "https://web.archive.org/web/20200719202438/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-20T00:46:30Z",
+        "uri": "https://web.archive.org/web/20200720004630/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-20T01:33:08Z",
+        "uri": "https://web.archive.org/web/20200720013308/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-20T12:47:58Z",
+        "uri": "https://web.archive.org/web/20200720124758/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-20T16:54:03Z",
+        "uri": "https://web.archive.org/web/20200720165403/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-20T16:54:27Z",
+        "uri": "https://web.archive.org/web/20200720165427/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-20T23:41:35Z",
+        "uri": "https://web.archive.org/web/20200720234135/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-21T01:43:52Z",
+        "uri": "https://web.archive.org/web/20200721014352/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-21T14:43:30Z",
+        "uri": "https://web.archive.org/web/20200721144330/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-21T16:54:06Z",
+        "uri": "https://web.archive.org/web/20200721165406/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-21T16:54:47Z",
+        "uri": "https://web.archive.org/web/20200721165447/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-21T21:00:14Z",
+        "uri": "https://web.archive.org/web/20200721210014/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-21T22:19:52Z",
+        "uri": "https://web.archive.org/web/20200721221952/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-21T23:44:09Z",
+        "uri": "https://web.archive.org/web/20200721234409/http://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-22T01:50:20Z",
+        "uri": "https://web.archive.org/web/20200722015020/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-22T14:43:01Z",
+        "uri": "https://web.archive.org/web/20200722144301/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-22T16:54:25Z",
+        "uri": "https://web.archive.org/web/20200722165425/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-22T16:54:39Z",
+        "uri": "https://web.archive.org/web/20200722165439/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-23T01:35:13Z",
+        "uri": "https://web.archive.org/web/20200723013513/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-23T16:54:52Z",
+        "uri": "https://web.archive.org/web/20200723165452/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-23T16:55:03Z",
+        "uri": "https://web.archive.org/web/20200723165503/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-24T01:25:42Z",
+        "uri": "https://web.archive.org/web/20200724012542/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-24T06:21:00Z",
+        "uri": "https://web.archive.org/web/20200724062100/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-24T09:13:30Z",
+        "uri": "https://web.archive.org/web/20200724091330/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-24T17:04:07Z",
+        "uri": "https://web.archive.org/web/20200724170407/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-24T17:04:54Z",
+        "uri": "https://web.archive.org/web/20200724170454/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-25T01:25:25Z",
+        "uri": "https://web.archive.org/web/20200725012525/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-25T04:18:22Z",
+        "uri": "https://web.archive.org/web/20200725041822/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-25T20:21:28Z",
+        "uri": "https://web.archive.org/web/20200725202128/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-26T01:37:10Z",
+        "uri": "https://web.archive.org/web/20200726013710/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-26T07:46:42Z",
+        "uri": "https://web.archive.org/web/20200726074642/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-26T16:54:05Z",
+        "uri": "https://web.archive.org/web/20200726165405/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-26T16:54:25Z",
+        "uri": "https://web.archive.org/web/20200726165425/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-27T01:33:27Z",
+        "uri": "https://web.archive.org/web/20200727013327/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-27T16:54:25Z",
+        "uri": "https://web.archive.org/web/20200727165425/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-27T16:54:41Z",
+        "uri": "https://web.archive.org/web/20200727165441/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-27T17:37:28Z",
+        "uri": "https://web.archive.org/web/20200727173728/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-27T17:39:13Z",
+        "uri": "https://web.archive.org/web/20200727173913/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-27T18:36:43Z",
+        "uri": "https://web.archive.org/web/20200727183643/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-27T19:12:32Z",
+        "uri": "https://web.archive.org/web/20200727191232/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-28T00:42:17Z",
+        "uri": "https://web.archive.org/web/20200728004217/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-28T01:17:54Z",
+        "uri": "https://web.archive.org/web/20200728011754/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-28T02:31:48Z",
+        "uri": "https://web.archive.org/web/20200728023148/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-28T03:10:26Z",
+        "uri": "https://web.archive.org/web/20200728031026/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-28T09:31:52Z",
+        "uri": "https://web.archive.org/web/20200728093152/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-28T16:54:01Z",
+        "uri": "https://web.archive.org/web/20200728165401/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-28T16:54:14Z",
+        "uri": "https://web.archive.org/web/20200728165414/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-28T19:58:22Z",
+        "uri": "https://web.archive.org/web/20200728195822/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-29T02:03:54Z",
+        "uri": "https://web.archive.org/web/20200729020354/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-29T18:34:20Z",
+        "uri": "https://web.archive.org/web/20200729183420/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-29T18:34:43Z",
+        "uri": "https://web.archive.org/web/20200729183443/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-29T23:32:10Z",
+        "uri": "https://web.archive.org/web/20200729233210/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-30T02:55:38Z",
+        "uri": "https://web.archive.org/web/20200730025538/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-30T18:32:48Z",
+        "uri": "https://web.archive.org/web/20200730183248/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-30T18:33:05Z",
+        "uri": "https://web.archive.org/web/20200730183305/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-31T01:49:23Z",
+        "uri": "https://web.archive.org/web/20200731014923/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-31T16:54:01Z",
+        "uri": "https://web.archive.org/web/20200731165401/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-31T16:54:06Z",
+        "uri": "https://web.archive.org/web/20200731165406/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-07-31T22:01:44Z",
+        "uri": "https://web.archive.org/web/20200731220144/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-01T01:23:15Z",
+        "uri": "https://web.archive.org/web/20200801012315/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-01T14:58:18Z",
+        "uri": "https://web.archive.org/web/20200801145818/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-01T16:54:59Z",
+        "uri": "https://web.archive.org/web/20200801165459/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-01T16:55:29Z",
+        "uri": "https://web.archive.org/web/20200801165529/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-02T01:31:11Z",
+        "uri": "https://web.archive.org/web/20200802013111/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-02T16:53:59Z",
+        "uri": "https://web.archive.org/web/20200802165359/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-02T16:54:11Z",
+        "uri": "https://web.archive.org/web/20200802165411/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-03T01:17:59Z",
+        "uri": "https://web.archive.org/web/20200803011759/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-03T12:11:19Z",
+        "uri": "https://web.archive.org/web/20200803121119/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-03T16:54:00Z",
+        "uri": "https://web.archive.org/web/20200803165400/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-03T16:54:17Z",
+        "uri": "https://web.archive.org/web/20200803165417/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-03T19:35:39Z",
+        "uri": "https://web.archive.org/web/20200803193539/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-03T20:22:06Z",
+        "uri": "https://web.archive.org/web/20200803202206/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-03T22:55:57Z",
+        "uri": "https://web.archive.org/web/20200803225557/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-04T01:27:53Z",
+        "uri": "https://web.archive.org/web/20200804012753/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-04T16:54:13Z",
+        "uri": "https://web.archive.org/web/20200804165413/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-04T16:54:28Z",
+        "uri": "https://web.archive.org/web/20200804165428/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-04T18:09:53Z",
+        "uri": "https://web.archive.org/web/20200804180953/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-04T19:15:08Z",
+        "uri": "https://web.archive.org/web/20200804191508/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-04T19:26:24Z",
+        "uri": "https://web.archive.org/web/20200804192624/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-05T01:22:52Z",
+        "uri": "https://web.archive.org/web/20200805012252/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-05T03:30:20Z",
+        "uri": "https://web.archive.org/web/20200805033020/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-05T04:20:59Z",
+        "uri": "https://web.archive.org/web/20200805042059/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-05T06:19:21Z",
+        "uri": "https://web.archive.org/web/20200805061921/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-05T06:24:02Z",
+        "uri": "https://web.archive.org/web/20200805062402/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-05T11:39:27Z",
+        "uri": "https://web.archive.org/web/20200805113927/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-05T14:44:39Z",
+        "uri": "https://web.archive.org/web/20200805144439/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-05T16:54:10Z",
+        "uri": "https://web.archive.org/web/20200805165410/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-05T16:55:30Z",
+        "uri": "https://web.archive.org/web/20200805165530/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-05T22:50:47Z",
+        "uri": "https://web.archive.org/web/20200805225047/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-06T01:11:30Z",
+        "uri": "https://web.archive.org/web/20200806011130/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-06T13:24:59Z",
+        "uri": "https://web.archive.org/web/20200806132459/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-06T16:54:06Z",
+        "uri": "https://web.archive.org/web/20200806165406/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-06T17:00:06Z",
+        "uri": "https://web.archive.org/web/20200806170006/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-07T01:27:37Z",
+        "uri": "https://web.archive.org/web/20200807012737/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-07T04:32:03Z",
+        "uri": "https://web.archive.org/web/20200807043203/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-07T16:57:45Z",
+        "uri": "https://web.archive.org/web/20200807165745/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-07T16:59:44Z",
+        "uri": "https://web.archive.org/web/20200807165944/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-07T17:02:14Z",
+        "uri": "https://web.archive.org/web/20200807170214/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-08T01:41:42Z",
+        "uri": "https://web.archive.org/web/20200808014142/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-08T07:51:13Z",
+        "uri": "https://web.archive.org/web/20200808075113/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-08T16:54:03Z",
+        "uri": "https://web.archive.org/web/20200808165403/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-08T16:55:48Z",
+        "uri": "https://web.archive.org/web/20200808165548/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-09T01:18:01Z",
+        "uri": "https://web.archive.org/web/20200809011801/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-09T16:54:04Z",
+        "uri": "https://web.archive.org/web/20200809165404/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-09T16:54:18Z",
+        "uri": "https://web.archive.org/web/20200809165418/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-09T18:16:11Z",
+        "uri": "https://web.archive.org/web/20200809181611/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-10T01:40:40Z",
+        "uri": "https://web.archive.org/web/20200810014040/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-10T16:54:15Z",
+        "uri": "https://web.archive.org/web/20200810165415/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-10T16:59:16Z",
+        "uri": "https://web.archive.org/web/20200810165916/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-10T17:57:20Z",
+        "uri": "https://web.archive.org/web/20200810175720/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-10T22:55:01Z",
+        "uri": "https://web.archive.org/web/20200810225501/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-11T01:24:15Z",
+        "uri": "https://web.archive.org/web/20200811012415/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-11T16:54:00Z",
+        "uri": "https://web.archive.org/web/20200811165400/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-11T16:54:15Z",
+        "uri": "https://web.archive.org/web/20200811165415/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-11T17:05:02Z",
+        "uri": "https://web.archive.org/web/20200811170502/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-11T17:38:42Z",
+        "uri": "https://web.archive.org/web/20200811173842/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-12T01:41:44Z",
+        "uri": "https://web.archive.org/web/20200812014144/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-12T06:50:55Z",
+        "uri": "https://web.archive.org/web/20200812065055/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-12T16:53:59Z",
+        "uri": "https://web.archive.org/web/20200812165359/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-12T16:54:07Z",
+        "uri": "https://web.archive.org/web/20200812165407/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-13T01:24:53Z",
+        "uri": "https://web.archive.org/web/20200813012453/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-13T16:54:24Z",
+        "uri": "https://web.archive.org/web/20200813165424/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-13T16:54:58Z",
+        "uri": "https://web.archive.org/web/20200813165458/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-14T02:16:07Z",
+        "uri": "https://web.archive.org/web/20200814021607/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-14T16:56:13Z",
+        "uri": "https://web.archive.org/web/20200814165613/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-14T16:56:39Z",
+        "uri": "https://web.archive.org/web/20200814165639/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-15T01:09:12Z",
+        "uri": "https://web.archive.org/web/20200815010912/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-15T16:54:12Z",
+        "uri": "https://web.archive.org/web/20200815165412/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-15T16:54:31Z",
+        "uri": "https://web.archive.org/web/20200815165431/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-16T01:29:27Z",
+        "uri": "https://web.archive.org/web/20200816012927/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-16T16:54:01Z",
+        "uri": "https://web.archive.org/web/20200816165401/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-16T16:55:27Z",
+        "uri": "https://web.archive.org/web/20200816165527/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-17T01:08:23Z",
+        "uri": "https://web.archive.org/web/20200817010823/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-17T16:54:01Z",
+        "uri": "https://web.archive.org/web/20200817165401/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-17T16:54:08Z",
+        "uri": "https://web.archive.org/web/20200817165408/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-17T17:57:55Z",
+        "uri": "https://web.archive.org/web/20200817175755/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-18T01:24:38Z",
+        "uri": "https://web.archive.org/web/20200818012438/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-18T01:51:29Z",
+        "uri": "https://web.archive.org/web/20200818015129/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-18T05:06:40Z",
+        "uri": "https://web.archive.org/web/20200818050640/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-18T16:54:12Z",
+        "uri": "https://web.archive.org/web/20200818165412/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-18T16:54:24Z",
+        "uri": "https://web.archive.org/web/20200818165424/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-19T01:07:59Z",
+        "uri": "https://web.archive.org/web/20200819010759/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-19T01:33:28Z",
+        "uri": "https://web.archive.org/web/20200819013328/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-19T20:53:10Z",
+        "uri": "https://web.archive.org/web/20200819205310/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-20T01:19:28Z",
+        "uri": "https://web.archive.org/web/20200820011928/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-20T23:37:49Z",
+        "uri": "https://web.archive.org/web/20200820233749/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-20T23:54:58Z",
+        "uri": "https://web.archive.org/web/20200820235458/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-25T03:43:33Z",
+        "uri": "https://web.archive.org/web/20200825034333/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-26T01:34:49Z",
+        "uri": "https://web.archive.org/web/20200826013449/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-08-29T00:57:05Z",
+        "uri": "https://web.archive.org/web/20200829005705/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-09-01T00:58:38Z",
+        "uri": "https://web.archive.org/web/20200901005838/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-09-01T15:38:03Z",
+        "uri": "https://web.archive.org/web/20200901153803/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-09-02T04:40:04Z",
+        "uri": "https://web.archive.org/web/20200902044004/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-09-03T00:26:00Z",
+        "uri": "https://web.archive.org/web/20200903002600/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-09-03T16:12:01Z",
+        "uri": "https://web.archive.org/web/20200903161201/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-09-04T09:19:10Z",
+        "uri": "https://web.archive.org/web/20200904091910/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-09-05T06:02:50Z",
+        "uri": "https://web.archive.org/web/20200905060250/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-09-09T04:35:30Z",
+        "uri": "https://web.archive.org/web/20200909043530/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-09-10T01:24:12Z",
+        "uri": "https://web.archive.org/web/20200910012412/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-09-15T05:55:28Z",
+        "uri": "https://web.archive.org/web/20200915055528/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-09-16T00:52:02Z",
+        "uri": "https://web.archive.org/web/20200916005202/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-09-16T22:42:30Z",
+        "uri": "https://web.archive.org/web/20200916224230/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-09-18T14:07:17Z",
+        "uri": "https://web.archive.org/web/20200918140717/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-09-18T14:42:28Z",
+        "uri": "https://web.archive.org/web/20200918144228/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-09-19T09:06:28Z",
+        "uri": "https://web.archive.org/web/20200919090628/http://alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-09-22T02:58:18Z",
+        "uri": "https://web.archive.org/web/20200922025818/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-09-22T05:06:18Z",
+        "uri": "https://web.archive.org/web/20200922050618/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-09-23T15:42:48Z",
+        "uri": "https://web.archive.org/web/20200923154248/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-09-25T06:30:25Z",
+        "uri": "https://web.archive.org/web/20200925063025/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-09-25T07:26:45Z",
+        "uri": "https://web.archive.org/web/20200925072645/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-09-26T10:54:12Z",
+        "uri": "https://web.archive.org/web/20200926105412/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-09-27T11:40:04Z",
+        "uri": "https://web.archive.org/web/20200927114004/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-09-28T02:37:27Z",
+        "uri": "https://web.archive.org/web/20200928023727/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-09-28T23:55:45Z",
+        "uri": "https://web.archive.org/web/20200928235545/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-10-02T01:17:45Z",
+        "uri": "https://web.archive.org/web/20201002011745/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-10-03T08:10:11Z",
+        "uri": "https://web.archive.org/web/20201003081011/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-10-04T05:55:10Z",
+        "uri": "https://web.archive.org/web/20201004055510/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-10-04T16:59:48Z",
+        "uri": "https://web.archive.org/web/20201004165948/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-10-06T01:09:27Z",
+        "uri": "https://web.archive.org/web/20201006010927/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-10-06T01:54:41Z",
+        "uri": "https://web.archive.org/web/20201006015441/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      },
+      {
+        "datetime": "2020-10-06T02:32:23Z",
+        "uri": "https://web.archive.org/web/20201006023223/https://www.alberta.ca/covid-19-alberta-data.aspx"
+      }
+    ],
+    "first": {
+      "datetime": "2020-03-20T00:33:46Z",
+      "uri": "https://web.archive.org/web/20200320003346/https://www.alberta.ca/covid-19-alberta-data.aspx"
+    },
+    "last": {
+      "datetime": "2020-10-06T02:32:23Z",
+      "uri": "https://web.archive.org/web/20201006023223/https://www.alberta.ca/covid-19-alberta-data.aspx"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.alberta.ca/covid-19-alberta-data.aspx%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.alberta.ca/covid-19-alberta-data.aspx%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.alberta.ca/covid-19-alberta-data.aspx%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.alberta.ca/covid-19-alberta-data.aspx%0A"
+}

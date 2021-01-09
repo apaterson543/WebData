@@ -1,0 +1,82 @@
+{
+  "original_uri": "https://www.npr.org/sections/health-shots/2020/09/29/917899357/how-operation-warp-speeds-big-vaccine-contracts-could-stay-secret%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.npr.org/sections/health-shots/2020/09/29/917899357/how-operation-warp-speeds-big-vaccine-contracts-could-stay-secret%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-09-29T20:35:19Z",
+        "uri": "https://web.archive.org/web/20200929203519/https://www.npr.org/sections/health-shots/2020/09/29/917899357/how-operation-warp-speeds-big-vaccine-contracts-could-stay-secret"
+      },
+      {
+        "datetime": "2020-09-29T22:41:03Z",
+        "uri": "https://web.archive.org/web/20200929224103/https://www.npr.org/sections/health-shots/2020/09/29/917899357/how-operation-warp-speeds-big-vaccine-contracts-could-stay-secret"
+      },
+      {
+        "datetime": "2020-09-30T06:29:03Z",
+        "uri": "https://web.archive.org/web/20200930062903/https://www.npr.org/sections/health-shots/2020/09/29/917899357/how-operation-warp-speeds-big-vaccine-contracts-could-stay-secret"
+      },
+      {
+        "datetime": "2020-09-30T12:44:32Z",
+        "uri": "https://web.archive.org/web/20200930124432/https://www.npr.org/sections/health-shots/2020/09/29/917899357/how-operation-warp-speeds-big-vaccine-contracts-could-stay-secret"
+      },
+      {
+        "datetime": "2020-10-01T14:14:41Z",
+        "uri": "https://web.archive.org/web/20201001141441/https://www.npr.org/sections/health-shots/2020/09/29/917899357/how-operation-warp-speeds-big-vaccine-contracts-could-stay-secret"
+      },
+      {
+        "datetime": "2020-10-02T03:38:45Z",
+        "uri": "https://web.archive.org/web/20201002033845/https://www.npr.org/sections/health-shots/2020/09/29/917899357/how-operation-warp-speeds-big-vaccine-contracts-could-stay-secret"
+      },
+      {
+        "datetime": "2020-10-02T17:38:17Z",
+        "uri": "https://web.archive.org/web/20201002173817/https://www.npr.org/sections/health-shots/2020/09/29/917899357/how-operation-warp-speeds-big-vaccine-contracts-could-stay-secret"
+      },
+      {
+        "datetime": "2020-10-03T16:52:31Z",
+        "uri": "https://web.archive.org/web/20201003165231/https://www.npr.org/sections/health-shots/2020/09/29/917899357/how-operation-warp-speeds-big-vaccine-contracts-could-stay-secret"
+      },
+      {
+        "datetime": "2020-10-04T15:23:47Z",
+        "uri": "https://web.archive.org/web/20201004152347/https://www.npr.org/sections/health-shots/2020/09/29/917899357/how-operation-warp-speeds-big-vaccine-contracts-could-stay-secret"
+      },
+      {
+        "datetime": "2020-10-04T16:38:42Z",
+        "uri": "https://web.archive.org/web/20201004163842/https://www.npr.org/sections/health-shots/2020/09/29/917899357/how-operation-warp-speeds-big-vaccine-contracts-could-stay-secret"
+      },
+      {
+        "datetime": "2020-10-05T17:09:37Z",
+        "uri": "https://web.archive.org/web/20201005170937/https://www.npr.org/sections/health-shots/2020/09/29/917899357/how-operation-warp-speeds-big-vaccine-contracts-could-stay-secret"
+      },
+      {
+        "datetime": "2020-10-06T16:09:57Z",
+        "uri": "https://perma.cc/AH4B-RAJD"
+      },
+      {
+        "datetime": "2020-10-06T16:09:58Z",
+        "uri": "https://web.archive.org/web/20201006160958/https://www.npr.org/sections/health-shots/2020/09/29/917899357/how-operation-warp-speeds-big-vaccine-contracts-could-stay-secret"
+      },
+      {
+        "datetime": "2020-10-06T17:51:07Z",
+        "uri": "https://web.archive.org/web/20201006175107/https://www.npr.org/sections/health-shots/2020/09/29/917899357/how-operation-warp-speeds-big-vaccine-contracts-could-stay-secret"
+      },
+      {
+        "datetime": "2020-10-07T19:49:52Z",
+        "uri": "https://web.archive.org/web/20201007194952/https://www.npr.org/sections/health-shots/2020/09/29/917899357/how-operation-warp-speeds-big-vaccine-contracts-could-stay-secret"
+      }
+    ],
+    "first": {
+      "datetime": "2020-09-29T20:35:19Z",
+      "uri": "https://web.archive.org/web/20200929203519/https://www.npr.org/sections/health-shots/2020/09/29/917899357/how-operation-warp-speeds-big-vaccine-contracts-could-stay-secret"
+    },
+    "last": {
+      "datetime": "2020-10-07T19:49:52Z",
+      "uri": "https://web.archive.org/web/20201007194952/https://www.npr.org/sections/health-shots/2020/09/29/917899357/how-operation-warp-speeds-big-vaccine-contracts-could-stay-secret"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.npr.org/sections/health-shots/2020/09/29/917899357/how-operation-warp-speeds-big-vaccine-contracts-could-stay-secret%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.npr.org/sections/health-shots/2020/09/29/917899357/how-operation-warp-speeds-big-vaccine-contracts-could-stay-secret%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.npr.org/sections/health-shots/2020/09/29/917899357/how-operation-warp-speeds-big-vaccine-contracts-could-stay-secret%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.npr.org/sections/health-shots/2020/09/29/917899357/how-operation-warp-speeds-big-vaccine-contracts-could-stay-secret%0A"
+}

@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.ack.net/news/20201007/one-new-coronavirus-case-reported-on-nantucket-wednesday%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.ack.net/news/20201007/one-new-coronavirus-case-reported-on-nantucket-wednesday%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-08T05:40:17Z",
+        "uri": "https://web.archive.org/web/20201008054017/https://www.ack.net/news/20201007/one-new-coronavirus-case-reported-on-nantucket-wednesday"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-08T05:40:17Z",
+      "uri": "https://web.archive.org/web/20201008054017/https://www.ack.net/news/20201007/one-new-coronavirus-case-reported-on-nantucket-wednesday"
+    },
+    "last": {
+      "datetime": "2020-10-08T05:40:17Z",
+      "uri": "https://web.archive.org/web/20201008054017/https://www.ack.net/news/20201007/one-new-coronavirus-case-reported-on-nantucket-wednesday"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.ack.net/news/20201007/one-new-coronavirus-case-reported-on-nantucket-wednesday%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.ack.net/news/20201007/one-new-coronavirus-case-reported-on-nantucket-wednesday%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.ack.net/news/20201007/one-new-coronavirus-case-reported-on-nantucket-wednesday%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.ack.net/news/20201007/one-new-coronavirus-case-reported-on-nantucket-wednesday%0A"
+}

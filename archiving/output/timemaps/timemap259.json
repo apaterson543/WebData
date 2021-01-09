@@ -1,0 +1,58 @@
+{
+  "original_uri": "https://www.theguardian.com/world/2020/oct/06/flurry-of-coronavirus-reinfections-leaves-scientists-puzzled%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.theguardian.com/world/2020/oct/06/flurry-of-coronavirus-reinfections-leaves-scientists-puzzled%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-06T13:08:03Z",
+        "uri": "https://web.archive.org/web/20201006130803/https://www.theguardian.com/world/2020/oct/06/flurry-of-coronavirus-reinfections-leaves-scientists-puzzled"
+      },
+      {
+        "datetime": "2020-10-06T13:08:12Z",
+        "uri": "https://web.archive.org/web/20201006130812/https://www.theguardian.com/world/2020/oct/06/flurry-of-coronavirus-reinfections-leaves-scientists-puzzled"
+      },
+      {
+        "datetime": "2020-10-06T13:10:15Z",
+        "uri": "https://web.archive.org/web/20201006131015/https://www.theguardian.com/world/2020/oct/06/flurry-of-coronavirus-reinfections-leaves-scientists-puzzled"
+      },
+      {
+        "datetime": "2020-10-06T20:56:45Z",
+        "uri": "https://web.archive.org/web/20201006205645/https://www.theguardian.com/world/2020/oct/06/flurry-of-coronavirus-reinfections-leaves-scientists-puzzled"
+      },
+      {
+        "datetime": "2020-10-06T21:30:34Z",
+        "uri": "https://web.archive.org/web/20201006213034/https://www.theguardian.com/world/2020/oct/06/flurry-of-coronavirus-reinfections-leaves-scientists-puzzled"
+      },
+      {
+        "datetime": "2020-10-06T22:00:20Z",
+        "uri": "https://web.archive.org/web/20201006220020/https://www.theguardian.com/world/2020/oct/06/flurry-of-coronavirus-reinfections-leaves-scientists-puzzled"
+      },
+      {
+        "datetime": "2020-10-07T08:04:02Z",
+        "uri": "https://web.archive.org/web/20201007080402/https://www.theguardian.com/world/2020/oct/06/flurry-of-coronavirus-reinfections-leaves-scientists-puzzled"
+      },
+      {
+        "datetime": "2020-10-07T10:05:32Z",
+        "uri": "https://web.archive.org/web/20201007100532/https://www.theguardian.com/world/2020/oct/06/flurry-of-coronavirus-reinfections-leaves-scientists-puzzled"
+      },
+      {
+        "datetime": "2020-10-08T04:04:14Z",
+        "uri": "https://web.archive.org/web/20201008040414/https://www.theguardian.com/world/2020/oct/06/flurry-of-coronavirus-reinfections-leaves-scientists-puzzled"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-06T13:08:03Z",
+      "uri": "https://web.archive.org/web/20201006130803/https://www.theguardian.com/world/2020/oct/06/flurry-of-coronavirus-reinfections-leaves-scientists-puzzled"
+    },
+    "last": {
+      "datetime": "2020-10-08T04:04:14Z",
+      "uri": "https://web.archive.org/web/20201008040414/https://www.theguardian.com/world/2020/oct/06/flurry-of-coronavirus-reinfections-leaves-scientists-puzzled"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.theguardian.com/world/2020/oct/06/flurry-of-coronavirus-reinfections-leaves-scientists-puzzled%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.theguardian.com/world/2020/oct/06/flurry-of-coronavirus-reinfections-leaves-scientists-puzzled%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.theguardian.com/world/2020/oct/06/flurry-of-coronavirus-reinfections-leaves-scientists-puzzled%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.theguardian.com/world/2020/oct/06/flurry-of-coronavirus-reinfections-leaves-scientists-puzzled%0A"
+}

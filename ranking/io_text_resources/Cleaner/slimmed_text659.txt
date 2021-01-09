@@ -1,0 +1,3 @@
+https://www.news-medical.net/news/20201006/Using-virus-like-particles-to-study-SARS-CoV-2-assembly-budding-and-entry.aspx
+
+b'Bad RequestBad Request - Invalid URLHTTP Error 400. The request URL is invalid.'

@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.khaleejtimes.com/coronavirus-pandemic/coronavirus-masks-now-mandatory-in-italy-amid-surge-in-cases%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.khaleejtimes.com/coronavirus-pandemic/coronavirus-masks-now-mandatory-in-italy-amid-surge-in-cases%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-08T02:29:48Z",
+        "uri": "https://web.archive.org/web/20201008022948/https://www.khaleejtimes.com/coronavirus-pandemic/coronavirus-masks-now-mandatory-in-italy-amid-surge-in-cases"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-08T02:29:48Z",
+      "uri": "https://web.archive.org/web/20201008022948/https://www.khaleejtimes.com/coronavirus-pandemic/coronavirus-masks-now-mandatory-in-italy-amid-surge-in-cases"
+    },
+    "last": {
+      "datetime": "2020-10-08T02:29:48Z",
+      "uri": "https://web.archive.org/web/20201008022948/https://www.khaleejtimes.com/coronavirus-pandemic/coronavirus-masks-now-mandatory-in-italy-amid-surge-in-cases"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.khaleejtimes.com/coronavirus-pandemic/coronavirus-masks-now-mandatory-in-italy-amid-surge-in-cases%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.khaleejtimes.com/coronavirus-pandemic/coronavirus-masks-now-mandatory-in-italy-amid-surge-in-cases%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.khaleejtimes.com/coronavirus-pandemic/coronavirus-masks-now-mandatory-in-italy-amid-surge-in-cases%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.khaleejtimes.com/coronavirus-pandemic/coronavirus-masks-now-mandatory-in-italy-amid-surge-in-cases%0A"
+}

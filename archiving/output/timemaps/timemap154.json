@@ -1,0 +1,66 @@
+{
+  "original_uri": "https://www.nbcnews.com/politics/donald-trump/trump-kills-stimulus-talks-tweets-no-deal-until-after-i-n1242312%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.nbcnews.com/politics/donald-trump/trump-kills-stimulus-talks-tweets-no-deal-until-after-i-n1242312%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-06T19:45:28Z",
+        "uri": "https://web.archive.org/web/20201006194528/https://www.nbcnews.com/politics/donald-trump/trump-kills-stimulus-talks-tweets-no-deal-until-after-i-n1242312"
+      },
+      {
+        "datetime": "2020-10-06T19:50:32Z",
+        "uri": "https://web.archive.org/web/20201006195032/https://www.nbcnews.com/politics/donald-trump/trump-kills-stimulus-talks-tweets-no-deal-until-after-i-n1242312"
+      },
+      {
+        "datetime": "2020-10-06T20:40:04Z",
+        "uri": "https://web.archive.org/web/20201006204004/https://www.nbcnews.com/politics/donald-trump/trump-kills-stimulus-talks-tweets-no-deal-until-after-i-n1242312"
+      },
+      {
+        "datetime": "2020-10-07T05:15:12Z",
+        "uri": "https://web.archive.org/web/20201007051512/https://www.nbcnews.com/politics/donald-trump/trump-kills-stimulus-talks-tweets-no-deal-until-after-i-n1242312"
+      },
+      {
+        "datetime": "2020-10-07T09:22:41Z",
+        "uri": "https://web.archive.org/web/20201007092241/https://www.nbcnews.com/politics/donald-trump/trump-kills-stimulus-talks-tweets-no-deal-until-after-i-n1242312"
+      },
+      {
+        "datetime": "2020-10-07T11:17:22Z",
+        "uri": "https://web.archive.org/web/20201007111722/https://www.nbcnews.com/politics/donald-trump/trump-kills-stimulus-talks-tweets-no-deal-until-after-i-n1242312"
+      },
+      {
+        "datetime": "2020-10-07T11:33:21Z",
+        "uri": "https://web.archive.org/web/20201007113321/https://www.nbcnews.com/politics/donald-trump/trump-kills-stimulus-talks-tweets-no-deal-until-after-i-n1242312"
+      },
+      {
+        "datetime": "2020-10-07T16:07:46Z",
+        "uri": "https://web.archive.org/web/20201007160746/https://www.nbcnews.com/politics/donald-trump/trump-kills-stimulus-talks-tweets-no-deal-until-after-i-n1242312"
+      },
+      {
+        "datetime": "2020-10-07T23:23:41Z",
+        "uri": "https://web.archive.org/web/20201007232341/https://www.nbcnews.com/politics/donald-trump/trump-kills-stimulus-talks-tweets-no-deal-until-after-i-n1242312"
+      },
+      {
+        "datetime": "2020-10-08T02:51:31Z",
+        "uri": "https://web.archive.org/web/20201008025131/https://www.nbcnews.com/politics/donald-trump/trump-kills-stimulus-talks-tweets-no-deal-until-after-i-n1242312"
+      },
+      {
+        "datetime": "2020-10-08T13:58:08Z",
+        "uri": "https://web.archive.org/web/20201008135808/https://www.nbcnews.com/politics/donald-trump/trump-kills-stimulus-talks-tweets-no-deal-until-after-i-n1242312"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-06T19:45:28Z",
+      "uri": "https://web.archive.org/web/20201006194528/https://www.nbcnews.com/politics/donald-trump/trump-kills-stimulus-talks-tweets-no-deal-until-after-i-n1242312"
+    },
+    "last": {
+      "datetime": "2020-10-08T13:58:08Z",
+      "uri": "https://web.archive.org/web/20201008135808/https://www.nbcnews.com/politics/donald-trump/trump-kills-stimulus-talks-tweets-no-deal-until-after-i-n1242312"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.nbcnews.com/politics/donald-trump/trump-kills-stimulus-talks-tweets-no-deal-until-after-i-n1242312%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.nbcnews.com/politics/donald-trump/trump-kills-stimulus-talks-tweets-no-deal-until-after-i-n1242312%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.nbcnews.com/politics/donald-trump/trump-kills-stimulus-talks-tweets-no-deal-until-after-i-n1242312%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.nbcnews.com/politics/donald-trump/trump-kills-stimulus-talks-tweets-no-deal-until-after-i-n1242312%0A"
+}

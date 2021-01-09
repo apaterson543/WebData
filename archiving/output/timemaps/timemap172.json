@@ -1,0 +1,62 @@
+{
+  "original_uri": "https://www.medpagetoday.com/infectiousdisease/covid19/85867%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.medpagetoday.com/infectiousdisease/covid19/85867%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-04-13T05:16:45Z",
+        "uri": "https://web.archive.org/web/20200413051645/https://www.medpagetoday.com/infectiousdisease/covid19/85867"
+      },
+      {
+        "datetime": "2020-05-17T06:57:56Z",
+        "uri": "https://web.archive.org/web/20200517065756/https://www.medpagetoday.com/infectiousdisease/covid19/85867"
+      },
+      {
+        "datetime": "2020-05-18T05:46:05Z",
+        "uri": "https://web.archive.org/web/20200518054605/https://www.medpagetoday.com/infectiousdisease/covid19/85867"
+      },
+      {
+        "datetime": "2020-05-21T17:59:26Z",
+        "uri": "https://web.archive.org/web/20200521175926/https://www.medpagetoday.com/infectiousdisease/covid19/85867"
+      },
+      {
+        "datetime": "2020-05-30T18:28:42Z",
+        "uri": "https://web.archive.org/web/20200530182842/https://www.medpagetoday.com/infectiousdisease/covid19/85867"
+      },
+      {
+        "datetime": "2020-05-31T09:02:03Z",
+        "uri": "https://web.archive.org/web/20200531090203/https://www.medpagetoday.com/infectiousdisease/covid19/85867"
+      },
+      {
+        "datetime": "2020-09-13T11:27:26Z",
+        "uri": "https://web.archive.org/web/20200913112726/https://www.medpagetoday.com/infectiousdisease/covid19/85867"
+      },
+      {
+        "datetime": "2020-09-15T18:01:02Z",
+        "uri": "https://web.archive.org/web/20200915180102/https://www.medpagetoday.com/infectiousdisease/covid19/85867"
+      },
+      {
+        "datetime": "2020-09-19T12:46:56Z",
+        "uri": "https://web.archive.org/web/20200919124656/https://www.medpagetoday.com/infectiousdisease/covid19/85867"
+      },
+      {
+        "datetime": "2020-10-03T00:59:47Z",
+        "uri": "https://web.archive.org/web/20201003005947/https://www.medpagetoday.com/infectiousdisease/covid19/85867"
+      }
+    ],
+    "first": {
+      "datetime": "2020-04-13T05:16:45Z",
+      "uri": "https://web.archive.org/web/20200413051645/https://www.medpagetoday.com/infectiousdisease/covid19/85867"
+    },
+    "last": {
+      "datetime": "2020-10-03T00:59:47Z",
+      "uri": "https://web.archive.org/web/20201003005947/https://www.medpagetoday.com/infectiousdisease/covid19/85867"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.medpagetoday.com/infectiousdisease/covid19/85867%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.medpagetoday.com/infectiousdisease/covid19/85867%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.medpagetoday.com/infectiousdisease/covid19/85867%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.medpagetoday.com/infectiousdisease/covid19/85867%0A"
+}

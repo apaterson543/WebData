@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.ocregister.com/2020/10/07/newsom-no-hurry-to-reopen-disneyland-and-other-california-theme-parks/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.ocregister.com/2020/10/07/newsom-no-hurry-to-reopen-disneyland-and-other-california-theme-parks/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T23:14:34Z",
+        "uri": "https://web.archive.org/web/20201007231434/http://www.ocregister.com/2020/10/07/newsom-no-hurry-to-reopen-disneyland-and-other-california-theme-parks/"
+      },
+      {
+        "datetime": "2020-10-07T23:54:30Z",
+        "uri": "https://web.archive.org/web/20201007235430/https://www.ocregister.com/2020/10/07/newsom-no-hurry-to-reopen-disneyland-and-other-california-theme-parks/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T23:14:34Z",
+      "uri": "https://web.archive.org/web/20201007231434/http://www.ocregister.com/2020/10/07/newsom-no-hurry-to-reopen-disneyland-and-other-california-theme-parks/"
+    },
+    "last": {
+      "datetime": "2020-10-07T23:54:30Z",
+      "uri": "https://web.archive.org/web/20201007235430/https://www.ocregister.com/2020/10/07/newsom-no-hurry-to-reopen-disneyland-and-other-california-theme-parks/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.ocregister.com/2020/10/07/newsom-no-hurry-to-reopen-disneyland-and-other-california-theme-parks/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.ocregister.com/2020/10/07/newsom-no-hurry-to-reopen-disneyland-and-other-california-theme-parks/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.ocregister.com/2020/10/07/newsom-no-hurry-to-reopen-disneyland-and-other-california-theme-parks/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.ocregister.com/2020/10/07/newsom-no-hurry-to-reopen-disneyland-and-other-california-theme-parks/%0A"
+}

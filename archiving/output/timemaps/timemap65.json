@@ -1,0 +1,42 @@
+{
+  "original_uri": "https://tom-gillispie.blogspot.com/2020/05/work.html%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://tom-gillispie.blogspot.com/2020/05/work.html%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-05-27T04:13:43Z",
+        "uri": "https://web.archive.org/web/20200527041343/https://tom-gillispie.blogspot.com/2020/05/work.html"
+      },
+      {
+        "datetime": "2020-06-05T22:48:47Z",
+        "uri": "https://web.archive.org/web/20200605224847/http://tom-gillispie.blogspot.com/2020/05/work.html"
+      },
+      {
+        "datetime": "2020-06-15T08:28:35Z",
+        "uri": "https://web.archive.org/web/20200615082835/https://tom-gillispie.blogspot.com/2020/05/work.html"
+      },
+      {
+        "datetime": "2020-07-09T10:00:51Z",
+        "uri": "https://web.archive.org/web/20200709100051/http://tom-gillispie.blogspot.com/2020/05/work.html"
+      },
+      {
+        "datetime": "2020-10-03T23:10:10Z",
+        "uri": "https://web.archive.org/web/20201003231010/https://tom-gillispie.blogspot.com/2020/05/work.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-05-27T04:13:43Z",
+      "uri": "https://web.archive.org/web/20200527041343/https://tom-gillispie.blogspot.com/2020/05/work.html"
+    },
+    "last": {
+      "datetime": "2020-10-03T23:10:10Z",
+      "uri": "https://web.archive.org/web/20201003231010/https://tom-gillispie.blogspot.com/2020/05/work.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://tom-gillispie.blogspot.com/2020/05/work.html%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://tom-gillispie.blogspot.com/2020/05/work.html%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://tom-gillispie.blogspot.com/2020/05/work.html%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://tom-gillispie.blogspot.com/2020/05/work.html%0A"
+}

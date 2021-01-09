@@ -1,0 +1,62 @@
+{
+  "original_uri": "https://kristineskitchenblog.com/immunity-boosting-orange-smoothie/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://kristineskitchenblog.com/immunity-boosting-orange-smoothie/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2017-01-06T20:09:16Z",
+        "uri": "https://web.archive.org/web/20170106200916/http://kristineskitchenblog.com:80/immunity-boosting-orange-smoothie/"
+      },
+      {
+        "datetime": "2017-02-07T15:42:26Z",
+        "uri": "https://web.archive.org/web/20170207154226/http://kristineskitchenblog.com:80/immunity-boosting-orange-smoothie"
+      },
+      {
+        "datetime": "2017-03-09T23:13:44Z",
+        "uri": "https://web.archive.org/web/20170309231344/http://kristineskitchenblog.com:80/immunity-boosting-orange-smoothie/"
+      },
+      {
+        "datetime": "2017-05-10T11:07:42Z",
+        "uri": "https://web.archive.org/web/20170510110742/http://kristineskitchenblog.com/immunity-boosting-orange-smoothie/"
+      },
+      {
+        "datetime": "2017-05-11T12:31:21Z",
+        "uri": "https://web.archive.org/web/20170511123121/http://kristineskitchenblog.com:80/immunity-boosting-orange-smoothie/"
+      },
+      {
+        "datetime": "2017-06-06T14:41:12Z",
+        "uri": "https://web.archive.org/web/20170606144112/http://kristineskitchenblog.com/immunity-boosting-orange-smoothie/"
+      },
+      {
+        "datetime": "2018-01-21T14:39:02Z",
+        "uri": "https://web.archive.org/web/20180121143902/https://kristineskitchenblog.com/immunity-boosting-orange-smoothie/"
+      },
+      {
+        "datetime": "2018-02-24T22:41:46Z",
+        "uri": "https://web.archive.org/web/20180224224146/https://kristineskitchenblog.com/immunity-boosting-orange-smoothie/"
+      },
+      {
+        "datetime": "2018-04-02T06:37:06Z",
+        "uri": "https://web.archive.org/web/20180402063706/https://kristineskitchenblog.com/immunity-boosting-orange-smoothie/"
+      },
+      {
+        "datetime": "2020-08-15T19:45:21Z",
+        "uri": "https://web.archive.org/web/20200815194521/https://kristineskitchenblog.com/immunity-boosting-orange-smoothie/"
+      }
+    ],
+    "first": {
+      "datetime": "2017-01-06T20:09:16Z",
+      "uri": "https://web.archive.org/web/20170106200916/http://kristineskitchenblog.com:80/immunity-boosting-orange-smoothie/"
+    },
+    "last": {
+      "datetime": "2020-08-15T19:45:21Z",
+      "uri": "https://web.archive.org/web/20200815194521/https://kristineskitchenblog.com/immunity-boosting-orange-smoothie/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://kristineskitchenblog.com/immunity-boosting-orange-smoothie/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://kristineskitchenblog.com/immunity-boosting-orange-smoothie/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://kristineskitchenblog.com/immunity-boosting-orange-smoothie/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://kristineskitchenblog.com/immunity-boosting-orange-smoothie/%0A"
+}

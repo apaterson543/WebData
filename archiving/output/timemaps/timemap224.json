@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.orlandosentinel.com/coronavirus/os-ne-florida-coronavirus-wednesday-october-7-20201007-s5h54oaafne3rliynudw6vcxcq-story.html%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.orlandosentinel.com/coronavirus/os-ne-florida-coronavirus-wednesday-october-7-20201007-s5h54oaafne3rliynudw6vcxcq-story.html%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-08T03:47:07Z",
+        "uri": "https://web.archive.org/web/20201008034707/https://www.orlandosentinel.com/coronavirus/os-ne-florida-coronavirus-wednesday-october-7-20201007-s5h54oaafne3rliynudw6vcxcq-story.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-08T03:47:07Z",
+      "uri": "https://web.archive.org/web/20201008034707/https://www.orlandosentinel.com/coronavirus/os-ne-florida-coronavirus-wednesday-october-7-20201007-s5h54oaafne3rliynudw6vcxcq-story.html"
+    },
+    "last": {
+      "datetime": "2020-10-08T03:47:07Z",
+      "uri": "https://web.archive.org/web/20201008034707/https://www.orlandosentinel.com/coronavirus/os-ne-florida-coronavirus-wednesday-october-7-20201007-s5h54oaafne3rliynudw6vcxcq-story.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.orlandosentinel.com/coronavirus/os-ne-florida-coronavirus-wednesday-october-7-20201007-s5h54oaafne3rliynudw6vcxcq-story.html%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.orlandosentinel.com/coronavirus/os-ne-florida-coronavirus-wednesday-october-7-20201007-s5h54oaafne3rliynudw6vcxcq-story.html%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.orlandosentinel.com/coronavirus/os-ne-florida-coronavirus-wednesday-october-7-20201007-s5h54oaafne3rliynudw6vcxcq-story.html%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.orlandosentinel.com/coronavirus/os-ne-florida-coronavirus-wednesday-october-7-20201007-s5h54oaafne3rliynudw6vcxcq-story.html%0A"
+}

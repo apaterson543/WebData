@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://www.youtube.com/watch?v=PqQ-1NaUzmo&feature=youtu.be%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.youtube.com/watch?v=PqQ-1NaUzmo&feature=youtu.be%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-10-06T11:59:19Z",
+        "uri": "https://wayback.archive-it.org/all/20181006115919/https://www.youtube.com/watch?gl=US&disable_polymer=true&hl=en&bpctr=9999999999&has_verified=1&v=pQq-YhtStAs"
+      },
+      {
+        "datetime": "2018-10-06T16:12:48Z",
+        "uri": "https://wayback.archive-it.org/all/20181006161248/https://www.youtube.com/watch?hl=en&gl=US&bpctr=9999999999&disable_polymer=true&has_verified=1&v=pQq-YhtStAs"
+      },
+      {
+        "datetime": "2018-10-06T19:46:43Z",
+        "uri": "https://wayback.archive-it.org/all/20181006194643/https://www.youtube.com/watch?bpctr=9999999999&disable_polymer=true&has_verified=1&gl=US&v=pQq-YhtStAs&hl=en"
+      },
+      {
+        "datetime": "2019-04-22T17:10:08Z",
+        "uri": "https://wayback.archive-it.org/all/20190422171008/https://www.youtube.com/watch?bpctr=9999999999&has_verified=1&hl=en&v=pqQ-uUhsA2o&disable_polymer=true&gl=US"
+      },
+      {
+        "datetime": "2019-11-04T16:01:09Z",
+        "uri": "https://wayback.archive-it.org/all/20191104160109/https://www.youtube.com/watch?v=pqQ-uUhsA2o&disable_polymer=true&has_verified=1&gl=US&bpctr=9999999999&hl=en"
+      },
+      {
+        "datetime": "2020-05-04T16:09:14Z",
+        "uri": "https://wayback.archive-it.org/all/20200504160914/https://www.youtube.com/watch?bpctr=9999999999&gl=US&has_verified=1&v=pqQ-uUhsA2o&disable_polymer=true&hl=en"
+      }
+    ],
+    "first": {
+      "datetime": "2018-10-06T11:59:19Z",
+      "uri": "https://wayback.archive-it.org/all/20181006115919/https://www.youtube.com/watch?gl=US&disable_polymer=true&hl=en&bpctr=9999999999&has_verified=1&v=pQq-YhtStAs"
+    },
+    "last": {
+      "datetime": "2020-05-04T16:09:14Z",
+      "uri": "https://wayback.archive-it.org/all/20200504160914/https://www.youtube.com/watch?bpctr=9999999999&gl=US&has_verified=1&v=pqQ-uUhsA2o&disable_polymer=true&hl=en"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.youtube.com/watch?v=PqQ-1NaUzmo&feature=youtu.be%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.youtube.com/watch?v=PqQ-1NaUzmo&feature=youtu.be%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.youtube.com/watch?v=PqQ-1NaUzmo&feature=youtu.be%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.youtube.com/watch?v=PqQ-1NaUzmo&feature=youtu.be%0A"
+}

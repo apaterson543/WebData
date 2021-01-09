@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.npr.org/2020/10/05/920238800/trump-halts-relief-package-vp-candidate-debate-preview-vote-by-mail-lawsuits%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.npr.org/2020/10/05/920238800/trump-halts-relief-package-vp-candidate-debate-preview-vote-by-mail-lawsuits%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T19:40:33Z",
+        "uri": "https://web.archive.org/web/20201007194033/https://www.npr.org/2020/10/05/920238800/trump-halts-relief-package-vp-candidate-debate-preview-vote-by-mail-lawsuits"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T19:40:33Z",
+      "uri": "https://web.archive.org/web/20201007194033/https://www.npr.org/2020/10/05/920238800/trump-halts-relief-package-vp-candidate-debate-preview-vote-by-mail-lawsuits"
+    },
+    "last": {
+      "datetime": "2020-10-07T19:40:33Z",
+      "uri": "https://web.archive.org/web/20201007194033/https://www.npr.org/2020/10/05/920238800/trump-halts-relief-package-vp-candidate-debate-preview-vote-by-mail-lawsuits"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.npr.org/2020/10/05/920238800/trump-halts-relief-package-vp-candidate-debate-preview-vote-by-mail-lawsuits%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.npr.org/2020/10/05/920238800/trump-halts-relief-package-vp-candidate-debate-preview-vote-by-mail-lawsuits%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.npr.org/2020/10/05/920238800/trump-halts-relief-package-vp-candidate-debate-preview-vote-by-mail-lawsuits%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.npr.org/2020/10/05/920238800/trump-halts-relief-package-vp-candidate-debate-preview-vote-by-mail-lawsuits%0A"
+}

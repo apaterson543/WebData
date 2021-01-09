@@ -1,0 +1,34 @@
+{
+  "original_uri": "https://www.etsy.com/shop/heromasksstudio/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.etsy.com/shop/heromasksstudio/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-08-25T17:50:29Z",
+        "uri": "https://web.archive.org/web/20200825175029/https://www.etsy.com/shop/heromasksstudio/"
+      },
+      {
+        "datetime": "2020-08-26T14:03:19Z",
+        "uri": "https://web.archive.org/web/20200826140319/https://www.etsy.com/shop/heromasksstudio/"
+      },
+      {
+        "datetime": "2020-09-09T10:47:06Z",
+        "uri": "https://web.archive.org/web/20200909104706/https://www.etsy.com/shop/heromasksstudio/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-08-25T17:50:29Z",
+      "uri": "https://web.archive.org/web/20200825175029/https://www.etsy.com/shop/heromasksstudio/"
+    },
+    "last": {
+      "datetime": "2020-09-09T10:47:06Z",
+      "uri": "https://web.archive.org/web/20200909104706/https://www.etsy.com/shop/heromasksstudio/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.etsy.com/shop/heromasksstudio/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.etsy.com/shop/heromasksstudio/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.etsy.com/shop/heromasksstudio/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.etsy.com/shop/heromasksstudio/%0A"
+}

@@ -1,0 +1,42 @@
+{
+  "original_uri": "https://www.bbc.com/news/business-54446285%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.bbc.com/news/business-54446285%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T13:21:24Z",
+        "uri": "https://web.archive.org/web/20201007132124/https://www.bbc.com/news/business-54446285"
+      },
+      {
+        "datetime": "2020-10-07T13:32:22Z",
+        "uri": "https://web.archive.org/web/20201007133222/https://www.bbc.com/news/business-54446285"
+      },
+      {
+        "datetime": "2020-10-07T18:00:21Z",
+        "uri": "https://web.archive.org/web/20201007180021/https://www.bbc.com/news/business-54446285"
+      },
+      {
+        "datetime": "2020-10-07T22:52:19Z",
+        "uri": "https://web.archive.org/web/20201007225219/https://www.bbc.com/news/business-54446285"
+      },
+      {
+        "datetime": "2020-10-07T23:45:25Z",
+        "uri": "https://web.archive.org/web/20201007234525/https://www.bbc.com/news/business-54446285"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T13:21:24Z",
+      "uri": "https://web.archive.org/web/20201007132124/https://www.bbc.com/news/business-54446285"
+    },
+    "last": {
+      "datetime": "2020-10-07T23:45:25Z",
+      "uri": "https://web.archive.org/web/20201007234525/https://www.bbc.com/news/business-54446285"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.bbc.com/news/business-54446285%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.bbc.com/news/business-54446285%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.bbc.com/news/business-54446285%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.bbc.com/news/business-54446285%0A"
+}

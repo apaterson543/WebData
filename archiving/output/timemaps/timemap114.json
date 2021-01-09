@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.presstv.com/Detail/2020/10/07/635844/UK-covid-19-coronavirus-health-problem%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.presstv.com/Detail/2020/10/07/635844/UK-covid-19-coronavirus-health-problem%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T12:46:34Z",
+        "uri": "https://web.archive.org/web/20201007124634/https://www.presstv.com/Detail/2020/10/07/635844/UK-covid-19-coronavirus-health-problem"
+      },
+      {
+        "datetime": "2020-10-08T04:44:21Z",
+        "uri": "https://web.archive.org/web/20201008044421/http://www.presstv.com/Detail/2020/10/07/635844/UK-covid-19-coronavirus-health-problem"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T12:46:34Z",
+      "uri": "https://web.archive.org/web/20201007124634/https://www.presstv.com/Detail/2020/10/07/635844/UK-covid-19-coronavirus-health-problem"
+    },
+    "last": {
+      "datetime": "2020-10-08T04:44:21Z",
+      "uri": "https://web.archive.org/web/20201008044421/http://www.presstv.com/Detail/2020/10/07/635844/UK-covid-19-coronavirus-health-problem"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.presstv.com/Detail/2020/10/07/635844/UK-covid-19-coronavirus-health-problem%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.presstv.com/Detail/2020/10/07/635844/UK-covid-19-coronavirus-health-problem%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.presstv.com/Detail/2020/10/07/635844/UK-covid-19-coronavirus-health-problem%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.presstv.com/Detail/2020/10/07/635844/UK-covid-19-coronavirus-health-problem%0A"
+}

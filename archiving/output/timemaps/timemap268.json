@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.gracebee.co.uk/2020/07/Anxiety-and-Coronavirus.html%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.gracebee.co.uk/2020/07/Anxiety-and-Coronavirus.html%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-09-14T04:52:40Z",
+        "uri": "https://web.archive.org/web/20200914045240/https://www.gracebee.co.uk/2020/07/Anxiety-and-Coronavirus.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-09-14T04:52:40Z",
+      "uri": "https://web.archive.org/web/20200914045240/https://www.gracebee.co.uk/2020/07/Anxiety-and-Coronavirus.html"
+    },
+    "last": {
+      "datetime": "2020-09-14T04:52:40Z",
+      "uri": "https://web.archive.org/web/20200914045240/https://www.gracebee.co.uk/2020/07/Anxiety-and-Coronavirus.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.gracebee.co.uk/2020/07/Anxiety-and-Coronavirus.html%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.gracebee.co.uk/2020/07/Anxiety-and-Coronavirus.html%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.gracebee.co.uk/2020/07/Anxiety-and-Coronavirus.html%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.gracebee.co.uk/2020/07/Anxiety-and-Coronavirus.html%0A"
+}

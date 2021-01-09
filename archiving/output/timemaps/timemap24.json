@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.environews.tv/world-news/covid-19-causing-large-tragic-child-hunger-increases-worldwide-un-sounding-the-alarm/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.environews.tv/world-news/covid-19-causing-large-tragic-child-hunger-increases-worldwide-un-sounding-the-alarm/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-02T17:23:27Z",
+        "uri": "https://web.archive.org/web/20201002172327/https://www.environews.tv/world-news/covid-19-causing-large-tragic-child-hunger-increases-worldwide-un-sounding-the-alarm/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-02T17:23:27Z",
+      "uri": "https://web.archive.org/web/20201002172327/https://www.environews.tv/world-news/covid-19-causing-large-tragic-child-hunger-increases-worldwide-un-sounding-the-alarm/"
+    },
+    "last": {
+      "datetime": "2020-10-02T17:23:27Z",
+      "uri": "https://web.archive.org/web/20201002172327/https://www.environews.tv/world-news/covid-19-causing-large-tragic-child-hunger-increases-worldwide-un-sounding-the-alarm/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.environews.tv/world-news/covid-19-causing-large-tragic-child-hunger-increases-worldwide-un-sounding-the-alarm/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.environews.tv/world-news/covid-19-causing-large-tragic-child-hunger-increases-worldwide-un-sounding-the-alarm/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.environews.tv/world-news/covid-19-causing-large-tragic-child-hunger-increases-worldwide-un-sounding-the-alarm/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.environews.tv/world-news/covid-19-causing-large-tragic-child-hunger-increases-worldwide-un-sounding-the-alarm/%0A"
+}

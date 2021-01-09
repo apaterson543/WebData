@@ -1,0 +1,34 @@
+{
+  "original_uri": "https://www.lookatourworld.com/living-life-in-during-lockdown-uk-edition/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.lookatourworld.com/living-life-in-during-lockdown-uk-edition/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-07-05T14:05:43Z",
+        "uri": "https://web.archive.org/web/20200705140543/https://www.lookatourworld.com/living-life-in-during-lockdown-uk-edition/"
+      },
+      {
+        "datetime": "2020-09-12T00:08:15Z",
+        "uri": "https://web.archive.org/web/20200912000815/https://www.lookatourworld.com/living-life-in-during-lockdown-uk-edition/"
+      },
+      {
+        "datetime": "2020-10-03T14:31:34Z",
+        "uri": "https://web.archive.org/web/20201003143134/https://www.lookatourworld.com/living-life-in-during-lockdown-uk-edition/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-07-05T14:05:43Z",
+      "uri": "https://web.archive.org/web/20200705140543/https://www.lookatourworld.com/living-life-in-during-lockdown-uk-edition/"
+    },
+    "last": {
+      "datetime": "2020-10-03T14:31:34Z",
+      "uri": "https://web.archive.org/web/20201003143134/https://www.lookatourworld.com/living-life-in-during-lockdown-uk-edition/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.lookatourworld.com/living-life-in-during-lockdown-uk-edition/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.lookatourworld.com/living-life-in-during-lockdown-uk-edition/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.lookatourworld.com/living-life-in-during-lockdown-uk-edition/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.lookatourworld.com/living-life-in-during-lockdown-uk-edition/%0A"
+}

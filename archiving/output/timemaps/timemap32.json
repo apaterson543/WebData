@@ -1,0 +1,54 @@
+{
+  "original_uri": "https://www.bbc.co.uk/news/world-africa-54418613%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.bbc.co.uk/news/world-africa-54418613%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T23:55:54Z",
+        "uri": "https://web.archive.org/web/20201007235554/http://bbc.co.uk/news/world-africa-54418613"
+      },
+      {
+        "datetime": "2020-10-07T23:55:55Z",
+        "uri": "https://web.archive.org/web/20201007235555/https://bbc.co.uk/news/world-africa-54418613"
+      },
+      {
+        "datetime": "2020-10-07T23:55:59Z",
+        "uri": "https://web.archive.org/web/20201007235559/https://www.bbc.co.uk/news/world-africa-54418613"
+      },
+      {
+        "datetime": "2020-10-07T23:55:59Z",
+        "uri": "https://web.archive.org/web/20201007235559/https://www.bbc.co.uk/news/world-africa-54418613"
+      },
+      {
+        "datetime": "2020-10-08T00:02:02Z",
+        "uri": "https://web.archive.org/web/20201008000202/https://www.bbc.co.uk/news/world-africa-54418613"
+      },
+      {
+        "datetime": "2020-10-08T00:14:02Z",
+        "uri": "https://web.archive.org/web/20201008001402/https://www.bbc.co.uk/news/world-africa-54418613"
+      },
+      {
+        "datetime": "2020-10-08T03:00:03Z",
+        "uri": "https://web.archive.org/web/20201008030003/https://www.bbc.co.uk/news/world-africa-54418613"
+      },
+      {
+        "datetime": "2020-10-08T08:07:41Z",
+        "uri": "https://web.archive.org/web/20201008080741/https://www.bbc.co.uk/news/world-africa-54418613"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T23:55:54Z",
+      "uri": "https://web.archive.org/web/20201007235554/http://bbc.co.uk/news/world-africa-54418613"
+    },
+    "last": {
+      "datetime": "2020-10-08T08:07:41Z",
+      "uri": "https://web.archive.org/web/20201008080741/https://www.bbc.co.uk/news/world-africa-54418613"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.bbc.co.uk/news/world-africa-54418613%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.bbc.co.uk/news/world-africa-54418613%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.bbc.co.uk/news/world-africa-54418613%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.bbc.co.uk/news/world-africa-54418613%0A"
+}

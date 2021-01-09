@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.presstv.com/Detail/2020/10/07/635831/US-Donald-Trump-coronavirus-aid-talks-%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.presstv.com/Detail/2020/10/07/635831/US-Donald-Trump-coronavirus-aid-talks-%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T09:49:28Z",
+        "uri": "https://web.archive.org/web/20201007094928/https://www.presstv.com/Detail/2020/10/07/635831/US-Donald-Trump-coronavirus-aid-talks-"
+      },
+      {
+        "datetime": "2020-10-07T10:58:14Z",
+        "uri": "https://web.archive.org/web/20201007105814/https://www.presstv.com/Detail/2020/10/07/635831/US-Donald-Trump-coronavirus-aid-talks-"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T09:49:28Z",
+      "uri": "https://web.archive.org/web/20201007094928/https://www.presstv.com/Detail/2020/10/07/635831/US-Donald-Trump-coronavirus-aid-talks-"
+    },
+    "last": {
+      "datetime": "2020-10-07T10:58:14Z",
+      "uri": "https://web.archive.org/web/20201007105814/https://www.presstv.com/Detail/2020/10/07/635831/US-Donald-Trump-coronavirus-aid-talks-"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.presstv.com/Detail/2020/10/07/635831/US-Donald-Trump-coronavirus-aid-talks-%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.presstv.com/Detail/2020/10/07/635831/US-Donald-Trump-coronavirus-aid-talks-%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.presstv.com/Detail/2020/10/07/635831/US-Donald-Trump-coronavirus-aid-talks-%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.presstv.com/Detail/2020/10/07/635831/US-Donald-Trump-coronavirus-aid-talks-%0A"
+}

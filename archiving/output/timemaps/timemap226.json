@@ -1,0 +1,50 @@
+{
+  "original_uri": "https://www.bbc.com/news/health-54442386%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.bbc.com/news/health-54442386%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T13:21:19Z",
+        "uri": "https://web.archive.org/web/20201007132119/https://www.bbc.com/news/health-54442386"
+      },
+      {
+        "datetime": "2020-10-07T17:18:04Z",
+        "uri": "https://web.archive.org/web/20201007171804/https://www.bbc.com/news/health-54442386"
+      },
+      {
+        "datetime": "2020-10-07T17:18:24Z",
+        "uri": "https://web.archive.org/web/20201007171824/https://www.bbc.com/news/health-54442386"
+      },
+      {
+        "datetime": "2020-10-07T17:44:10Z",
+        "uri": "https://web.archive.org/web/20201007174410/https://www.bbc.com/news/health-54442386"
+      },
+      {
+        "datetime": "2020-10-07T18:14:35Z",
+        "uri": "https://web.archive.org/web/20201007181435/https://www.bbc.com/news/health-54442386"
+      },
+      {
+        "datetime": "2020-10-07T22:52:31Z",
+        "uri": "https://web.archive.org/web/20201007225231/https://www.bbc.com/news/health-54442386"
+      },
+      {
+        "datetime": "2020-10-07T23:44:41Z",
+        "uri": "https://web.archive.org/web/20201007234441/https://www.bbc.com/news/health-54442386"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T13:21:19Z",
+      "uri": "https://web.archive.org/web/20201007132119/https://www.bbc.com/news/health-54442386"
+    },
+    "last": {
+      "datetime": "2020-10-07T23:44:41Z",
+      "uri": "https://web.archive.org/web/20201007234441/https://www.bbc.com/news/health-54442386"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.bbc.com/news/health-54442386%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.bbc.com/news/health-54442386%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.bbc.com/news/health-54442386%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.bbc.com/news/health-54442386%0A"
+}

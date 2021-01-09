@@ -1,0 +1,218 @@
+{
+  "original_uri": "https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-09-23T17:06:02Z",
+        "uri": "https://web.archive.org/web/20200923170602/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-09-23T17:06:02Z",
+        "uri": "https://web.archive.org/web/20200923170602/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-09-23T17:06:02Z",
+        "uri": "https://web.archive.org/web/20200923170602/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-09-23T17:08:02Z",
+        "uri": "https://web.archive.org/web/20200923170802/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-09-23T17:40:36Z",
+        "uri": "https://web.archive.org/web/20200923174036/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-09-23T18:12:57Z",
+        "uri": "https://web.archive.org/web/20200923181257/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-09-23T18:20:23Z",
+        "uri": "https://web.archive.org/web/20200923182023/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-09-23T18:44:12Z",
+        "uri": "https://web.archive.org/web/20200923184412/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-09-23T19:16:22Z",
+        "uri": "https://web.archive.org/web/20200923191622/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-09-23T19:48:13Z",
+        "uri": "https://web.archive.org/web/20200923194813/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-09-23T20:20:25Z",
+        "uri": "https://web.archive.org/web/20200923202025/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-09-23T20:52:39Z",
+        "uri": "https://web.archive.org/web/20200923205239/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-09-23T21:24:41Z",
+        "uri": "https://web.archive.org/web/20200923212441/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-09-24T03:33:05Z",
+        "uri": "https://web.archive.org/web/20200924033305/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-09-24T10:40:38Z",
+        "uri": "https://web.archive.org/web/20200924104038/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-09-24T10:44:02Z",
+        "uri": "https://web.archive.org/web/20200924104402/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-09-24T10:44:02Z",
+        "uri": "https://web.archive.org/web/20200924104402/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-09-24T10:44:34Z",
+        "uri": "https://web.archive.org/web/20200924104434/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-09-24T10:46:02Z",
+        "uri": "https://web.archive.org/web/20200924104602/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-09-24T11:18:24Z",
+        "uri": "https://web.archive.org/web/20200924111824/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-09-24T11:50:23Z",
+        "uri": "https://web.archive.org/web/20200924115023/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-09-24T12:19:30Z",
+        "uri": "https://web.archive.org/web/20200924121930/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-09-24T22:21:26Z",
+        "uri": "https://web.archive.org/web/20200924222126/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-09-24T23:25:35Z",
+        "uri": "https://web.archive.org/web/20200924232535/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-09-25T16:14:20Z",
+        "uri": "https://web.archive.org/web/20200925161420/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-09-25T16:16:42Z",
+        "uri": "https://web.archive.org/web/20200925161642/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-09-26T00:51:46Z",
+        "uri": "https://web.archive.org/web/20200926005146/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-09-26T05:50:24Z",
+        "uri": "https://web.archive.org/web/20200926055024/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-09-26T18:44:18Z",
+        "uri": "https://web.archive.org/web/20200926184418/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-09-27T06:18:26Z",
+        "uri": "https://web.archive.org/web/20200927061826/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-09-27T08:42:35Z",
+        "uri": "https://web.archive.org/web/20200927084235/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-09-27T19:22:43Z",
+        "uri": "https://web.archive.org/web/20200927192243/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-09-28T03:59:04Z",
+        "uri": "https://web.archive.org/web/20200928035904/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-09-28T06:47:47Z",
+        "uri": "https://web.archive.org/web/20200928064747/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-09-28T19:07:37Z",
+        "uri": "https://web.archive.org/web/20200928190737/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-09-28T20:22:44Z",
+        "uri": "https://web.archive.org/web/20200928202244/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-09-29T06:43:02Z",
+        "uri": "https://web.archive.org/web/20200929064302/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-09-29T21:13:31Z",
+        "uri": "https://web.archive.org/web/20200929211331/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-10-02T06:41:21Z",
+        "uri": "https://web.archive.org/web/20201002064121/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-10-03T06:09:41Z",
+        "uri": "https://web.archive.org/web/20201003060941/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-10-03T08:32:37Z",
+        "uri": "https://web.archive.org/web/20201003083237/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-10-03T11:06:16Z",
+        "uri": "https://web.archive.org/web/20201003110616/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-10-04T06:26:35Z",
+        "uri": "https://web.archive.org/web/20201004062635/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-10-05T00:52:47Z",
+        "uri": "https://web.archive.org/web/20201005005247/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-10-06T04:40:46Z",
+        "uri": "https://web.archive.org/web/20201006044046/http://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-10-06T06:13:04Z",
+        "uri": "https://web.archive.org/web/20201006061304/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-10-06T06:17:10Z",
+        "uri": "https://web.archive.org/web/20201006061710/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-10-06T12:13:40Z",
+        "uri": "https://web.archive.org/web/20201006121340/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      },
+      {
+        "datetime": "2020-10-06T21:23:41Z",
+        "uri": "https://web.archive.org/web/20201006212341/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-09-23T17:06:02Z",
+      "uri": "https://web.archive.org/web/20200923170602/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+    },
+    "last": {
+      "datetime": "2020-10-06T21:23:41Z",
+      "uri": "https://web.archive.org/web/20201006212341/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.nytimes.com/2020/09/23/world/europe/finland-dogs-airport-coronavirus.html%0A"
+}

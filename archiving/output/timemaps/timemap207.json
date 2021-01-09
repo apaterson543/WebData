@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://sputniknews.com/world/202010071080690296-live-updates-germany-confirms-2828-new-coronavirus-cases/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://sputniknews.com/world/202010071080690296-live-updates-germany-confirms-2828-new-coronavirus-cases/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-08T00:19:25Z",
+        "uri": "https://web.archive.org/web/20201008001925/https://sputniknews.com/world/202010071080690296-live-updates-germany-confirms-2828-new-coronavirus-cases/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-08T00:19:25Z",
+      "uri": "https://web.archive.org/web/20201008001925/https://sputniknews.com/world/202010071080690296-live-updates-germany-confirms-2828-new-coronavirus-cases/"
+    },
+    "last": {
+      "datetime": "2020-10-08T00:19:25Z",
+      "uri": "https://web.archive.org/web/20201008001925/https://sputniknews.com/world/202010071080690296-live-updates-germany-confirms-2828-new-coronavirus-cases/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://sputniknews.com/world/202010071080690296-live-updates-germany-confirms-2828-new-coronavirus-cases/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://sputniknews.com/world/202010071080690296-live-updates-germany-confirms-2828-new-coronavirus-cases/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://sputniknews.com/world/202010071080690296-live-updates-germany-confirms-2828-new-coronavirus-cases/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://sputniknews.com/world/202010071080690296-live-updates-germany-confirms-2828-new-coronavirus-cases/%0A"
+}

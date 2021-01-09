@@ -1,0 +1,74 @@
+{
+  "original_uri": "https://www.theguardian.com/us-news/2020/oct/07/texas-doctor-adeline-fagan-covid-coronavirus%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.theguardian.com/us-news/2020/oct/07/texas-doctor-adeline-fagan-covid-coronavirus%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T09:06:02Z",
+        "uri": "https://web.archive.org/web/20201007090602/https://www.theguardian.com/us-news/2020/oct/07/texas-doctor-adeline-fagan-covid-coronavirus"
+      },
+      {
+        "datetime": "2020-10-07T09:06:02Z",
+        "uri": "https://web.archive.org/web/20201007090602/https://www.theguardian.com/us-news/2020/oct/07/texas-doctor-adeline-fagan-covid-coronavirus"
+      },
+      {
+        "datetime": "2020-10-07T09:54:18Z",
+        "uri": "https://web.archive.org/web/20201007095418/https://www.theguardian.com/us-news/2020/oct/07/texas-doctor-adeline-fagan-covid-coronavirus"
+      },
+      {
+        "datetime": "2020-10-07T15:34:03Z",
+        "uri": "https://web.archive.org/web/20201007153403/https://www.theguardian.com/us-news/2020/oct/07/texas-doctor-adeline-fagan-covid-coronavirus"
+      },
+      {
+        "datetime": "2020-10-07T18:00:28Z",
+        "uri": "https://web.archive.org/web/20201007180028/https://www.theguardian.com/us-news/2020/oct/07/texas-doctor-adeline-fagan-covid-coronavirus"
+      },
+      {
+        "datetime": "2020-10-07T18:29:07Z",
+        "uri": "https://web.archive.org/web/20201007182907/https://www.theguardian.com/us-news/2020/oct/07/texas-doctor-adeline-fagan-covid-coronavirus"
+      },
+      {
+        "datetime": "2020-10-07T20:41:03Z",
+        "uri": "https://web.archive.org/web/20201007204103/http://www.theguardian.com/us-news/2020/oct/07/texas-doctor-adeline-fagan-covid-coronavirus"
+      },
+      {
+        "datetime": "2020-10-07T21:53:41Z",
+        "uri": "https://web.archive.org/web/20201007215341/https://www.theguardian.com/us-news/2020/oct/07/texas-doctor-adeline-fagan-covid-coronavirus"
+      },
+      {
+        "datetime": "2020-10-07T23:26:03Z",
+        "uri": "https://web.archive.org/web/20201007232603/https://www.theguardian.com/us-news/2020/oct/07/texas-doctor-adeline-fagan-covid-coronavirus"
+      },
+      {
+        "datetime": "2020-10-08T00:56:40Z",
+        "uri": "https://web.archive.org/web/20201008005640/https://www.theguardian.com/us-news/2020/oct/07/texas-doctor-adeline-fagan-covid-coronavirus"
+      },
+      {
+        "datetime": "2020-10-08T06:49:08Z",
+        "uri": "https://web.archive.org/web/20201008064908/https://www.theguardian.com/us-news/2020/oct/07/texas-doctor-adeline-fagan-covid-coronavirus"
+      },
+      {
+        "datetime": "2020-10-08T12:38:38Z",
+        "uri": "https://web.archive.org/web/20201008123838/https://www.theguardian.com/us-news/2020/oct/07/texas-doctor-adeline-fagan-covid-coronavirus"
+      },
+      {
+        "datetime": "2020-10-08T16:22:44Z",
+        "uri": "https://web.archive.org/web/20201008162244/https://www.theguardian.com/us-news/2020/oct/07/texas-doctor-adeline-fagan-covid-coronavirus"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T09:06:02Z",
+      "uri": "https://web.archive.org/web/20201007090602/https://www.theguardian.com/us-news/2020/oct/07/texas-doctor-adeline-fagan-covid-coronavirus"
+    },
+    "last": {
+      "datetime": "2020-10-08T16:22:44Z",
+      "uri": "https://web.archive.org/web/20201008162244/https://www.theguardian.com/us-news/2020/oct/07/texas-doctor-adeline-fagan-covid-coronavirus"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.theguardian.com/us-news/2020/oct/07/texas-doctor-adeline-fagan-covid-coronavirus%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.theguardian.com/us-news/2020/oct/07/texas-doctor-adeline-fagan-covid-coronavirus%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.theguardian.com/us-news/2020/oct/07/texas-doctor-adeline-fagan-covid-coronavirus%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.theguardian.com/us-news/2020/oct/07/texas-doctor-adeline-fagan-covid-coronavirus%0A"
+}

@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://www.thenation.com/article/economy/bill-gates-investments-covid/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.thenation.com/article/economy/bill-gates-investments-covid/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-05T09:55:02Z",
+        "uri": "https://web.archive.org/web/20201005095502/https://www.thenation.com/article/economy/bill-gates-investments-covid/"
+      },
+      {
+        "datetime": "2020-10-05T16:26:31Z",
+        "uri": "https://web.archive.org/web/20201005162631/https://www.thenation.com/article/economy/bill-gates-investments-covid/"
+      },
+      {
+        "datetime": "2020-10-06T05:56:30Z",
+        "uri": "https://web.archive.org/web/20201006055630/https://www.thenation.com/article/economy/bill-gates-investments-covid/"
+      },
+      {
+        "datetime": "2020-10-07T06:55:16Z",
+        "uri": "https://web.archive.org/web/20201007065516/https://www.thenation.com/article/economy/bill-gates-investments-covid/"
+      },
+      {
+        "datetime": "2020-10-08T02:58:54Z",
+        "uri": "https://web.archive.org/web/20201008025854/https://www.thenation.com/article/economy/bill-gates-investments-covid/"
+      },
+      {
+        "datetime": "2020-10-08T06:11:53Z",
+        "uri": "https://web.archive.org/web/20201008061153/https://www.thenation.com/article/economy/bill-gates-investments-covid/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-05T09:55:02Z",
+      "uri": "https://web.archive.org/web/20201005095502/https://www.thenation.com/article/economy/bill-gates-investments-covid/"
+    },
+    "last": {
+      "datetime": "2020-10-08T06:11:53Z",
+      "uri": "https://web.archive.org/web/20201008061153/https://www.thenation.com/article/economy/bill-gates-investments-covid/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.thenation.com/article/economy/bill-gates-investments-covid/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.thenation.com/article/economy/bill-gates-investments-covid/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.thenation.com/article/economy/bill-gates-investments-covid/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.thenation.com/article/economy/bill-gates-investments-covid/%0A"
+}

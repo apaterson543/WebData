@@ -1,0 +1,38 @@
+{
+  "original_uri": "https://thehill.com/homenews/administration/519588-secret-service-agents-criticize-trump-car-ride-this-should-never-have%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://thehill.com/homenews/administration/519588-secret-service-agents-criticize-trump-car-ride-this-should-never-have%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-05T18:30:34Z",
+        "uri": "https://web.archive.org/web/20201005183034/https://thehill.com/homenews/administration/519588-secret-service-agents-criticize-trump-car-ride-this-should-never-have"
+      },
+      {
+        "datetime": "2020-10-05T21:10:52Z",
+        "uri": "https://web.archive.org/web/20201005211052/https://thehill.com/homenews/administration/519588-secret-service-agents-criticize-trump-car-ride-this-should-never-have"
+      },
+      {
+        "datetime": "2020-10-07T03:54:20Z",
+        "uri": "https://web.archive.org/web/20201007035420/https://thehill.com/homenews/administration/519588-secret-service-agents-criticize-trump-car-ride-this-should-never-have"
+      },
+      {
+        "datetime": "2020-10-08T06:28:39Z",
+        "uri": "https://web.archive.org/web/20201008062839/https://thehill.com/homenews/administration/519588-secret-service-agents-criticize-trump-car-ride-this-should-never-have"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-05T18:30:34Z",
+      "uri": "https://web.archive.org/web/20201005183034/https://thehill.com/homenews/administration/519588-secret-service-agents-criticize-trump-car-ride-this-should-never-have"
+    },
+    "last": {
+      "datetime": "2020-10-08T06:28:39Z",
+      "uri": "https://web.archive.org/web/20201008062839/https://thehill.com/homenews/administration/519588-secret-service-agents-criticize-trump-car-ride-this-should-never-have"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://thehill.com/homenews/administration/519588-secret-service-agents-criticize-trump-car-ride-this-should-never-have%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://thehill.com/homenews/administration/519588-secret-service-agents-criticize-trump-car-ride-this-should-never-have%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://thehill.com/homenews/administration/519588-secret-service-agents-criticize-trump-car-ride-this-should-never-have%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://thehill.com/homenews/administration/519588-secret-service-agents-criticize-trump-car-ride-this-should-never-have%0A"
+}

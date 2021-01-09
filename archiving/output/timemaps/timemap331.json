@@ -1,0 +1,58 @@
+{
+  "original_uri": "https://www.bbc.co.uk/news/world-54370316%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.bbc.co.uk/news/world-54370316%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-03T09:34:02Z",
+        "uri": "https://web.archive.org/web/20201003093402/https://www.bbc.co.uk/news/world-54370316"
+      },
+      {
+        "datetime": "2020-10-03T10:28:03Z",
+        "uri": "https://web.archive.org/web/20201003102803/https://www.bbc.co.uk/news/world-54370316"
+      },
+      {
+        "datetime": "2020-10-03T16:20:03Z",
+        "uri": "https://web.archive.org/web/20201003162003/https://www.bbc.co.uk/news/world-54370316"
+      },
+      {
+        "datetime": "2020-10-03T21:36:03Z",
+        "uri": "https://web.archive.org/web/20201003213603/https://www.bbc.co.uk/news/world-54370316"
+      },
+      {
+        "datetime": "2020-10-03T21:56:37Z",
+        "uri": "https://web.archive.org/web/20201003215637/https://www.bbc.co.uk/news/world-54370316"
+      },
+      {
+        "datetime": "2020-10-04T06:32:03Z",
+        "uri": "https://web.archive.org/web/20201004063203/https://www.bbc.co.uk/news/world-54370316"
+      },
+      {
+        "datetime": "2020-10-04T09:38:44Z",
+        "uri": "https://web.archive.org/web/20201004093844/https://www.bbc.co.uk/news/world-54370316"
+      },
+      {
+        "datetime": "2020-10-05T00:36:02Z",
+        "uri": "https://web.archive.org/web/20201005003602/https://www.bbc.co.uk/news/world-54370316"
+      },
+      {
+        "datetime": "2020-10-05T02:15:08Z",
+        "uri": "https://web.archive.org/web/20201005021508/https://www.bbc.co.uk/news/world-54370316"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-03T09:34:02Z",
+      "uri": "https://web.archive.org/web/20201003093402/https://www.bbc.co.uk/news/world-54370316"
+    },
+    "last": {
+      "datetime": "2020-10-05T02:15:08Z",
+      "uri": "https://web.archive.org/web/20201005021508/https://www.bbc.co.uk/news/world-54370316"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.bbc.co.uk/news/world-54370316%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.bbc.co.uk/news/world-54370316%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.bbc.co.uk/news/world-54370316%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.bbc.co.uk/news/world-54370316%0A"
+}

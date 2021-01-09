@@ -1,0 +1,94 @@
+{
+  "original_uri": "https://buckscountyherald.com/index199.htm%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://buckscountyherald.com/index199.htm%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-09-14T01:34:29Z",
+        "uri": "https://web.archive.org/web/20200914013429/https://buckscountyherald.com/index199.htm"
+      },
+      {
+        "datetime": "2020-09-18T04:36:28Z",
+        "uri": "https://web.archive.org/web/20200918043628/https://buckscountyherald.com/index199.htm"
+      },
+      {
+        "datetime": "2020-09-25T15:51:14Z",
+        "uri": "https://web.archive.org/web/20200925155114/https://buckscountyherald.com/index199.htm"
+      },
+      {
+        "datetime": "2020-09-25T15:52:39Z",
+        "uri": "https://web.archive.org/web/20200925155239/http://buckscountyherald.com/index199.htm"
+      },
+      {
+        "datetime": "2020-09-29T03:46:15Z",
+        "uri": "https://web.archive.org/web/20200929034615/https://buckscountyherald.com/index199.htm"
+      },
+      {
+        "datetime": "2020-09-29T03:48:22Z",
+        "uri": "https://web.archive.org/web/20200929034822/http://buckscountyherald.com/index199.htm"
+      },
+      {
+        "datetime": "2020-09-30T00:01:08Z",
+        "uri": "https://web.archive.org/web/20200930000108/https://buckscountyherald.com/index199.htm"
+      },
+      {
+        "datetime": "2020-09-30T00:03:05Z",
+        "uri": "https://web.archive.org/web/20200930000305/http://buckscountyherald.com/index199.htm"
+      },
+      {
+        "datetime": "2020-10-02T06:11:50Z",
+        "uri": "https://web.archive.org/web/20201002061150/https://buckscountyherald.com/index199.htm"
+      },
+      {
+        "datetime": "2020-10-02T06:13:26Z",
+        "uri": "https://web.archive.org/web/20201002061326/http://buckscountyherald.com/index199.htm"
+      },
+      {
+        "datetime": "2020-10-03T06:10:51Z",
+        "uri": "https://web.archive.org/web/20201003061051/https://buckscountyherald.com/index199.htm"
+      },
+      {
+        "datetime": "2020-10-03T06:12:25Z",
+        "uri": "https://web.archive.org/web/20201003061225/http://buckscountyherald.com/index199.htm"
+      },
+      {
+        "datetime": "2020-10-04T04:25:03Z",
+        "uri": "https://web.archive.org/web/20201004042503/https://buckscountyherald.com/index199.htm"
+      },
+      {
+        "datetime": "2020-10-04T04:27:04Z",
+        "uri": "https://web.archive.org/web/20201004042704/http://buckscountyherald.com/index199.htm"
+      },
+      {
+        "datetime": "2020-10-06T09:15:21Z",
+        "uri": "https://web.archive.org/web/20201006091521/https://buckscountyherald.com/index199.htm"
+      },
+      {
+        "datetime": "2020-10-06T09:16:58Z",
+        "uri": "https://web.archive.org/web/20201006091658/http://buckscountyherald.com/index199.htm"
+      },
+      {
+        "datetime": "2020-10-07T13:57:01Z",
+        "uri": "https://web.archive.org/web/20201007135701/https://buckscountyherald.com/index199.htm"
+      },
+      {
+        "datetime": "2020-10-07T13:58:51Z",
+        "uri": "https://web.archive.org/web/20201007135851/http://buckscountyherald.com/index199.htm"
+      }
+    ],
+    "first": {
+      "datetime": "2020-09-14T01:34:29Z",
+      "uri": "https://web.archive.org/web/20200914013429/https://buckscountyherald.com/index199.htm"
+    },
+    "last": {
+      "datetime": "2020-10-07T13:58:51Z",
+      "uri": "https://web.archive.org/web/20201007135851/http://buckscountyherald.com/index199.htm"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://buckscountyherald.com/index199.htm%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://buckscountyherald.com/index199.htm%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://buckscountyherald.com/index199.htm%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://buckscountyherald.com/index199.htm%0A"
+}

@@ -1,0 +1,34 @@
+{
+  "original_uri": "https://www.inc.com/magazine/202009/keith-ferrazzi/remote-team-skills-agility-collaboration-candor.html%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.inc.com/magazine/202009/keith-ferrazzi/remote-team-skills-agility-collaboration-candor.html%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-08-18T09:57:54Z",
+        "uri": "https://web.archive.org/web/20200818095754/https://www.inc.com/magazine/202009/keith-ferrazzi/remote-team-skills-agility-collaboration-candor.html"
+      },
+      {
+        "datetime": "2020-08-20T07:41:24Z",
+        "uri": "https://web.archive.org/web/20200820074124/https://www.inc.com/magazine/202009/keith-ferrazzi/remote-team-skills-agility-collaboration-candor.html"
+      },
+      {
+        "datetime": "2020-10-05T03:07:25Z",
+        "uri": "https://web.archive.org/web/20201005030725/https://www.inc.com/magazine/202009/keith-ferrazzi/remote-team-skills-agility-collaboration-candor.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-08-18T09:57:54Z",
+      "uri": "https://web.archive.org/web/20200818095754/https://www.inc.com/magazine/202009/keith-ferrazzi/remote-team-skills-agility-collaboration-candor.html"
+    },
+    "last": {
+      "datetime": "2020-10-05T03:07:25Z",
+      "uri": "https://web.archive.org/web/20201005030725/https://www.inc.com/magazine/202009/keith-ferrazzi/remote-team-skills-agility-collaboration-candor.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.inc.com/magazine/202009/keith-ferrazzi/remote-team-skills-agility-collaboration-candor.html%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.inc.com/magazine/202009/keith-ferrazzi/remote-team-skills-agility-collaboration-candor.html%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.inc.com/magazine/202009/keith-ferrazzi/remote-team-skills-agility-collaboration-candor.html%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.inc.com/magazine/202009/keith-ferrazzi/remote-team-skills-agility-collaboration-candor.html%0A"
+}

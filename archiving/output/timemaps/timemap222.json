@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.epmmagazine.com/news/researchers-to-test/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.epmmagazine.com/news/researchers-to-test/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-09-18T13:23:51Z",
+        "uri": "https://web.archive.org/web/20200918132351/https://www.epmmagazine.com/news/researchers-to-test/"
+      },
+      {
+        "datetime": "2020-10-02T14:27:21Z",
+        "uri": "https://web.archive.org/web/20201002142721/https://www.epmmagazine.com/news/researchers-to-test/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-09-18T13:23:51Z",
+      "uri": "https://web.archive.org/web/20200918132351/https://www.epmmagazine.com/news/researchers-to-test/"
+    },
+    "last": {
+      "datetime": "2020-10-02T14:27:21Z",
+      "uri": "https://web.archive.org/web/20201002142721/https://www.epmmagazine.com/news/researchers-to-test/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.epmmagazine.com/news/researchers-to-test/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.epmmagazine.com/news/researchers-to-test/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.epmmagazine.com/news/researchers-to-test/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.epmmagazine.com/news/researchers-to-test/%0A"
+}

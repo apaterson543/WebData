@@ -1,0 +1,13 @@
+YSHEN@ODU.EDU <donotreply@blackboard.com>
+
+Fri, Dec 4, 9:13 AM (4 days ago)
+
+to
+
+Class,
+
+The PPMImage.cpp for P3 has been updated again to correct a bug.  You need to download the latest version from Blackboard.
+
+Try to use both ASCII and binary formats when saving your screen.  You can see the difference between the sizes of the two different types of files.
+
+Yuzhong Shen

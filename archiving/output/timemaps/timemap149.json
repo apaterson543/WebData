@@ -1,0 +1,158 @@
+{
+  "original_uri": "https://www.nature.com/articles/s41586-020-2818-3%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.nature.com/articles/s41586-020-2818-3%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-09-30T13:30:19Z",
+        "uri": "https://web.archive.org/web/20200930133019/https://www.nature.com/articles/s41586-020-2818-3"
+      },
+      {
+        "datetime": "2020-09-30T14:25:42Z",
+        "uri": "https://web.archive.org/web/20200930142542/https://www.nature.com/articles/s41586-020-2818-3"
+      },
+      {
+        "datetime": "2020-09-30T16:37:29Z",
+        "uri": "https://web.archive.org/web/20200930163729/https://www.nature.com/articles/s41586-020-2818-3"
+      },
+      {
+        "datetime": "2020-10-01T00:41:00Z",
+        "uri": "https://web.archive.org/web/20201001004100/https://www.nature.com/articles/s41586-020-2818-3"
+      },
+      {
+        "datetime": "2020-10-01T00:41:01Z",
+        "uri": "https://web.archive.org/web/20201001004101/https://www.nature.com/articles/s41586-020-2818-3"
+      },
+      {
+        "datetime": "2020-10-01T01:51:28Z",
+        "uri": "https://web.archive.org/web/20201001015128/https://www.nature.com/articles/s41586-020-2818-3"
+      },
+      {
+        "datetime": "2020-10-01T02:30:03Z",
+        "uri": "https://web.archive.org/web/20201001023003/https://www.nature.com/articles/s41586-020-2818-3"
+      },
+      {
+        "datetime": "2020-10-01T04:51:21Z",
+        "uri": "https://web.archive.org/web/20201001045121/https://www.nature.com/articles/s41586-020-2818-3"
+      },
+      {
+        "datetime": "2020-10-01T07:58:18Z",
+        "uri": "https://web.archive.org/web/20201001075818/https://www.nature.com/articles/s41586-020-2818-3"
+      },
+      {
+        "datetime": "2020-10-01T09:25:09Z",
+        "uri": "https://web.archive.org/web/20201001092509/https://www.nature.com/articles/s41586-020-2818-3"
+      },
+      {
+        "datetime": "2020-10-01T09:27:27Z",
+        "uri": "https://web.archive.org/web/20201001092727/https://www.nature.com/articles/s41586-020-2818-3"
+      },
+      {
+        "datetime": "2020-10-01T14:46:17Z",
+        "uri": "https://web.archive.org/web/20201001144617/https://www.nature.com/articles/s41586-020-2818-3"
+      },
+      {
+        "datetime": "2020-10-01T19:57:32Z",
+        "uri": "https://web.archive.org/web/20201001195732/https://www.nature.com/articles/s41586-020-2818-3"
+      },
+      {
+        "datetime": "2020-10-01T20:08:51Z",
+        "uri": "https://web.archive.org/web/20201001200851/https://www.nature.com/articles/s41586-020-2818-3"
+      },
+      {
+        "datetime": "2020-10-01T20:47:31Z",
+        "uri": "https://web.archive.org/web/20201001204731/https://www.nature.com/articles/s41586-020-2818-3"
+      },
+      {
+        "datetime": "2020-10-02T05:12:49Z",
+        "uri": "https://web.archive.org/web/20201002051249/https://www.nature.com/articles/s41586-020-2818-3"
+      },
+      {
+        "datetime": "2020-10-02T12:34:49Z",
+        "uri": "https://web.archive.org/web/20201002123449/https://www.nature.com/articles/s41586-020-2818-3"
+      },
+      {
+        "datetime": "2020-10-03T01:12:16Z",
+        "uri": "https://web.archive.org/web/20201003011216/https://www.nature.com/articles/s41586-020-2818-3"
+      },
+      {
+        "datetime": "2020-10-03T06:42:56Z",
+        "uri": "https://web.archive.org/web/20201003064256/http://www.nature.com/articles/s41586-020-2818-3"
+      },
+      {
+        "datetime": "2020-10-03T13:45:17Z",
+        "uri": "https://web.archive.org/web/20201003134517/https://www.nature.com/articles/s41586-020-2818-3"
+      },
+      {
+        "datetime": "2020-10-03T14:08:12Z",
+        "uri": "https://web.archive.org/web/20201003140812/https://www.nature.com/articles/s41586-020-2818-3"
+      },
+      {
+        "datetime": "2020-10-03T16:30:22Z",
+        "uri": "https://web.archive.org/web/20201003163022/https://www.nature.com/articles/s41586-020-2818-3"
+      },
+      {
+        "datetime": "2020-10-04T13:35:21Z",
+        "uri": "https://web.archive.org/web/20201004133521/https://www.nature.com/articles/s41586-020-2818-3"
+      },
+      {
+        "datetime": "2020-10-04T14:37:24Z",
+        "uri": "https://web.archive.org/web/20201004143724/https://www.nature.com/articles/s41586-020-2818-3"
+      },
+      {
+        "datetime": "2020-10-04T15:03:40Z",
+        "uri": "https://web.archive.org/web/20201004150340/https://www.nature.com/articles/s41586-020-2818-3"
+      },
+      {
+        "datetime": "2020-10-05T10:13:35Z",
+        "uri": "https://web.archive.org/web/20201005101335/https://www.nature.com/articles/s41586-020-2818-3"
+      },
+      {
+        "datetime": "2020-10-05T15:32:07Z",
+        "uri": "https://web.archive.org/web/20201005153207/https://www.nature.com/articles/s41586-020-2818-3"
+      },
+      {
+        "datetime": "2020-10-06T12:55:22Z",
+        "uri": "https://web.archive.org/web/20201006125522/https://www.nature.com/articles/s41586-020-2818-3"
+      },
+      {
+        "datetime": "2020-10-06T13:57:19Z",
+        "uri": "https://web.archive.org/web/20201006135719/https://www.nature.com/articles/s41586-020-2818-3"
+      },
+      {
+        "datetime": "2020-10-06T17:11:19Z",
+        "uri": "https://web.archive.org/web/20201006171119/https://www.nature.com/articles/s41586-020-2818-3"
+      },
+      {
+        "datetime": "2020-10-06T18:31:09Z",
+        "uri": "https://web.archive.org/web/20201006183109/https://www.nature.com/articles/s41586-020-2818-3"
+      },
+      {
+        "datetime": "2020-10-07T15:04:52Z",
+        "uri": "https://web.archive.org/web/20201007150452/https://www.nature.com/articles/s41586-020-2818-3"
+      },
+      {
+        "datetime": "2020-10-07T17:58:52Z",
+        "uri": "https://web.archive.org/web/20201007175852/https://www.nature.com/articles/s41586-020-2818-3"
+      },
+      {
+        "datetime": "2020-10-07T21:25:43Z",
+        "uri": "https://web.archive.org/web/20201007212543/https://www.nature.com/articles/s41586-020-2818-3"
+      }
+    ],
+    "first": {
+      "datetime": "2020-09-30T13:30:19Z",
+      "uri": "https://web.archive.org/web/20200930133019/https://www.nature.com/articles/s41586-020-2818-3"
+    },
+    "last": {
+      "datetime": "2020-10-07T21:25:43Z",
+      "uri": "https://web.archive.org/web/20201007212543/https://www.nature.com/articles/s41586-020-2818-3"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.nature.com/articles/s41586-020-2818-3%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.nature.com/articles/s41586-020-2818-3%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.nature.com/articles/s41586-020-2818-3%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.nature.com/articles/s41586-020-2818-3%0A"
+}

@@ -1,0 +1,94 @@
+{
+  "original_uri": "https://www.health.com/food/health-benefits-oranges%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.health.com/food/health-benefits-oranges%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-06-13T14:42:40Z",
+        "uri": "https://web.archive.org/web/20200613144240/https://www.health.com/food/health-benefits-oranges"
+      },
+      {
+        "datetime": "2020-06-20T15:19:28Z",
+        "uri": "https://web.archive.org/web/20200620151928/https://www.health.com/food/health-benefits-oranges"
+      },
+      {
+        "datetime": "2020-06-26T09:12:51Z",
+        "uri": "https://web.archive.org/web/20200626091251/https://www.health.com/food/health-benefits-oranges"
+      },
+      {
+        "datetime": "2020-06-27T12:26:45Z",
+        "uri": "https://web.archive.org/web/20200627122645/https://www.health.com/food/health-benefits-oranges"
+      },
+      {
+        "datetime": "2020-06-27T16:19:25Z",
+        "uri": "https://web.archive.org/web/20200627161925/https://www.health.com/food/health-benefits-oranges"
+      },
+      {
+        "datetime": "2020-07-04T16:48:47Z",
+        "uri": "https://web.archive.org/web/20200704164847/https://www.health.com/food/health-benefits-oranges"
+      },
+      {
+        "datetime": "2020-07-11T19:37:43Z",
+        "uri": "https://web.archive.org/web/20200711193743/https://www.health.com/food/health-benefits-oranges"
+      },
+      {
+        "datetime": "2020-07-17T19:06:54Z",
+        "uri": "https://web.archive.org/web/20200717190654/https://www.health.com/food/health-benefits-oranges"
+      },
+      {
+        "datetime": "2020-07-18T23:02:36Z",
+        "uri": "https://web.archive.org/web/20200718230236/https://www.health.com/food/health-benefits-oranges"
+      },
+      {
+        "datetime": "2020-07-26T00:41:00Z",
+        "uri": "https://web.archive.org/web/20200726004100/https://www.health.com/food/health-benefits-oranges"
+      },
+      {
+        "datetime": "2020-08-01T22:49:39Z",
+        "uri": "https://web.archive.org/web/20200801224939/https://www.health.com/food/health-benefits-oranges"
+      },
+      {
+        "datetime": "2020-09-06T06:42:11Z",
+        "uri": "https://web.archive.org/web/20200906064211/https://www.health.com/food/health-benefits-oranges"
+      },
+      {
+        "datetime": "2020-09-13T06:15:07Z",
+        "uri": "https://web.archive.org/web/20200913061507/https://www.health.com/food/health-benefits-oranges"
+      },
+      {
+        "datetime": "2020-09-20T07:30:22Z",
+        "uri": "https://web.archive.org/web/20200920073022/https://www.health.com/food/health-benefits-oranges"
+      },
+      {
+        "datetime": "2020-09-27T12:16:27Z",
+        "uri": "https://web.archive.org/web/20200927121627/https://www.health.com/food/health-benefits-oranges"
+      },
+      {
+        "datetime": "2020-09-28T23:56:19Z",
+        "uri": "https://web.archive.org/web/20200928235619/https://www.health.com/food/health-benefits-oranges"
+      },
+      {
+        "datetime": "2020-10-02T11:04:38Z",
+        "uri": "https://web.archive.org/web/20201002110438/https://www.health.com/food/health-benefits-oranges"
+      },
+      {
+        "datetime": "2020-10-04T13:18:33Z",
+        "uri": "https://web.archive.org/web/20201004131833/https://www.health.com/food/health-benefits-oranges"
+      }
+    ],
+    "first": {
+      "datetime": "2020-06-13T14:42:40Z",
+      "uri": "https://web.archive.org/web/20200613144240/https://www.health.com/food/health-benefits-oranges"
+    },
+    "last": {
+      "datetime": "2020-10-04T13:18:33Z",
+      "uri": "https://web.archive.org/web/20201004131833/https://www.health.com/food/health-benefits-oranges"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.health.com/food/health-benefits-oranges%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.health.com/food/health-benefits-oranges%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.health.com/food/health-benefits-oranges%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.health.com/food/health-benefits-oranges%0A"
+}

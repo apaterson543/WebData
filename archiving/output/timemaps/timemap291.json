@@ -1,0 +1,34 @@
+{
+  "original_uri": "https://www.thegatewaypundit.com/2020/04/94-nyc-coronavirus-patients-underlying-health-problems-3505-nursing-home-residents-die-china-coronavirus-new-york-state/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.thegatewaypundit.com/2020/04/94-nyc-coronavirus-patients-underlying-health-problems-3505-nursing-home-residents-die-china-coronavirus-new-york-state/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-04-23T21:10:39Z",
+        "uri": "https://web.archive.org/web/20200423211039/https://www.thegatewaypundit.com/2020/04/94-nyc-coronavirus-patients-underlying-health-problems-3505-nursing-home-residents-die-china-coronavirus-new-york-state/"
+      },
+      {
+        "datetime": "2020-06-03T00:42:33Z",
+        "uri": "https://web.archive.org/web/20200603004233/https://www.thegatewaypundit.com/2020/04/94-nyc-coronavirus-patients-underlying-health-problems-3505-nursing-home-residents-die-china-coronavirus-new-york-state/"
+      },
+      {
+        "datetime": "2020-10-03T07:35:24Z",
+        "uri": "https://web.archive.org/web/20201003073524/https://www.thegatewaypundit.com/2020/04/94-nyc-coronavirus-patients-underlying-health-problems-3505-nursing-home-residents-die-china-coronavirus-new-york-state/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-04-23T21:10:39Z",
+      "uri": "https://web.archive.org/web/20200423211039/https://www.thegatewaypundit.com/2020/04/94-nyc-coronavirus-patients-underlying-health-problems-3505-nursing-home-residents-die-china-coronavirus-new-york-state/"
+    },
+    "last": {
+      "datetime": "2020-10-03T07:35:24Z",
+      "uri": "https://web.archive.org/web/20201003073524/https://www.thegatewaypundit.com/2020/04/94-nyc-coronavirus-patients-underlying-health-problems-3505-nursing-home-residents-die-china-coronavirus-new-york-state/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.thegatewaypundit.com/2020/04/94-nyc-coronavirus-patients-underlying-health-problems-3505-nursing-home-residents-die-china-coronavirus-new-york-state/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.thegatewaypundit.com/2020/04/94-nyc-coronavirus-patients-underlying-health-problems-3505-nursing-home-residents-die-china-coronavirus-new-york-state/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.thegatewaypundit.com/2020/04/94-nyc-coronavirus-patients-underlying-health-problems-3505-nursing-home-residents-die-china-coronavirus-new-york-state/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.thegatewaypundit.com/2020/04/94-nyc-coronavirus-patients-underlying-health-problems-3505-nursing-home-residents-die-china-coronavirus-new-york-state/%0A"
+}

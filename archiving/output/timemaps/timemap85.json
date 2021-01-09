@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://au.news.yahoo.com/coronavirus-victoria-cases-rise-again-zero-deaths-214513146.html%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://au.news.yahoo.com/coronavirus-victoria-cases-rise-again-zero-deaths-214513146.html%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-08T01:53:05Z",
+        "uri": "https://web.archive.org/web/20201008015305/https://au.news.yahoo.com/coronavirus-victoria-cases-rise-again-zero-deaths-214513146.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-08T01:53:05Z",
+      "uri": "https://web.archive.org/web/20201008015305/https://au.news.yahoo.com/coronavirus-victoria-cases-rise-again-zero-deaths-214513146.html"
+    },
+    "last": {
+      "datetime": "2020-10-08T01:53:05Z",
+      "uri": "https://web.archive.org/web/20201008015305/https://au.news.yahoo.com/coronavirus-victoria-cases-rise-again-zero-deaths-214513146.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://au.news.yahoo.com/coronavirus-victoria-cases-rise-again-zero-deaths-214513146.html%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://au.news.yahoo.com/coronavirus-victoria-cases-rise-again-zero-deaths-214513146.html%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://au.news.yahoo.com/coronavirus-victoria-cases-rise-again-zero-deaths-214513146.html%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://au.news.yahoo.com/coronavirus-victoria-cases-rise-again-zero-deaths-214513146.html%0A"
+}

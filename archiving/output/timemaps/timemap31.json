@@ -1,0 +1,90 @@
+{
+  "original_uri": "https://hidot.hawaii.gov/airports/covid-19/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://hidot.hawaii.gov/airports/covid-19/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-04-09T07:12:10Z",
+        "uri": "https://web.archive.org/web/20200409071210/https://hidot.hawaii.gov/airports/covid-19/"
+      },
+      {
+        "datetime": "2020-04-12T18:18:29Z",
+        "uri": "https://web.archive.org/web/20200412181829/https://hidot.hawaii.gov/airports/covid-19/"
+      },
+      {
+        "datetime": "2020-04-20T14:24:45Z",
+        "uri": "https://web.archive.org/web/20200420142445/https://hidot.hawaii.gov/airports/covid-19/"
+      },
+      {
+        "datetime": "2020-05-22T02:47:13Z",
+        "uri": "https://web.archive.org/web/20200522024713/https://hidot.hawaii.gov/airports/covid-19/"
+      },
+      {
+        "datetime": "2020-05-24T08:54:14Z",
+        "uri": "https://web.archive.org/web/20200524085414/https://hidot.hawaii.gov/airports/covid-19/"
+      },
+      {
+        "datetime": "2020-06-04T08:10:33Z",
+        "uri": "https://web.archive.org/web/20200604081033/https://hidot.hawaii.gov/airports/covid-19/"
+      },
+      {
+        "datetime": "2020-07-02T15:49:08Z",
+        "uri": "https://web.archive.org/web/20200702154908/https://hidot.hawaii.gov/airports/covid-19/"
+      },
+      {
+        "datetime": "2020-07-07T18:00:57Z",
+        "uri": "https://web.archive.org/web/20200707180057/https://hidot.hawaii.gov/airports/covid-19/"
+      },
+      {
+        "datetime": "2020-07-07T19:12:19Z",
+        "uri": "https://web.archive.org/web/20200707191219/https://hidot.hawaii.gov/airports/covid-19/"
+      },
+      {
+        "datetime": "2020-07-07T21:41:03Z",
+        "uri": "https://web.archive.org/web/20200707214103/https://hidot.hawaii.gov/airports/covid-19/"
+      },
+      {
+        "datetime": "2020-07-18T21:30:44Z",
+        "uri": "https://web.archive.org/web/20200718213044/https://hidot.hawaii.gov/airports/covid-19/"
+      },
+      {
+        "datetime": "2020-08-02T15:23:46Z",
+        "uri": "https://web.archive.org/web/20200802152346/https://hidot.hawaii.gov/airports/covid-19/"
+      },
+      {
+        "datetime": "2020-08-07T16:04:19Z",
+        "uri": "https://web.archive.org/web/20200807160419/https://hidot.hawaii.gov/airports/covid-19/"
+      },
+      {
+        "datetime": "2020-08-18T04:27:15Z",
+        "uri": "https://web.archive.org/web/20200818042715/https://hidot.hawaii.gov/airports/covid-19/"
+      },
+      {
+        "datetime": "2020-08-19T13:24:46Z",
+        "uri": "https://web.archive.org/web/20200819132446/https://hidot.hawaii.gov/airports/covid-19/"
+      },
+      {
+        "datetime": "2020-08-29T12:27:34Z",
+        "uri": "https://web.archive.org/web/20200829122734/https://hidot.hawaii.gov/airports/covid-19/"
+      },
+      {
+        "datetime": "2020-09-16T23:48:51Z",
+        "uri": "https://web.archive.org/web/20200916234851/https://hidot.hawaii.gov/airports/covid-19/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-04-09T07:12:10Z",
+      "uri": "https://web.archive.org/web/20200409071210/https://hidot.hawaii.gov/airports/covid-19/"
+    },
+    "last": {
+      "datetime": "2020-09-16T23:48:51Z",
+      "uri": "https://web.archive.org/web/20200916234851/https://hidot.hawaii.gov/airports/covid-19/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://hidot.hawaii.gov/airports/covid-19/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://hidot.hawaii.gov/airports/covid-19/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://hidot.hawaii.gov/airports/covid-19/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://hidot.hawaii.gov/airports/covid-19/%0A"
+}

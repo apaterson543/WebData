@@ -1,0 +1,598 @@
+{
+  "original_uri": "https://news.mit.edu/2019/storing-vaccine-history-skin-1218%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://news.mit.edu/2019/storing-vaccine-history-skin-1218%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-12-19T22:17:30Z",
+        "uri": "https://web.archive.org/web/20191219221730/http://news.mit.edu:80/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2019-12-20T21:42:45Z",
+        "uri": "https://web.archive.org/web/20191220214245/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2019-12-21T19:57:45Z",
+        "uri": "https://web.archive.org/web/20191221195745/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2019-12-23T07:09:48Z",
+        "uri": "https://web.archive.org/web/20191223070948/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2019-12-23T18:02:44Z",
+        "uri": "https://web.archive.org/web/20191223180244/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2019-12-24T04:07:56Z",
+        "uri": "https://web.archive.org/web/20191224040756/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2019-12-24T16:33:30Z",
+        "uri": "https://web.archive.org/web/20191224163330/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2019-12-24T17:59:21Z",
+        "uri": "https://web.archive.org/web/20191224175921/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2019-12-25T06:58:56Z",
+        "uri": "https://web.archive.org/web/20191225065856/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2019-12-25T14:21:43Z",
+        "uri": "https://web.archive.org/web/20191225142143/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2019-12-25T18:02:03Z",
+        "uri": "https://web.archive.org/web/20191225180203/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2019-12-25T20:45:54Z",
+        "uri": "https://web.archive.org/web/20191225204554/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2019-12-26T04:50:55Z",
+        "uri": "https://web.archive.org/web/20191226045055/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2019-12-26T15:14:31Z",
+        "uri": "https://web.archive.org/web/20191226151431/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2019-12-26T18:30:09Z",
+        "uri": "https://web.archive.org/web/20191226183009/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2019-12-26T21:33:31Z",
+        "uri": "https://web.archive.org/web/20191226213331/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2019-12-27T04:42:58Z",
+        "uri": "https://web.archive.org/web/20191227044258/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2019-12-27T23:32:33Z",
+        "uri": "https://web.archive.org/web/20191227233233/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2019-12-30T11:06:26Z",
+        "uri": "https://web.archive.org/web/20191230110626/http://news.mit.edu:80/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-01-03T03:13:33Z",
+        "uri": "https://web.archive.org/web/20200103031333/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-01-08T15:56:20Z",
+        "uri": "https://web.archive.org/web/20200108155620/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-01-11T10:28:48Z",
+        "uri": "https://web.archive.org/web/20200111102848/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-01-29T19:11:38Z",
+        "uri": "https://web.archive.org/web/20200129191138/http://news.mit.edu:80/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-03-19T11:25:25Z",
+        "uri": "https://web.archive.org/web/20200319112525/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-03-19T11:51:46Z",
+        "uri": "https://web.archive.org/web/20200319115146/http://news.mit.edu:80/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-03-20T01:22:21Z",
+        "uri": "https://web.archive.org/web/20200320012221/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-03-21T06:10:10Z",
+        "uri": "https://web.archive.org/web/20200321061010/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-03-21T14:14:17Z",
+        "uri": "https://web.archive.org/web/20200321141417/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-03-22T00:56:52Z",
+        "uri": "https://web.archive.org/web/20200322005652/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-03-25T19:50:31Z",
+        "uri": "https://web.archive.org/web/20200325195031/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-03-27T23:58:42Z",
+        "uri": "https://web.archive.org/web/20200327235842/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-03-29T19:51:38Z",
+        "uri": "https://web.archive.org/web/20200329195138/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-03-30T23:18:48Z",
+        "uri": "https://web.archive.org/web/20200330231848/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-04-01T03:57:57Z",
+        "uri": "https://web.archive.org/web/20200401035757/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-04-01T13:42:58Z",
+        "uri": "https://web.archive.org/web/20200401134258/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-04-01T13:55:59Z",
+        "uri": "https://web.archive.org/web/20200401135559/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-04-05T00:45:20Z",
+        "uri": "https://web.archive.org/web/20200405004520/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-04-05T17:19:27Z",
+        "uri": "https://web.archive.org/web/20200405171927/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-04-08T11:57:02Z",
+        "uri": "https://web.archive.org/web/20200408115702/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-04-09T10:42:52Z",
+        "uri": "https://web.archive.org/web/20200409104252/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-04-10T02:09:13Z",
+        "uri": "https://web.archive.org/web/20200410020913/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-04-10T06:17:22Z",
+        "uri": "https://web.archive.org/web/20200410061722/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-04-10T09:11:13Z",
+        "uri": "https://web.archive.org/web/20200410091113/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-04-10T21:43:14Z",
+        "uri": "https://web.archive.org/web/20200410214314/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-04-10T22:01:15Z",
+        "uri": "https://web.archive.org/web/20200410220115/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-04-13T18:45:43Z",
+        "uri": "https://web.archive.org/web/20200413184543/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-04-13T19:27:23Z",
+        "uri": "https://web.archive.org/web/20200413192723/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-04-14T08:30:09Z",
+        "uri": "https://web.archive.org/web/20200414083009/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-04-16T16:28:13Z",
+        "uri": "https://web.archive.org/web/20200416162813/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-04-16T20:21:27Z",
+        "uri": "https://web.archive.org/web/20200416202127/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-04-16T20:28:07Z",
+        "uri": "https://web.archive.org/web/20200416202807/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-04-16T23:02:32Z",
+        "uri": "https://web.archive.org/web/20200416230232/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-04-17T02:39:55Z",
+        "uri": "https://web.archive.org/web/20200417023955/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-04-18T03:10:43Z",
+        "uri": "https://web.archive.org/web/20200418031043/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-04-18T13:31:26Z",
+        "uri": "https://web.archive.org/web/20200418133126/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-04-20T22:24:15Z",
+        "uri": "https://web.archive.org/web/20200420222415/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-04-30T20:08:38Z",
+        "uri": "https://web.archive.org/web/20200430200838/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-05-02T15:19:51Z",
+        "uri": "https://web.archive.org/web/20200502151951/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-05-02T18:24:29Z",
+        "uri": "https://web.archive.org/web/20200502182429/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-05-02T18:24:29Z",
+        "uri": "https://web.archive.org/web/20200502182429/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-05-03T04:55:10Z",
+        "uri": "https://web.archive.org/web/20200503045510/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-05-04T19:27:05Z",
+        "uri": "https://web.archive.org/web/20200504192705/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-05-06T02:51:54Z",
+        "uri": "https://web.archive.org/web/20200506025154/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-05-08T08:03:35Z",
+        "uri": "https://web.archive.org/web/20200508080335/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-05-11T15:48:13Z",
+        "uri": "https://perma.cc/H2AC-SQAN"
+      },
+      {
+        "datetime": "2020-05-11T15:48:15Z",
+        "uri": "https://web.archive.org/web/20200511154815/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-05-12T00:53:21Z",
+        "uri": "https://web.archive.org/web/20200512005321/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-05-12T02:54:28Z",
+        "uri": "https://web.archive.org/web/20200512025428/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-05-12T12:56:56Z",
+        "uri": "https://web.archive.org/web/20200512125656/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-05-15T06:08:48Z",
+        "uri": "https://web.archive.org/web/20200515060848/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-05-16T21:37:25Z",
+        "uri": "https://web.archive.org/web/20200516213725/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-05-17T09:28:30Z",
+        "uri": "https://web.archive.org/web/20200517092830/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-05-22T09:09:54Z",
+        "uri": "https://web.archive.org/web/20200522090954/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-05-23T17:43:49Z",
+        "uri": "https://web.archive.org/web/20200523174349/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-05-25T21:46:05Z",
+        "uri": "https://web.archive.org/web/20200525214605/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-05-27T22:28:07Z",
+        "uri": "https://web.archive.org/web/20200527222807/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-05-28T07:09:43Z",
+        "uri": "https://web.archive.org/web/20200528070943/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-05-28T21:08:18Z",
+        "uri": "https://web.archive.org/web/20200528210818/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-05-29T08:36:53Z",
+        "uri": "https://web.archive.org/web/20200529083653/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-05-29T09:23:00Z",
+        "uri": "https://web.archive.org/web/20200529092300/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-05-30T13:53:18Z",
+        "uri": "https://web.archive.org/web/20200530135318/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-05-31T02:54:35Z",
+        "uri": "https://web.archive.org/web/20200531025435/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-06-01T11:29:54Z",
+        "uri": "https://web.archive.org/web/20200601112954/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-06-01T14:47:35Z",
+        "uri": "https://web.archive.org/web/20200601144735/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-06-02T05:21:25Z",
+        "uri": "https://web.archive.org/web/20200602052125/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-06-02T16:01:22Z",
+        "uri": "https://web.archive.org/web/20200602160122/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-06-02T23:20:46Z",
+        "uri": "https://web.archive.org/web/20200602232046/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-06-04T20:13:50Z",
+        "uri": "https://web.archive.org/web/20200604201350/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-06-09T08:41:50Z",
+        "uri": "https://web.archive.org/web/20200609084150/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-06-10T20:48:09Z",
+        "uri": "https://web.archive.org/web/20200610204809/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-06-12T21:22:53Z",
+        "uri": "https://web.archive.org/web/20200612212253/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-06-17T18:58:16Z",
+        "uri": "https://web.archive.org/web/20200617185816/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-06-26T15:22:42Z",
+        "uri": "https://web.archive.org/web/20200626152242/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-06-29T11:36:37Z",
+        "uri": "https://web.archive.org/web/20200629113637/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-06-29T19:15:48Z",
+        "uri": "https://web.archive.org/web/20200629191548/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-07-01T03:12:30Z",
+        "uri": "https://web.archive.org/web/20200701031230/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-07-01T05:31:06Z",
+        "uri": "https://web.archive.org/web/20200701053106/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-07-01T12:11:35Z",
+        "uri": "https://web.archive.org/web/20200701121135/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-07-07T08:01:33Z",
+        "uri": "https://web.archive.org/web/20200707080133/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-07-24T02:13:32Z",
+        "uri": "https://web.archive.org/web/20200724021332/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-08-16T21:39:45Z",
+        "uri": "https://web.archive.org/web/20200816213945/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-08-18T05:21:02Z",
+        "uri": "https://web.archive.org/web/20200818052102/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-08-18T15:16:50Z",
+        "uri": "https://web.archive.org/web/20200818151650/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-08-22T15:53:54Z",
+        "uri": "https://web.archive.org/web/20200822155354/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-08-22T15:54:04Z",
+        "uri": "https://web.archive.org/web/20200822155404/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-08-23T00:56:39Z",
+        "uri": "https://web.archive.org/web/20200823005639/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-08-24T00:04:17Z",
+        "uri": "https://web.archive.org/web/20200824000417/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-08-27T19:22:08Z",
+        "uri": "https://web.archive.org/web/20200827192208/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-08-27T19:22:09Z",
+        "uri": "https://web.archive.org/web/20200827192209/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-08-27T19:22:13Z",
+        "uri": "https://web.archive.org/web/20200827192213/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-08-27T19:22:14Z",
+        "uri": "https://web.archive.org/web/20200827192214/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-08-27T19:22:15Z",
+        "uri": "https://web.archive.org/web/20200827192215/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-08-27T19:22:17Z",
+        "uri": "https://web.archive.org/web/20200827192217/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-08-27T19:22:18Z",
+        "uri": "https://web.archive.org/web/20200827192218/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-08-27T19:22:20Z",
+        "uri": "https://web.archive.org/web/20200827192220/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-08-27T19:22:21Z",
+        "uri": "https://web.archive.org/web/20200827192221/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-08-27T19:22:22Z",
+        "uri": "https://web.archive.org/web/20200827192222/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-08-27T19:22:24Z",
+        "uri": "https://web.archive.org/web/20200827192224/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-08-27T19:22:26Z",
+        "uri": "https://web.archive.org/web/20200827192226/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-08-27T19:22:27Z",
+        "uri": "https://web.archive.org/web/20200827192227/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-08-27T19:22:28Z",
+        "uri": "https://web.archive.org/web/20200827192228/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-08-27T23:26:11Z",
+        "uri": "https://web.archive.org/web/20200827232611/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-08-27T23:26:13Z",
+        "uri": "https://web.archive.org/web/20200827232613/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-08-27T23:26:16Z",
+        "uri": "https://web.archive.org/web/20200827232616/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-08-31T20:06:34Z",
+        "uri": "https://web.archive.org/web/20200831200634/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-09-03T13:23:34Z",
+        "uri": "https://web.archive.org/web/20200903132334/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-09-04T05:55:26Z",
+        "uri": "https://web.archive.org/web/20200904055526/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-09-06T03:52:43Z",
+        "uri": "https://web.archive.org/web/20200906035243/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-09-06T09:58:20Z",
+        "uri": "https://web.archive.org/web/20200906095820/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-09-11T18:53:36Z",
+        "uri": "https://web.archive.org/web/20200911185336/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-09-14T03:23:59Z",
+        "uri": "https://web.archive.org/web/20200914032359/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-09-18T10:49:48Z",
+        "uri": "https://web.archive.org/web/20200918104948/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-09-18T20:23:08Z",
+        "uri": "https://web.archive.org/web/20200918202308/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-09-22T12:55:31Z",
+        "uri": "https://web.archive.org/web/20200922125531/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-09-22T21:25:34Z",
+        "uri": "https://web.archive.org/web/20200922212534/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-09-27T04:31:09Z",
+        "uri": "https://web.archive.org/web/20200927043109/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-09-27T14:55:32Z",
+        "uri": "https://web.archive.org/web/20200927145532/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-09-29T08:38:39Z",
+        "uri": "https://web.archive.org/web/20200929083839/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-09-30T02:04:14Z",
+        "uri": "https://web.archive.org/web/20200930020414/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-09-30T18:37:50Z",
+        "uri": "https://web.archive.org/web/20200930183750/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-10-02T20:55:51Z",
+        "uri": "https://web.archive.org/web/20201002205551/http://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-10-02T20:55:52Z",
+        "uri": "https://web.archive.org/web/20201002205552/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-10-05T19:13:12Z",
+        "uri": "https://web.archive.org/web/20201005191312/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      },
+      {
+        "datetime": "2020-10-06T19:03:35Z",
+        "uri": "https://web.archive.org/web/20201006190335/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+      }
+    ],
+    "first": {
+      "datetime": "2019-12-19T22:17:30Z",
+      "uri": "https://web.archive.org/web/20191219221730/http://news.mit.edu:80/2019/storing-vaccine-history-skin-1218"
+    },
+    "last": {
+      "datetime": "2020-10-06T19:03:35Z",
+      "uri": "https://web.archive.org/web/20201006190335/https://news.mit.edu/2019/storing-vaccine-history-skin-1218"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://news.mit.edu/2019/storing-vaccine-history-skin-1218%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://news.mit.edu/2019/storing-vaccine-history-skin-1218%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://news.mit.edu/2019/storing-vaccine-history-skin-1218%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://news.mit.edu/2019/storing-vaccine-history-skin-1218%0A"
+}

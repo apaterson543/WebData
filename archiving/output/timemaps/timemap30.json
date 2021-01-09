@@ -1,0 +1,42 @@
+{
+  "original_uri": "https://www.scmp.com/news/china/article/3104611/donald-trump-new-video-vows-make-china-pay-coronavirus-pandemic%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.scmp.com/news/china/article/3104611/donald-trump-new-video-vows-make-china-pay-coronavirus-pandemic%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T23:17:13Z",
+        "uri": "https://web.archive.org/web/20201007231713/https://www.scmp.com/news/china/article/3104611/donald-trump-new-video-vows-make-china-pay-coronavirus-pandemic"
+      },
+      {
+        "datetime": "2020-10-08T06:30:34Z",
+        "uri": "https://web.archive.org/web/20201008063034/https://www.scmp.com/news/china/article/3104611/donald-trump-new-video-vows-make-china-pay-coronavirus-pandemic"
+      },
+      {
+        "datetime": "2020-10-08T09:50:18Z",
+        "uri": "https://web.archive.org/web/20201008095018/https://www.scmp.com/news/china/article/3104611/donald-trump-new-video-vows-make-china-pay-coronavirus-pandemic"
+      },
+      {
+        "datetime": "2020-10-08T10:27:00Z",
+        "uri": "https://web.archive.org/web/20201008102700/https://www.scmp.com/news/china/article/3104611/donald-trump-new-video-vows-make-china-pay-coronavirus-pandemic"
+      },
+      {
+        "datetime": "2020-10-08T13:23:06Z",
+        "uri": "https://web.archive.org/web/20201008132306/https://www.scmp.com/news/china/article/3104611/donald-trump-new-video-vows-make-china-pay-coronavirus-pandemic"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T23:17:13Z",
+      "uri": "https://web.archive.org/web/20201007231713/https://www.scmp.com/news/china/article/3104611/donald-trump-new-video-vows-make-china-pay-coronavirus-pandemic"
+    },
+    "last": {
+      "datetime": "2020-10-08T13:23:06Z",
+      "uri": "https://web.archive.org/web/20201008132306/https://www.scmp.com/news/china/article/3104611/donald-trump-new-video-vows-make-china-pay-coronavirus-pandemic"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.scmp.com/news/china/article/3104611/donald-trump-new-video-vows-make-china-pay-coronavirus-pandemic%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.scmp.com/news/china/article/3104611/donald-trump-new-video-vows-make-china-pay-coronavirus-pandemic%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.scmp.com/news/china/article/3104611/donald-trump-new-video-vows-make-china-pay-coronavirus-pandemic%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.scmp.com/news/china/article/3104611/donald-trump-new-video-vows-make-china-pay-coronavirus-pandemic%0A"
+}

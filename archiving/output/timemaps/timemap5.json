@@ -1,0 +1,218 @@
+{
+  "original_uri": "https://partydomme.com/news/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://partydomme.com/news/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2015-01-19T20:43:34Z",
+        "uri": "https://web.archive.org/web/20150119204334/http://partydomme.com:80/news/"
+      },
+      {
+        "datetime": "2015-02-18T20:38:44Z",
+        "uri": "https://web.archive.org/web/20150218203844/http://partydomme.com/news/"
+      },
+      {
+        "datetime": "2015-02-28T06:55:56Z",
+        "uri": "https://web.archive.org/web/20150228065556/http://partydomme.com:80/news/"
+      },
+      {
+        "datetime": "2015-02-28T06:55:56Z",
+        "uri": "https://web.archive.org/web/20150228065556/http://partydomme.com:80/news"
+      },
+      {
+        "datetime": "2015-03-02T23:35:28Z",
+        "uri": "https://web.archive.org/web/20150302233528/http://partydomme.com:80/news/"
+      },
+      {
+        "datetime": "2015-04-04T07:53:21Z",
+        "uri": "https://web.archive.org/web/20150404075321/http://partydomme.com:80/news/"
+      },
+      {
+        "datetime": "2015-04-04T07:53:21Z",
+        "uri": "https://web.archive.org/web/20150404075321/http://partydomme.com:80/news"
+      },
+      {
+        "datetime": "2015-05-08T06:22:15Z",
+        "uri": "https://web.archive.org/web/20150508062215/http://partydomme.com:80/news/"
+      },
+      {
+        "datetime": "2015-05-08T06:22:15Z",
+        "uri": "https://web.archive.org/web/20150508062215/http://partydomme.com:80/news"
+      },
+      {
+        "datetime": "2015-10-02T05:00:26Z",
+        "uri": "https://web.archive.org/web/20151002050026/http://partydomme.com:80/news/"
+      },
+      {
+        "datetime": "2015-10-18T05:08:00Z",
+        "uri": "https://web.archive.org/web/20151018050800/http://partydomme.com:80/news/"
+      },
+      {
+        "datetime": "2015-10-18T05:08:00Z",
+        "uri": "https://web.archive.org/web/20151018050800/http://partydomme.com:80/news"
+      },
+      {
+        "datetime": "2015-11-18T04:44:24Z",
+        "uri": "https://web.archive.org/web/20151118044424/http://partydomme.com:80/news/"
+      },
+      {
+        "datetime": "2015-11-18T04:44:24Z",
+        "uri": "https://web.archive.org/web/20151118044424/http://partydomme.com:80/news"
+      },
+      {
+        "datetime": "2015-12-19T20:49:19Z",
+        "uri": "https://web.archive.org/web/20151219204919/http://www.partydomme.com:80/news/"
+      },
+      {
+        "datetime": "2015-12-19T20:49:19Z",
+        "uri": "https://web.archive.org/web/20151219204919/http://partydomme.com:80/news"
+      },
+      {
+        "datetime": "2016-05-06T14:53:45Z",
+        "uri": "https://web.archive.org/web/20160506145345/http://www.partydomme.com:80/news/"
+      },
+      {
+        "datetime": "2016-05-06T14:53:45Z",
+        "uri": "https://web.archive.org/web/20160506145345/http://www.partydomme.com:80/news"
+      },
+      {
+        "datetime": "2016-06-08T04:45:08Z",
+        "uri": "https://web.archive.org/web/20160608044508/http://www.partydomme.com:80/news/"
+      },
+      {
+        "datetime": "2016-06-08T04:45:08Z",
+        "uri": "https://web.archive.org/web/20160608044508/http://www.partydomme.com:80/news"
+      },
+      {
+        "datetime": "2016-06-23T20:33:10Z",
+        "uri": "https://web.archive.org/web/20160623203310/http://www.partydomme.com:80/news/"
+      },
+      {
+        "datetime": "2016-06-23T20:33:10Z",
+        "uri": "https://web.archive.org/web/20160623203310/http://partydomme.com:80/news/"
+      },
+      {
+        "datetime": "2016-07-18T15:22:33Z",
+        "uri": "https://web.archive.org/web/20160718152233/http://partydomme.com:80/news"
+      },
+      {
+        "datetime": "2016-08-19T11:52:52Z",
+        "uri": "https://web.archive.org/web/20160819115252/http://partydomme.com:80/news/"
+      },
+      {
+        "datetime": "2016-08-19T11:52:52Z",
+        "uri": "https://web.archive.org/web/20160819115252/http://partydomme.com:80/news"
+      },
+      {
+        "datetime": "2016-08-20T16:13:19Z",
+        "uri": "https://web.archive.org/web/20160820161319/http://partydomme.com:80/news/"
+      },
+      {
+        "datetime": "2016-08-20T16:13:19Z",
+        "uri": "https://web.archive.org/web/20160820161319/http://partydomme.com:80/news"
+      },
+      {
+        "datetime": "2016-09-20T23:25:24Z",
+        "uri": "https://web.archive.org/web/20160920232524/http://partydomme.com:80/news/"
+      },
+      {
+        "datetime": "2016-09-20T23:25:24Z",
+        "uri": "https://web.archive.org/web/20160920232524/http://partydomme.com:80/news"
+      },
+      {
+        "datetime": "2017-03-22T07:52:33Z",
+        "uri": "https://web.archive.org/web/20170322075233/http://partydomme.com:80/news/"
+      },
+      {
+        "datetime": "2017-07-10T22:23:33Z",
+        "uri": "https://web.archive.org/web/20170710222333/http://partydomme.com/news/"
+      },
+      {
+        "datetime": "2017-07-11T02:03:08Z",
+        "uri": "https://web.archive.org/web/20170711020308/http://partydomme.com/news"
+      },
+      {
+        "datetime": "2017-08-30T08:54:28Z",
+        "uri": "https://web.archive.org/web/20170830085428/http://partydomme.com/news/"
+      },
+      {
+        "datetime": "2017-12-16T05:42:46Z",
+        "uri": "https://web.archive.org/web/20171216054246/http://partydomme.com:80/news/"
+      },
+      {
+        "datetime": "2017-12-17T09:57:29Z",
+        "uri": "https://web.archive.org/web/20171217095729/http://partydomme.com:80/news/"
+      },
+      {
+        "datetime": "2018-01-19T07:26:38Z",
+        "uri": "https://web.archive.org/web/20180119072638/http://partydomme.com/news"
+      },
+      {
+        "datetime": "2018-01-20T16:52:33Z",
+        "uri": "https://web.archive.org/web/20180120165233/http://partydomme.com/news/"
+      },
+      {
+        "datetime": "2018-07-31T03:42:06Z",
+        "uri": "https://web.archive.org/web/20180731034206/http://partydomme.com/news/"
+      },
+      {
+        "datetime": "2018-08-20T07:17:09Z",
+        "uri": "https://web.archive.org/web/20180820071709/http://partydomme.com/news/"
+      },
+      {
+        "datetime": "2018-08-27T20:56:06Z",
+        "uri": "https://web.archive.org/web/20180827205606/http://partydomme.com/news"
+      },
+      {
+        "datetime": "2019-04-01T21:23:21Z",
+        "uri": "https://web.archive.org/web/20190401212321/http://partydomme.com/news/"
+      },
+      {
+        "datetime": "2020-05-11T11:30:28Z",
+        "uri": "https://web.archive.org/web/20200511113028/http://partydomme.com/news/"
+      },
+      {
+        "datetime": "2020-05-13T03:20:35Z",
+        "uri": "https://web.archive.org/web/20200513032035/https://partydomme.com/news"
+      },
+      {
+        "datetime": "2020-05-13T04:27:04Z",
+        "uri": "https://web.archive.org/web/20200513042704/https://partydomme.com/news/"
+      },
+      {
+        "datetime": "2020-07-16T15:49:53Z",
+        "uri": "https://web.archive.org/web/20200716154953/http://partydomme.com/news/"
+      },
+      {
+        "datetime": "2020-08-17T17:03:52Z",
+        "uri": "https://web.archive.org/web/20200817170352/http://partydomme.com/news/"
+      },
+      {
+        "datetime": "2020-08-17T20:24:24Z",
+        "uri": "https://web.archive.org/web/20200817202424/https://partydomme.com/news/"
+      },
+      {
+        "datetime": "2020-09-08T11:23:14Z",
+        "uri": "https://web.archive.org/web/20200908112314/http://partydomme.com/news/"
+      },
+      {
+        "datetime": "2020-09-10T13:18:55Z",
+        "uri": "https://web.archive.org/web/20200910131855/https://partydomme.com/news/"
+      }
+    ],
+    "first": {
+      "datetime": "2015-01-19T20:43:34Z",
+      "uri": "https://web.archive.org/web/20150119204334/http://partydomme.com:80/news/"
+    },
+    "last": {
+      "datetime": "2020-09-10T13:18:55Z",
+      "uri": "https://web.archive.org/web/20200910131855/https://partydomme.com/news/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://partydomme.com/news/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://partydomme.com/news/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://partydomme.com/news/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://partydomme.com/news/%0A"
+}

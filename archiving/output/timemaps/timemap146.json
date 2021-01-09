@@ -1,0 +1,38 @@
+{
+  "original_uri": "https://www.cbsnews.com/news/gavin-newsom-california-face-mask-restaurant/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.cbsnews.com/news/gavin-newsom-california-face-mask-restaurant/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T05:00:44Z",
+        "uri": "https://web.archive.org/web/20201007050044/https://www.cbsnews.com/news/gavin-newsom-california-face-mask-restaurant/"
+      },
+      {
+        "datetime": "2020-10-07T08:57:43Z",
+        "uri": "https://web.archive.org/web/20201007085743/https://www.cbsnews.com/news/gavin-newsom-california-face-mask-restaurant/"
+      },
+      {
+        "datetime": "2020-10-07T09:03:38Z",
+        "uri": "https://web.archive.org/web/20201007090338/https://www.cbsnews.com/news/gavin-newsom-california-face-mask-restaurant/"
+      },
+      {
+        "datetime": "2020-10-08T12:57:28Z",
+        "uri": "https://web.archive.org/web/20201008125728/https://www.cbsnews.com/news/gavin-newsom-california-face-mask-restaurant/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T05:00:44Z",
+      "uri": "https://web.archive.org/web/20201007050044/https://www.cbsnews.com/news/gavin-newsom-california-face-mask-restaurant/"
+    },
+    "last": {
+      "datetime": "2020-10-08T12:57:28Z",
+      "uri": "https://web.archive.org/web/20201008125728/https://www.cbsnews.com/news/gavin-newsom-california-face-mask-restaurant/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.cbsnews.com/news/gavin-newsom-california-face-mask-restaurant/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.cbsnews.com/news/gavin-newsom-california-face-mask-restaurant/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.cbsnews.com/news/gavin-newsom-california-face-mask-restaurant/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.cbsnews.com/news/gavin-newsom-california-face-mask-restaurant/%0A"
+}

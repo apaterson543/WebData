@@ -1,0 +1,17 @@
+YSHEN@ODU.EDU <donotreply@blackboard.com>
+
+Tue, Nov 24, 5:07 PM
+
+to
+
+Class,
+
+If you want to add new 3D (obj) models to P2, you need to change the Working Directory as follows.  Right click the project, select Properties, then select
+
+Configuration Properties => Debugging => Working Directory
+
+Change the value from "$(ProjectDir)\bin" to "$(ProjectDir)\src".
+
+Then copy the new model(s) to src/Models.
+
+Yuzhong Shen

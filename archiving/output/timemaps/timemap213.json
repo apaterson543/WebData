@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://illinoisnewsroom.org/press-briefing-on-covid-19/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://illinoisnewsroom.org/press-briefing-on-covid-19/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-03-21T14:00:51Z",
+        "uri": "https://web.archive.org/web/20200321140051/https://illinoisnewsroom.org/press-briefing-on-covid-19/"
+      },
+      {
+        "datetime": "2020-03-29T10:39:55Z",
+        "uri": "https://web.archive.org/web/20200329103955/https://illinoisnewsroom.org/press-briefing-on-covid-19/"
+      },
+      {
+        "datetime": "2020-04-21T23:34:42Z",
+        "uri": "https://web.archive.org/web/20200421233442/https://illinoisnewsroom.org/press-briefing-on-covid-19/"
+      },
+      {
+        "datetime": "2020-05-29T14:43:03Z",
+        "uri": "https://web.archive.org/web/20200529144303/https://illinoisnewsroom.org/press-briefing-on-covid-19/"
+      },
+      {
+        "datetime": "2020-06-17T10:31:11Z",
+        "uri": "https://web.archive.org/web/20200617103111/https://illinoisnewsroom.org/press-briefing-on-covid-19/"
+      },
+      {
+        "datetime": "2020-08-04T17:35:54Z",
+        "uri": "https://web.archive.org/web/20200804173554/https://illinoisnewsroom.org/press-briefing-on-covid-19/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-03-21T14:00:51Z",
+      "uri": "https://web.archive.org/web/20200321140051/https://illinoisnewsroom.org/press-briefing-on-covid-19/"
+    },
+    "last": {
+      "datetime": "2020-08-04T17:35:54Z",
+      "uri": "https://web.archive.org/web/20200804173554/https://illinoisnewsroom.org/press-briefing-on-covid-19/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://illinoisnewsroom.org/press-briefing-on-covid-19/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://illinoisnewsroom.org/press-briefing-on-covid-19/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://illinoisnewsroom.org/press-briefing-on-covid-19/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://illinoisnewsroom.org/press-briefing-on-covid-19/%0A"
+}

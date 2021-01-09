@@ -1,0 +1,38 @@
+{
+  "original_uri": "https://www.politico.com/news/2020/10/06/coast-guard-covid-positive-426799%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.politico.com/news/2020/10/06/coast-guard-covid-positive-426799%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-06T23:15:02Z",
+        "uri": "https://web.archive.org/web/20201006231502/https://www.politico.com/news/2020/10/06/coast-guard-covid-positive-426799"
+      },
+      {
+        "datetime": "2020-10-07T19:24:24Z",
+        "uri": "https://web.archive.org/web/20201007192424/https://www.politico.com/news/2020/10/06/coast-guard-covid-positive-426799"
+      },
+      {
+        "datetime": "2020-10-08T02:11:06Z",
+        "uri": "https://web.archive.org/web/20201008021106/https://www.politico.com/news/2020/10/06/coast-guard-covid-positive-426799"
+      },
+      {
+        "datetime": "2020-10-08T15:09:14Z",
+        "uri": "https://web.archive.org/web/20201008150914/https://www.politico.com/news/2020/10/06/coast-guard-covid-positive-426799"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-06T23:15:02Z",
+      "uri": "https://web.archive.org/web/20201006231502/https://www.politico.com/news/2020/10/06/coast-guard-covid-positive-426799"
+    },
+    "last": {
+      "datetime": "2020-10-08T15:09:14Z",
+      "uri": "https://web.archive.org/web/20201008150914/https://www.politico.com/news/2020/10/06/coast-guard-covid-positive-426799"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.politico.com/news/2020/10/06/coast-guard-covid-positive-426799%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.politico.com/news/2020/10/06/coast-guard-covid-positive-426799%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.politico.com/news/2020/10/06/coast-guard-covid-positive-426799%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.politico.com/news/2020/10/06/coast-guard-covid-positive-426799%0A"
+}

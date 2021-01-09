@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.examiner.net/story/news/2020/10/05/covid-19-jackson-county-health-department-red-zone-community-spread/3633063001/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.examiner.net/story/news/2020/10/05/covid-19-jackson-county-health-department-red-zone-community-spread/3633063001/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T03:33:31Z",
+        "uri": "https://web.archive.org/web/20201007033331/https://www.examiner.net/story/news/2020/10/05/covid-19-jackson-county-health-department-red-zone-community-spread/3633063001/"
+      },
+      {
+        "datetime": "2020-10-08T07:22:10Z",
+        "uri": "https://web.archive.org/web/20201008072210/https://www.examiner.net/story/news/2020/10/05/covid-19-jackson-county-health-department-red-zone-community-spread/3633063001/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T03:33:31Z",
+      "uri": "https://web.archive.org/web/20201007033331/https://www.examiner.net/story/news/2020/10/05/covid-19-jackson-county-health-department-red-zone-community-spread/3633063001/"
+    },
+    "last": {
+      "datetime": "2020-10-08T07:22:10Z",
+      "uri": "https://web.archive.org/web/20201008072210/https://www.examiner.net/story/news/2020/10/05/covid-19-jackson-county-health-department-red-zone-community-spread/3633063001/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.examiner.net/story/news/2020/10/05/covid-19-jackson-county-health-department-red-zone-community-spread/3633063001/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.examiner.net/story/news/2020/10/05/covid-19-jackson-county-health-department-red-zone-community-spread/3633063001/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.examiner.net/story/news/2020/10/05/covid-19-jackson-county-health-department-red-zone-community-spread/3633063001/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.examiner.net/story/news/2020/10/05/covid-19-jackson-county-health-department-red-zone-community-spread/3633063001/%0A"
+}

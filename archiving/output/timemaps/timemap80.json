@@ -1,0 +1,94 @@
+{
+  "original_uri": "https://www.nytimes.com/interactive/2020/10/05/science/charting-a-covid-immune-response.html%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/interactive/2020/10/05/science/charting-a-covid-immune-response.html%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-05T21:24:02Z",
+        "uri": "https://web.archive.org/web/20201005212402/https://www.nytimes.com/interactive/2020/10/05/science/charting-a-covid-immune-response.html"
+      },
+      {
+        "datetime": "2020-10-05T21:24:02Z",
+        "uri": "https://web.archive.org/web/20201005212402/https://www.nytimes.com/interactive/2020/10/05/science/charting-a-covid-immune-response.html"
+      },
+      {
+        "datetime": "2020-10-05T21:26:02Z",
+        "uri": "https://web.archive.org/web/20201005212602/https://www.nytimes.com/interactive/2020/10/05/science/charting-a-covid-immune-response.html"
+      },
+      {
+        "datetime": "2020-10-06T01:49:34Z",
+        "uri": "https://web.archive.org/web/20201006014934/https://www.nytimes.com/interactive/2020/10/05/science/charting-a-covid-immune-response.html"
+      },
+      {
+        "datetime": "2020-10-06T01:56:24Z",
+        "uri": "https://web.archive.org/web/20201006015624/https://www.nytimes.com/interactive/2020/10/05/science/charting-a-covid-immune-response.html"
+      },
+      {
+        "datetime": "2020-10-06T02:51:15Z",
+        "uri": "https://web.archive.org/web/20201006025115/https://www.nytimes.com/interactive/2020/10/05/science/charting-a-covid-immune-response.html"
+      },
+      {
+        "datetime": "2020-10-06T08:33:19Z",
+        "uri": "https://web.archive.org/web/20201006083319/https://www.nytimes.com/interactive/2020/10/05/science/charting-a-covid-immune-response.html"
+      },
+      {
+        "datetime": "2020-10-06T09:24:33Z",
+        "uri": "https://web.archive.org/web/20201006092433/https://www.nytimes.com/interactive/2020/10/05/science/charting-a-covid-immune-response.html"
+      },
+      {
+        "datetime": "2020-10-06T18:21:40Z",
+        "uri": "https://web.archive.org/web/20201006182140/https://www.nytimes.com/interactive/2020/10/05/science/charting-a-covid-immune-response.html"
+      },
+      {
+        "datetime": "2020-10-06T21:12:50Z",
+        "uri": "https://web.archive.org/web/20201006211250/https://www.nytimes.com/interactive/2020/10/05/science/charting-a-covid-immune-response.html"
+      },
+      {
+        "datetime": "2020-10-06T22:04:58Z",
+        "uri": "https://web.archive.org/web/20201006220458/https://www.nytimes.com/interactive/2020/10/05/science/charting-a-covid-immune-response.html"
+      },
+      {
+        "datetime": "2020-10-06T23:33:13Z",
+        "uri": "https://web.archive.org/web/20201006233313/https://www.nytimes.com/interactive/2020/10/05/science/charting-a-covid-immune-response.html"
+      },
+      {
+        "datetime": "2020-10-07T00:45:59Z",
+        "uri": "https://web.archive.org/web/20201007004559/https://www.nytimes.com/interactive/2020/10/05/science/charting-a-covid-immune-response.html"
+      },
+      {
+        "datetime": "2020-10-07T05:23:41Z",
+        "uri": "https://web.archive.org/web/20201007052341/https://www.nytimes.com/interactive/2020/10/05/science/charting-a-covid-immune-response.html"
+      },
+      {
+        "datetime": "2020-10-07T09:32:16Z",
+        "uri": "https://web.archive.org/web/20201007093216/https://www.nytimes.com/interactive/2020/10/05/science/charting-a-covid-immune-response.html"
+      },
+      {
+        "datetime": "2020-10-08T01:14:01Z",
+        "uri": "https://web.archive.org/web/20201008011401/https://www.nytimes.com/interactive/2020/10/05/science/charting-a-covid-immune-response.html"
+      },
+      {
+        "datetime": "2020-10-08T02:02:00Z",
+        "uri": "https://web.archive.org/web/20201008020200/https://www.nytimes.com/interactive/2020/10/05/science/charting-a-covid-immune-response.html"
+      },
+      {
+        "datetime": "2020-10-08T10:55:55Z",
+        "uri": "https://web.archive.org/web/20201008105555/https://www.nytimes.com/interactive/2020/10/05/science/charting-a-covid-immune-response.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-05T21:24:02Z",
+      "uri": "https://web.archive.org/web/20201005212402/https://www.nytimes.com/interactive/2020/10/05/science/charting-a-covid-immune-response.html"
+    },
+    "last": {
+      "datetime": "2020-10-08T10:55:55Z",
+      "uri": "https://web.archive.org/web/20201008105555/https://www.nytimes.com/interactive/2020/10/05/science/charting-a-covid-immune-response.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.nytimes.com/interactive/2020/10/05/science/charting-a-covid-immune-response.html%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/interactive/2020/10/05/science/charting-a-covid-immune-response.html%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.nytimes.com/interactive/2020/10/05/science/charting-a-covid-immune-response.html%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.nytimes.com/interactive/2020/10/05/science/charting-a-covid-immune-response.html%0A"
+}

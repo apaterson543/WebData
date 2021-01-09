@@ -1,0 +1,50 @@
+{
+  "original_uri": "https://www.nj.com/coronavirus/2020/10/ex-nj-gov-chris-christie-remains-hospitalized-for-covid-19.html%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.nj.com/coronavirus/2020/10/ex-nj-gov-chris-christie-remains-hospitalized-for-covid-19.html%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T05:01:46Z",
+        "uri": "https://web.archive.org/web/20201007050146/https://www.nj.com/coronavirus/2020/10/ex-nj-gov-chris-christie-remains-hospitalized-for-covid-19.html"
+      },
+      {
+        "datetime": "2020-10-07T15:30:17Z",
+        "uri": "https://web.archive.org/web/20201007153017/https://www.nj.com/coronavirus/2020/10/ex-nj-gov-chris-christie-remains-hospitalized-for-covid-19.html"
+      },
+      {
+        "datetime": "2020-10-07T16:25:57Z",
+        "uri": "https://web.archive.org/web/20201007162557/https://www.nj.com/coronavirus/2020/10/ex-nj-gov-chris-christie-remains-hospitalized-for-covid-19.html"
+      },
+      {
+        "datetime": "2020-10-08T00:00:22Z",
+        "uri": "https://web.archive.org/web/20201008000022/https://www.nj.com/coronavirus/2020/10/ex-nj-gov-chris-christie-remains-hospitalized-for-covid-19.html"
+      },
+      {
+        "datetime": "2020-10-08T04:42:54Z",
+        "uri": "https://web.archive.org/web/20201008044254/https://www.nj.com/coronavirus/2020/10/ex-nj-gov-chris-christie-remains-hospitalized-for-covid-19.html"
+      },
+      {
+        "datetime": "2020-10-08T06:33:23Z",
+        "uri": "https://web.archive.org/web/20201008063323/https://www.nj.com/coronavirus/2020/10/ex-nj-gov-chris-christie-remains-hospitalized-for-covid-19.html"
+      },
+      {
+        "datetime": "2020-10-08T08:54:32Z",
+        "uri": "https://web.archive.org/web/20201008085432/https://www.nj.com/coronavirus/2020/10/ex-nj-gov-chris-christie-remains-hospitalized-for-covid-19.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T05:01:46Z",
+      "uri": "https://web.archive.org/web/20201007050146/https://www.nj.com/coronavirus/2020/10/ex-nj-gov-chris-christie-remains-hospitalized-for-covid-19.html"
+    },
+    "last": {
+      "datetime": "2020-10-08T08:54:32Z",
+      "uri": "https://web.archive.org/web/20201008085432/https://www.nj.com/coronavirus/2020/10/ex-nj-gov-chris-christie-remains-hospitalized-for-covid-19.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.nj.com/coronavirus/2020/10/ex-nj-gov-chris-christie-remains-hospitalized-for-covid-19.html%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.nj.com/coronavirus/2020/10/ex-nj-gov-chris-christie-remains-hospitalized-for-covid-19.html%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.nj.com/coronavirus/2020/10/ex-nj-gov-chris-christie-remains-hospitalized-for-covid-19.html%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.nj.com/coronavirus/2020/10/ex-nj-gov-chris-christie-remains-hospitalized-for-covid-19.html%0A"
+}

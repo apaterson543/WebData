@@ -1,0 +1,3 @@
+https://www.khou.com/article/news/health/coronavirus/worst-covid-19-zip-codes-harris-county/285-d23fd5ae-044a-4368-9a79-b03de1103982
+
+b'Bad RequestBad Request - Invalid URLHTTP Error 400. The request URL is invalid.'

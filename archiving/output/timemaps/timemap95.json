@@ -1,0 +1,666 @@
+{
+  "original_uri": "https://www.covid-19canada.com/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.covid-19canada.com/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-03-06T05:04:37Z",
+        "uri": "https://web.archive.org/web/20200306050437/http://www.covid-19canada.com:80/"
+      },
+      {
+        "datetime": "2020-03-09T14:50:55Z",
+        "uri": "https://web.archive.org/web/20200309145055/http://covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-09T14:51:01Z",
+        "uri": "https://web.archive.org/web/20200309145101/http://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-09T23:46:24Z",
+        "uri": "https://web.archive.org/web/20200309234624/http://covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-09T23:46:26Z",
+        "uri": "https://web.archive.org/web/20200309234626/http://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-10T14:09:54Z",
+        "uri": "https://web.archive.org/web/20200310140954/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-10T14:09:54Z",
+        "uri": "https://web.archive.org/web/20200310140954/http://covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-10T14:10:08Z",
+        "uri": "https://web.archive.org/web/20200310141008/http://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-11T03:48:26Z",
+        "uri": "https://web.archive.org/web/20200311034826/http://covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-11T03:48:28Z",
+        "uri": "https://web.archive.org/web/20200311034828/http://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-11T03:48:44Z",
+        "uri": "https://web.archive.org/web/20200311034844/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-12T00:00:24Z",
+        "uri": "https://web.archive.org/web/20200312000024/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-12T05:41:43Z",
+        "uri": "https://web.archive.org/web/20200312054143/http://covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-12T05:41:44Z",
+        "uri": "https://web.archive.org/web/20200312054144/http://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-12T05:42:07Z",
+        "uri": "https://web.archive.org/web/20200312054207/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-12T15:27:51Z",
+        "uri": "https://web.archive.org/web/20200312152751/http://covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-12T15:27:52Z",
+        "uri": "https://web.archive.org/web/20200312152752/http://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-12T15:28:02Z",
+        "uri": "https://web.archive.org/web/20200312152802/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-12T20:40:29Z",
+        "uri": "https://web.archive.org/web/20200312204029/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-13T01:04:23Z",
+        "uri": "https://web.archive.org/web/20200313010423/http://covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-13T01:04:24Z",
+        "uri": "https://web.archive.org/web/20200313010424/http://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-13T03:57:55Z",
+        "uri": "https://web.archive.org/web/20200313035755/http://covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-13T03:57:57Z",
+        "uri": "https://web.archive.org/web/20200313035757/http://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-13T03:58:09Z",
+        "uri": "https://web.archive.org/web/20200313035809/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-13T06:02:49Z",
+        "uri": "https://web.archive.org/web/20200313060249/http://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-13T10:46:07Z",
+        "uri": "https://web.archive.org/web/20200313104607/http://covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-13T10:46:08Z",
+        "uri": "https://web.archive.org/web/20200313104608/http://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-13T12:14:24Z",
+        "uri": "https://web.archive.org/web/20200313121424/http://covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-13T12:14:25Z",
+        "uri": "https://web.archive.org/web/20200313121425/http://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-13T15:15:45Z",
+        "uri": "https://web.archive.org/web/20200313151545/http://covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-13T15:15:46Z",
+        "uri": "https://web.archive.org/web/20200313151546/http://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-13T15:16:03Z",
+        "uri": "https://web.archive.org/web/20200313151603/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-14T03:14:32Z",
+        "uri": "https://web.archive.org/web/20200314031432/http://covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-14T03:14:33Z",
+        "uri": "https://web.archive.org/web/20200314031433/http://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-14T03:14:50Z",
+        "uri": "https://web.archive.org/web/20200314031450/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-14T15:29:31Z",
+        "uri": "https://web.archive.org/web/20200314152931/http://covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-14T15:29:32Z",
+        "uri": "https://web.archive.org/web/20200314152932/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-14T15:29:54Z",
+        "uri": "https://web.archive.org/web/20200314152954/http://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-15T05:25:30Z",
+        "uri": "https://web.archive.org/web/20200315052530/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-15T09:32:31Z",
+        "uri": "https://web.archive.org/web/20200315093231/http://www.covid-19canada.com:80/"
+      },
+      {
+        "datetime": "2020-03-15T17:22:32Z",
+        "uri": "https://web.archive.org/web/20200315172232/http://covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-15T19:00:42Z",
+        "uri": "https://web.archive.org/web/20200315190042/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-16T23:05:11Z",
+        "uri": "https://web.archive.org/web/20200316230511/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-17T09:47:22Z",
+        "uri": "https://web.archive.org/web/20200317094722/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-17T12:25:20Z",
+        "uri": "https://web.archive.org/web/20200317122520/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-17T23:43:38Z",
+        "uri": "https://web.archive.org/web/20200317234338/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-18T08:45:11Z",
+        "uri": "https://web.archive.org/web/20200318084511/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-19T16:57:58Z",
+        "uri": "https://web.archive.org/web/20200319165758/http://covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-19T16:58:00Z",
+        "uri": "https://web.archive.org/web/20200319165800/http://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-19T16:58:21Z",
+        "uri": "https://web.archive.org/web/20200319165821/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-20T21:24:30Z",
+        "uri": "https://web.archive.org/web/20200320212430/http://www.covid-19canada.com:80/"
+      },
+      {
+        "datetime": "2020-03-24T18:57:03Z",
+        "uri": "https://web.archive.org/web/20200324185703/http://www.covid-19canada.com:80/"
+      },
+      {
+        "datetime": "2020-03-24T20:58:28Z",
+        "uri": "https://web.archive.org/web/20200324205828/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-25T11:16:10Z",
+        "uri": "https://web.archive.org/web/20200325111610/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-30T03:05:23Z",
+        "uri": "https://web.archive.org/web/20200330030523/https://www.covid-19canada.com"
+      },
+      {
+        "datetime": "2020-03-30T06:45:29Z",
+        "uri": "https://web.archive.org/web/20200330064529/http://www.covid-19canada.com:80/"
+      },
+      {
+        "datetime": "2020-03-30T11:15:05Z",
+        "uri": "https://web.archive.org/web/20200330111505/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-03-31T03:22:21Z",
+        "uri": "https://web.archive.org/web/20200331032221/https://www.covid-19canada.com"
+      },
+      {
+        "datetime": "2020-03-31T21:01:33Z",
+        "uri": "https://web.archive.org/web/20200331210133/https://www.covid-19canada.com"
+      },
+      {
+        "datetime": "2020-04-01T15:32:32Z",
+        "uri": "https://web.archive.org/web/20200401153232/https://www.covid-19canada.com"
+      },
+      {
+        "datetime": "2020-04-02T23:35:13Z",
+        "uri": "https://web.archive.org/web/20200402233513/https://www.covid-19canada.com"
+      },
+      {
+        "datetime": "2020-04-03T14:05:26Z",
+        "uri": "https://web.archive.org/web/20200403140526/https://www.covid-19canada.com"
+      },
+      {
+        "datetime": "2020-04-03T22:42:34Z",
+        "uri": "https://web.archive.org/web/20200403224234/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-04T00:48:50Z",
+        "uri": "https://web.archive.org/web/20200404004850/https://www.covid-19canada.com"
+      },
+      {
+        "datetime": "2020-04-04T17:59:52Z",
+        "uri": "https://web.archive.org/web/20200404175952/http://covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-04T18:00:26Z",
+        "uri": "https://web.archive.org/web/20200404180026/http://covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-04T18:13:55Z",
+        "uri": "https://web.archive.org/web/20200404181355/https://www.covid-19canada.com"
+      },
+      {
+        "datetime": "2020-04-04T22:27:03Z",
+        "uri": "https://web.archive.org/web/20200404222703/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-08T00:56:47Z",
+        "uri": "https://web.archive.org/web/20200408005647/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-08T02:06:50Z",
+        "uri": "https://web.archive.org/web/20200408020650/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-08T08:51:33Z",
+        "uri": "https://web.archive.org/web/20200408085133/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-08T20:29:40Z",
+        "uri": "https://web.archive.org/web/20200408202940/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-09T22:40:32Z",
+        "uri": "https://web.archive.org/web/20200409224032/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-10T03:20:10Z",
+        "uri": "https://web.archive.org/web/20200410032010/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-11T14:02:37Z",
+        "uri": "https://web.archive.org/web/20200411140237/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-11T17:47:43Z",
+        "uri": "https://web.archive.org/web/20200411174743/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-11T20:34:17Z",
+        "uri": "https://web.archive.org/web/20200411203417/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-12T16:14:16Z",
+        "uri": "https://web.archive.org/web/20200412161416/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-12T17:26:13Z",
+        "uri": "https://web.archive.org/web/20200412172613/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-12T20:07:03Z",
+        "uri": "https://web.archive.org/web/20200412200703/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-13T21:44:24Z",
+        "uri": "https://web.archive.org/web/20200413214424/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-14T18:45:12Z",
+        "uri": "https://web.archive.org/web/20200414184512/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-15T22:12:27Z",
+        "uri": "https://web.archive.org/web/20200415221227/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-16T20:04:21Z",
+        "uri": "https://web.archive.org/web/20200416200421/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-16T20:09:34Z",
+        "uri": "https://web.archive.org/web/20200416200934/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-16T21:47:10Z",
+        "uri": "https://web.archive.org/web/20200416214710/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-18T22:20:34Z",
+        "uri": "https://web.archive.org/web/20200418222034/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-20T12:32:52Z",
+        "uri": "https://web.archive.org/web/20200420123252/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-20T12:38:39Z",
+        "uri": "https://web.archive.org/web/20200420123839/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-21T02:41:46Z",
+        "uri": "https://web.archive.org/web/20200421024146/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-21T03:06:36Z",
+        "uri": "https://web.archive.org/web/20200421030636/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-21T03:21:47Z",
+        "uri": "https://web.archive.org/web/20200421032147/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-21T03:21:47Z",
+        "uri": "https://web.archive.org/web/20200421032147/http://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-21T10:30:24Z",
+        "uri": "https://web.archive.org/web/20200421103024/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-22T02:16:44Z",
+        "uri": "https://web.archive.org/web/20200422021644/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-22T15:44:56Z",
+        "uri": "https://web.archive.org/web/20200422154456/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-22T18:36:35Z",
+        "uri": "https://web.archive.org/web/20200422183635/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-22T23:02:39Z",
+        "uri": "https://web.archive.org/web/20200422230239/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-24T00:08:22Z",
+        "uri": "https://web.archive.org/web/20200424000822/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-25T01:19:56Z",
+        "uri": "https://web.archive.org/web/20200425011956/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-25T23:15:14Z",
+        "uri": "https://web.archive.org/web/20200425231514/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-26T18:26:23Z",
+        "uri": "https://web.archive.org/web/20200426182623/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-27T01:09:50Z",
+        "uri": "https://web.archive.org/web/20200427010950/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-27T22:11:01Z",
+        "uri": "https://web.archive.org/web/20200427221101/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-28T07:14:47Z",
+        "uri": "https://web.archive.org/web/20200428071447/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-28T17:57:17Z",
+        "uri": "https://web.archive.org/web/20200428175717/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-29T16:57:59Z",
+        "uri": "https://web.archive.org/web/20200429165759/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-30T05:49:28Z",
+        "uri": "https://web.archive.org/web/20200430054928/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-30T06:23:20Z",
+        "uri": "https://web.archive.org/web/20200430062320/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-04-30T20:28:54Z",
+        "uri": "https://web.archive.org/web/20200430202854/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-05-01T23:17:25Z",
+        "uri": "https://web.archive.org/web/20200501231725/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-05-02T18:12:47Z",
+        "uri": "https://web.archive.org/web/20200502181247/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-05-14T18:56:41Z",
+        "uri": "https://web.archive.org/web/20200514185641/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-05-19T06:50:09Z",
+        "uri": "https://web.archive.org/web/20200519065009/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-05-31T20:59:01Z",
+        "uri": "https://web.archive.org/web/20200531205901/http://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-06-03T00:33:12Z",
+        "uri": "https://web.archive.org/web/20200603003312/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-06-07T03:09:44Z",
+        "uri": "https://web.archive.org/web/20200607030944/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-06-09T17:04:35Z",
+        "uri": "https://web.archive.org/web/20200609170435/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-06-11T12:52:05Z",
+        "uri": "https://web.archive.org/web/20200611125205/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-06-12T11:53:41Z",
+        "uri": "https://web.archive.org/web/20200612115341/http://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-06-19T08:13:10Z",
+        "uri": "https://web.archive.org/web/20200619081310/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-06-22T21:20:23Z",
+        "uri": "https://web.archive.org/web/20200622212023/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-06-28T23:22:15Z",
+        "uri": "https://web.archive.org/web/20200628232215/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-06-28T23:22:18Z",
+        "uri": "https://web.archive.org/web/20200628232218/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-06-29T18:12:57Z",
+        "uri": "https://web.archive.org/web/20200629181257/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-06-29T21:46:37Z",
+        "uri": "https://web.archive.org/web/20200629214637/http://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-06-30T22:35:21Z",
+        "uri": "https://web.archive.org/web/20200630223521/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-07-02T13:32:46Z",
+        "uri": "https://web.archive.org/web/20200702133246/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-07-07T14:58:06Z",
+        "uri": "https://web.archive.org/web/20200707145806/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-07-15T09:26:54Z",
+        "uri": "https://web.archive.org/web/20200715092654/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-07-22T05:33:04Z",
+        "uri": "https://web.archive.org/web/20200722053304/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-07-22T10:18:53Z",
+        "uri": "https://web.archive.org/web/20200722101853/http://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-07-25T03:59:54Z",
+        "uri": "https://web.archive.org/web/20200725035954/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-07-26T03:53:04Z",
+        "uri": "https://web.archive.org/web/20200726035304/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-07-30T23:10:50Z",
+        "uri": "https://web.archive.org/web/20200730231050/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-08-03T18:23:34Z",
+        "uri": "https://web.archive.org/web/20200803182334/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-08-04T04:23:41Z",
+        "uri": "https://web.archive.org/web/20200804042341/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-08-04T08:19:03Z",
+        "uri": "https://web.archive.org/web/20200804081903/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-08-05T10:54:55Z",
+        "uri": "https://web.archive.org/web/20200805105455/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-08-08T07:39:15Z",
+        "uri": "https://web.archive.org/web/20200808073915/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-08-10T22:21:55Z",
+        "uri": "https://web.archive.org/web/20200810222155/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-08-15T01:34:16Z",
+        "uri": "https://web.archive.org/web/20200815013416/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-08-17T09:29:46Z",
+        "uri": "https://web.archive.org/web/20200817092946/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-08-18T10:32:20Z",
+        "uri": "https://web.archive.org/web/20200818103220/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-08-19T02:53:00Z",
+        "uri": "https://web.archive.org/web/20200819025300/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-08-20T01:46:46Z",
+        "uri": "https://web.archive.org/web/20200820014646/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-08-21T01:48:24Z",
+        "uri": "https://web.archive.org/web/20200821014824/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-08-22T01:31:24Z",
+        "uri": "https://web.archive.org/web/20200822013124/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-08-23T01:03:46Z",
+        "uri": "https://web.archive.org/web/20200823010346/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-08-23T02:03:35Z",
+        "uri": "https://web.archive.org/web/20200823020335/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-08-23T03:44:04Z",
+        "uri": "https://web.archive.org/web/20200823034404/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-08-23T03:52:31Z",
+        "uri": "https://web.archive.org/web/20200823035231/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-08-31T03:06:29Z",
+        "uri": "https://web.archive.org/web/20200831030629/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-09-05T04:14:46Z",
+        "uri": "https://web.archive.org/web/20200905041446/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-09-07T00:01:38Z",
+        "uri": "https://web.archive.org/web/20200907000138/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-09-21T16:01:06Z",
+        "uri": "https://web.archive.org/web/20200921160106/http://covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-09-29T02:42:09Z",
+        "uri": "https://web.archive.org/web/20200929024209/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-09-30T08:07:52Z",
+        "uri": "https://web.archive.org/web/20200930080752/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-10-01T08:10:45Z",
+        "uri": "https://web.archive.org/web/20201001081045/https://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-10-01T18:21:58Z",
+        "uri": "https://web.archive.org/web/20201001182158/http://www.covid-19canada.com/"
+      },
+      {
+        "datetime": "2020-10-04T23:41:48Z",
+        "uri": "https://web.archive.org/web/20201004234148/https://www.covid-19canada.com/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-03-06T05:04:37Z",
+      "uri": "https://web.archive.org/web/20200306050437/http://www.covid-19canada.com:80/"
+    },
+    "last": {
+      "datetime": "2020-10-04T23:41:48Z",
+      "uri": "https://web.archive.org/web/20201004234148/https://www.covid-19canada.com/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.covid-19canada.com/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.covid-19canada.com/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.covid-19canada.com/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.covid-19canada.com/%0A"
+}

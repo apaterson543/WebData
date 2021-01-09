@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.nytimes.com/2020/09/29/science/cats-coronavirus-immunity.html?smid=tw-share%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2020/09/29/science/cats-coronavirus-immunity.html?smid=tw-share%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-09-30T15:12:26Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20200930151226mp_/https://www.nytimes.com/2020/09/29/science/cats-coronavirus-immunity.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-09-30T15:12:26Z",
+      "uri": "https://www.webarchive.org.uk/wayback/archive/20200930151226mp_/https://www.nytimes.com/2020/09/29/science/cats-coronavirus-immunity.html"
+    },
+    "last": {
+      "datetime": "2020-09-30T15:12:26Z",
+      "uri": "https://www.webarchive.org.uk/wayback/archive/20200930151226mp_/https://www.nytimes.com/2020/09/29/science/cats-coronavirus-immunity.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.nytimes.com/2020/09/29/science/cats-coronavirus-immunity.html?smid=tw-share%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2020/09/29/science/cats-coronavirus-immunity.html?smid=tw-share%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.nytimes.com/2020/09/29/science/cats-coronavirus-immunity.html?smid=tw-share%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.nytimes.com/2020/09/29/science/cats-coronavirus-immunity.html?smid=tw-share%0A"
+}

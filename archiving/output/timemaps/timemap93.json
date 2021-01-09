@@ -1,0 +1,58 @@
+{
+  "original_uri": "https://theconversation.com/remote-learning-isnt-new-radio-instruction-in-the-1937-polio-epidemic-143797%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://theconversation.com/remote-learning-isnt-new-radio-instruction-in-the-1937-polio-epidemic-143797%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-06T16:28:08Z",
+        "uri": "https://web.archive.org/web/20201006162808/https://theconversation.com/remote-learning-isnt-new-radio-instruction-in-the-1937-polio-epidemic-143797"
+      },
+      {
+        "datetime": "2020-10-06T16:49:28Z",
+        "uri": "https://web.archive.org/web/20201006164928/https://theconversation.com/remote-learning-isnt-new-radio-instruction-in-the-1937-polio-epidemic-143797"
+      },
+      {
+        "datetime": "2020-10-06T17:41:02Z",
+        "uri": "https://web.archive.org/web/20201006174102/https://theconversation.com/remote-learning-isnt-new-radio-instruction-in-the-1937-polio-epidemic-143797"
+      },
+      {
+        "datetime": "2020-10-06T18:35:41Z",
+        "uri": "https://web.archive.org/web/20201006183541/https://theconversation.com/remote-learning-isnt-new-radio-instruction-in-the-1937-polio-epidemic-143797"
+      },
+      {
+        "datetime": "2020-10-06T19:56:13Z",
+        "uri": "https://web.archive.org/web/20201006195613/https://theconversation.com/remote-learning-isnt-new-radio-instruction-in-the-1937-polio-epidemic-143797"
+      },
+      {
+        "datetime": "2020-10-06T21:18:32Z",
+        "uri": "https://web.archive.org/web/20201006211832/https://theconversation.com/remote-learning-isnt-new-radio-instruction-in-the-1937-polio-epidemic-143797"
+      },
+      {
+        "datetime": "2020-10-06T23:15:34Z",
+        "uri": "https://web.archive.org/web/20201006231534/https://theconversation.com/remote-learning-isnt-new-radio-instruction-in-the-1937-polio-epidemic-143797"
+      },
+      {
+        "datetime": "2020-10-07T03:12:45Z",
+        "uri": "https://web.archive.org/web/20201007031245/https://theconversation.com/remote-learning-isnt-new-radio-instruction-in-the-1937-polio-epidemic-143797"
+      },
+      {
+        "datetime": "2020-10-07T04:21:17Z",
+        "uri": "https://web.archive.org/web/20201007042117/https://theconversation.com/remote-learning-isnt-new-radio-instruction-in-the-1937-polio-epidemic-143797"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-06T16:28:08Z",
+      "uri": "https://web.archive.org/web/20201006162808/https://theconversation.com/remote-learning-isnt-new-radio-instruction-in-the-1937-polio-epidemic-143797"
+    },
+    "last": {
+      "datetime": "2020-10-07T04:21:17Z",
+      "uri": "https://web.archive.org/web/20201007042117/https://theconversation.com/remote-learning-isnt-new-radio-instruction-in-the-1937-polio-epidemic-143797"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://theconversation.com/remote-learning-isnt-new-radio-instruction-in-the-1937-polio-epidemic-143797%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://theconversation.com/remote-learning-isnt-new-radio-instruction-in-the-1937-polio-epidemic-143797%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://theconversation.com/remote-learning-isnt-new-radio-instruction-in-the-1937-polio-epidemic-143797%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://theconversation.com/remote-learning-isnt-new-radio-instruction-in-the-1937-polio-epidemic-143797%0A"
+}

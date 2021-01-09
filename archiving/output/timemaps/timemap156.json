@@ -1,0 +1,38 @@
+{
+  "original_uri": "https://tom-gillispie.blogspot.com/2020/06/battling.html%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://tom-gillispie.blogspot.com/2020/06/battling.html%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-06-21T03:57:29Z",
+        "uri": "https://web.archive.org/web/20200621035729/https://tom-gillispie.blogspot.com/2020/06/battling.html"
+      },
+      {
+        "datetime": "2020-06-25T17:35:02Z",
+        "uri": "https://web.archive.org/web/20200625173502/http://tom-gillispie.blogspot.com/2020/06/battling.html"
+      },
+      {
+        "datetime": "2020-08-12T15:00:19Z",
+        "uri": "https://web.archive.org/web/20200812150019/https://tom-gillispie.blogspot.com/2020/06/battling.html"
+      },
+      {
+        "datetime": "2020-09-29T07:56:21Z",
+        "uri": "https://web.archive.org/web/20200929075621/http://tom-gillispie.blogspot.com/2020/06/battling.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-06-21T03:57:29Z",
+      "uri": "https://web.archive.org/web/20200621035729/https://tom-gillispie.blogspot.com/2020/06/battling.html"
+    },
+    "last": {
+      "datetime": "2020-09-29T07:56:21Z",
+      "uri": "https://web.archive.org/web/20200929075621/http://tom-gillispie.blogspot.com/2020/06/battling.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://tom-gillispie.blogspot.com/2020/06/battling.html%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://tom-gillispie.blogspot.com/2020/06/battling.html%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://tom-gillispie.blogspot.com/2020/06/battling.html%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://tom-gillispie.blogspot.com/2020/06/battling.html%0A"
+}

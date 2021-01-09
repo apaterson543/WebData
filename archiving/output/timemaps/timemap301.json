@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.bbc.com/news/uk-politics-54451367%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.bbc.com/news/uk-politics-54451367%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T20:45:54Z",
+        "uri": "https://web.archive.org/web/20201007204554/https://www.bbc.com/news/uk-politics-54451367"
+      },
+      {
+        "datetime": "2020-10-08T08:41:11Z",
+        "uri": "https://web.archive.org/web/20201008084111/https://www.bbc.com/news/uk-politics-54451367"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T20:45:54Z",
+      "uri": "https://web.archive.org/web/20201007204554/https://www.bbc.com/news/uk-politics-54451367"
+    },
+    "last": {
+      "datetime": "2020-10-08T08:41:11Z",
+      "uri": "https://web.archive.org/web/20201008084111/https://www.bbc.com/news/uk-politics-54451367"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.bbc.com/news/uk-politics-54451367%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.bbc.com/news/uk-politics-54451367%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.bbc.com/news/uk-politics-54451367%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.bbc.com/news/uk-politics-54451367%0A"
+}

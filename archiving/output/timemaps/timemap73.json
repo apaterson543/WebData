@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.khaleejtimes.com/coronavirus-pandemic/coronavirus-brazil-hits-5-million-covid-19-cases-fears-raised-over-second-wave%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.khaleejtimes.com/coronavirus-pandemic/coronavirus-brazil-hits-5-million-covid-19-cases-fears-raised-over-second-wave%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-08T00:18:59Z",
+        "uri": "https://web.archive.org/web/20201008001859/https://www.khaleejtimes.com/coronavirus-pandemic/coronavirus-brazil-hits-5-million-covid-19-cases-fears-raised-over-second-wave"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-08T00:18:59Z",
+      "uri": "https://web.archive.org/web/20201008001859/https://www.khaleejtimes.com/coronavirus-pandemic/coronavirus-brazil-hits-5-million-covid-19-cases-fears-raised-over-second-wave"
+    },
+    "last": {
+      "datetime": "2020-10-08T00:18:59Z",
+      "uri": "https://web.archive.org/web/20201008001859/https://www.khaleejtimes.com/coronavirus-pandemic/coronavirus-brazil-hits-5-million-covid-19-cases-fears-raised-over-second-wave"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.khaleejtimes.com/coronavirus-pandemic/coronavirus-brazil-hits-5-million-covid-19-cases-fears-raised-over-second-wave%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.khaleejtimes.com/coronavirus-pandemic/coronavirus-brazil-hits-5-million-covid-19-cases-fears-raised-over-second-wave%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.khaleejtimes.com/coronavirus-pandemic/coronavirus-brazil-hits-5-million-covid-19-cases-fears-raised-over-second-wave%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.khaleejtimes.com/coronavirus-pandemic/coronavirus-brazil-hits-5-million-covid-19-cases-fears-raised-over-second-wave%0A"
+}

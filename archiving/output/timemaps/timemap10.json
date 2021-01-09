@@ -1,0 +1,70 @@
+{
+  "original_uri": "https://www.nytimes.com/2020/10/07/us/notre-dame-president-covid.html%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2020/10/07/us/notre-dame-president-covid.html%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T21:20:44Z",
+        "uri": "https://web.archive.org/web/20201007212044/https://www.nytimes.com/2020/10/07/us/notre-dame-president-covid.html"
+      },
+      {
+        "datetime": "2020-10-07T21:37:52Z",
+        "uri": "https://web.archive.org/web/20201007213752/https://www.nytimes.com/2020/10/07/us/notre-dame-president-covid.html"
+      },
+      {
+        "datetime": "2020-10-07T22:06:03Z",
+        "uri": "https://web.archive.org/web/20201007220603/https://www.nytimes.com/2020/10/07/us/notre-dame-president-covid.html"
+      },
+      {
+        "datetime": "2020-10-07T22:06:03Z",
+        "uri": "https://web.archive.org/web/20201007220603/https://www.nytimes.com/2020/10/07/us/notre-dame-president-covid.html"
+      },
+      {
+        "datetime": "2020-10-07T22:17:55Z",
+        "uri": "https://web.archive.org/web/20201007221755/https://www.nytimes.com/2020/10/07/us/notre-dame-president-covid.html"
+      },
+      {
+        "datetime": "2020-10-08T00:52:37Z",
+        "uri": "https://web.archive.org/web/20201008005237/https://www.nytimes.com/2020/10/07/us/notre-dame-president-covid.html"
+      },
+      {
+        "datetime": "2020-10-08T09:00:04Z",
+        "uri": "https://web.archive.org/web/20201008090004/https://www.nytimes.com/2020/10/07/us/notre-dame-president-covid.html"
+      },
+      {
+        "datetime": "2020-10-08T09:00:18Z",
+        "uri": "https://web.archive.org/web/20201008090018/https://www.nytimes.com/2020/10/07/us/notre-dame-president-covid.html"
+      },
+      {
+        "datetime": "2020-10-08T09:15:06Z",
+        "uri": "https://web.archive.org/web/20201008091506/https://www.nytimes.com/2020/10/07/us/notre-dame-president-covid.html"
+      },
+      {
+        "datetime": "2020-10-08T17:44:59Z",
+        "uri": "https://web.archive.org/web/20201008174459/https://www.nytimes.com/2020/10/07/us/notre-dame-president-covid.html"
+      },
+      {
+        "datetime": "2020-10-08T18:40:04Z",
+        "uri": "https://web.archive.org/web/20201008184004/https://www.nytimes.com/2020/10/07/us/notre-dame-president-covid.html"
+      },
+      {
+        "datetime": "2020-10-08T19:15:23Z",
+        "uri": "https://web.archive.org/web/20201008191523/https://www.nytimes.com/2020/10/07/us/notre-dame-president-covid.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T21:20:44Z",
+      "uri": "https://web.archive.org/web/20201007212044/https://www.nytimes.com/2020/10/07/us/notre-dame-president-covid.html"
+    },
+    "last": {
+      "datetime": "2020-10-08T19:15:23Z",
+      "uri": "https://web.archive.org/web/20201008191523/https://www.nytimes.com/2020/10/07/us/notre-dame-president-covid.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.nytimes.com/2020/10/07/us/notre-dame-president-covid.html%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2020/10/07/us/notre-dame-president-covid.html%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.nytimes.com/2020/10/07/us/notre-dame-president-covid.html%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.nytimes.com/2020/10/07/us/notre-dame-president-covid.html%0A"
+}

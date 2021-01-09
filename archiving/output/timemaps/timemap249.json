@@ -1,0 +1,34 @@
+{
+  "original_uri": "https://www.silicon.co.uk/software/office-suites/google-rebrands-g-suite-google-workspace-348123%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.silicon.co.uk/software/office-suites/google-rebrands-g-suite-google-workspace-348123%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-06T11:38:18Z",
+        "uri": "https://web.archive.org/web/20201006113818/https://www.silicon.co.uk/software/office-suites/google-rebrands-g-suite-google-workspace-348123"
+      },
+      {
+        "datetime": "2020-10-06T14:52:45Z",
+        "uri": "https://web.archive.org/web/20201006145245/https://silicon.co.uk/software/office-suites/google-rebrands-g-suite-google-workspace-348123"
+      },
+      {
+        "datetime": "2020-10-06T14:52:46Z",
+        "uri": "https://web.archive.org/web/20201006145246/https://www.silicon.co.uk/software/office-suites/google-rebrands-g-suite-google-workspace-348123"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-06T11:38:18Z",
+      "uri": "https://web.archive.org/web/20201006113818/https://www.silicon.co.uk/software/office-suites/google-rebrands-g-suite-google-workspace-348123"
+    },
+    "last": {
+      "datetime": "2020-10-06T14:52:46Z",
+      "uri": "https://web.archive.org/web/20201006145246/https://www.silicon.co.uk/software/office-suites/google-rebrands-g-suite-google-workspace-348123"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.silicon.co.uk/software/office-suites/google-rebrands-g-suite-google-workspace-348123%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.silicon.co.uk/software/office-suites/google-rebrands-g-suite-google-workspace-348123%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.silicon.co.uk/software/office-suites/google-rebrands-g-suite-google-workspace-348123%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.silicon.co.uk/software/office-suites/google-rebrands-g-suite-google-workspace-348123%0A"
+}

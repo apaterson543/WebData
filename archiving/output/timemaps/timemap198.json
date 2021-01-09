@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://thewallwillfall.org/2020/10/05/removal-of-form-5-cremation-certificate-for-deaths-relating-to-covid-19-under-the-coronavirus-act/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://thewallwillfall.org/2020/10/05/removal-of-form-5-cremation-certificate-for-deaths-relating-to-covid-19-under-the-coronavirus-act/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-05T13:03:26Z",
+        "uri": "https://web.archive.org/web/20201005130326/http://thewallwillfall.org/2020/10/05/removal-of-form-5-cremation-certificate-for-deaths-relating-to-covid-19-under-the-coronavirus-act/"
+      },
+      {
+        "datetime": "2020-10-05T22:16:09Z",
+        "uri": "https://web.archive.org/web/20201005221609/https://thewallwillfall.org/2020/10/05/removal-of-form-5-cremation-certificate-for-deaths-relating-to-covid-19-under-the-coronavirus-act/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-05T13:03:26Z",
+      "uri": "https://web.archive.org/web/20201005130326/http://thewallwillfall.org/2020/10/05/removal-of-form-5-cremation-certificate-for-deaths-relating-to-covid-19-under-the-coronavirus-act/"
+    },
+    "last": {
+      "datetime": "2020-10-05T22:16:09Z",
+      "uri": "https://web.archive.org/web/20201005221609/https://thewallwillfall.org/2020/10/05/removal-of-form-5-cremation-certificate-for-deaths-relating-to-covid-19-under-the-coronavirus-act/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://thewallwillfall.org/2020/10/05/removal-of-form-5-cremation-certificate-for-deaths-relating-to-covid-19-under-the-coronavirus-act/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://thewallwillfall.org/2020/10/05/removal-of-form-5-cremation-certificate-for-deaths-relating-to-covid-19-under-the-coronavirus-act/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://thewallwillfall.org/2020/10/05/removal-of-form-5-cremation-certificate-for-deaths-relating-to-covid-19-under-the-coronavirus-act/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://thewallwillfall.org/2020/10/05/removal-of-form-5-cremation-certificate-for-deaths-relating-to-covid-19-under-the-coronavirus-act/%0A"
+}

@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.city-journal.org/trump-coronavirus-diagnosis-models-positive-masculinity%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.city-journal.org/trump-coronavirus-diagnosis-models-positive-masculinity%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T13:08:47Z",
+        "uri": "https://web.archive.org/web/20201007130847/https://www.city-journal.org/trump-coronavirus-diagnosis-models-positive-masculinity"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T13:08:47Z",
+      "uri": "https://web.archive.org/web/20201007130847/https://www.city-journal.org/trump-coronavirus-diagnosis-models-positive-masculinity"
+    },
+    "last": {
+      "datetime": "2020-10-07T13:08:47Z",
+      "uri": "https://web.archive.org/web/20201007130847/https://www.city-journal.org/trump-coronavirus-diagnosis-models-positive-masculinity"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.city-journal.org/trump-coronavirus-diagnosis-models-positive-masculinity%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.city-journal.org/trump-coronavirus-diagnosis-models-positive-masculinity%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.city-journal.org/trump-coronavirus-diagnosis-models-positive-masculinity%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.city-journal.org/trump-coronavirus-diagnosis-models-positive-masculinity%0A"
+}

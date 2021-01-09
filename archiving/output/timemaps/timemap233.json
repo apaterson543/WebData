@@ -1,0 +1,34 @@
+{
+  "original_uri": "https://leftfootforward.org/2020/05/union-membership-rose-before-coronavirus-and-is-soaring-now/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://leftfootforward.org/2020/05/union-membership-rose-before-coronavirus-and-is-soaring-now/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-06-11T03:17:56Z",
+        "uri": "https://web.archive.org/web/20200611031756/https://leftfootforward.org/2020/05/union-membership-rose-before-coronavirus-and-is-soaring-now/"
+      },
+      {
+        "datetime": "2020-07-12T04:20:42Z",
+        "uri": "https://web.archive.org/web/20200712042042/https://leftfootforward.org/2020/05/union-membership-rose-before-coronavirus-and-is-soaring-now/"
+      },
+      {
+        "datetime": "2020-07-22T00:14:29Z",
+        "uri": "https://web.archive.org/web/20200722001429/https://leftfootforward.org/2020/05/union-membership-rose-before-coronavirus-and-is-soaring-now/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-06-11T03:17:56Z",
+      "uri": "https://web.archive.org/web/20200611031756/https://leftfootforward.org/2020/05/union-membership-rose-before-coronavirus-and-is-soaring-now/"
+    },
+    "last": {
+      "datetime": "2020-07-22T00:14:29Z",
+      "uri": "https://web.archive.org/web/20200722001429/https://leftfootforward.org/2020/05/union-membership-rose-before-coronavirus-and-is-soaring-now/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://leftfootforward.org/2020/05/union-membership-rose-before-coronavirus-and-is-soaring-now/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://leftfootforward.org/2020/05/union-membership-rose-before-coronavirus-and-is-soaring-now/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://leftfootforward.org/2020/05/union-membership-rose-before-coronavirus-and-is-soaring-now/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://leftfootforward.org/2020/05/union-membership-rose-before-coronavirus-and-is-soaring-now/%0A"
+}

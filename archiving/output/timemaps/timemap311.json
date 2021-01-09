@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.wbaltv.com/article/maryland-coronavirus-numbers-map-faq-october-5-11/34271761%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.wbaltv.com/article/maryland-coronavirus-numbers-map-faq-october-5-11/34271761%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-06T10:16:25Z",
+        "uri": "https://web.archive.org/web/20201006101625/https://www.wbaltv.com/article/maryland-coronavirus-numbers-map-faq-october-5-11/34271761"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-06T10:16:25Z",
+      "uri": "https://web.archive.org/web/20201006101625/https://www.wbaltv.com/article/maryland-coronavirus-numbers-map-faq-october-5-11/34271761"
+    },
+    "last": {
+      "datetime": "2020-10-06T10:16:25Z",
+      "uri": "https://web.archive.org/web/20201006101625/https://www.wbaltv.com/article/maryland-coronavirus-numbers-map-faq-october-5-11/34271761"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.wbaltv.com/article/maryland-coronavirus-numbers-map-faq-october-5-11/34271761%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.wbaltv.com/article/maryland-coronavirus-numbers-map-faq-october-5-11/34271761%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.wbaltv.com/article/maryland-coronavirus-numbers-map-faq-october-5-11/34271761%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.wbaltv.com/article/maryland-coronavirus-numbers-map-faq-october-5-11/34271761%0A"
+}

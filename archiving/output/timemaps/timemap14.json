@@ -1,0 +1,42 @@
+{
+  "original_uri": "https://www.axios.com/new-england-journal-medicine-coronavirus-election-af1fa07d-9c60-4836-82e6-a30d7482927b.html%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.axios.com/new-england-journal-medicine-coronavirus-election-af1fa07d-9c60-4836-82e6-a30d7482927b.html%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-08T00:50:18Z",
+        "uri": "https://web.archive.org/web/20201008005018/https://www.axios.com/new-england-journal-medicine-coronavirus-election-af1fa07d-9c60-4836-82e6-a30d7482927b.html"
+      },
+      {
+        "datetime": "2020-10-08T01:26:02Z",
+        "uri": "https://web.archive.org/web/20201008012602/https://www.axios.com/new-england-journal-medicine-coronavirus-election-af1fa07d-9c60-4836-82e6-a30d7482927b.html"
+      },
+      {
+        "datetime": "2020-10-08T01:54:34Z",
+        "uri": "https://web.archive.org/web/20201008015434/https://www.axios.com/new-england-journal-medicine-coronavirus-election-af1fa07d-9c60-4836-82e6-a30d7482927b.html"
+      },
+      {
+        "datetime": "2020-10-08T02:26:00Z",
+        "uri": "https://web.archive.org/web/20201008022600/https://www.axios.com/new-england-journal-medicine-coronavirus-election-af1fa07d-9c60-4836-82e6-a30d7482927b.html"
+      },
+      {
+        "datetime": "2020-10-08T02:40:24Z",
+        "uri": "https://web.archive.org/web/20201008024024/https://www.axios.com/new-england-journal-medicine-coronavirus-election-af1fa07d-9c60-4836-82e6-a30d7482927b.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-08T00:50:18Z",
+      "uri": "https://web.archive.org/web/20201008005018/https://www.axios.com/new-england-journal-medicine-coronavirus-election-af1fa07d-9c60-4836-82e6-a30d7482927b.html"
+    },
+    "last": {
+      "datetime": "2020-10-08T02:40:24Z",
+      "uri": "https://web.archive.org/web/20201008024024/https://www.axios.com/new-england-journal-medicine-coronavirus-election-af1fa07d-9c60-4836-82e6-a30d7482927b.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.axios.com/new-england-journal-medicine-coronavirus-election-af1fa07d-9c60-4836-82e6-a30d7482927b.html%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.axios.com/new-england-journal-medicine-coronavirus-election-af1fa07d-9c60-4836-82e6-a30d7482927b.html%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.axios.com/new-england-journal-medicine-coronavirus-election-af1fa07d-9c60-4836-82e6-a30d7482927b.html%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.axios.com/new-england-journal-medicine-coronavirus-election-af1fa07d-9c60-4836-82e6-a30d7482927b.html%0A"
+}

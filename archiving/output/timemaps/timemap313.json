@@ -1,0 +1,34 @@
+{
+  "original_uri": "https://notesfromxanadu.org/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://notesfromxanadu.org/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-06-30T13:30:29Z",
+        "uri": "https://web.archive.org/web/20200630133029/http://notesfromxanadu.org/"
+      },
+      {
+        "datetime": "2020-07-02T18:57:31Z",
+        "uri": "https://web.archive.org/web/20200702185731/https://www.notesfromxanadu.org/"
+      },
+      {
+        "datetime": "2020-07-13T06:51:39Z",
+        "uri": "https://web.archive.org/web/20200713065139/https://notesfromxanadu.org/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-06-30T13:30:29Z",
+      "uri": "https://web.archive.org/web/20200630133029/http://notesfromxanadu.org/"
+    },
+    "last": {
+      "datetime": "2020-07-13T06:51:39Z",
+      "uri": "https://web.archive.org/web/20200713065139/https://notesfromxanadu.org/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://notesfromxanadu.org/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://notesfromxanadu.org/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://notesfromxanadu.org/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://notesfromxanadu.org/%0A"
+}

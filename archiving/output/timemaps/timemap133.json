@@ -1,0 +1,50 @@
+{
+  "original_uri": "https://www.msnbc.com/rachel-maddow/watch/new-concerns-covid-treatments-are-warping-trump-s-judgment-93310021840%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.msnbc.com/rachel-maddow/watch/new-concerns-covid-treatments-are-warping-trump-s-judgment-93310021840%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T08:04:12Z",
+        "uri": "https://web.archive.org/web/20201007080412/https://www.msnbc.com/rachel-maddow/watch/new-concerns-covid-treatments-are-warping-trump-s-judgment-93310021840"
+      },
+      {
+        "datetime": "2020-10-07T11:15:08Z",
+        "uri": "https://web.archive.org/web/20201007111508/http://www.msnbc.com/rachel-maddow/watch/new-concerns-covid-treatments-are-warping-trump-s-judgment-93310021840"
+      },
+      {
+        "datetime": "2020-10-07T12:07:19Z",
+        "uri": "https://web.archive.org/web/20201007120719/https://www.msnbc.com/rachel-maddow/watch/new-concerns-covid-treatments-are-warping-trump-s-judgment-93310021840"
+      },
+      {
+        "datetime": "2020-10-07T14:51:54Z",
+        "uri": "https://web.archive.org/web/20201007145154/https://www.msnbc.com/rachel-maddow/watch/new-concerns-covid-treatments-are-warping-trump-s-judgment-93310021840"
+      },
+      {
+        "datetime": "2020-10-07T21:07:49Z",
+        "uri": "https://web.archive.org/web/20201007210749/https://www.msnbc.com/rachel-maddow/watch/new-concerns-covid-treatments-are-warping-trump-s-judgment-93310021840"
+      },
+      {
+        "datetime": "2020-10-08T00:11:39Z",
+        "uri": "https://web.archive.org/web/20201008001139/https://www.msnbc.com/rachel-maddow/watch/new-concerns-covid-treatments-are-warping-trump-s-judgment-93310021840"
+      },
+      {
+        "datetime": "2020-10-08T02:51:11Z",
+        "uri": "https://web.archive.org/web/20201008025111/https://www.msnbc.com/rachel-maddow/watch/new-concerns-covid-treatments-are-warping-trump-s-judgment-93310021840"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T08:04:12Z",
+      "uri": "https://web.archive.org/web/20201007080412/https://www.msnbc.com/rachel-maddow/watch/new-concerns-covid-treatments-are-warping-trump-s-judgment-93310021840"
+    },
+    "last": {
+      "datetime": "2020-10-08T02:51:11Z",
+      "uri": "https://web.archive.org/web/20201008025111/https://www.msnbc.com/rachel-maddow/watch/new-concerns-covid-treatments-are-warping-trump-s-judgment-93310021840"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.msnbc.com/rachel-maddow/watch/new-concerns-covid-treatments-are-warping-trump-s-judgment-93310021840%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.msnbc.com/rachel-maddow/watch/new-concerns-covid-treatments-are-warping-trump-s-judgment-93310021840%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.msnbc.com/rachel-maddow/watch/new-concerns-covid-treatments-are-warping-trump-s-judgment-93310021840%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.msnbc.com/rachel-maddow/watch/new-concerns-covid-treatments-are-warping-trump-s-judgment-93310021840%0A"
+}

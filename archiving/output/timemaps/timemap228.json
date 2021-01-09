@@ -1,0 +1,34 @@
+{
+  "original_uri": "https://www.businessinsider.com/uk-chancellor-extends-coronavirus-schemes-deadline-2020-9%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.businessinsider.com/uk-chancellor-extends-coronavirus-schemes-deadline-2020-9%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-09-29T07:24:11Z",
+        "uri": "https://web.archive.org/web/20200929072411/https://www.businessinsider.com/uk-chancellor-extends-coronavirus-schemes-deadline-2020-9"
+      },
+      {
+        "datetime": "2020-09-30T21:12:03Z",
+        "uri": "https://web.archive.org/web/20200930211203/https://www.businessinsider.com/uk-chancellor-extends-coronavirus-schemes-deadline-2020-9"
+      },
+      {
+        "datetime": "2020-10-03T03:58:38Z",
+        "uri": "https://web.archive.org/web/20201003035838/https://www.businessinsider.com/uk-chancellor-extends-coronavirus-schemes-deadline-2020-9"
+      }
+    ],
+    "first": {
+      "datetime": "2020-09-29T07:24:11Z",
+      "uri": "https://web.archive.org/web/20200929072411/https://www.businessinsider.com/uk-chancellor-extends-coronavirus-schemes-deadline-2020-9"
+    },
+    "last": {
+      "datetime": "2020-10-03T03:58:38Z",
+      "uri": "https://web.archive.org/web/20201003035838/https://www.businessinsider.com/uk-chancellor-extends-coronavirus-schemes-deadline-2020-9"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.businessinsider.com/uk-chancellor-extends-coronavirus-schemes-deadline-2020-9%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.businessinsider.com/uk-chancellor-extends-coronavirus-schemes-deadline-2020-9%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.businessinsider.com/uk-chancellor-extends-coronavirus-schemes-deadline-2020-9%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.businessinsider.com/uk-chancellor-extends-coronavirus-schemes-deadline-2020-9%0A"
+}

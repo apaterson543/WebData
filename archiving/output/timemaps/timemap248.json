@@ -1,0 +1,106 @@
+{
+  "original_uri": "https://gbdeclaration.org/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://gbdeclaration.org/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-05T14:40:17Z",
+        "uri": "https://web.archive.org/web/20201005144017/https://gbdeclaration.org/"
+      },
+      {
+        "datetime": "2020-10-06T20:51:49Z",
+        "uri": "https://web.archive.org/web/20201006205149/https://gbdeclaration.org/"
+      },
+      {
+        "datetime": "2020-10-06T21:30:29Z",
+        "uri": "https://web.archive.org/web/20201006213029/https://gbdeclaration.org/"
+      },
+      {
+        "datetime": "2020-10-06T23:59:00Z",
+        "uri": "https://web.archive.org/web/20201006235900/https://gbdeclaration.org/"
+      },
+      {
+        "datetime": "2020-10-06T23:59:01Z",
+        "uri": "https://web.archive.org/web/20201006235901/https://gbdeclaration.org/"
+      },
+      {
+        "datetime": "2020-10-07T01:52:09Z",
+        "uri": "https://web.archive.org/web/20201007015209/https://gbdeclaration.org/"
+      },
+      {
+        "datetime": "2020-10-07T11:27:30Z",
+        "uri": "https://web.archive.org/web/20201007112730/https://gbdeclaration.org/"
+      },
+      {
+        "datetime": "2020-10-07T12:40:36Z",
+        "uri": "https://web.archive.org/web/20201007124036/https://gbdeclaration.org/"
+      },
+      {
+        "datetime": "2020-10-07T15:21:36Z",
+        "uri": "https://web.archive.org/web/20201007152136/https://gbdeclaration.org/"
+      },
+      {
+        "datetime": "2020-10-07T16:48:02Z",
+        "uri": "https://web.archive.org/web/20201007164802/https://gbdeclaration.org/"
+      },
+      {
+        "datetime": "2020-10-07T18:43:04Z",
+        "uri": "https://web.archive.org/web/20201007184304/https://gbdeclaration.org/"
+      },
+      {
+        "datetime": "2020-10-07T19:40:03Z",
+        "uri": "https://web.archive.org/web/20201007194003/https://gbdeclaration.org/"
+      },
+      {
+        "datetime": "2020-10-07T20:15:02Z",
+        "uri": "https://web.archive.org/web/20201007201502/https://gbdeclaration.org/"
+      },
+      {
+        "datetime": "2020-10-07T22:01:03Z",
+        "uri": "https://web.archive.org/web/20201007220103/https://gbdeclaration.org/"
+      },
+      {
+        "datetime": "2020-10-07T22:26:07Z",
+        "uri": "https://web.archive.org/web/20201007222607/https://gbdeclaration.org/"
+      },
+      {
+        "datetime": "2020-10-07T22:56:11Z",
+        "uri": "https://web.archive.org/web/20201007225611/https://gbdeclaration.org/"
+      },
+      {
+        "datetime": "2020-10-08T00:25:33Z",
+        "uri": "https://web.archive.org/web/20201008002533/https://gbdeclaration.org/"
+      },
+      {
+        "datetime": "2020-10-08T04:52:30Z",
+        "uri": "https://web.archive.org/web/20201008045230/https://gbdeclaration.org/"
+      },
+      {
+        "datetime": "2020-10-08T07:33:18Z",
+        "uri": "https://web.archive.org/web/20201008073318/https://gbdeclaration.org/"
+      },
+      {
+        "datetime": "2020-10-08T10:47:49Z",
+        "uri": "https://web.archive.org/web/20201008104749/https://gbdeclaration.org"
+      },
+      {
+        "datetime": "2020-10-08T15:01:47Z",
+        "uri": "https://web.archive.org/web/20201008150147/https://gbdeclaration.org/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-05T14:40:17Z",
+      "uri": "https://web.archive.org/web/20201005144017/https://gbdeclaration.org/"
+    },
+    "last": {
+      "datetime": "2020-10-08T15:01:47Z",
+      "uri": "https://web.archive.org/web/20201008150147/https://gbdeclaration.org/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://gbdeclaration.org/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://gbdeclaration.org/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://gbdeclaration.org/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://gbdeclaration.org/%0A"
+}

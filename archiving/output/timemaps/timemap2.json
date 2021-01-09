@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.npr.org/2020/10/07/921054990/a-comparison-between-german-and-u-k-pandemic-responses%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.npr.org/2020/10/07/921054990/a-comparison-between-german-and-u-k-pandemic-responses%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T19:32:21Z",
+        "uri": "https://web.archive.org/web/20201007193221/https://www.npr.org/2020/10/07/921054990/a-comparison-between-german-and-u-k-pandemic-responses"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T19:32:21Z",
+      "uri": "https://web.archive.org/web/20201007193221/https://www.npr.org/2020/10/07/921054990/a-comparison-between-german-and-u-k-pandemic-responses"
+    },
+    "last": {
+      "datetime": "2020-10-07T19:32:21Z",
+      "uri": "https://web.archive.org/web/20201007193221/https://www.npr.org/2020/10/07/921054990/a-comparison-between-german-and-u-k-pandemic-responses"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.npr.org/2020/10/07/921054990/a-comparison-between-german-and-u-k-pandemic-responses%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.npr.org/2020/10/07/921054990/a-comparison-between-german-and-u-k-pandemic-responses%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.npr.org/2020/10/07/921054990/a-comparison-between-german-and-u-k-pandemic-responses%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.npr.org/2020/10/07/921054990/a-comparison-between-german-and-u-k-pandemic-responses%0A"
+}

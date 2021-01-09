@@ -1,0 +1,34 @@
+{
+  "original_uri": "https://nypost.com/2020/10/07/doctor-who-died-from-covid-19-wore-same-mask-for-weeks-if-not-months/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://nypost.com/2020/10/07/doctor-who-died-from-covid-19-wore-same-mask-for-weeks-if-not-months/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T18:37:03Z",
+        "uri": "https://web.archive.org/web/20201007183703/https://nypost.com/2020/10/07/doctor-who-died-from-covid-19-wore-same-mask-for-weeks-if-not-months/"
+      },
+      {
+        "datetime": "2020-10-07T19:21:36Z",
+        "uri": "https://web.archive.org/web/20201007192136/https://nypost.com/2020/10/07/doctor-who-died-from-covid-19-wore-same-mask-for-weeks-if-not-months/"
+      },
+      {
+        "datetime": "2020-10-08T07:56:23Z",
+        "uri": "https://web.archive.org/web/20201008075623/https://nypost.com/2020/10/07/doctor-who-died-from-covid-19-wore-same-mask-for-weeks-if-not-months/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T18:37:03Z",
+      "uri": "https://web.archive.org/web/20201007183703/https://nypost.com/2020/10/07/doctor-who-died-from-covid-19-wore-same-mask-for-weeks-if-not-months/"
+    },
+    "last": {
+      "datetime": "2020-10-08T07:56:23Z",
+      "uri": "https://web.archive.org/web/20201008075623/https://nypost.com/2020/10/07/doctor-who-died-from-covid-19-wore-same-mask-for-weeks-if-not-months/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://nypost.com/2020/10/07/doctor-who-died-from-covid-19-wore-same-mask-for-weeks-if-not-months/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://nypost.com/2020/10/07/doctor-who-died-from-covid-19-wore-same-mask-for-weeks-if-not-months/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://nypost.com/2020/10/07/doctor-who-died-from-covid-19-wore-same-mask-for-weeks-if-not-months/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://nypost.com/2020/10/07/doctor-who-died-from-covid-19-wore-same-mask-for-weeks-if-not-months/%0A"
+}

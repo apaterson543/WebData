@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://summit.news/2020/10/07/over-6000-scientists-doctors-sign-anti-lockdown-petition/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://summit.news/2020/10/07/over-6000-scientists-doctors-sign-anti-lockdown-petition/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T15:43:15Z",
+        "uri": "https://web.archive.org/web/20201007154315/https://summit.news/2020/10/07/over-6000-scientists-doctors-sign-anti-lockdown-petition/"
+      },
+      {
+        "datetime": "2020-10-07T19:40:14Z",
+        "uri": "https://web.archive.org/web/20201007194014/https://summit.news/2020/10/07/over-6000-scientists-doctors-sign-anti-lockdown-petition/"
+      },
+      {
+        "datetime": "2020-10-07T20:15:25Z",
+        "uri": "https://web.archive.org/web/20201007201525/https://summit.news/2020/10/07/over-6000-scientists-doctors-sign-anti-lockdown-petition/"
+      },
+      {
+        "datetime": "2020-10-07T22:37:02Z",
+        "uri": "https://web.archive.org/web/20201007223702/https://summit.news/2020/10/07/over-6000-scientists-doctors-sign-anti-lockdown-petition/"
+      },
+      {
+        "datetime": "2020-10-08T00:34:48Z",
+        "uri": "https://web.archive.org/web/20201008003448/https://summit.news/2020/10/07/over-6000-scientists-doctors-sign-anti-lockdown-petition/"
+      },
+      {
+        "datetime": "2020-10-08T20:23:22Z",
+        "uri": "https://web.archive.org/web/20201008202322/https://summit.news/2020/10/07/over-6000-scientists-doctors-sign-anti-lockdown-petition/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T15:43:15Z",
+      "uri": "https://web.archive.org/web/20201007154315/https://summit.news/2020/10/07/over-6000-scientists-doctors-sign-anti-lockdown-petition/"
+    },
+    "last": {
+      "datetime": "2020-10-08T20:23:22Z",
+      "uri": "https://web.archive.org/web/20201008202322/https://summit.news/2020/10/07/over-6000-scientists-doctors-sign-anti-lockdown-petition/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://summit.news/2020/10/07/over-6000-scientists-doctors-sign-anti-lockdown-petition/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://summit.news/2020/10/07/over-6000-scientists-doctors-sign-anti-lockdown-petition/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://summit.news/2020/10/07/over-6000-scientists-doctors-sign-anti-lockdown-petition/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://summit.news/2020/10/07/over-6000-scientists-doctors-sign-anti-lockdown-petition/%0A"
+}

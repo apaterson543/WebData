@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.cnn.com/2020/10/07/europe/europes-gold-standard-countries-struggling-analysis-intl/index.html%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.cnn.com/2020/10/07/europe/europes-gold-standard-countries-struggling-analysis-intl/index.html%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T12:10:16Z",
+        "uri": "https://web.archive.org/web/20201007121016/https://www.cnn.com/2020/10/07/europe/europes-gold-standard-countries-struggling-analysis-intl/index.html"
+      },
+      {
+        "datetime": "2020-10-08T04:11:32Z",
+        "uri": "https://web.archive.org/web/20201008041132/https://www.cnn.com/2020/10/07/europe/europes-gold-standard-countries-struggling-analysis-intl/index.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T12:10:16Z",
+      "uri": "https://web.archive.org/web/20201007121016/https://www.cnn.com/2020/10/07/europe/europes-gold-standard-countries-struggling-analysis-intl/index.html"
+    },
+    "last": {
+      "datetime": "2020-10-08T04:11:32Z",
+      "uri": "https://web.archive.org/web/20201008041132/https://www.cnn.com/2020/10/07/europe/europes-gold-standard-countries-struggling-analysis-intl/index.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.cnn.com/2020/10/07/europe/europes-gold-standard-countries-struggling-analysis-intl/index.html%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.cnn.com/2020/10/07/europe/europes-gold-standard-countries-struggling-analysis-intl/index.html%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.cnn.com/2020/10/07/europe/europes-gold-standard-countries-struggling-analysis-intl/index.html%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.cnn.com/2020/10/07/europe/europes-gold-standard-countries-struggling-analysis-intl/index.html%0A"
+}

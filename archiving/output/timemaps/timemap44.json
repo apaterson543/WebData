@@ -1,0 +1,70 @@
+{
+  "original_uri": "https://www.foxnews.com/health/trump-regeneron-antibody-cocktail-treatment-covid-19-dr-george-yancopoulos%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.foxnews.com/health/trump-regeneron-antibody-cocktail-treatment-covid-19-dr-george-yancopoulos%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-03T17:52:24Z",
+        "uri": "https://web.archive.org/web/20201003175224/https://www.foxnews.com/health/trump-regeneron-antibody-cocktail-treatment-covid-19-dr-george-yancopoulos"
+      },
+      {
+        "datetime": "2020-10-04T04:24:48Z",
+        "uri": "https://web.archive.org/web/20201004042448/https://www.foxnews.com/health/trump-regeneron-antibody-cocktail-treatment-covid-19-dr-george-yancopoulos"
+      },
+      {
+        "datetime": "2020-10-04T04:24:48Z",
+        "uri": "https://web.archive.org/web/20201004042448/http://foxnews.com/health/trump-regeneron-antibody-cocktail-treatment-covid-19-dr-george-yancopoulos"
+      },
+      {
+        "datetime": "2020-10-04T08:10:52Z",
+        "uri": "https://web.archive.org/web/20201004081052/https://www.foxnews.com/health/trump-regeneron-antibody-cocktail-treatment-covid-19-dr-george-yancopoulos"
+      },
+      {
+        "datetime": "2020-10-05T05:19:09Z",
+        "uri": "https://web.archive.org/web/20201005051909/https://www.foxnews.com/health/trump-regeneron-antibody-cocktail-treatment-covid-19-dr-george-yancopoulos"
+      },
+      {
+        "datetime": "2020-10-05T05:19:10Z",
+        "uri": "https://web.archive.org/web/20201005051910/http://foxnews.com/health/trump-regeneron-antibody-cocktail-treatment-covid-19-dr-george-yancopoulos"
+      },
+      {
+        "datetime": "2020-10-06T11:51:42Z",
+        "uri": "https://web.archive.org/web/20201006115142/https://www.foxnews.com/health/trump-regeneron-antibody-cocktail-treatment-covid-19-dr-george-yancopoulos"
+      },
+      {
+        "datetime": "2020-10-06T11:51:43Z",
+        "uri": "https://web.archive.org/web/20201006115143/http://foxnews.com/health/trump-regeneron-antibody-cocktail-treatment-covid-19-dr-george-yancopoulos"
+      },
+      {
+        "datetime": "2020-10-06T15:46:46Z",
+        "uri": "https://web.archive.org/web/20201006154646/https://www.foxnews.com/health/trump-regeneron-antibody-cocktail-treatment-covid-19-dr-george-yancopoulos"
+      },
+      {
+        "datetime": "2020-10-06T18:37:13Z",
+        "uri": "https://web.archive.org/web/20201006183713/https://www.foxnews.com/health/trump-regeneron-antibody-cocktail-treatment-covid-19-dr-george-yancopoulos"
+      },
+      {
+        "datetime": "2020-10-07T12:28:20Z",
+        "uri": "https://web.archive.org/web/20201007122820/https://www.foxnews.com/health/trump-regeneron-antibody-cocktail-treatment-covid-19-dr-george-yancopoulos"
+      },
+      {
+        "datetime": "2020-10-07T12:28:20Z",
+        "uri": "https://web.archive.org/web/20201007122820/http://foxnews.com/health/trump-regeneron-antibody-cocktail-treatment-covid-19-dr-george-yancopoulos"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-03T17:52:24Z",
+      "uri": "https://web.archive.org/web/20201003175224/https://www.foxnews.com/health/trump-regeneron-antibody-cocktail-treatment-covid-19-dr-george-yancopoulos"
+    },
+    "last": {
+      "datetime": "2020-10-07T12:28:20Z",
+      "uri": "https://web.archive.org/web/20201007122820/http://foxnews.com/health/trump-regeneron-antibody-cocktail-treatment-covid-19-dr-george-yancopoulos"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.foxnews.com/health/trump-regeneron-antibody-cocktail-treatment-covid-19-dr-george-yancopoulos%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.foxnews.com/health/trump-regeneron-antibody-cocktail-treatment-covid-19-dr-george-yancopoulos%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.foxnews.com/health/trump-regeneron-antibody-cocktail-treatment-covid-19-dr-george-yancopoulos%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.foxnews.com/health/trump-regeneron-antibody-cocktail-treatment-covid-19-dr-george-yancopoulos%0A"
+}

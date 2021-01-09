@@ -1,0 +1,34 @@
+{
+  "original_uri": "https://www.news.com.au/national/breaking-news/victoria-records-11-coronavirus-cases-no-new-deaths/news-story/6014aa29250c8a895638205ad2be024e%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.news.com.au/national/breaking-news/victoria-records-11-coronavirus-cases-no-new-deaths/news-story/6014aa29250c8a895638205ad2be024e%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T21:55:46Z",
+        "uri": "https://web.archive.org/web/20201007215546/http://news.com.au/national/breaking-news/victoria-records-11-coronavirus-cases-no-new-deaths/news-story/6014aa29250c8a895638205ad2be024e"
+      },
+      {
+        "datetime": "2020-10-07T21:55:53Z",
+        "uri": "https://web.archive.org/web/20201007215553/http://www.news.com.au/national/breaking-news/victoria-records-11-coronavirus-cases-no-new-deaths/news-story/6014aa29250c8a895638205ad2be024e"
+      },
+      {
+        "datetime": "2020-10-07T21:55:54Z",
+        "uri": "https://web.archive.org/web/20201007215554/https://www.news.com.au/national/breaking-news/victoria-records-11-coronavirus-cases-no-new-deaths/news-story/6014aa29250c8a895638205ad2be024e"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T21:55:46Z",
+      "uri": "https://web.archive.org/web/20201007215546/http://news.com.au/national/breaking-news/victoria-records-11-coronavirus-cases-no-new-deaths/news-story/6014aa29250c8a895638205ad2be024e"
+    },
+    "last": {
+      "datetime": "2020-10-07T21:55:54Z",
+      "uri": "https://web.archive.org/web/20201007215554/https://www.news.com.au/national/breaking-news/victoria-records-11-coronavirus-cases-no-new-deaths/news-story/6014aa29250c8a895638205ad2be024e"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.news.com.au/national/breaking-news/victoria-records-11-coronavirus-cases-no-new-deaths/news-story/6014aa29250c8a895638205ad2be024e%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.news.com.au/national/breaking-news/victoria-records-11-coronavirus-cases-no-new-deaths/news-story/6014aa29250c8a895638205ad2be024e%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.news.com.au/national/breaking-news/victoria-records-11-coronavirus-cases-no-new-deaths/news-story/6014aa29250c8a895638205ad2be024e%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.news.com.au/national/breaking-news/victoria-records-11-coronavirus-cases-no-new-deaths/news-story/6014aa29250c8a895638205ad2be024e%0A"
+}

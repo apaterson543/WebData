@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://torontosun.com/news/local-news/warmington-meet-ontarios-suffering-covid-scapegoats%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://torontosun.com/news/local-news/warmington-meet-ontarios-suffering-covid-scapegoats%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T03:49:17Z",
+        "uri": "https://web.archive.org/web/20201007034917/https://torontosun.com/news/local-news/warmington-meet-ontarios-suffering-covid-scapegoats"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T03:49:17Z",
+      "uri": "https://web.archive.org/web/20201007034917/https://torontosun.com/news/local-news/warmington-meet-ontarios-suffering-covid-scapegoats"
+    },
+    "last": {
+      "datetime": "2020-10-07T03:49:17Z",
+      "uri": "https://web.archive.org/web/20201007034917/https://torontosun.com/news/local-news/warmington-meet-ontarios-suffering-covid-scapegoats"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://torontosun.com/news/local-news/warmington-meet-ontarios-suffering-covid-scapegoats%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://torontosun.com/news/local-news/warmington-meet-ontarios-suffering-covid-scapegoats%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://torontosun.com/news/local-news/warmington-meet-ontarios-suffering-covid-scapegoats%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://torontosun.com/news/local-news/warmington-meet-ontarios-suffering-covid-scapegoats%0A"
+}

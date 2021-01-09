@@ -1,0 +1,86 @@
+{
+  "original_uri": "https://www.jpost.com/health-science/protests-led-to-spike-in-coronavirus-infection-report-643239%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.jpost.com/health-science/protests-led-to-spike-in-coronavirus-infection-report-643239%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-09-23T09:03:57Z",
+        "uri": "https://web.archive.org/web/20200923090357/https://www.jpost.com/health-science/protests-led-to-spike-in-coronavirus-infection-report-643239"
+      },
+      {
+        "datetime": "2020-09-23T10:37:25Z",
+        "uri": "https://web.archive.org/web/20200923103725/https://www.jpost.com/health-science/protests-led-to-spike-in-coronavirus-infection-report-643239"
+      },
+      {
+        "datetime": "2020-09-24T12:36:26Z",
+        "uri": "https://web.archive.org/web/20200924123626/https://www.jpost.com/health-science/protests-led-to-spike-in-coronavirus-infection-report-643239"
+      },
+      {
+        "datetime": "2020-09-25T13:43:26Z",
+        "uri": "https://web.archive.org/web/20200925134326/https://www.jpost.com/health-science/protests-led-to-spike-in-coronavirus-infection-report-643239"
+      },
+      {
+        "datetime": "2020-09-26T14:30:44Z",
+        "uri": "https://web.archive.org/web/20200926143044/https://www.jpost.com/health-science/protests-led-to-spike-in-coronavirus-infection-report-643239"
+      },
+      {
+        "datetime": "2020-09-28T17:08:40Z",
+        "uri": "https://web.archive.org/web/20200928170840/https://www.jpost.com/health-science/protests-led-to-spike-in-coronavirus-infection-report-643239"
+      },
+      {
+        "datetime": "2020-09-29T18:48:07Z",
+        "uri": "https://web.archive.org/web/20200929184807/https://www.jpost.com/health-science/protests-led-to-spike-in-coronavirus-infection-report-643239"
+      },
+      {
+        "datetime": "2020-09-30T18:49:26Z",
+        "uri": "https://web.archive.org/web/20200930184926/https://www.jpost.com/health-science/protests-led-to-spike-in-coronavirus-infection-report-643239"
+      },
+      {
+        "datetime": "2020-10-01T19:33:14Z",
+        "uri": "https://web.archive.org/web/20201001193314/https://www.jpost.com/health-science/protests-led-to-spike-in-coronavirus-infection-report-643239"
+      },
+      {
+        "datetime": "2020-10-02T21:43:57Z",
+        "uri": "https://web.archive.org/web/20201002214357/https://www.jpost.com/health-science/protests-led-to-spike-in-coronavirus-infection-report-643239"
+      },
+      {
+        "datetime": "2020-10-03T21:10:30Z",
+        "uri": "https://web.archive.org/web/20201003211030/https://www.jpost.com/health-science/protests-led-to-spike-in-coronavirus-infection-report-643239"
+      },
+      {
+        "datetime": "2020-10-04T04:48:34Z",
+        "uri": "https://web.archive.org/web/20201004044834/https://www.jpost.com/health-science/protests-led-to-spike-in-coronavirus-infection-report-643239"
+      },
+      {
+        "datetime": "2020-10-04T22:18:32Z",
+        "uri": "https://web.archive.org/web/20201004221832/https://www.jpost.com/health-science/protests-led-to-spike-in-coronavirus-infection-report-643239"
+      },
+      {
+        "datetime": "2020-10-05T03:17:42Z",
+        "uri": "https://web.archive.org/web/20201005031742/https://www.jpost.com/health-science/protests-led-to-spike-in-coronavirus-infection-report-643239"
+      },
+      {
+        "datetime": "2020-10-05T22:49:06Z",
+        "uri": "https://web.archive.org/web/20201005224906/https://www.jpost.com/health-science/protests-led-to-spike-in-coronavirus-infection-report-643239"
+      },
+      {
+        "datetime": "2020-10-07T00:09:52Z",
+        "uri": "https://web.archive.org/web/20201007000952/https://www.jpost.com/health-science/protests-led-to-spike-in-coronavirus-infection-report-643239"
+      }
+    ],
+    "first": {
+      "datetime": "2020-09-23T09:03:57Z",
+      "uri": "https://web.archive.org/web/20200923090357/https://www.jpost.com/health-science/protests-led-to-spike-in-coronavirus-infection-report-643239"
+    },
+    "last": {
+      "datetime": "2020-10-07T00:09:52Z",
+      "uri": "https://web.archive.org/web/20201007000952/https://www.jpost.com/health-science/protests-led-to-spike-in-coronavirus-infection-report-643239"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.jpost.com/health-science/protests-led-to-spike-in-coronavirus-infection-report-643239%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.jpost.com/health-science/protests-led-to-spike-in-coronavirus-infection-report-643239%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.jpost.com/health-science/protests-led-to-spike-in-coronavirus-infection-report-643239%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.jpost.com/health-science/protests-led-to-spike-in-coronavirus-infection-report-643239%0A"
+}

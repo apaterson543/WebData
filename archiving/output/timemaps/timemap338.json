@@ -1,0 +1,62 @@
+{
+  "original_uri": "https://www.cnn.com/2020/10/07/politics/donald-trump-coronavirus/index.html%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.cnn.com/2020/10/07/politics/donald-trump-coronavirus/index.html%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T05:16:06Z",
+        "uri": "https://web.archive.org/web/20201007051606/https://www.cnn.com/2020/10/07/politics/donald-trump-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-07T06:12:46Z",
+        "uri": "https://web.archive.org/web/20201007061246/https://www.cnn.com/2020/10/07/politics/donald-trump-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-07T06:55:43Z",
+        "uri": "https://web.archive.org/web/20201007065543/https://www.cnn.com/2020/10/07/politics/donald-trump-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-07T08:24:58Z",
+        "uri": "https://web.archive.org/web/20201007082458/https://www.cnn.com/2020/10/07/politics/donald-trump-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-07T09:09:24Z",
+        "uri": "https://web.archive.org/web/20201007090924/https://www.cnn.com/2020/10/07/politics/donald-trump-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-07T13:50:39Z",
+        "uri": "https://web.archive.org/web/20201007135039/https://www.cnn.com/2020/10/07/politics/donald-trump-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-07T14:37:49Z",
+        "uri": "https://web.archive.org/web/20201007143749/https://www.cnn.com/2020/10/07/politics/donald-trump-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-07T19:35:02Z",
+        "uri": "https://web.archive.org/web/20201007193502/https://www.cnn.com/2020/10/07/politics/donald-trump-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-07T20:46:20Z",
+        "uri": "https://web.archive.org/web/20201007204620/https://www.cnn.com/2020/10/07/politics/donald-trump-coronavirus/index.html"
+      },
+      {
+        "datetime": "2020-10-08T01:03:58Z",
+        "uri": "https://web.archive.org/web/20201008010358/https://www.cnn.com/2020/10/07/politics/donald-trump-coronavirus/index.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T05:16:06Z",
+      "uri": "https://web.archive.org/web/20201007051606/https://www.cnn.com/2020/10/07/politics/donald-trump-coronavirus/index.html"
+    },
+    "last": {
+      "datetime": "2020-10-08T01:03:58Z",
+      "uri": "https://web.archive.org/web/20201008010358/https://www.cnn.com/2020/10/07/politics/donald-trump-coronavirus/index.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.cnn.com/2020/10/07/politics/donald-trump-coronavirus/index.html%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.cnn.com/2020/10/07/politics/donald-trump-coronavirus/index.html%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.cnn.com/2020/10/07/politics/donald-trump-coronavirus/index.html%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.cnn.com/2020/10/07/politics/donald-trump-coronavirus/index.html%0A"
+}

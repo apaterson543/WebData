@@ -1,0 +1,38 @@
+{
+  "original_uri": "https://cms.tolatender.co.za/coronavirus-covid-19-in-south-africa-what-small-business-can-do/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://cms.tolatender.co.za/coronavirus-covid-19-in-south-africa-what-small-business-can-do/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-03-30T16:16:23Z",
+        "uri": "https://web.archive.org/web/20200330161623/https://cms.tolatender.co.za/coronavirus-covid-19-in-south-africa-what-small-business-can-do/"
+      },
+      {
+        "datetime": "2020-04-06T13:36:31Z",
+        "uri": "https://web.archive.org/web/20200406133631/https://cms.tolatender.co.za/coronavirus-covid-19-in-south-africa-what-small-business-can-do/"
+      },
+      {
+        "datetime": "2020-04-19T00:31:45Z",
+        "uri": "https://web.archive.org/web/20200419003145/https://cms.tolatender.co.za/coronavirus-covid-19-in-south-africa-what-small-business-can-do/"
+      },
+      {
+        "datetime": "2020-05-18T00:45:09Z",
+        "uri": "https://web.archive.org/web/20200518004509/https://cms.tolatender.co.za/coronavirus-covid-19-in-south-africa-what-small-business-can-do/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-03-30T16:16:23Z",
+      "uri": "https://web.archive.org/web/20200330161623/https://cms.tolatender.co.za/coronavirus-covid-19-in-south-africa-what-small-business-can-do/"
+    },
+    "last": {
+      "datetime": "2020-05-18T00:45:09Z",
+      "uri": "https://web.archive.org/web/20200518004509/https://cms.tolatender.co.za/coronavirus-covid-19-in-south-africa-what-small-business-can-do/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://cms.tolatender.co.za/coronavirus-covid-19-in-south-africa-what-small-business-can-do/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://cms.tolatender.co.za/coronavirus-covid-19-in-south-africa-what-small-business-can-do/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://cms.tolatender.co.za/coronavirus-covid-19-in-south-africa-what-small-business-can-do/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://cms.tolatender.co.za/coronavirus-covid-19-in-south-africa-what-small-business-can-do/%0A"
+}

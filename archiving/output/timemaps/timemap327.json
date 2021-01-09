@@ -1,0 +1,306 @@
+{
+  "original_uri": "https://www.scientificamerican.com/interactive/inside-the-coronavirus/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.scientificamerican.com/interactive/inside-the-coronavirus/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-06-23T16:17:54Z",
+        "uri": "https://web.archive.org/web/20200623161754/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-06-23T17:47:50Z",
+        "uri": "https://web.archive.org/web/20200623174750/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-06-24T14:41:12Z",
+        "uri": "https://web.archive.org/web/20200624144112/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-06-24T15:10:28Z",
+        "uri": "https://web.archive.org/web/20200624151028/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-06-24T21:48:25Z",
+        "uri": "https://web.archive.org/web/20200624214825/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-06-25T01:57:53Z",
+        "uri": "https://web.archive.org/web/20200625015753/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-06-25T05:38:05Z",
+        "uri": "https://web.archive.org/web/20200625053805/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-06-25T06:41:23Z",
+        "uri": "https://web.archive.org/web/20200625064123/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-06-26T11:48:18Z",
+        "uri": "https://web.archive.org/web/20200626114818/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-06-27T05:02:44Z",
+        "uri": "https://web.archive.org/web/20200627050244/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-06-28T17:03:04Z",
+        "uri": "https://web.archive.org/web/20200628170304/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-06-30T02:35:46Z",
+        "uri": "https://web.archive.org/web/20200630023546/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-07-01T14:02:14Z",
+        "uri": "https://web.archive.org/web/20200701140214/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-07-01T18:33:30Z",
+        "uri": "https://web.archive.org/web/20200701183330/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-07-02T00:55:12Z",
+        "uri": "https://web.archive.org/web/20200702005512/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-07-02T03:50:39Z",
+        "uri": "https://web.archive.org/web/20200702035039/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-07-03T17:02:55Z",
+        "uri": "https://web.archive.org/web/20200703170255/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-07-04T05:51:28Z",
+        "uri": "https://web.archive.org/web/20200704055128/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-07-04T09:08:46Z",
+        "uri": "https://web.archive.org/web/20200704090846/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-07-06T15:59:57Z",
+        "uri": "https://web.archive.org/web/20200706155957/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-07-07T21:58:07Z",
+        "uri": "https://web.archive.org/web/20200707215807/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-07-11T06:30:57Z",
+        "uri": "https://web.archive.org/web/20200711063057/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-07-11T10:29:25Z",
+        "uri": "https://web.archive.org/web/20200711102925/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-07-12T05:12:08Z",
+        "uri": "https://web.archive.org/web/20200712051208/https://www.scientificamerican.com/interactive/inside-the-coronavirus"
+      },
+      {
+        "datetime": "2020-07-13T12:41:35Z",
+        "uri": "https://web.archive.org/web/20200713124135/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-07-14T13:39:44Z",
+        "uri": "https://web.archive.org/web/20200714133944/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-07-15T21:16:40Z",
+        "uri": "https://web.archive.org/web/20200715211640/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-07-17T08:16:17Z",
+        "uri": "https://web.archive.org/web/20200717081617/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-07-17T10:02:50Z",
+        "uri": "https://web.archive.org/web/20200717100250/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-07-17T10:30:57Z",
+        "uri": "https://web.archive.org/web/20200717103057/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-07-17T13:08:17Z",
+        "uri": "https://web.archive.org/web/20200717130817/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-07-18T02:10:49Z",
+        "uri": "https://web.archive.org/web/20200718021049/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-07-21T13:44:09Z",
+        "uri": "https://web.archive.org/web/20200721134409/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-07-24T01:49:26Z",
+        "uri": "https://web.archive.org/web/20200724014926/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-07-26T13:23:48Z",
+        "uri": "https://web.archive.org/web/20200726132348/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-07-27T01:09:27Z",
+        "uri": "https://web.archive.org/web/20200727010927/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-07-27T18:21:55Z",
+        "uri": "https://web.archive.org/web/20200727182155/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-07-29T03:30:20Z",
+        "uri": "https://web.archive.org/web/20200729033020/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-07-30T05:07:51Z",
+        "uri": "https://web.archive.org/web/20200730050751/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-07-30T21:00:27Z",
+        "uri": "https://web.archive.org/web/20200730210027/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-08-01T04:54:38Z",
+        "uri": "https://web.archive.org/web/20200801045438/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-08-02T18:58:59Z",
+        "uri": "https://web.archive.org/web/20200802185859/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-08-05T07:59:17Z",
+        "uri": "https://web.archive.org/web/20200805075917/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-08-07T03:38:22Z",
+        "uri": "https://web.archive.org/web/20200807033822/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-08-07T03:38:27Z",
+        "uri": "https://web.archive.org/web/20200807033827/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-08-09T03:11:49Z",
+        "uri": "https://web.archive.org/web/20200809031149/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-08-20T01:20:34Z",
+        "uri": "https://web.archive.org/web/20200820012034/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-08-28T10:01:58Z",
+        "uri": "https://web.archive.org/web/20200828100158/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-08-31T01:36:55Z",
+        "uri": "https://web.archive.org/web/20200831013655/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-08-31T19:59:23Z",
+        "uri": "https://web.archive.org/web/20200831195923/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-09-01T22:50:00Z",
+        "uri": "https://web.archive.org/web/20200901225000/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-09-04T08:12:30Z",
+        "uri": "https://web.archive.org/web/20200904081230/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-09-06T20:29:04Z",
+        "uri": "https://web.archive.org/web/20200906202904/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-09-11T10:02:10Z",
+        "uri": "https://web.archive.org/web/20200911100210/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-09-14T16:50:37Z",
+        "uri": "https://web.archive.org/web/20200914165037/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-09-14T23:05:07Z",
+        "uri": "https://web.archive.org/web/20200914230507/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-09-15T12:07:42Z",
+        "uri": "https://web.archive.org/web/20200915120742/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-09-16T09:43:22Z",
+        "uri": "https://web.archive.org/web/20200916094322/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-09-16T19:18:57Z",
+        "uri": "https://web.archive.org/web/20200916191857/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-09-16T20:37:37Z",
+        "uri": "https://web.archive.org/web/20200916203737/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-09-17T17:35:37Z",
+        "uri": "https://web.archive.org/web/20200917173537/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-09-20T07:53:53Z",
+        "uri": "https://web.archive.org/web/20200920075353/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-09-23T19:46:42Z",
+        "uri": "https://web.archive.org/web/20200923194642/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-09-24T23:23:56Z",
+        "uri": "https://web.archive.org/web/20200924232356/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-09-25T13:24:07Z",
+        "uri": "https://web.archive.org/web/20200925132407/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-09-25T17:40:08Z",
+        "uri": "https://web.archive.org/web/20200925174008/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-09-29T20:08:36Z",
+        "uri": "https://web.archive.org/web/20200929200836/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-10-02T07:09:49Z",
+        "uri": "https://web.archive.org/web/20201002070949/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-10-03T11:29:49Z",
+        "uri": "https://web.archive.org/web/20201003112949/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-10-03T16:28:13Z",
+        "uri": "https://web.archive.org/web/20201003162813/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      },
+      {
+        "datetime": "2020-10-03T16:53:14Z",
+        "uri": "https://web.archive.org/web/20201003165314/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-06-23T16:17:54Z",
+      "uri": "https://web.archive.org/web/20200623161754/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+    },
+    "last": {
+      "datetime": "2020-10-03T16:53:14Z",
+      "uri": "https://web.archive.org/web/20201003165314/https://www.scientificamerican.com/interactive/inside-the-coronavirus/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.scientificamerican.com/interactive/inside-the-coronavirus/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.scientificamerican.com/interactive/inside-the-coronavirus/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.scientificamerican.com/interactive/inside-the-coronavirus/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.scientificamerican.com/interactive/inside-the-coronavirus/%0A"
+}

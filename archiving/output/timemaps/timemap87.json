@@ -1,0 +1,94 @@
+{
+  "original_uri": "https://www.nytimes.com/2020/10/07/world/australia/new-zealand-coronavirus.html%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2020/10/07/world/australia/new-zealand-coronavirus.html%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T12:16:08Z",
+        "uri": "https://web.archive.org/web/20201007121608/https://www.nytimes.com/2020/10/07/world/australia/new-zealand-coronavirus.html"
+      },
+      {
+        "datetime": "2020-10-07T12:26:02Z",
+        "uri": "https://web.archive.org/web/20201007122602/https://www.nytimes.com/2020/10/07/world/australia/new-zealand-coronavirus.html"
+      },
+      {
+        "datetime": "2020-10-07T12:46:02Z",
+        "uri": "https://web.archive.org/web/20201007124602/https://www.nytimes.com/2020/10/07/world/australia/new-zealand-coronavirus.html"
+      },
+      {
+        "datetime": "2020-10-07T12:46:03Z",
+        "uri": "https://web.archive.org/web/20201007124603/https://www.nytimes.com/2020/10/07/world/australia/new-zealand-coronavirus.html"
+      },
+      {
+        "datetime": "2020-10-07T13:00:34Z",
+        "uri": "https://web.archive.org/web/20201007130034/https://www.nytimes.com/2020/10/07/world/australia/new-zealand-coronavirus.html"
+      },
+      {
+        "datetime": "2020-10-07T14:26:16Z",
+        "uri": "https://web.archive.org/web/20201007142616/https://www.nytimes.com/2020/10/07/world/australia/new-zealand-coronavirus.html"
+      },
+      {
+        "datetime": "2020-10-07T14:28:14Z",
+        "uri": "https://web.archive.org/web/20201007142814/https://www.nytimes.com/2020/10/07/world/australia/new-zealand-coronavirus.html"
+      },
+      {
+        "datetime": "2020-10-07T14:30:19Z",
+        "uri": "https://web.archive.org/web/20201007143019/https://www.nytimes.com/2020/10/07/world/australia/new-zealand-coronavirus.html"
+      },
+      {
+        "datetime": "2020-10-07T21:37:59Z",
+        "uri": "https://web.archive.org/web/20201007213759/https://www.nytimes.com/2020/10/07/world/australia/new-zealand-coronavirus.html"
+      },
+      {
+        "datetime": "2020-10-08T01:01:10Z",
+        "uri": "https://web.archive.org/web/20201008010110/https://www.nytimes.com/2020/10/07/world/australia/new-zealand-coronavirus.html"
+      },
+      {
+        "datetime": "2020-10-08T02:46:29Z",
+        "uri": "https://web.archive.org/web/20201008024629/https://www.nytimes.com/2020/10/07/world/australia/new-zealand-coronavirus.html"
+      },
+      {
+        "datetime": "2020-10-08T06:56:13Z",
+        "uri": "https://web.archive.org/web/20201008065613/https://www.nytimes.com/2020/10/07/world/australia/new-zealand-coronavirus.html"
+      },
+      {
+        "datetime": "2020-10-08T06:56:13Z",
+        "uri": "https://web.archive.org/web/20201008065613/https://www.nytimes.com/2020/10/07/world/australia/new-zealand-coronavirus.html"
+      },
+      {
+        "datetime": "2020-10-08T08:10:02Z",
+        "uri": "https://web.archive.org/web/20201008081002/https://www.nytimes.com/2020/10/07/world/australia/new-zealand-coronavirus.html"
+      },
+      {
+        "datetime": "2020-10-08T08:56:41Z",
+        "uri": "https://web.archive.org/web/20201008085641/https://www.nytimes.com/2020/10/07/world/australia/new-zealand-coronavirus.html"
+      },
+      {
+        "datetime": "2020-10-08T09:42:09Z",
+        "uri": "https://web.archive.org/web/20201008094209/https://www.nytimes.com/2020/10/07/world/australia/new-zealand-coronavirus.html"
+      },
+      {
+        "datetime": "2020-10-08T09:58:31Z",
+        "uri": "https://web.archive.org/web/20201008095831/https://www.nytimes.com/2020/10/07/world/australia/new-zealand-coronavirus.html"
+      },
+      {
+        "datetime": "2020-10-08T23:20:08Z",
+        "uri": "https://web.archive.org/web/20201008232008/https://www.nytimes.com/2020/10/07/world/australia/new-zealand-coronavirus.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T12:16:08Z",
+      "uri": "https://web.archive.org/web/20201007121608/https://www.nytimes.com/2020/10/07/world/australia/new-zealand-coronavirus.html"
+    },
+    "last": {
+      "datetime": "2020-10-08T23:20:08Z",
+      "uri": "https://web.archive.org/web/20201008232008/https://www.nytimes.com/2020/10/07/world/australia/new-zealand-coronavirus.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.nytimes.com/2020/10/07/world/australia/new-zealand-coronavirus.html%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2020/10/07/world/australia/new-zealand-coronavirus.html%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.nytimes.com/2020/10/07/world/australia/new-zealand-coronavirus.html%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.nytimes.com/2020/10/07/world/australia/new-zealand-coronavirus.html%0A"
+}

@@ -1,0 +1,42 @@
+{
+  "original_uri": "https://tom-gillispie.blogspot.com/2020/05/voting.html%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://tom-gillispie.blogspot.com/2020/05/voting.html%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-06-08T02:39:25Z",
+        "uri": "https://web.archive.org/web/20200608023925/https://tom-gillispie.blogspot.com/2020/05/voting.html"
+      },
+      {
+        "datetime": "2020-06-26T05:32:33Z",
+        "uri": "https://web.archive.org/web/20200626053233/http://tom-gillispie.blogspot.com/2020/05/voting.html"
+      },
+      {
+        "datetime": "2020-07-21T22:42:29Z",
+        "uri": "https://web.archive.org/web/20200721224229/https://tom-gillispie.blogspot.com/2020/05/voting.html"
+      },
+      {
+        "datetime": "2020-07-21T22:42:36Z",
+        "uri": "https://web.archive.org/web/20200721224236/http://tom-gillispie.blogspot.com/2020/05/voting.html"
+      },
+      {
+        "datetime": "2020-08-17T00:04:22Z",
+        "uri": "https://web.archive.org/web/20200817000422/http://tom-gillispie.blogspot.com/2020/05/voting.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-06-08T02:39:25Z",
+      "uri": "https://web.archive.org/web/20200608023925/https://tom-gillispie.blogspot.com/2020/05/voting.html"
+    },
+    "last": {
+      "datetime": "2020-08-17T00:04:22Z",
+      "uri": "https://web.archive.org/web/20200817000422/http://tom-gillispie.blogspot.com/2020/05/voting.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://tom-gillispie.blogspot.com/2020/05/voting.html%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://tom-gillispie.blogspot.com/2020/05/voting.html%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://tom-gillispie.blogspot.com/2020/05/voting.html%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://tom-gillispie.blogspot.com/2020/05/voting.html%0A"
+}

@@ -1,0 +1,3 @@
+https://globalnews.ca/
+
+b'400 Bad Request400 Bad Requestnginx'

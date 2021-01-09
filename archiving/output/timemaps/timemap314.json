@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.dailymail.co.uk/news/article-8815059/Nicola-Sturgeon-set-BAN-alcohol-Scotlands-pubs-force-6pm-closing.html%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.dailymail.co.uk/news/article-8815059/Nicola-Sturgeon-set-BAN-alcohol-Scotlands-pubs-force-6pm-closing.html%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T13:55:30Z",
+        "uri": "https://web.archive.org/web/20201007135530/https://www.dailymail.co.uk/news/article-8815059/Nicola-Sturgeon-set-BAN-alcohol-Scotlands-pubs-force-6pm-closing.html"
+      },
+      {
+        "datetime": "2020-10-07T14:30:48Z",
+        "uri": "https://web.archive.org/web/20201007143048/https://www.dailymail.co.uk/news/article-8815059/Nicola-Sturgeon-set-BAN-alcohol-Scotlands-pubs-force-6pm-closing.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T13:55:30Z",
+      "uri": "https://web.archive.org/web/20201007135530/https://www.dailymail.co.uk/news/article-8815059/Nicola-Sturgeon-set-BAN-alcohol-Scotlands-pubs-force-6pm-closing.html"
+    },
+    "last": {
+      "datetime": "2020-10-07T14:30:48Z",
+      "uri": "https://web.archive.org/web/20201007143048/https://www.dailymail.co.uk/news/article-8815059/Nicola-Sturgeon-set-BAN-alcohol-Scotlands-pubs-force-6pm-closing.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.dailymail.co.uk/news/article-8815059/Nicola-Sturgeon-set-BAN-alcohol-Scotlands-pubs-force-6pm-closing.html%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.dailymail.co.uk/news/article-8815059/Nicola-Sturgeon-set-BAN-alcohol-Scotlands-pubs-force-6pm-closing.html%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.dailymail.co.uk/news/article-8815059/Nicola-Sturgeon-set-BAN-alcohol-Scotlands-pubs-force-6pm-closing.html%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.dailymail.co.uk/news/article-8815059/Nicola-Sturgeon-set-BAN-alcohol-Scotlands-pubs-force-6pm-closing.html%0A"
+}

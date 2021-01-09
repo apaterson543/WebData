@@ -1,0 +1,58 @@
+{
+  "original_uri": "https://www.cnet.com/health/use-caution-with-these-activities-that-could-expose-you-coronavirus/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.cnet.com/health/use-caution-with-these-activities-that-could-expose-you-coronavirus/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-09-07T16:49:49Z",
+        "uri": "https://web.archive.org/web/20200907164949/https://www.cnet.com/health/use-caution-with-these-activities-that-could-expose-you-coronavirus/"
+      },
+      {
+        "datetime": "2020-09-07T18:34:56Z",
+        "uri": "https://web.archive.org/web/20200907183456/https://www.cnet.com/health/use-caution-with-these-activities-that-could-expose-you-coronavirus/"
+      },
+      {
+        "datetime": "2020-09-08T18:34:07Z",
+        "uri": "https://web.archive.org/web/20200908183407/https://www.cnet.com/health/use-caution-with-these-activities-that-could-expose-you-coronavirus/"
+      },
+      {
+        "datetime": "2020-09-12T19:47:29Z",
+        "uri": "https://web.archive.org/web/20200912194729/https://www.cnet.com/health/use-caution-with-these-activities-that-could-expose-you-coronavirus/"
+      },
+      {
+        "datetime": "2020-09-14T17:01:08Z",
+        "uri": "https://web.archive.org/web/20200914170108/https://www.cnet.com/health/use-caution-with-these-activities-that-could-expose-you-coronavirus/"
+      },
+      {
+        "datetime": "2020-09-17T01:20:04Z",
+        "uri": "https://web.archive.org/web/20200917012004/https://www.cnet.com/health/use-caution-with-these-activities-that-could-expose-you-coronavirus/"
+      },
+      {
+        "datetime": "2020-09-24T03:02:02Z",
+        "uri": "https://web.archive.org/web/20200924030202/https://www.cnet.com/health/use-caution-with-these-activities-that-could-expose-you-coronavirus/"
+      },
+      {
+        "datetime": "2020-10-01T02:06:39Z",
+        "uri": "https://web.archive.org/web/20201001020639/https://www.cnet.com/health/use-caution-with-these-activities-that-could-expose-you-coronavirus/"
+      },
+      {
+        "datetime": "2020-10-04T12:00:31Z",
+        "uri": "https://web.archive.org/web/20201004120031/https://www.cnet.com/health/use-caution-with-these-activities-that-could-expose-you-coronavirus/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-09-07T16:49:49Z",
+      "uri": "https://web.archive.org/web/20200907164949/https://www.cnet.com/health/use-caution-with-these-activities-that-could-expose-you-coronavirus/"
+    },
+    "last": {
+      "datetime": "2020-10-04T12:00:31Z",
+      "uri": "https://web.archive.org/web/20201004120031/https://www.cnet.com/health/use-caution-with-these-activities-that-could-expose-you-coronavirus/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.cnet.com/health/use-caution-with-these-activities-that-could-expose-you-coronavirus/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.cnet.com/health/use-caution-with-these-activities-that-could-expose-you-coronavirus/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.cnet.com/health/use-caution-with-these-activities-that-could-expose-you-coronavirus/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.cnet.com/health/use-caution-with-these-activities-that-could-expose-you-coronavirus/%0A"
+}

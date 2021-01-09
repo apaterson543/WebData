@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://datawrapper.dwcdn.net/rZA7O/11/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://datawrapper.dwcdn.net/rZA7O/11/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-09-04T14:52:43Z",
+        "uri": "https://web.archive.org/web/20200904145243/https://datawrapper.dwcdn.net/rZA7O/11/"
+      },
+      {
+        "datetime": "2020-10-03T15:21:19Z",
+        "uri": "https://web.archive.org/web/20201003152119/https://datawrapper.dwcdn.net/rZA7O/11/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-09-04T14:52:43Z",
+      "uri": "https://web.archive.org/web/20200904145243/https://datawrapper.dwcdn.net/rZA7O/11/"
+    },
+    "last": {
+      "datetime": "2020-10-03T15:21:19Z",
+      "uri": "https://web.archive.org/web/20201003152119/https://datawrapper.dwcdn.net/rZA7O/11/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://datawrapper.dwcdn.net/rZA7O/11/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://datawrapper.dwcdn.net/rZA7O/11/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://datawrapper.dwcdn.net/rZA7O/11/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://datawrapper.dwcdn.net/rZA7O/11/%0A"
+}

@@ -1,0 +1,3 @@
+https://www.wusa9.com/article/news/health/coronavirus/projected-coronavirus-deaths-us-could-surpass-world-war-ii/507-f2a3dd0c-3051-47e1-83ab-b8e796040cb1
+
+b'Bad RequestBad Request - Invalid URLHTTP Error 400. The request URL is invalid.'

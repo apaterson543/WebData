@@ -1,0 +1,754 @@
+{
+  "original_uri": "https://www.oigetit.com/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.oigetit.com/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2014-10-30T23:45:09Z",
+        "uri": "https://web.archive.org/web/20141030234509/http://oigetit.com:80/"
+      },
+      {
+        "datetime": "2014-12-18T01:53:14Z",
+        "uri": "https://web.archive.org/web/20141218015314/http://oigetit.com/"
+      },
+      {
+        "datetime": "2014-12-23T17:56:09Z",
+        "uri": "https://web.archive.org/web/20141223175609/http://oigetit.com:80/"
+      },
+      {
+        "datetime": "2015-01-11T16:05:56Z",
+        "uri": "https://web.archive.org/web/20150111160556/http://oigetit.com/"
+      },
+      {
+        "datetime": "2015-02-14T17:08:05Z",
+        "uri": "https://web.archive.org/web/20150214170805/http://www.oigetit.com:80/"
+      },
+      {
+        "datetime": "2015-03-07T05:15:59Z",
+        "uri": "https://web.archive.org/web/20150307051559/http://oigetit.com:80/"
+      },
+      {
+        "datetime": "2015-03-27T17:22:10Z",
+        "uri": "https://web.archive.org/web/20150327172210/http://oigetit.com:80/"
+      },
+      {
+        "datetime": "2015-04-05T00:44:04Z",
+        "uri": "https://web.archive.org/web/20150405004404/http://oigetit.com:80/"
+      },
+      {
+        "datetime": "2015-05-03T19:59:02Z",
+        "uri": "https://web.archive.org/web/20150503195902/http://oigetit.com:80/"
+      },
+      {
+        "datetime": "2015-05-12T20:17:49Z",
+        "uri": "https://web.archive.org/web/20150512201749/http://oigetit.com:80/"
+      },
+      {
+        "datetime": "2015-08-01T19:27:58Z",
+        "uri": "https://web.archive.org/web/20150801192758/http://oigetit.com/"
+      },
+      {
+        "datetime": "2015-10-06T12:06:44Z",
+        "uri": "https://web.archive.org/web/20151006120644/http://www.oigetit.com:80/"
+      },
+      {
+        "datetime": "2015-10-12T07:46:02Z",
+        "uri": "https://web.archive.org/web/20151012074602/http://www.oigetit.com:80/"
+      },
+      {
+        "datetime": "2015-10-18T05:52:46Z",
+        "uri": "https://web.archive.org/web/20151018055246/http://www.oigetit.com:80/"
+      },
+      {
+        "datetime": "2015-10-25T10:32:55Z",
+        "uri": "https://web.archive.org/web/20151025103255/http://www.oigetit.com:80/"
+      },
+      {
+        "datetime": "2015-10-31T09:54:47Z",
+        "uri": "https://web.archive.org/web/20151031095447/http://www.oigetit.com:80/"
+      },
+      {
+        "datetime": "2015-11-07T07:26:53Z",
+        "uri": "https://web.archive.org/web/20151107072653/http://www.oigetit.com:80/"
+      },
+      {
+        "datetime": "2015-11-14T19:04:15Z",
+        "uri": "https://web.archive.org/web/20151114190415/http://www.oigetit.com:80/"
+      },
+      {
+        "datetime": "2015-11-24T12:31:49Z",
+        "uri": "https://web.archive.org/web/20151124123149/http://oigetit.com:80/"
+      },
+      {
+        "datetime": "2015-12-05T00:46:55Z",
+        "uri": "https://web.archive.org/web/20151205004655/http://www.oigetit.com:80/"
+      },
+      {
+        "datetime": "2015-12-21T13:23:11Z",
+        "uri": "https://web.archive.org/web/20151221132311/http://www.oigetit.com:80/"
+      },
+      {
+        "datetime": "2015-12-29T17:35:54Z",
+        "uri": "https://web.archive.org/web/20151229173554/http://www.oigetit.com:80/"
+      },
+      {
+        "datetime": "2016-01-06T16:12:12Z",
+        "uri": "https://web.archive.org/web/20160106161212/http://www.oigetit.com:80/"
+      },
+      {
+        "datetime": "2016-01-10T18:37:52Z",
+        "uri": "https://web.archive.org/web/20160110183752/http://oigetit.com/"
+      },
+      {
+        "datetime": "2016-01-16T21:49:26Z",
+        "uri": "https://web.archive.org/web/20160116214926/http://www.oigetit.com:80/"
+      },
+      {
+        "datetime": "2016-01-24T15:51:30Z",
+        "uri": "https://web.archive.org/web/20160124155130/http://www.oigetit.com:80/"
+      },
+      {
+        "datetime": "2016-01-30T22:25:20Z",
+        "uri": "https://web.archive.org/web/20160130222520/http://www.oigetit.com:80/"
+      },
+      {
+        "datetime": "2016-01-31T14:50:28Z",
+        "uri": "https://web.archive.org/web/20160131145028/http://www.oigetit.com:80/"
+      },
+      {
+        "datetime": "2016-03-02T17:38:57Z",
+        "uri": "https://web.archive.org/web/20160302173857/http://oigetit.com:80/"
+      },
+      {
+        "datetime": "2016-03-05T04:58:00Z",
+        "uri": "https://web.archive.org/web/20160305045800/http://oigetit.com/"
+      },
+      {
+        "datetime": "2016-03-23T16:34:12Z",
+        "uri": "https://web.archive.org/web/20160323163412/http://oigetit.com:80/"
+      },
+      {
+        "datetime": "2016-04-23T22:57:42Z",
+        "uri": "https://web.archive.org/web/20160423225742/http://oigetit.com:80/"
+      },
+      {
+        "datetime": "2016-05-25T01:36:22Z",
+        "uri": "https://web.archive.org/web/20160525013622/http://www.oigetit.com:80/"
+      },
+      {
+        "datetime": "2016-06-25T14:57:12Z",
+        "uri": "https://web.archive.org/web/20160625145712/http://www.oigetit.com:80/"
+      },
+      {
+        "datetime": "2016-07-25T20:15:33Z",
+        "uri": "https://web.archive.org/web/20160725201533/http://oigetit.com:80/"
+      },
+      {
+        "datetime": "2016-08-26T22:28:16Z",
+        "uri": "https://web.archive.org/web/20160826222816/http://oigetit.com:80/"
+      },
+      {
+        "datetime": "2016-09-28T12:56:32Z",
+        "uri": "https://web.archive.org/web/20160928125632/http://www.oigetit.com:80/"
+      },
+      {
+        "datetime": "2016-10-06T13:27:25Z",
+        "uri": "https://web.archive.org/web/20161006132725/http://oigetit.com/"
+      },
+      {
+        "datetime": "2016-10-30T20:28:01Z",
+        "uri": "https://web.archive.org/web/20161030202801/http://www.oigetit.com:80/"
+      },
+      {
+        "datetime": "2017-02-09T00:09:00Z",
+        "uri": "https://web.archive.org/web/20170209000900/http://oigetit.com:80/"
+      },
+      {
+        "datetime": "2017-02-28T23:02:48Z",
+        "uri": "https://web.archive.org/web/20170228230248/http://www.oigetit.com:80/"
+      },
+      {
+        "datetime": "2017-04-22T08:24:42Z",
+        "uri": "https://web.archive.org/web/20170422082442/http://oigetit.com/"
+      },
+      {
+        "datetime": "2017-06-09T05:57:01Z",
+        "uri": "https://web.archive.org/web/20170609055701/http://oigetit.com:80/"
+      },
+      {
+        "datetime": "2017-09-11T19:48:52Z",
+        "uri": "https://web.archive.org/web/20170911194852/http://oigetit.com/"
+      },
+      {
+        "datetime": "2017-09-15T00:44:00Z",
+        "uri": "https://web.archive.org/web/20170915004400/http://oigetit.com:80/"
+      },
+      {
+        "datetime": "2017-10-15T23:57:28Z",
+        "uri": "https://web.archive.org/web/20171015235728/http://oigetit.com:80/"
+      },
+      {
+        "datetime": "2017-11-15T16:45:03Z",
+        "uri": "https://web.archive.org/web/20171115164503/http://oigetit.com:80/"
+      },
+      {
+        "datetime": "2017-12-16T20:34:16Z",
+        "uri": "https://web.archive.org/web/20171216203416/http://oigetit.com:80/"
+      },
+      {
+        "datetime": "2017-12-17T11:16:17Z",
+        "uri": "https://web.archive.org/web/20171217111617/http://www.oigetit.com:80/"
+      },
+      {
+        "datetime": "2017-12-18T01:08:46Z",
+        "uri": "https://web.archive.org/web/20171218010846/http://oigetit.com:80/"
+      },
+      {
+        "datetime": "2018-01-19T22:54:08Z",
+        "uri": "https://web.archive.org/web/20180119225408/http://oigetit.com:80/"
+      },
+      {
+        "datetime": "2018-01-19T23:26:26Z",
+        "uri": "https://web.archive.org/web/20180119232626/http://www.oigetit.com:80/"
+      },
+      {
+        "datetime": "2018-02-24T16:00:49Z",
+        "uri": "https://web.archive.org/web/20180224160049/http://oigetit.com:80/"
+      },
+      {
+        "datetime": "2018-02-24T19:38:46Z",
+        "uri": "https://web.archive.org/web/20180224193846/http://www.oigetit.com:80/"
+      },
+      {
+        "datetime": "2018-03-18T20:30:12Z",
+        "uri": "https://web.archive.org/web/20180318203012/http://oigetit.com/"
+      },
+      {
+        "datetime": "2018-03-29T19:11:52Z",
+        "uri": "https://web.archive.org/web/20180329191152/http://www.oigetit.com:80/"
+      },
+      {
+        "datetime": "2018-03-30T20:59:32Z",
+        "uri": "https://web.archive.org/web/20180330205932/http://oigetit.com:80/"
+      },
+      {
+        "datetime": "2018-05-03T16:24:46Z",
+        "uri": "https://web.archive.org/web/20180503162446/http://oigetit.com:80/"
+      },
+      {
+        "datetime": "2018-05-03T20:39:17Z",
+        "uri": "https://web.archive.org/web/20180503203917/http://www.oigetit.com:80/"
+      },
+      {
+        "datetime": "2018-06-04T01:41:41Z",
+        "uri": "https://web.archive.org/web/20180604014141/http://oigetit.com:80/"
+      },
+      {
+        "datetime": "2018-06-05T12:28:06Z",
+        "uri": "https://web.archive.org/web/20180605122806/http://oigetit.com:80/"
+      },
+      {
+        "datetime": "2018-06-05T12:32:19Z",
+        "uri": "https://web.archive.org/web/20180605123219/http://www.oigetit.com:80/"
+      },
+      {
+        "datetime": "2018-07-09T07:00:02Z",
+        "uri": "https://web.archive.org/web/20180709070002/http://oigetit.com:80/"
+      },
+      {
+        "datetime": "2018-07-09T07:22:47Z",
+        "uri": "https://web.archive.org/web/20180709072247/http://www.oigetit.com:80/"
+      },
+      {
+        "datetime": "2018-08-05T12:17:35Z",
+        "uri": "https://web.archive.org/web/20180805121735/http://oigetit.com/"
+      },
+      {
+        "datetime": "2018-08-10T03:50:52Z",
+        "uri": "https://web.archive.org/web/20180810035052/http://oigetit.com:80/"
+      },
+      {
+        "datetime": "2018-08-10T04:46:01Z",
+        "uri": "https://web.archive.org/web/20180810044601/http://www.oigetit.com:80/"
+      },
+      {
+        "datetime": "2018-08-11T18:02:17Z",
+        "uri": "https://web.archive.org/web/20180811180217/http://oigetit.com:80/"
+      },
+      {
+        "datetime": "2018-08-11T19:02:11Z",
+        "uri": "https://web.archive.org/web/20180811190211/http://www.oigetit.com:80/"
+      },
+      {
+        "datetime": "2018-09-14T16:05:23Z",
+        "uri": "https://web.archive.org/web/20180914160523/http://oigetit.com:80/"
+      },
+      {
+        "datetime": "2018-09-15T08:28:38Z",
+        "uri": "https://web.archive.org/web/20180915082838/http://www.oigetit.com:80/"
+      },
+      {
+        "datetime": "2018-09-16T12:51:59Z",
+        "uri": "https://web.archive.org/web/20180916125159/http://www.oigetit.com:80/"
+      },
+      {
+        "datetime": "2018-10-16T00:48:52Z",
+        "uri": "https://web.archive.org/web/20181016004852/http://oigetit.com:80/"
+      },
+      {
+        "datetime": "2018-10-17T06:46:31Z",
+        "uri": "https://web.archive.org/web/20181017064631/http://oigetit.com:80/"
+      },
+      {
+        "datetime": "2018-10-18T11:21:24Z",
+        "uri": "https://web.archive.org/web/20181018112124/http://www.oigetit.com:80/"
+      },
+      {
+        "datetime": "2019-06-28T09:15:32Z",
+        "uri": "https://web.archive.org/web/20190628091532/http://www.oigetit.com:80/"
+      },
+      {
+        "datetime": "2019-06-28T09:32:59Z",
+        "uri": "https://web.archive.org/web/20190628093259/http://oigetit.com:80/"
+      },
+      {
+        "datetime": "2019-07-29T14:47:41Z",
+        "uri": "https://web.archive.org/web/20190729144741/http://www.oigetit.com:80/"
+      },
+      {
+        "datetime": "2019-08-26T11:00:05Z",
+        "uri": "https://web.archive.org/web/20190826110005/http://oigetit.com:80/"
+      },
+      {
+        "datetime": "2019-08-29T20:59:08Z",
+        "uri": "https://web.archive.org/web/20190829205908/http://www.oigetit.com:80/"
+      },
+      {
+        "datetime": "2019-09-26T19:06:39Z",
+        "uri": "https://web.archive.org/web/20190926190639/http://oigetit.com:80/"
+      },
+      {
+        "datetime": "2019-10-17T14:19:26Z",
+        "uri": "https://web.archive.org/web/20191017141926/http://www.oigetit.com:80/"
+      },
+      {
+        "datetime": "2019-12-16T22:02:35Z",
+        "uri": "https://web.archive.org/web/20191216220235/http://www.oigetit.com:80/"
+      },
+      {
+        "datetime": "2020-02-15T02:35:18Z",
+        "uri": "https://web.archive.org/web/20200215023518/http://www.oigetit.com:80/"
+      },
+      {
+        "datetime": "2020-02-16T03:10:21Z",
+        "uri": "https://web.archive.org/web/20200216031021/http://www.oigetit.com:80/"
+      },
+      {
+        "datetime": "2020-03-10T19:29:19Z",
+        "uri": "https://web.archive.org/web/20200310192919/http://oigetit.com/"
+      },
+      {
+        "datetime": "2020-03-10T19:29:20Z",
+        "uri": "https://web.archive.org/web/20200310192920/https://oigetit.com/"
+      },
+      {
+        "datetime": "2020-03-10T19:29:21Z",
+        "uri": "https://web.archive.org/web/20200310192921/http://www.oigetit.com/"
+      },
+      {
+        "datetime": "2020-03-10T19:29:22Z",
+        "uri": "https://web.archive.org/web/20200310192922/https://www.oigetit.com/"
+      },
+      {
+        "datetime": "2020-03-12T17:18:01Z",
+        "uri": "https://web.archive.org/web/20200312171801/http://oigetit.com/"
+      },
+      {
+        "datetime": "2020-03-12T17:18:03Z",
+        "uri": "https://web.archive.org/web/20200312171803/https://oigetit.com/"
+      },
+      {
+        "datetime": "2020-03-12T17:18:04Z",
+        "uri": "https://web.archive.org/web/20200312171804/http://www.oigetit.com/"
+      },
+      {
+        "datetime": "2020-03-12T17:18:05Z",
+        "uri": "https://web.archive.org/web/20200312171805/https://www.oigetit.com/"
+      },
+      {
+        "datetime": "2020-03-12T20:36:42Z",
+        "uri": "https://web.archive.org/web/20200312203642/http://oigetit.com/"
+      },
+      {
+        "datetime": "2020-03-12T20:36:43Z",
+        "uri": "https://web.archive.org/web/20200312203643/https://oigetit.com/"
+      },
+      {
+        "datetime": "2020-03-12T20:36:44Z",
+        "uri": "https://web.archive.org/web/20200312203644/https://www.oigetit.com/"
+      },
+      {
+        "datetime": "2020-03-12T20:36:44Z",
+        "uri": "https://web.archive.org/web/20200312203644/http://www.oigetit.com/"
+      },
+      {
+        "datetime": "2020-03-12T21:54:41Z",
+        "uri": "https://web.archive.org/web/20200312215441/http://oigetit.com/"
+      },
+      {
+        "datetime": "2020-03-12T21:54:42Z",
+        "uri": "https://web.archive.org/web/20200312215442/https://oigetit.com/"
+      },
+      {
+        "datetime": "2020-03-12T21:54:43Z",
+        "uri": "https://web.archive.org/web/20200312215443/https://www.oigetit.com/"
+      },
+      {
+        "datetime": "2020-03-12T21:54:43Z",
+        "uri": "https://web.archive.org/web/20200312215443/http://www.oigetit.com/"
+      },
+      {
+        "datetime": "2020-03-12T23:43:25Z",
+        "uri": "https://web.archive.org/web/20200312234325/http://oigetit.com/"
+      },
+      {
+        "datetime": "2020-03-12T23:43:26Z",
+        "uri": "https://web.archive.org/web/20200312234326/http://www.oigetit.com/"
+      },
+      {
+        "datetime": "2020-03-12T23:43:27Z",
+        "uri": "https://web.archive.org/web/20200312234327/https://www.oigetit.com/"
+      },
+      {
+        "datetime": "2020-03-13T04:32:05Z",
+        "uri": "https://web.archive.org/web/20200313043205/http://oigetit.com/"
+      },
+      {
+        "datetime": "2020-03-13T04:32:07Z",
+        "uri": "https://web.archive.org/web/20200313043207/http://www.oigetit.com/"
+      },
+      {
+        "datetime": "2020-03-13T04:32:08Z",
+        "uri": "https://web.archive.org/web/20200313043208/https://www.oigetit.com/"
+      },
+      {
+        "datetime": "2020-03-15T02:05:30Z",
+        "uri": "https://web.archive.org/web/20200315020530/http://oigetit.com/"
+      },
+      {
+        "datetime": "2020-03-15T02:05:31Z",
+        "uri": "https://web.archive.org/web/20200315020531/https://oigetit.com/"
+      },
+      {
+        "datetime": "2020-03-15T02:05:32Z",
+        "uri": "https://web.archive.org/web/20200315020532/https://www.oigetit.com/"
+      },
+      {
+        "datetime": "2020-03-15T02:05:32Z",
+        "uri": "https://web.archive.org/web/20200315020532/http://www.oigetit.com/"
+      },
+      {
+        "datetime": "2020-03-17T05:13:38Z",
+        "uri": "https://web.archive.org/web/20200317051338/http://oigetit.com/"
+      },
+      {
+        "datetime": "2020-03-17T05:13:39Z",
+        "uri": "https://web.archive.org/web/20200317051339/https://oigetit.com/"
+      },
+      {
+        "datetime": "2020-03-17T05:13:40Z",
+        "uri": "https://web.archive.org/web/20200317051340/http://www.oigetit.com/"
+      },
+      {
+        "datetime": "2020-03-17T05:13:41Z",
+        "uri": "https://web.archive.org/web/20200317051341/https://www.oigetit.com/"
+      },
+      {
+        "datetime": "2020-03-21T04:35:55Z",
+        "uri": "https://web.archive.org/web/20200321043555/http://oigetit.com/"
+      },
+      {
+        "datetime": "2020-03-21T04:35:56Z",
+        "uri": "https://web.archive.org/web/20200321043556/https://www.oigetit.com/"
+      },
+      {
+        "datetime": "2020-03-21T04:35:56Z",
+        "uri": "https://web.archive.org/web/20200321043556/http://www.oigetit.com/"
+      },
+      {
+        "datetime": "2020-03-21T20:11:17Z",
+        "uri": "https://web.archive.org/web/20200321201117/http://oigetit.com/"
+      },
+      {
+        "datetime": "2020-03-21T20:11:18Z",
+        "uri": "https://web.archive.org/web/20200321201118/https://oigetit.com/"
+      },
+      {
+        "datetime": "2020-03-21T20:11:19Z",
+        "uri": "https://web.archive.org/web/20200321201119/http://www.oigetit.com/"
+      },
+      {
+        "datetime": "2020-03-21T20:11:20Z",
+        "uri": "https://web.archive.org/web/20200321201120/https://www.oigetit.com/"
+      },
+      {
+        "datetime": "2020-03-24T23:29:00Z",
+        "uri": "https://web.archive.org/web/20200324232900/http://oigetit.com/"
+      },
+      {
+        "datetime": "2020-03-24T23:29:01Z",
+        "uri": "https://web.archive.org/web/20200324232901/http://www.oigetit.com/"
+      },
+      {
+        "datetime": "2020-03-24T23:29:02Z",
+        "uri": "https://web.archive.org/web/20200324232902/https://www.oigetit.com/"
+      },
+      {
+        "datetime": "2020-04-13T05:24:50Z",
+        "uri": "https://web.archive.org/web/20200413052450/http://oigetit.com/"
+      },
+      {
+        "datetime": "2020-04-13T05:24:54Z",
+        "uri": "https://web.archive.org/web/20200413052454/https://oigetit.com/"
+      },
+      {
+        "datetime": "2020-04-13T05:24:56Z",
+        "uri": "https://web.archive.org/web/20200413052456/http://www.oigetit.com/"
+      },
+      {
+        "datetime": "2020-04-13T05:25:02Z",
+        "uri": "https://web.archive.org/web/20200413052502/https://www.oigetit.com/"
+      },
+      {
+        "datetime": "2020-04-16T04:27:29Z",
+        "uri": "https://web.archive.org/web/20200416042729/http://oigetit.com/"
+      },
+      {
+        "datetime": "2020-04-16T04:27:32Z",
+        "uri": "https://web.archive.org/web/20200416042732/https://oigetit.com/"
+      },
+      {
+        "datetime": "2020-04-16T04:27:33Z",
+        "uri": "https://web.archive.org/web/20200416042733/http://www.oigetit.com/"
+      },
+      {
+        "datetime": "2020-04-16T04:27:35Z",
+        "uri": "https://web.archive.org/web/20200416042735/https://www.oigetit.com/"
+      },
+      {
+        "datetime": "2020-04-17T04:10:28Z",
+        "uri": "https://web.archive.org/web/20200417041028/http://oigetit.com/"
+      },
+      {
+        "datetime": "2020-04-17T10:33:53Z",
+        "uri": "https://web.archive.org/web/20200417103353/https://oigetit.com/"
+      },
+      {
+        "datetime": "2020-04-22T20:53:53Z",
+        "uri": "https://web.archive.org/web/20200422205353/http://oigetit.com/"
+      },
+      {
+        "datetime": "2020-04-25T20:55:20Z",
+        "uri": "https://web.archive.org/web/20200425205520/http://oigetit.com/"
+      },
+      {
+        "datetime": "2020-04-25T20:55:21Z",
+        "uri": "https://web.archive.org/web/20200425205521/https://oigetit.com/"
+      },
+      {
+        "datetime": "2020-05-01T18:16:24Z",
+        "uri": "https://web.archive.org/web/20200501181624/https://www.oigetit.com/"
+      },
+      {
+        "datetime": "2020-05-23T06:31:39Z",
+        "uri": "https://web.archive.org/web/20200523063139/http://oigetit.com/"
+      },
+      {
+        "datetime": "2020-05-28T16:57:24Z",
+        "uri": "https://web.archive.org/web/20200528165724/https://oigetit.com/"
+      },
+      {
+        "datetime": "2020-05-31T09:45:16Z",
+        "uri": "https://web.archive.org/web/20200531094516/http://oigetit.com/"
+      },
+      {
+        "datetime": "2020-05-31T09:45:19Z",
+        "uri": "https://web.archive.org/web/20200531094519/https://oigetit.com/"
+      },
+      {
+        "datetime": "2020-06-01T05:19:07Z",
+        "uri": "https://web.archive.org/web/20200601051907/http://oigetit.com/"
+      },
+      {
+        "datetime": "2020-06-01T05:19:12Z",
+        "uri": "https://web.archive.org/web/20200601051912/https://oigetit.com/"
+      },
+      {
+        "datetime": "2020-06-02T21:27:46Z",
+        "uri": "https://web.archive.org/web/20200602212746/http://oigetit.com/"
+      },
+      {
+        "datetime": "2020-06-02T21:29:25Z",
+        "uri": "https://web.archive.org/web/20200602212925/http://oigetit.com/"
+      },
+      {
+        "datetime": "2020-06-21T15:00:15Z",
+        "uri": "https://web.archive.org/web/20200621150015/https://oigetit.com/"
+      },
+      {
+        "datetime": "2020-08-03T12:07:02Z",
+        "uri": "https://web.archive.org/web/20200803120702/http://oigetit.com/"
+      },
+      {
+        "datetime": "2020-08-03T12:07:04Z",
+        "uri": "https://web.archive.org/web/20200803120704/https://oigetit.com/"
+      },
+      {
+        "datetime": "2020-08-05T06:33:15Z",
+        "uri": "https://web.archive.org/web/20200805063315/http://www.oigetit.com/"
+      },
+      {
+        "datetime": "2020-08-05T06:33:17Z",
+        "uri": "https://web.archive.org/web/20200805063317/https://www.oigetit.com/"
+      },
+      {
+        "datetime": "2020-08-15T22:40:16Z",
+        "uri": "https://web.archive.org/web/20200815224016/https://oigetit.com/"
+      },
+      {
+        "datetime": "2020-08-15T22:40:16Z",
+        "uri": "https://web.archive.org/web/20200815224016/http://oigetit.com/"
+      },
+      {
+        "datetime": "2020-08-17T05:37:17Z",
+        "uri": "https://web.archive.org/web/20200817053717/http://oigetit.com/"
+      },
+      {
+        "datetime": "2020-08-18T01:48:26Z",
+        "uri": "https://web.archive.org/web/20200818014826/http://oigetit.com/"
+      },
+      {
+        "datetime": "2020-08-25T15:32:44Z",
+        "uri": "https://web.archive.org/web/20200825153244/http://oigetit.com/"
+      },
+      {
+        "datetime": "2020-08-25T15:32:45Z",
+        "uri": "https://web.archive.org/web/20200825153245/https://oigetit.com/"
+      },
+      {
+        "datetime": "2020-09-02T05:04:58Z",
+        "uri": "https://web.archive.org/web/20200902050458/http://oigetit.com/"
+      },
+      {
+        "datetime": "2020-09-04T06:10:36Z",
+        "uri": "https://web.archive.org/web/20200904061036/http://oigetit.com/"
+      },
+      {
+        "datetime": "2020-09-04T16:30:44Z",
+        "uri": "https://web.archive.org/web/20200904163044/http://oigetit.com/"
+      },
+      {
+        "datetime": "2020-09-04T16:30:45Z",
+        "uri": "https://web.archive.org/web/20200904163045/https://oigetit.com/"
+      },
+      {
+        "datetime": "2020-09-04T22:51:53Z",
+        "uri": "https://web.archive.org/web/20200904225153/https://oigetit.com/"
+      },
+      {
+        "datetime": "2020-09-17T19:33:09Z",
+        "uri": "https://web.archive.org/web/20200917193309/http://oigetit.com/"
+      },
+      {
+        "datetime": "2020-09-17T19:33:11Z",
+        "uri": "https://web.archive.org/web/20200917193311/https://oigetit.com/"
+      },
+      {
+        "datetime": "2020-09-17T20:19:29Z",
+        "uri": "https://web.archive.org/web/20200917201929/http://www.oigetit.com/"
+      },
+      {
+        "datetime": "2020-09-17T20:19:31Z",
+        "uri": "https://web.archive.org/web/20200917201931/https://www.oigetit.com/"
+      },
+      {
+        "datetime": "2020-09-18T15:30:57Z",
+        "uri": "https://web.archive.org/web/20200918153057/https://www.oigetit.com/"
+      },
+      {
+        "datetime": "2020-09-19T21:59:48Z",
+        "uri": "https://web.archive.org/web/20200919215948/http://oigetit.com/"
+      },
+      {
+        "datetime": "2020-09-19T23:35:54Z",
+        "uri": "https://web.archive.org/web/20200919233554/http://oigetit.com/"
+      },
+      {
+        "datetime": "2020-09-19T23:35:55Z",
+        "uri": "https://web.archive.org/web/20200919233555/https://oigetit.com/"
+      },
+      {
+        "datetime": "2020-09-20T01:00:45Z",
+        "uri": "https://web.archive.org/web/20200920010045/http://oigetit.com/"
+      },
+      {
+        "datetime": "2020-09-20T01:00:46Z",
+        "uri": "https://web.archive.org/web/20200920010046/https://oigetit.com/"
+      },
+      {
+        "datetime": "2020-09-20T08:18:01Z",
+        "uri": "https://web.archive.org/web/20200920081801/http://www.oigetit.com/"
+      },
+      {
+        "datetime": "2020-09-20T08:18:02Z",
+        "uri": "https://web.archive.org/web/20200920081802/https://www.oigetit.com/"
+      },
+      {
+        "datetime": "2020-09-30T13:33:22Z",
+        "uri": "https://web.archive.org/web/20200930133322/http://oigetit.com/"
+      },
+      {
+        "datetime": "2020-10-01T01:11:50Z",
+        "uri": "https://web.archive.org/web/20201001011150/http://www.oigetit.com/"
+      },
+      {
+        "datetime": "2020-10-01T18:03:35Z",
+        "uri": "https://web.archive.org/web/20201001180335/http://oigetit.com/"
+      },
+      {
+        "datetime": "2020-10-01T18:03:37Z",
+        "uri": "https://web.archive.org/web/20201001180337/https://oigetit.com/"
+      },
+      {
+        "datetime": "2020-10-01T19:25:50Z",
+        "uri": "https://web.archive.org/web/20201001192550/http://www.oigetit.com/"
+      },
+      {
+        "datetime": "2020-10-01T19:25:53Z",
+        "uri": "https://web.archive.org/web/20201001192553/https://www.oigetit.com/"
+      },
+      {
+        "datetime": "2020-10-03T04:13:29Z",
+        "uri": "https://web.archive.org/web/20201003041329/http://www.oigetit.com/"
+      },
+      {
+        "datetime": "2020-10-08T03:10:27Z",
+        "uri": "https://web.archive.org/web/20201008031027/https://oigetit.com/"
+      }
+    ],
+    "first": {
+      "datetime": "2014-10-30T23:45:09Z",
+      "uri": "https://web.archive.org/web/20141030234509/http://oigetit.com:80/"
+    },
+    "last": {
+      "datetime": "2020-10-08T03:10:27Z",
+      "uri": "https://web.archive.org/web/20201008031027/https://oigetit.com/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.oigetit.com/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.oigetit.com/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.oigetit.com/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.oigetit.com/%0A"
+}

@@ -1,0 +1,38 @@
+{
+  "original_uri": "https://www.researchgate.net/publication/342134613_The_emerging_need_for_touchless_interaction_technologies%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.researchgate.net/publication/342134613_The_emerging_need_for_touchless_interaction_technologies%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-09-28T07:48:54Z",
+        "uri": "https://web.archive.org/web/20200928074854/https://researchgate.net/publication/342134613_The_emerging_need_for_touchless_interaction_technologies"
+      },
+      {
+        "datetime": "2020-09-28T07:48:55Z",
+        "uri": "https://web.archive.org/web/20200928074855/https://www.researchgate.net/publication/342134613_The_emerging_need_for_touchless_interaction_technologies"
+      },
+      {
+        "datetime": "2020-10-03T00:53:45Z",
+        "uri": "https://web.archive.org/web/20201003005345/https://researchgate.net/publication/342134613_The_emerging_need_for_touchless_interaction_technologies"
+      },
+      {
+        "datetime": "2020-10-03T00:53:46Z",
+        "uri": "https://web.archive.org/web/20201003005346/https://www.researchgate.net/publication/342134613_The_emerging_need_for_touchless_interaction_technologies"
+      }
+    ],
+    "first": {
+      "datetime": "2020-09-28T07:48:54Z",
+      "uri": "https://web.archive.org/web/20200928074854/https://researchgate.net/publication/342134613_The_emerging_need_for_touchless_interaction_technologies"
+    },
+    "last": {
+      "datetime": "2020-10-03T00:53:46Z",
+      "uri": "https://web.archive.org/web/20201003005346/https://www.researchgate.net/publication/342134613_The_emerging_need_for_touchless_interaction_technologies"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.researchgate.net/publication/342134613_The_emerging_need_for_touchless_interaction_technologies%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.researchgate.net/publication/342134613_The_emerging_need_for_touchless_interaction_technologies%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.researchgate.net/publication/342134613_The_emerging_need_for_touchless_interaction_technologies%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.researchgate.net/publication/342134613_The_emerging_need_for_touchless_interaction_technologies%0A"
+}

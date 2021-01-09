@@ -1,0 +1,74 @@
+EVAN MULLOY
+
+Mon, Nov 30, 4:30 PM (8 days ago)
+
+to kpark009, me, MICHAEL, CAMERON, DANE, Mohammad
+Here is the rubric for the presentation.
+
+Do we want to present at 11 AM or 12 PM on Dec. 7?
+
+---------- Forwarded message ---------
+From: Brunelle, Janet E. <brunelle@cs.odu.edu>
+Date: Mon, Nov 30, 2020 at 12:32 PM
+Subject: rubric and time for presentation on the 7th - share with your team
+To: Mulloy, Evan H. <emull004@odu.edu>
+
+
+Did you team ask to present at 11 am next week instead of noon?
+
+Also – here is the rubric
+
+Grading Sheet – Final Exam
+Formal Presentation - Prototype
+Team ____________________________
+Grading – Maximum score = 110pts
+                                                             Outstanding                      Poor
+Societal Problem
+Defined  - 5 pts                                                         5      4      3      2      1
+Background information on problem - 5pts                5      4      3      2      1
+Customer identified/Case Study – 5 pts          5      4      3      2      1
+15 points total  _______
+
+Real World Product (solution)
+Description – 10 pts                                    10    8      6      4      2
+Goals and objectives well defined – 5pts                5      4      3      2      1
+
+15 pts total       ________
+Prototype
+        Description - 10 pts                                    10    8      6      4      2
+Product risks identified - 5 pts                        5      4      3      2      1
+Customer
+Technical
+Security)
+Identification of those addressed in lab prototype      5      4      3      2      1
+20 pts total       ________
+
+Lab Prototype Demonstration
+Quality of presentation -10 pts                 10    8      6      4      2
+Prototype components described  - 5pts           5      4      3      2      1
+Mitigation of product risks demonstrated- 5 pts 5      4      3      2      1
+Degree of completeness for functionality-10 pts 10    8      6      4      2
+Illustrates product knowledge  - 10pts           10    8      6      4      2
+
+40 points total   ________
+
+Board Approval                                          20    16    12     6     2
+
+20 points total    ________
+
+Total Score       ________
+
+
+Janet Brunelle  ‘80  ‘87
+Assistant Chair, Chief Departmental Advisor
+Senior Lecturer
+Entsminger Fellow
+Computer Science Department
+Engineering and Computational Sciences Building, Room 3210
+Old Dominion University
+Norfolk, VA 23529
+Phone:  757-683-7714
+jbrunell@odu.edu
+https://www.cs.odu.edu/~brunelle
+Zoom Meeting ID 951-933-8756
+

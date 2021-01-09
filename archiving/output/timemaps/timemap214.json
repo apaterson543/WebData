@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.duffelblog.com/2020/10/walter-reed-medics-tell-president-to-return-during-sick-call-hours/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.duffelblog.com/2020/10/walter-reed-medics-tell-president-to-return-during-sick-call-hours/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-04T23:20:03Z",
+        "uri": "https://web.archive.org/web/20201004232003/https://www.duffelblog.com/2020/10/walter-reed-medics-tell-president-to-return-during-sick-call-hours/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-04T23:20:03Z",
+      "uri": "https://web.archive.org/web/20201004232003/https://www.duffelblog.com/2020/10/walter-reed-medics-tell-president-to-return-during-sick-call-hours/"
+    },
+    "last": {
+      "datetime": "2020-10-04T23:20:03Z",
+      "uri": "https://web.archive.org/web/20201004232003/https://www.duffelblog.com/2020/10/walter-reed-medics-tell-president-to-return-during-sick-call-hours/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.duffelblog.com/2020/10/walter-reed-medics-tell-president-to-return-during-sick-call-hours/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.duffelblog.com/2020/10/walter-reed-medics-tell-president-to-return-during-sick-call-hours/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.duffelblog.com/2020/10/walter-reed-medics-tell-president-to-return-during-sick-call-hours/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.duffelblog.com/2020/10/walter-reed-medics-tell-president-to-return-during-sick-call-hours/%0A"
+}

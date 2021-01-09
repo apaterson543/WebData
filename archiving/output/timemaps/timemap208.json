@@ -1,0 +1,58 @@
+{
+  "original_uri": "https://www.nytimes.com/2020/10/05/style/are-astronaut-style-face-shields-the-future-of-ppe.html%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2020/10/05/style/are-astronaut-style-face-shields-the-future-of-ppe.html%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-05T09:12:38Z",
+        "uri": "https://web.archive.org/web/20201005091238/https://www.nytimes.com/2020/10/05/style/are-astronaut-style-face-shields-the-future-of-ppe.html"
+      },
+      {
+        "datetime": "2020-10-05T10:18:11Z",
+        "uri": "https://web.archive.org/web/20201005101811/https://www.nytimes.com/2020/10/05/style/are-astronaut-style-face-shields-the-future-of-ppe.html"
+      },
+      {
+        "datetime": "2020-10-05T13:12:30Z",
+        "uri": "https://web.archive.org/web/20201005131230/https://www.nytimes.com/2020/10/05/style/are-astronaut-style-face-shields-the-future-of-ppe.html"
+      },
+      {
+        "datetime": "2020-10-06T00:40:49Z",
+        "uri": "https://web.archive.org/web/20201006004049/https://www.nytimes.com/2020/10/05/style/are-astronaut-style-face-shields-the-future-of-ppe.html"
+      },
+      {
+        "datetime": "2020-10-06T02:35:34Z",
+        "uri": "https://web.archive.org/web/20201006023534/https://www.nytimes.com/2020/10/05/style/are-astronaut-style-face-shields-the-future-of-ppe.html"
+      },
+      {
+        "datetime": "2020-10-06T18:18:34Z",
+        "uri": "https://web.archive.org/web/20201006181834/https://www.nytimes.com/2020/10/05/style/are-astronaut-style-face-shields-the-future-of-ppe.html"
+      },
+      {
+        "datetime": "2020-10-06T23:53:24Z",
+        "uri": "https://web.archive.org/web/20201006235324/https://www.nytimes.com/2020/10/05/style/are-astronaut-style-face-shields-the-future-of-ppe.html"
+      },
+      {
+        "datetime": "2020-10-08T01:47:57Z",
+        "uri": "https://web.archive.org/web/20201008014757/https://www.nytimes.com/2020/10/05/style/are-astronaut-style-face-shields-the-future-of-ppe.html"
+      },
+      {
+        "datetime": "2020-10-08T10:16:37Z",
+        "uri": "https://web.archive.org/web/20201008101637/https://www.nytimes.com/2020/10/05/style/are-astronaut-style-face-shields-the-future-of-ppe.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-05T09:12:38Z",
+      "uri": "https://web.archive.org/web/20201005091238/https://www.nytimes.com/2020/10/05/style/are-astronaut-style-face-shields-the-future-of-ppe.html"
+    },
+    "last": {
+      "datetime": "2020-10-08T10:16:37Z",
+      "uri": "https://web.archive.org/web/20201008101637/https://www.nytimes.com/2020/10/05/style/are-astronaut-style-face-shields-the-future-of-ppe.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.nytimes.com/2020/10/05/style/are-astronaut-style-face-shields-the-future-of-ppe.html%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2020/10/05/style/are-astronaut-style-face-shields-the-future-of-ppe.html%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.nytimes.com/2020/10/05/style/are-astronaut-style-face-shields-the-future-of-ppe.html%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.nytimes.com/2020/10/05/style/are-astronaut-style-face-shields-the-future-of-ppe.html%0A"
+}

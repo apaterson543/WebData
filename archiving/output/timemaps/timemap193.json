@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://edition.cnn.com/world/live-news/coronavirus-pandemic-10-07-20-intl/h_9fbbd52a231a742a43aace5b4e6daa41%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://edition.cnn.com/world/live-news/coronavirus-pandemic-10-07-20-intl/h_9fbbd52a231a742a43aace5b4e6daa41%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T19:55:52Z",
+        "uri": "https://web.archive.org/web/20201007195552/https://edition.cnn.com/world/live-news/coronavirus-pandemic-10-07-20-intl/h_9fbbd52a231a742a43aace5b4e6daa41"
+      },
+      {
+        "datetime": "2020-10-08T06:46:01Z",
+        "uri": "https://web.archive.org/web/20201008064601/https://edition.cnn.com/world/live-news/coronavirus-pandemic-10-07-20-intl/h_9fbbd52a231a742a43aace5b4e6daa41"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T19:55:52Z",
+      "uri": "https://web.archive.org/web/20201007195552/https://edition.cnn.com/world/live-news/coronavirus-pandemic-10-07-20-intl/h_9fbbd52a231a742a43aace5b4e6daa41"
+    },
+    "last": {
+      "datetime": "2020-10-08T06:46:01Z",
+      "uri": "https://web.archive.org/web/20201008064601/https://edition.cnn.com/world/live-news/coronavirus-pandemic-10-07-20-intl/h_9fbbd52a231a742a43aace5b4e6daa41"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://edition.cnn.com/world/live-news/coronavirus-pandemic-10-07-20-intl/h_9fbbd52a231a742a43aace5b4e6daa41%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://edition.cnn.com/world/live-news/coronavirus-pandemic-10-07-20-intl/h_9fbbd52a231a742a43aace5b4e6daa41%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://edition.cnn.com/world/live-news/coronavirus-pandemic-10-07-20-intl/h_9fbbd52a231a742a43aace5b4e6daa41%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://edition.cnn.com/world/live-news/coronavirus-pandemic-10-07-20-intl/h_9fbbd52a231a742a43aace5b4e6daa41%0A"
+}

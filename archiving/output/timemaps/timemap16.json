@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://thehill.com/changing-america/well-being/medical-advances/519961-renowned-infectious-disease-expert-tells-cdc%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://thehill.com/changing-america/well-being/medical-advances/519961-renowned-infectious-disease-expert-tells-cdc%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-08T05:48:36Z",
+        "uri": "https://web.archive.org/web/20201008054836/https://thehill.com/changing-america/well-being/medical-advances/519961-renowned-infectious-disease-expert-tells-cdc"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-08T05:48:36Z",
+      "uri": "https://web.archive.org/web/20201008054836/https://thehill.com/changing-america/well-being/medical-advances/519961-renowned-infectious-disease-expert-tells-cdc"
+    },
+    "last": {
+      "datetime": "2020-10-08T05:48:36Z",
+      "uri": "https://web.archive.org/web/20201008054836/https://thehill.com/changing-america/well-being/medical-advances/519961-renowned-infectious-disease-expert-tells-cdc"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://thehill.com/changing-america/well-being/medical-advances/519961-renowned-infectious-disease-expert-tells-cdc%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://thehill.com/changing-america/well-being/medical-advances/519961-renowned-infectious-disease-expert-tells-cdc%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://thehill.com/changing-america/well-being/medical-advances/519961-renowned-infectious-disease-expert-tells-cdc%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://thehill.com/changing-america/well-being/medical-advances/519961-renowned-infectious-disease-expert-tells-cdc%0A"
+}

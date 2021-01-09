@@ -1,0 +1,66 @@
+{
+  "original_uri": "https://www.theguardian.com/business/2020/oct/02/uk-hospitality-industry-fears-300000-job-losses-unless-pm-helps-now%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.theguardian.com/business/2020/oct/02/uk-hospitality-industry-fears-300000-job-losses-unless-pm-helps-now%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-02T17:49:36Z",
+        "uri": "https://web.archive.org/web/20201002174936/https://www.theguardian.com/business/2020/oct/02/uk-hospitality-industry-fears-300000-job-losses-unless-pm-helps-now"
+      },
+      {
+        "datetime": "2020-10-02T17:55:10Z",
+        "uri": "https://web.archive.org/web/20201002175510/https://www.theguardian.com/business/2020/oct/02/uk-hospitality-industry-fears-300000-job-losses-unless-pm-helps-now"
+      },
+      {
+        "datetime": "2020-10-03T23:59:10Z",
+        "uri": "https://web.archive.org/web/20201003235910/https://www.theguardian.com/business/2020/oct/02/uk-hospitality-industry-fears-300000-job-losses-unless-pm-helps-now"
+      },
+      {
+        "datetime": "2020-10-04T04:10:51Z",
+        "uri": "https://web.archive.org/web/20201004041051/https://www.theguardian.com/business/2020/oct/02/uk-hospitality-industry-fears-300000-job-losses-unless-pm-helps-now"
+      },
+      {
+        "datetime": "2020-10-05T13:12:13Z",
+        "uri": "https://web.archive.org/web/20201005131213/https://www.theguardian.com/business/2020/oct/02/uk-hospitality-industry-fears-300000-job-losses-unless-pm-helps-now"
+      },
+      {
+        "datetime": "2020-10-05T14:00:23Z",
+        "uri": "https://web.archive.org/web/20201005140023/https://www.theguardian.com/business/2020/oct/02/uk-hospitality-industry-fears-300000-job-losses-unless-pm-helps-now"
+      },
+      {
+        "datetime": "2020-10-06T05:50:50Z",
+        "uri": "https://web.archive.org/web/20201006055050/https://www.theguardian.com/business/2020/oct/02/uk-hospitality-industry-fears-300000-job-losses-unless-pm-helps-now"
+      },
+      {
+        "datetime": "2020-10-06T05:56:57Z",
+        "uri": "https://web.archive.org/web/20201006055657/https://www.theguardian.com/business/2020/oct/02/uk-hospitality-industry-fears-300000-job-losses-unless-pm-helps-now"
+      },
+      {
+        "datetime": "2020-10-06T19:52:17Z",
+        "uri": "https://web.archive.org/web/20201006195217/https://www.theguardian.com/business/2020/oct/02/uk-hospitality-industry-fears-300000-job-losses-unless-pm-helps-now"
+      },
+      {
+        "datetime": "2020-10-07T05:42:37Z",
+        "uri": "https://web.archive.org/web/20201007054237/https://www.theguardian.com/business/2020/oct/02/uk-hospitality-industry-fears-300000-job-losses-unless-pm-helps-now"
+      },
+      {
+        "datetime": "2020-10-07T06:48:12Z",
+        "uri": "https://web.archive.org/web/20201007064812/https://www.theguardian.com/business/2020/oct/02/uk-hospitality-industry-fears-300000-job-losses-unless-pm-helps-now"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-02T17:49:36Z",
+      "uri": "https://web.archive.org/web/20201002174936/https://www.theguardian.com/business/2020/oct/02/uk-hospitality-industry-fears-300000-job-losses-unless-pm-helps-now"
+    },
+    "last": {
+      "datetime": "2020-10-07T06:48:12Z",
+      "uri": "https://web.archive.org/web/20201007064812/https://www.theguardian.com/business/2020/oct/02/uk-hospitality-industry-fears-300000-job-losses-unless-pm-helps-now"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.theguardian.com/business/2020/oct/02/uk-hospitality-industry-fears-300000-job-losses-unless-pm-helps-now%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.theguardian.com/business/2020/oct/02/uk-hospitality-industry-fears-300000-job-losses-unless-pm-helps-now%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.theguardian.com/business/2020/oct/02/uk-hospitality-industry-fears-300000-job-losses-unless-pm-helps-now%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.theguardian.com/business/2020/oct/02/uk-hospitality-industry-fears-300000-job-losses-unless-pm-helps-now%0A"
+}

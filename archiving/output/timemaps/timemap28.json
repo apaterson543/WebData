@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.nbcnews.com/news/world/italy-imposes-mask-mandate-outside-coronavirus-rebounds-n1242440%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.nbcnews.com/news/world/italy-imposes-mask-mandate-outside-coronavirus-rebounds-n1242440%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T20:19:43Z",
+        "uri": "https://web.archive.org/web/20201007201943/https://www.nbcnews.com/news/world/italy-imposes-mask-mandate-outside-coronavirus-rebounds-n1242440"
+      },
+      {
+        "datetime": "2020-10-07T21:23:08Z",
+        "uri": "https://web.archive.org/web/20201007212308/https://www.nbcnews.com/news/world/italy-imposes-mask-mandate-outside-coronavirus-rebounds-n1242440"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T20:19:43Z",
+      "uri": "https://web.archive.org/web/20201007201943/https://www.nbcnews.com/news/world/italy-imposes-mask-mandate-outside-coronavirus-rebounds-n1242440"
+    },
+    "last": {
+      "datetime": "2020-10-07T21:23:08Z",
+      "uri": "https://web.archive.org/web/20201007212308/https://www.nbcnews.com/news/world/italy-imposes-mask-mandate-outside-coronavirus-rebounds-n1242440"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.nbcnews.com/news/world/italy-imposes-mask-mandate-outside-coronavirus-rebounds-n1242440%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.nbcnews.com/news/world/italy-imposes-mask-mandate-outside-coronavirus-rebounds-n1242440%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.nbcnews.com/news/world/italy-imposes-mask-mandate-outside-coronavirus-rebounds-n1242440%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.nbcnews.com/news/world/italy-imposes-mask-mandate-outside-coronavirus-rebounds-n1242440%0A"
+}

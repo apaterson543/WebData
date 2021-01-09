@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.bbc.com/news/health-54440392%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.bbc.com/news/health-54440392%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T22:50:33Z",
+        "uri": "https://web.archive.org/web/20201007225033/https://www.bbc.com/news/health-54440392"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T22:50:33Z",
+      "uri": "https://web.archive.org/web/20201007225033/https://www.bbc.com/news/health-54440392"
+    },
+    "last": {
+      "datetime": "2020-10-07T22:50:33Z",
+      "uri": "https://web.archive.org/web/20201007225033/https://www.bbc.com/news/health-54440392"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.bbc.com/news/health-54440392%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.bbc.com/news/health-54440392%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.bbc.com/news/health-54440392%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.bbc.com/news/health-54440392%0A"
+}

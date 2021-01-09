@@ -1,0 +1,538 @@
+{
+  "original_uri": "https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-06-02T01:25:28Z",
+        "uri": "https://web.archive.org/web/20190602012528/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-06-02T03:49:56Z",
+        "uri": "https://web.archive.org/web/20190602034956/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-06-02T04:48:20Z",
+        "uri": "https://web.archive.org/web/20190602044820/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-06-02T09:07:49Z",
+        "uri": "https://web.archive.org/web/20190602090749/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-06-02T09:31:23Z",
+        "uri": "https://web.archive.org/web/20190602093123/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-06-02T09:43:11Z",
+        "uri": "https://web.archive.org/web/20190602094311/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-06-02T19:59:59Z",
+        "uri": "https://web.archive.org/web/20190602195959/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-06-02T21:25:09Z",
+        "uri": "https://web.archive.org/web/20190602212509/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-06-03T01:24:18Z",
+        "uri": "https://web.archive.org/web/20190603012418/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-06-03T02:20:00Z",
+        "uri": "https://web.archive.org/web/20190603022000/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-06-03T03:57:00Z",
+        "uri": "https://web.archive.org/web/20190603035700/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-06-03T05:27:51Z",
+        "uri": "https://web.archive.org/web/20190603052751/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-06-03T10:25:31Z",
+        "uri": "https://web.archive.org/web/20190603102531/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-06-03T19:22:15Z",
+        "uri": "https://web.archive.org/web/20190603192215/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-06-04T02:29:53Z",
+        "uri": "https://web.archive.org/web/20190604022953/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-06-04T07:50:26Z",
+        "uri": "https://web.archive.org/web/20190604075026/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-06-04T09:09:17Z",
+        "uri": "https://web.archive.org/web/20190604090917/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-06-04T13:59:05Z",
+        "uri": "https://web.archive.org/web/20190604135905/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-06-05T01:14:27Z",
+        "uri": "https://web.archive.org/web/20190605011427/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-06-05T03:35:28Z",
+        "uri": "https://web.archive.org/web/20190605033528/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-06-05T08:59:02Z",
+        "uri": "https://web.archive.org/web/20190605085902/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-06-05T14:41:24Z",
+        "uri": "https://web.archive.org/web/20190605144124/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-06-05T23:32:48Z",
+        "uri": "https://web.archive.org/web/20190605233248/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-06-06T09:54:55Z",
+        "uri": "https://web.archive.org/web/20190606095455/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-06-06T20:39:42Z",
+        "uri": "https://web.archive.org/web/20190606203942/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-06-07T13:35:27Z",
+        "uri": "https://web.archive.org/web/20190607133527/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-06-07T19:34:18Z",
+        "uri": "https://web.archive.org/web/20190607193418/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-06-07T20:42:49Z",
+        "uri": "https://web.archive.org/web/20190607204249/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-06-07T21:20:10Z",
+        "uri": "https://web.archive.org/web/20190607212010/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-06-07T21:45:35Z",
+        "uri": "https://web.archive.org/web/20190607214535/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-06-08T20:04:35Z",
+        "uri": "https://web.archive.org/web/20190608200435/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-06-08T22:52:58Z",
+        "uri": "https://web.archive.org/web/20190608225258/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-06-09T18:46:22Z",
+        "uri": "https://web.archive.org/web/20190609184622/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-06-10T04:18:40Z",
+        "uri": "https://web.archive.org/web/20190610041840/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-06-10T18:57:23Z",
+        "uri": "https://web.archive.org/web/20190610185723/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-06-10T19:14:16Z",
+        "uri": "https://web.archive.org/web/20190610191416/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-06-10T20:06:17Z",
+        "uri": "https://web.archive.org/web/20190610200617/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-06-11T04:10:13Z",
+        "uri": "https://web.archive.org/web/20190611041013/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-06-12T04:55:34Z",
+        "uri": "https://web.archive.org/web/20190612045534/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-06-13T02:41:00Z",
+        "uri": "https://web.archive.org/web/20190613024100/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-06-13T05:26:41Z",
+        "uri": "https://web.archive.org/web/20190613052641/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-06-18T16:34:55Z",
+        "uri": "https://web.archive.org/web/20190618163455/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-07-22T22:44:38Z",
+        "uri": "https://web.archive.org/web/20190722224438/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-07-22T22:55:04Z",
+        "uri": "https://web.archive.org/web/20190722225504/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-08-12T20:36:37Z",
+        "uri": "https://web.archive.org/web/20190812203637/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-08-21T21:01:38Z",
+        "uri": "https://web.archive.org/web/20190821210138/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-08-21T22:00:05Z",
+        "uri": "https://web.archive.org/web/20190821220005/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-08-22T02:09:39Z",
+        "uri": "https://web.archive.org/web/20190822020939/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-08-22T02:38:03Z",
+        "uri": "https://web.archive.org/web/20190822023803/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-08-22T18:04:06Z",
+        "uri": "https://web.archive.org/web/20190822180406/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-08-22T21:06:37Z",
+        "uri": "https://web.archive.org/web/20190822210637/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-08-22T22:44:00Z",
+        "uri": "https://web.archive.org/web/20190822224400/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-08-23T02:51:32Z",
+        "uri": "https://web.archive.org/web/20190823025132/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-08-23T09:39:51Z",
+        "uri": "https://web.archive.org/web/20190823093951/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-08-24T04:34:29Z",
+        "uri": "https://web.archive.org/web/20190824043429/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-08-24T23:20:57Z",
+        "uri": "https://web.archive.org/web/20190824232057/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-08-25T05:58:33Z",
+        "uri": "https://web.archive.org/web/20190825055833/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-08-25T06:33:27Z",
+        "uri": "https://web.archive.org/web/20190825063327/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-08-26T10:18:51Z",
+        "uri": "https://web.archive.org/web/20190826101851/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-08-27T13:14:16Z",
+        "uri": "https://web.archive.org/web/20190827131416/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-10-30T15:04:11Z",
+        "uri": "https://web.archive.org/web/20191030150411/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-10-31T15:33:53Z",
+        "uri": "https://web.archive.org/web/20191031153353/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-12-12T19:34:09Z",
+        "uri": "https://web.archive.org/web/20191212193409/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-12-13T03:16:09Z",
+        "uri": "https://web.archive.org/web/20191213031609/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-12-14T02:48:22Z",
+        "uri": "https://web.archive.org/web/20191214024822/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-12-15T05:17:15Z",
+        "uri": "https://web.archive.org/web/20191215051715/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-12-16T17:05:41Z",
+        "uri": "https://web.archive.org/web/20191216170541/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-12-17T08:04:34Z",
+        "uri": "https://web.archive.org/web/20191217080434/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-12-18T05:23:12Z",
+        "uri": "https://web.archive.org/web/20191218052312/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-12-19T07:28:22Z",
+        "uri": "https://web.archive.org/web/20191219072822/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-12-20T10:54:12Z",
+        "uri": "https://web.archive.org/web/20191220105412/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-12-21T19:21:12Z",
+        "uri": "https://web.archive.org/web/20191221192112/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-12-23T00:41:05Z",
+        "uri": "https://web.archive.org/web/20191223004105/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-12-23T11:16:39Z",
+        "uri": "https://web.archive.org/web/20191223111639/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-12-24T16:58:16Z",
+        "uri": "https://web.archive.org/web/20191224165816/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-12-25T17:48:06Z",
+        "uri": "https://web.archive.org/web/20191225174806/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-12-26T10:59:24Z",
+        "uri": "https://web.archive.org/web/20191226105924/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-12-27T13:39:36Z",
+        "uri": "https://web.archive.org/web/20191227133936/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-12-28T19:48:42Z",
+        "uri": "https://web.archive.org/web/20191228194842/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-12-29T10:25:06Z",
+        "uri": "https://web.archive.org/web/20191229102506/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-12-30T11:11:30Z",
+        "uri": "https://web.archive.org/web/20191230111130/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2019-12-31T16:36:52Z",
+        "uri": "https://web.archive.org/web/20191231163652/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-01-01T22:05:15Z",
+        "uri": "https://web.archive.org/web/20200101220515/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-01-02T14:51:06Z",
+        "uri": "https://web.archive.org/web/20200102145106/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-01-03T10:46:25Z",
+        "uri": "https://web.archive.org/web/20200103104625/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-01-04T00:58:44Z",
+        "uri": "https://perma.cc/E4YL-DBQT"
+      },
+      {
+        "datetime": "2020-01-04T00:58:46Z",
+        "uri": "https://web.archive.org/web/20200104005846/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-01-06T06:08:16Z",
+        "uri": "https://web.archive.org/web/20200106060816/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-01-07T00:47:51Z",
+        "uri": "https://web.archive.org/web/20200107004751/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-01-07T11:40:18Z",
+        "uri": "https://web.archive.org/web/20200107114018/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-01-08T10:04:43Z",
+        "uri": "https://web.archive.org/web/20200108100443/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-01-09T08:50:32Z",
+        "uri": "https://web.archive.org/web/20200109085032/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-05-24T16:58:39Z",
+        "uri": "https://web.archive.org/web/20200524165839/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-05-27T10:07:02Z",
+        "uri": "https://web.archive.org/web/20200527100702/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-06-05T03:47:57Z",
+        "uri": "https://web.archive.org/web/20200605034757/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-08-12T19:50:52Z",
+        "uri": "https://web.archive.org/web/20200812195052/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-08-13T06:29:28Z",
+        "uri": "https://web.archive.org/web/20200813062928/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-08-13T07:04:58Z",
+        "uri": "https://web.archive.org/web/20200813070458/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-08-13T07:55:55Z",
+        "uri": "https://web.archive.org/web/20200813075555/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-08-13T08:37:47Z",
+        "uri": "https://web.archive.org/web/20200813083747/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-08-14T13:56:39Z",
+        "uri": "https://web.archive.org/web/20200814135639/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-08-14T16:00:25Z",
+        "uri": "https://web.archive.org/web/20200814160025/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-08-14T18:19:34Z",
+        "uri": "https://web.archive.org/web/20200814181934/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-08-14T18:44:41Z",
+        "uri": "https://web.archive.org/web/20200814184441/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-08-15T13:52:36Z",
+        "uri": "https://web.archive.org/web/20200815135236/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-08-15T19:13:42Z",
+        "uri": "https://web.archive.org/web/20200815191342/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-08-15T19:55:19Z",
+        "uri": "https://web.archive.org/web/20200815195519/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-08-16T13:25:16Z",
+        "uri": "https://web.archive.org/web/20200816132516/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-08-16T17:38:49Z",
+        "uri": "https://web.archive.org/web/20200816173849/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-08-17T05:24:45Z",
+        "uri": "https://web.archive.org/web/20200817052445/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-08-17T15:31:07Z",
+        "uri": "https://web.archive.org/web/20200817153107/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-08-17T18:25:11Z",
+        "uri": "https://web.archive.org/web/20200817182511/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-08-18T18:57:27Z",
+        "uri": "https://web.archive.org/web/20200818185727/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-08-18T19:33:24Z",
+        "uri": "https://web.archive.org/web/20200818193324/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-08-19T17:02:48Z",
+        "uri": "https://web.archive.org/web/20200819170248/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-08-19T19:14:05Z",
+        "uri": "https://web.archive.org/web/20200819191405/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-08-20T17:51:04Z",
+        "uri": "https://web.archive.org/web/20200820175104/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-08-20T20:32:39Z",
+        "uri": "https://web.archive.org/web/20200820203239/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-08-21T17:14:28Z",
+        "uri": "https://web.archive.org/web/20200821171428/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-08-21T21:44:52Z",
+        "uri": "https://web.archive.org/web/20200821214452/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-08-22T20:49:24Z",
+        "uri": "https://web.archive.org/web/20200822204924/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-08-22T21:58:28Z",
+        "uri": "https://web.archive.org/web/20200822215828/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-08-23T19:08:26Z",
+        "uri": "https://web.archive.org/web/20200823190826/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-08-23T21:15:38Z",
+        "uri": "https://web.archive.org/web/20200823211538/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-08-24T21:35:27Z",
+        "uri": "https://web.archive.org/web/20200824213527/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-08-25T00:04:20Z",
+        "uri": "https://web.archive.org/web/20200825000420/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-08-25T16:37:07Z",
+        "uri": "https://web.archive.org/web/20200825163707/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-08-25T23:04:00Z",
+        "uri": "https://web.archive.org/web/20200825230400/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      },
+      {
+        "datetime": "2020-09-28T04:00:24Z",
+        "uri": "https://web.archive.org/web/20200928040024/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-06-02T01:25:28Z",
+      "uri": "https://web.archive.org/web/20190602012528/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+    },
+    "last": {
+      "datetime": "2020-09-28T04:00:24Z",
+      "uri": "https://web.archive.org/web/20200928040024/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.cnn.com/2019/06/01/opinions/trumps-meghan-markle-nasty-proves-her-point-alaimo/index.html%0A"
+}

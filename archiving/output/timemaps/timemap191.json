@@ -1,0 +1,1042 @@
+{
+  "original_uri": "https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-08-03T22:44:31Z",
+        "uri": "https://web.archive.org/web/20200803224431/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-04T03:58:17Z",
+        "uri": "https://web.archive.org/web/20200804035817/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-04T12:59:43Z",
+        "uri": "https://web.archive.org/web/20200804125943/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-04T14:45:40Z",
+        "uri": "https://web.archive.org/web/20200804144540/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-04T14:55:24Z",
+        "uri": "https://web.archive.org/web/20200804145524/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-05T01:00:52Z",
+        "uri": "https://web.archive.org/web/20200805010052/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-05T04:17:42Z",
+        "uri": "https://web.archive.org/web/20200805041742/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-05T14:35:59Z",
+        "uri": "https://web.archive.org/web/20200805143559/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-06T00:59:15Z",
+        "uri": "https://web.archive.org/web/20200806005915/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-06T09:18:16Z",
+        "uri": "https://web.archive.org/web/20200806091816/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-06T14:16:16Z",
+        "uri": "https://web.archive.org/web/20200806141616/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-06T22:42:46Z",
+        "uri": "https://web.archive.org/web/20200806224246/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-07T06:18:04Z",
+        "uri": "https://web.archive.org/web/20200807061804/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-07T09:22:22Z",
+        "uri": "https://web.archive.org/web/20200807092222/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-07T14:17:45Z",
+        "uri": "https://web.archive.org/web/20200807141745/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-07T15:53:52Z",
+        "uri": "https://web.archive.org/web/20200807155352/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-07T17:39:19Z",
+        "uri": "https://web.archive.org/web/20200807173919/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-07T19:26:01Z",
+        "uri": "https://web.archive.org/web/20200807192601/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-08T13:57:04Z",
+        "uri": "https://web.archive.org/web/20200808135704/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-08T18:33:34Z",
+        "uri": "https://web.archive.org/web/20200808183334/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-09T11:18:36Z",
+        "uri": "https://web.archive.org/web/20200809111836/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-09T13:37:11Z",
+        "uri": "https://web.archive.org/web/20200809133711/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-10T13:03:55Z",
+        "uri": "https://web.archive.org/web/20200810130355/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-10T13:19:24Z",
+        "uri": "https://web.archive.org/web/20200810131924/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-11T05:01:59Z",
+        "uri": "https://web.archive.org/web/20200811050159/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-11T11:18:05Z",
+        "uri": "https://web.archive.org/web/20200811111805/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-11T13:37:30Z",
+        "uri": "https://web.archive.org/web/20200811133730/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-11T17:55:20Z",
+        "uri": "https://web.archive.org/web/20200811175520/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-11T20:24:08Z",
+        "uri": "https://web.archive.org/web/20200811202408/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-11T23:35:50Z",
+        "uri": "https://web.archive.org/web/20200811233550/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-12T11:46:10Z",
+        "uri": "https://web.archive.org/web/20200812114610/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-12T13:30:21Z",
+        "uri": "https://web.archive.org/web/20200812133021/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-12T13:49:46Z",
+        "uri": "https://web.archive.org/web/20200812134946/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-12T13:52:28Z",
+        "uri": "https://web.archive.org/web/20200812135228/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-12T19:32:27Z",
+        "uri": "https://web.archive.org/web/20200812193227/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-13T03:59:10Z",
+        "uri": "https://web.archive.org/web/20200813035910/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-13T03:59:11Z",
+        "uri": "https://web.archive.org/web/20200813035911/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-13T07:04:26Z",
+        "uri": "https://web.archive.org/web/20200813070426/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-13T13:47:02Z",
+        "uri": "https://web.archive.org/web/20200813134702/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-13T13:59:48Z",
+        "uri": "https://web.archive.org/web/20200813135948/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-13T14:49:17Z",
+        "uri": "https://web.archive.org/web/20200813144917/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-13T22:48:42Z",
+        "uri": "https://web.archive.org/web/20200813224842/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-14T01:39:17Z",
+        "uri": "https://web.archive.org/web/20200814013917/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-14T14:19:09Z",
+        "uri": "https://web.archive.org/web/20200814141909/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-14T15:02:01Z",
+        "uri": "https://web.archive.org/web/20200814150201/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-14T15:19:34Z",
+        "uri": "https://web.archive.org/web/20200814151934/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-14T15:52:40Z",
+        "uri": "https://web.archive.org/web/20200814155240/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-14T17:47:33Z",
+        "uri": "https://web.archive.org/web/20200814174733/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-15T13:53:25Z",
+        "uri": "https://web.archive.org/web/20200815135325/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-15T14:28:14Z",
+        "uri": "https://web.archive.org/web/20200815142814/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-15T16:15:36Z",
+        "uri": "https://web.archive.org/web/20200815161536/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-15T23:13:51Z",
+        "uri": "https://web.archive.org/web/20200815231351/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-16T02:53:53Z",
+        "uri": "https://web.archive.org/web/20200816025353/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-16T13:43:35Z",
+        "uri": "https://web.archive.org/web/20200816134335/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-16T15:34:08Z",
+        "uri": "https://web.archive.org/web/20200816153408/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-16T17:00:39Z",
+        "uri": "https://web.archive.org/web/20200816170039/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-16T17:04:15Z",
+        "uri": "https://web.archive.org/web/20200816170415/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-17T00:59:50Z",
+        "uri": "https://web.archive.org/web/20200817005950/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-17T00:59:51Z",
+        "uri": "https://web.archive.org/web/20200817005951/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-17T01:04:53Z",
+        "uri": "https://web.archive.org/web/20200817010453/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-17T02:49:06Z",
+        "uri": "https://web.archive.org/web/20200817024906/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-17T02:49:13Z",
+        "uri": "https://web.archive.org/web/20200817024913/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-17T03:51:46Z",
+        "uri": "https://web.archive.org/web/20200817035146/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-17T12:05:42Z",
+        "uri": "https://web.archive.org/web/20200817120542/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-17T13:27:38Z",
+        "uri": "https://web.archive.org/web/20200817132738/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-17T18:29:01Z",
+        "uri": "https://web.archive.org/web/20200817182901/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-17T18:53:16Z",
+        "uri": "https://web.archive.org/web/20200817185316/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-17T18:53:17Z",
+        "uri": "https://web.archive.org/web/20200817185317/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-18T11:39:28Z",
+        "uri": "https://web.archive.org/web/20200818113928/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-18T13:38:06Z",
+        "uri": "https://web.archive.org/web/20200818133806/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-18T19:46:38Z",
+        "uri": "https://web.archive.org/web/20200818194638/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-18T19:51:27Z",
+        "uri": "https://web.archive.org/web/20200818195127/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-19T18:46:45Z",
+        "uri": "https://web.archive.org/web/20200819184645/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-19T20:21:02Z",
+        "uri": "https://web.archive.org/web/20200819202102/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-20T08:00:30Z",
+        "uri": "https://web.archive.org/web/20200820080030/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-20T18:16:45Z",
+        "uri": "https://web.archive.org/web/20200820181645/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-20T20:53:12Z",
+        "uri": "https://web.archive.org/web/20200820205312/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-21T20:24:07Z",
+        "uri": "https://web.archive.org/web/20200821202407/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-21T23:02:28Z",
+        "uri": "https://web.archive.org/web/20200821230228/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-22T21:33:26Z",
+        "uri": "https://web.archive.org/web/20200822213326/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-23T00:11:32Z",
+        "uri": "https://web.archive.org/web/20200823001132/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-23T05:28:50Z",
+        "uri": "https://web.archive.org/web/20200823052850/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-24T00:42:17Z",
+        "uri": "https://web.archive.org/web/20200824004217/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-24T03:11:15Z",
+        "uri": "https://web.archive.org/web/20200824031115/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-25T01:40:05Z",
+        "uri": "https://web.archive.org/web/20200825014005/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-25T02:24:00Z",
+        "uri": "https://web.archive.org/web/20200825022400/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-25T04:05:56Z",
+        "uri": "https://web.archive.org/web/20200825040556/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-25T06:34:14Z",
+        "uri": "https://web.archive.org/web/20200825063414/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-25T06:42:20Z",
+        "uri": "https://web.archive.org/web/20200825064220/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-25T21:47:32Z",
+        "uri": "https://web.archive.org/web/20200825214732/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-26T02:16:46Z",
+        "uri": "https://web.archive.org/web/20200826021646/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-26T02:19:29Z",
+        "uri": "https://web.archive.org/web/20200826021929/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-26T02:22:35Z",
+        "uri": "https://web.archive.org/web/20200826022235/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-26T03:35:59Z",
+        "uri": "https://web.archive.org/web/20200826033559/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-26T06:15:20Z",
+        "uri": "https://web.archive.org/web/20200826061520/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-27T00:19:35Z",
+        "uri": "https://web.archive.org/web/20200827001935/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-27T02:39:47Z",
+        "uri": "https://web.archive.org/web/20200827023947/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-27T06:42:45Z",
+        "uri": "https://web.archive.org/web/20200827064245/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-28T01:06:12Z",
+        "uri": "https://web.archive.org/web/20200828010612/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-28T03:11:19Z",
+        "uri": "https://web.archive.org/web/20200828031119/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-28T09:24:19Z",
+        "uri": "https://web.archive.org/web/20200828092419/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-28T15:07:07Z",
+        "uri": "https://web.archive.org/web/20200828150707/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-28T17:33:42Z",
+        "uri": "https://web.archive.org/web/20200828173342/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-29T03:48:07Z",
+        "uri": "https://web.archive.org/web/20200829034807/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-29T14:09:18Z",
+        "uri": "https://web.archive.org/web/20200829140918/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-30T00:24:47Z",
+        "uri": "https://web.archive.org/web/20200830002447/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-30T04:10:13Z",
+        "uri": "https://web.archive.org/web/20200830041013/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-30T10:03:27Z",
+        "uri": "https://web.archive.org/web/20200830100327/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-30T10:28:18Z",
+        "uri": "https://web.archive.org/web/20200830102818/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-30T18:21:19Z",
+        "uri": "https://web.archive.org/web/20200830182119/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-31T00:36:28Z",
+        "uri": "https://web.archive.org/web/20200831003628/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-31T02:22:08Z",
+        "uri": "https://web.archive.org/web/20200831022208/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-31T04:45:15Z",
+        "uri": "https://web.archive.org/web/20200831044515/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-08-31T10:47:20Z",
+        "uri": "https://web.archive.org/web/20200831104720/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-01T05:22:53Z",
+        "uri": "https://web.archive.org/web/20200901052253/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-01T15:41:18Z",
+        "uri": "https://web.archive.org/web/20200901154118/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-01T16:08:13Z",
+        "uri": "https://web.archive.org/web/20200901160813/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-01T16:33:14Z",
+        "uri": "https://web.archive.org/web/20200901163314/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-01T20:22:06Z",
+        "uri": "https://web.archive.org/web/20200901202206/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-02T04:10:46Z",
+        "uri": "https://web.archive.org/web/20200902041046/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-02T06:23:38Z",
+        "uri": "https://web.archive.org/web/20200902062338/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-02T07:37:40Z",
+        "uri": "https://web.archive.org/web/20200902073740/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-02T11:06:30Z",
+        "uri": "https://web.archive.org/web/20200902110630/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-03T07:02:35Z",
+        "uri": "https://web.archive.org/web/20200903070235/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-03T08:41:43Z",
+        "uri": "https://web.archive.org/web/20200903084143/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-03T09:17:51Z",
+        "uri": "https://web.archive.org/web/20200903091751/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-03T14:21:15Z",
+        "uri": "https://web.archive.org/web/20200903142115/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-04T05:14:36Z",
+        "uri": "https://web.archive.org/web/20200904051436/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-04T05:46:07Z",
+        "uri": "https://web.archive.org/web/20200904054607/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-04T08:46:48Z",
+        "uri": "https://web.archive.org/web/20200904084648/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-04T09:37:53Z",
+        "uri": "https://web.archive.org/web/20200904093753/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-05T10:27:21Z",
+        "uri": "https://web.archive.org/web/20200905102721/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-06T10:39:27Z",
+        "uri": "https://web.archive.org/web/20200906103927/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-07T11:28:46Z",
+        "uri": "https://web.archive.org/web/20200907112846/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-08T02:33:27Z",
+        "uri": "https://web.archive.org/web/20200908023327/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-08T05:45:48Z",
+        "uri": "https://web.archive.org/web/20200908054548/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-08T12:13:37Z",
+        "uri": "https://web.archive.org/web/20200908121337/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-08T19:27:43Z",
+        "uri": "https://web.archive.org/web/20200908192743/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-09T05:35:03Z",
+        "uri": "https://web.archive.org/web/20200909053503/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-09T13:05:54Z",
+        "uri": "https://web.archive.org/web/20200909130554/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-10T04:03:00Z",
+        "uri": "https://web.archive.org/web/20200910040300/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-10T14:44:13Z",
+        "uri": "https://web.archive.org/web/20200910144413/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-11T06:31:06Z",
+        "uri": "https://web.archive.org/web/20200911063106/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-11T13:33:21Z",
+        "uri": "https://web.archive.org/web/20200911133321/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-11T15:13:16Z",
+        "uri": "https://web.archive.org/web/20200911151316/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-12T15:59:07Z",
+        "uri": "https://web.archive.org/web/20200912155907/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-13T01:36:57Z",
+        "uri": "https://web.archive.org/web/20200913013657/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-13T16:29:11Z",
+        "uri": "https://web.archive.org/web/20200913162911/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-13T17:55:08Z",
+        "uri": "https://web.archive.org/web/20200913175508/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-13T19:32:37Z",
+        "uri": "https://web.archive.org/web/20200913193237/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-13T19:54:19Z",
+        "uri": "https://web.archive.org/web/20200913195419/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-14T13:46:30Z",
+        "uri": "https://web.archive.org/web/20200914134630/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-14T16:47:49Z",
+        "uri": "https://web.archive.org/web/20200914164749/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-14T17:39:42Z",
+        "uri": "https://web.archive.org/web/20200914173942/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-14T20:15:33Z",
+        "uri": "https://web.archive.org/web/20200914201533/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-15T04:22:19Z",
+        "uri": "https://web.archive.org/web/20200915042219/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-16T10:51:16Z",
+        "uri": "https://web.archive.org/web/20200916105116/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-16T13:00:17Z",
+        "uri": "https://web.archive.org/web/20200916130017/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-16T14:21:40Z",
+        "uri": "https://web.archive.org/web/20200916142140/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-17T02:00:26Z",
+        "uri": "https://web.archive.org/web/20200917020026/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-17T21:36:42Z",
+        "uri": "https://web.archive.org/web/20200917213642/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-18T02:40:05Z",
+        "uri": "https://web.archive.org/web/20200918024005/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-19T00:56:28Z",
+        "uri": "https://web.archive.org/web/20200919005628/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-19T04:18:18Z",
+        "uri": "https://web.archive.org/web/20200919041818/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-19T16:29:37Z",
+        "uri": "https://web.archive.org/web/20200919162937/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-19T17:42:28Z",
+        "uri": "https://web.archive.org/web/20200919174228/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-19T18:30:49Z",
+        "uri": "https://web.archive.org/web/20200919183049/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-20T00:43:43Z",
+        "uri": "https://web.archive.org/web/20200920004343/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-20T02:34:21Z",
+        "uri": "https://web.archive.org/web/20200920023421/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-20T04:46:52Z",
+        "uri": "https://web.archive.org/web/20200920044652/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-20T15:48:28Z",
+        "uri": "https://web.archive.org/web/20200920154828/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-20T20:27:14Z",
+        "uri": "https://web.archive.org/web/20200920202714/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-21T03:12:57Z",
+        "uri": "https://web.archive.org/web/20200921031257/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-21T22:13:48Z",
+        "uri": "https://web.archive.org/web/20200921221348/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-22T00:11:34Z",
+        "uri": "https://web.archive.org/web/20200922001134/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-22T00:16:16Z",
+        "uri": "https://web.archive.org/web/20200922001616/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-22T00:48:54Z",
+        "uri": "https://web.archive.org/web/20200922004854/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-22T03:07:42Z",
+        "uri": "https://web.archive.org/web/20200922030742/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-22T04:44:18Z",
+        "uri": "https://web.archive.org/web/20200922044418/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-22T08:44:20Z",
+        "uri": "https://web.archive.org/web/20200922084420/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-22T18:38:04Z",
+        "uri": "https://web.archive.org/web/20200922183804/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-22T23:59:02Z",
+        "uri": "https://web.archive.org/web/20200922235902/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-23T03:35:42Z",
+        "uri": "https://web.archive.org/web/20200923033542/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-23T05:29:36Z",
+        "uri": "https://web.archive.org/web/20200923052936/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-23T07:17:25Z",
+        "uri": "https://web.archive.org/web/20200923071725/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-23T07:29:03Z",
+        "uri": "https://web.archive.org/web/20200923072903/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-23T10:00:05Z",
+        "uri": "https://web.archive.org/web/20200923100005/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-23T13:49:40Z",
+        "uri": "https://web.archive.org/web/20200923134940/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-23T18:46:13Z",
+        "uri": "https://web.archive.org/web/20200923184613/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-24T00:37:18Z",
+        "uri": "https://web.archive.org/web/20200924003718/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-24T02:24:34Z",
+        "uri": "https://web.archive.org/web/20200924022434/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-24T04:53:39Z",
+        "uri": "https://web.archive.org/web/20200924045339/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-24T19:18:58Z",
+        "uri": "https://web.archive.org/web/20200924191858/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-25T11:03:14Z",
+        "uri": "https://web.archive.org/web/20200925110314/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-25T13:04:52Z",
+        "uri": "https://web.archive.org/web/20200925130452/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-25T21:57:11Z",
+        "uri": "https://web.archive.org/web/20200925215711/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-26T02:29:55Z",
+        "uri": "https://web.archive.org/web/20200926022955/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-26T13:20:18Z",
+        "uri": "https://web.archive.org/web/20200926132018/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-27T00:40:35Z",
+        "uri": "https://web.archive.org/web/20200927004035/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-27T03:36:56Z",
+        "uri": "https://web.archive.org/web/20200927033656/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-27T05:38:14Z",
+        "uri": "https://web.archive.org/web/20200927053814/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-28T05:00:52Z",
+        "uri": "https://web.archive.org/web/20200928050052/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-28T19:11:31Z",
+        "uri": "https://web.archive.org/web/20200928191131/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-28T20:29:33Z",
+        "uri": "https://web.archive.org/web/20200928202933/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-29T00:23:18Z",
+        "uri": "https://web.archive.org/web/20200929002318/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-29T05:58:31Z",
+        "uri": "https://web.archive.org/web/20200929055831/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-29T15:35:54Z",
+        "uri": "https://web.archive.org/web/20200929153554/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-29T16:10:14Z",
+        "uri": "https://web.archive.org/web/20200929161014/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-29T18:35:37Z",
+        "uri": "https://web.archive.org/web/20200929183537/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-30T01:04:59Z",
+        "uri": "https://web.archive.org/web/20200930010459/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-30T01:55:19Z",
+        "uri": "https://web.archive.org/web/20200930015519/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-30T06:42:12Z",
+        "uri": "https://web.archive.org/web/20200930064212/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-09-30T19:35:17Z",
+        "uri": "https://web.archive.org/web/20200930193517/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-10-01T07:05:14Z",
+        "uri": "https://web.archive.org/web/20201001070514/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-10-01T15:32:14Z",
+        "uri": "https://web.archive.org/web/20201001153214/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-10-01T21:50:47Z",
+        "uri": "https://web.archive.org/web/20201001215047/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-10-01T23:24:43Z",
+        "uri": "https://web.archive.org/web/20201001232443/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-10-02T01:55:04Z",
+        "uri": "https://web.archive.org/web/20201002015504/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-10-02T02:41:09Z",
+        "uri": "https://web.archive.org/web/20201002024109/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-10-02T04:52:00Z",
+        "uri": "https://web.archive.org/web/20201002045200/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-10-02T09:33:54Z",
+        "uri": "https://web.archive.org/web/20201002093354/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-10-02T23:20:45Z",
+        "uri": "https://web.archive.org/web/20201002232045/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-10-03T00:03:26Z",
+        "uri": "https://web.archive.org/web/20201003000326/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-10-03T03:32:38Z",
+        "uri": "https://web.archive.org/web/20201003033238/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-10-03T10:12:02Z",
+        "uri": "https://web.archive.org/web/20201003101202/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-10-03T10:15:13Z",
+        "uri": "https://web.archive.org/web/20201003101513/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-10-03T10:23:08Z",
+        "uri": "https://web.archive.org/web/20201003102308/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-10-03T11:20:46Z",
+        "uri": "https://web.archive.org/web/20201003112046/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-10-03T11:50:29Z",
+        "uri": "https://web.archive.org/web/20201003115029/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-10-03T15:26:43Z",
+        "uri": "https://web.archive.org/web/20201003152643/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-10-03T17:04:39Z",
+        "uri": "https://web.archive.org/web/20201003170439/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-10-03T23:58:49Z",
+        "uri": "https://web.archive.org/web/20201003235849/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-10-04T00:33:22Z",
+        "uri": "https://web.archive.org/web/20201004003322/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-10-04T06:33:42Z",
+        "uri": "https://web.archive.org/web/20201004063342/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-10-04T07:17:43Z",
+        "uri": "https://web.archive.org/web/20201004071743/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-10-04T11:32:21Z",
+        "uri": "https://web.archive.org/web/20201004113221/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-10-04T14:49:45Z",
+        "uri": "https://web.archive.org/web/20201004144945/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-10-05T00:38:34Z",
+        "uri": "https://web.archive.org/web/20201005003834/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-10-05T13:11:47Z",
+        "uri": "https://web.archive.org/web/20201005131147/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-10-05T16:05:16Z",
+        "uri": "https://web.archive.org/web/20201005160516/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-10-05T16:44:56Z",
+        "uri": "https://web.archive.org/web/20201005164456/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-10-05T23:36:57Z",
+        "uri": "https://web.archive.org/web/20201005233657/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-10-06T04:30:31Z",
+        "uri": "https://web.archive.org/web/20201006043031/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-10-06T06:12:48Z",
+        "uri": "https://web.archive.org/web/20201006061248/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-10-06T10:04:45Z",
+        "uri": "https://web.archive.org/web/20201006100445/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-10-06T12:55:16Z",
+        "uri": "https://web.archive.org/web/20201006125516/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-10-06T13:39:55Z",
+        "uri": "https://web.archive.org/web/20201006133955/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-10-06T14:21:37Z",
+        "uri": "https://web.archive.org/web/20201006142137/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-10-06T17:36:05Z",
+        "uri": "https://web.archive.org/web/20201006173605/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-10-06T19:29:15Z",
+        "uri": "https://web.archive.org/web/20201006192915/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-10-07T11:39:27Z",
+        "uri": "https://web.archive.org/web/20201007113927/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-10-07T14:51:04Z",
+        "uri": "https://web.archive.org/web/20201007145104/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-10-07T15:05:02Z",
+        "uri": "https://web.archive.org/web/20201007150502/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-10-07T22:12:01Z",
+        "uri": "https://web.archive.org/web/20201007221201/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      },
+      {
+        "datetime": "2020-10-08T00:43:53Z",
+        "uri": "https://web.archive.org/web/20201008004353/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-08-03T22:44:31Z",
+      "uri": "https://web.archive.org/web/20200803224431/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+    },
+    "last": {
+      "datetime": "2020-10-08T00:43:53Z",
+      "uri": "https://web.archive.org/web/20201008004353/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html%0A"
+}

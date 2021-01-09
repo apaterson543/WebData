@@ -1,0 +1,38 @@
+{
+  "original_uri": "https://www.spiegel.de/politik/ausland/donald-trump-verlaesst-das-krankenhaus-gefaehrder-in-chief-a-b5ff0321-32f0-45a5-be72-93aec6228fb5%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.spiegel.de/politik/ausland/donald-trump-verlaesst-das-krankenhaus-gefaehrder-in-chief-a-b5ff0321-32f0-45a5-be72-93aec6228fb5%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-06T06:07:01Z",
+        "uri": "https://web.archive.org/web/20201006060701/https://www.spiegel.de/politik/ausland/donald-trump-verlaesst-das-krankenhaus-gefaehrder-in-chief-a-b5ff0321-32f0-45a5-be72-93aec6228fb5"
+      },
+      {
+        "datetime": "2020-10-06T14:38:05Z",
+        "uri": "https://web.archive.org/web/20201006143805/https://www.spiegel.de/politik/ausland/donald-trump-verlaesst-das-krankenhaus-gefaehrder-in-chief-a-b5ff0321-32f0-45a5-be72-93aec6228fb5"
+      },
+      {
+        "datetime": "2020-10-06T14:47:27Z",
+        "uri": "https://web.archive.org/web/20201006144727/https://www.spiegel.de/politik/ausland/donald-trump-verlaesst-das-krankenhaus-gefaehrder-in-chief-a-b5ff0321-32f0-45a5-be72-93aec6228fb5"
+      },
+      {
+        "datetime": "2020-10-07T17:12:26Z",
+        "uri": "https://web.archive.org/web/20201007171226/https://www.spiegel.de/politik/ausland/donald-trump-verlaesst-das-krankenhaus-gefaehrder-in-chief-a-b5ff0321-32f0-45a5-be72-93aec6228fb5"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-06T06:07:01Z",
+      "uri": "https://web.archive.org/web/20201006060701/https://www.spiegel.de/politik/ausland/donald-trump-verlaesst-das-krankenhaus-gefaehrder-in-chief-a-b5ff0321-32f0-45a5-be72-93aec6228fb5"
+    },
+    "last": {
+      "datetime": "2020-10-07T17:12:26Z",
+      "uri": "https://web.archive.org/web/20201007171226/https://www.spiegel.de/politik/ausland/donald-trump-verlaesst-das-krankenhaus-gefaehrder-in-chief-a-b5ff0321-32f0-45a5-be72-93aec6228fb5"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.spiegel.de/politik/ausland/donald-trump-verlaesst-das-krankenhaus-gefaehrder-in-chief-a-b5ff0321-32f0-45a5-be72-93aec6228fb5%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.spiegel.de/politik/ausland/donald-trump-verlaesst-das-krankenhaus-gefaehrder-in-chief-a-b5ff0321-32f0-45a5-be72-93aec6228fb5%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.spiegel.de/politik/ausland/donald-trump-verlaesst-das-krankenhaus-gefaehrder-in-chief-a-b5ff0321-32f0-45a5-be72-93aec6228fb5%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.spiegel.de/politik/ausland/donald-trump-verlaesst-das-krankenhaus-gefaehrder-in-chief-a-b5ff0321-32f0-45a5-be72-93aec6228fb5%0A"
+}

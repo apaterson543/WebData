@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.jpost.com/breaking-news/brazil-registers-5000694-confirmed-cases-of-new-coronavirus-644961%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.jpost.com/breaking-news/brazil-registers-5000694-confirmed-cases-of-new-coronavirus-644961%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-08T00:06:51Z",
+        "uri": "https://web.archive.org/web/20201008000651/https://www.jpost.com/breaking-news/brazil-registers-5000694-confirmed-cases-of-new-coronavirus-644961"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-08T00:06:51Z",
+      "uri": "https://web.archive.org/web/20201008000651/https://www.jpost.com/breaking-news/brazil-registers-5000694-confirmed-cases-of-new-coronavirus-644961"
+    },
+    "last": {
+      "datetime": "2020-10-08T00:06:51Z",
+      "uri": "https://web.archive.org/web/20201008000651/https://www.jpost.com/breaking-news/brazil-registers-5000694-confirmed-cases-of-new-coronavirus-644961"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.jpost.com/breaking-news/brazil-registers-5000694-confirmed-cases-of-new-coronavirus-644961%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.jpost.com/breaking-news/brazil-registers-5000694-confirmed-cases-of-new-coronavirus-644961%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.jpost.com/breaking-news/brazil-registers-5000694-confirmed-cases-of-new-coronavirus-644961%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.jpost.com/breaking-news/brazil-registers-5000694-confirmed-cases-of-new-coronavirus-644961%0A"
+}

@@ -1,0 +1,34 @@
+{
+  "original_uri": "https://theweek.com/speedreads/942162/lincoln-project-tunefully-mocks-trumps-covid19-balcony-scene-evita-homage%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://theweek.com/speedreads/942162/lincoln-project-tunefully-mocks-trumps-covid19-balcony-scene-evita-homage%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T07:38:36Z",
+        "uri": "https://web.archive.org/web/20201007073836/https://theweek.com/speedreads/942162/lincoln-project-tunefully-mocks-trumps-covid19-balcony-scene-evita-homage"
+      },
+      {
+        "datetime": "2020-10-07T08:47:29Z",
+        "uri": "https://web.archive.org/web/20201007084729/https://theweek.com/speedreads/942162/lincoln-project-tunefully-mocks-trumps-covid19-balcony-scene-evita-homage"
+      },
+      {
+        "datetime": "2020-10-07T10:23:59Z",
+        "uri": "https://web.archive.org/web/20201007102359/https://theweek.com/speedreads/942162/lincoln-project-tunefully-mocks-trumps-covid19-balcony-scene-evita-homage"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T07:38:36Z",
+      "uri": "https://web.archive.org/web/20201007073836/https://theweek.com/speedreads/942162/lincoln-project-tunefully-mocks-trumps-covid19-balcony-scene-evita-homage"
+    },
+    "last": {
+      "datetime": "2020-10-07T10:23:59Z",
+      "uri": "https://web.archive.org/web/20201007102359/https://theweek.com/speedreads/942162/lincoln-project-tunefully-mocks-trumps-covid19-balcony-scene-evita-homage"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://theweek.com/speedreads/942162/lincoln-project-tunefully-mocks-trumps-covid19-balcony-scene-evita-homage%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://theweek.com/speedreads/942162/lincoln-project-tunefully-mocks-trumps-covid19-balcony-scene-evita-homage%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://theweek.com/speedreads/942162/lincoln-project-tunefully-mocks-trumps-covid19-balcony-scene-evita-homage%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://theweek.com/speedreads/942162/lincoln-project-tunefully-mocks-trumps-covid19-balcony-scene-evita-homage%0A"
+}

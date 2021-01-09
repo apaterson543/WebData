@@ -1,0 +1,50 @@
+{
+  "original_uri": "https://www.kyivpost.com/hot/coronavirus%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.kyivpost.com/hot/coronavirus%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-03-31T20:26:08Z",
+        "uri": "https://web.archive.org/web/20200331202608/https://www.kyivpost.com/hot/coronavirus"
+      },
+      {
+        "datetime": "2020-04-09T07:35:25Z",
+        "uri": "https://web.archive.org/web/20200409073525/https://www.kyivpost.com/hot/coronavirus"
+      },
+      {
+        "datetime": "2020-04-13T07:39:58Z",
+        "uri": "https://web.archive.org/web/20200413073958/https://www.kyivpost.com/hot/coronavirus"
+      },
+      {
+        "datetime": "2020-04-14T06:55:47Z",
+        "uri": "https://web.archive.org/web/20200414065547/https://www.kyivpost.com/hot/coronavirus"
+      },
+      {
+        "datetime": "2020-04-15T07:41:48Z",
+        "uri": "https://web.archive.org/web/20200415074148/https://www.kyivpost.com/hot/coronavirus"
+      },
+      {
+        "datetime": "2020-04-21T20:19:07Z",
+        "uri": "https://web.archive.org/web/20200421201907/https://www.kyivpost.com/hot/coronavirus"
+      },
+      {
+        "datetime": "2020-05-15T13:21:19Z",
+        "uri": "https://web.archive.org/web/20200515132119/https://www.kyivpost.com/hot/coronavirus"
+      }
+    ],
+    "first": {
+      "datetime": "2020-03-31T20:26:08Z",
+      "uri": "https://web.archive.org/web/20200331202608/https://www.kyivpost.com/hot/coronavirus"
+    },
+    "last": {
+      "datetime": "2020-05-15T13:21:19Z",
+      "uri": "https://web.archive.org/web/20200515132119/https://www.kyivpost.com/hot/coronavirus"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.kyivpost.com/hot/coronavirus%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.kyivpost.com/hot/coronavirus%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.kyivpost.com/hot/coronavirus%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.kyivpost.com/hot/coronavirus%0A"
+}

@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://apnews.com/article/virus-outbreak-international-news-public-health-europe-italy-77a4fdd5926da76bb94105bb4995b0c7%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://apnews.com/article/virus-outbreak-international-news-public-health-europe-italy-77a4fdd5926da76bb94105bb4995b0c7%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T21:21:39Z",
+        "uri": "https://web.archive.org/web/20201007212139/https://www.apnews.com/article/virus-outbreak-international-news-public-health-europe-italy-77a4fdd5926da76bb94105bb4995b0c7"
+      },
+      {
+        "datetime": "2020-10-07T21:21:39Z",
+        "uri": "https://web.archive.org/web/20201007212139/https://apnews.com/article/virus-outbreak-international-news-public-health-europe-italy-77a4fdd5926da76bb94105bb4995b0c7"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T21:21:39Z",
+      "uri": "https://web.archive.org/web/20201007212139/https://www.apnews.com/article/virus-outbreak-international-news-public-health-europe-italy-77a4fdd5926da76bb94105bb4995b0c7"
+    },
+    "last": {
+      "datetime": "2020-10-07T21:21:39Z",
+      "uri": "https://web.archive.org/web/20201007212139/https://apnews.com/article/virus-outbreak-international-news-public-health-europe-italy-77a4fdd5926da76bb94105bb4995b0c7"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://apnews.com/article/virus-outbreak-international-news-public-health-europe-italy-77a4fdd5926da76bb94105bb4995b0c7%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://apnews.com/article/virus-outbreak-international-news-public-health-europe-italy-77a4fdd5926da76bb94105bb4995b0c7%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://apnews.com/article/virus-outbreak-international-news-public-health-europe-italy-77a4fdd5926da76bb94105bb4995b0c7%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://apnews.com/article/virus-outbreak-international-news-public-health-europe-italy-77a4fdd5926da76bb94105bb4995b0c7%0A"
+}

@@ -1,0 +1,38 @@
+{
+  "original_uri": "https://www.wusa9.com/article/news/health/coronavirus/projected-coronavirus-deaths-us-could-surpass-world-war-ii/507-f2a3dd0c-3051-47e1-83ab-b8e796040cb1%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.wusa9.com/article/news/health/coronavirus/projected-coronavirus-deaths-us-could-surpass-world-war-ii/507-f2a3dd0c-3051-47e1-83ab-b8e796040cb1%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-08-12T14:25:09Z",
+        "uri": "https://web.archive.org/web/20200812142509/https://www.wusa9.com/article/news/health/coronavirus/projected-coronavirus-deaths-us-could-surpass-world-war-ii/507-f2a3dd0c-3051-47e1-83ab-b8e796040cb1"
+      },
+      {
+        "datetime": "2020-08-17T00:16:50Z",
+        "uri": "https://web.archive.org/web/20200817001650/https://www.wusa9.com/article/news/health/coronavirus/projected-coronavirus-deaths-us-could-surpass-world-war-ii/507-f2a3dd0c-3051-47e1-83ab-b8e796040cb1"
+      },
+      {
+        "datetime": "2020-09-01T17:08:02Z",
+        "uri": "https://web.archive.org/web/20200901170802/https://www.wusa9.com/article/news/health/coronavirus/projected-coronavirus-deaths-us-could-surpass-world-war-ii/507-f2a3dd0c-3051-47e1-83ab-b8e796040cb1"
+      },
+      {
+        "datetime": "2020-10-06T00:12:31Z",
+        "uri": "https://web.archive.org/web/20201006001231/https://www.wusa9.com/article/news/health/coronavirus/projected-coronavirus-deaths-us-could-surpass-world-war-ii/507-f2a3dd0c-3051-47e1-83ab-b8e796040cb1"
+      }
+    ],
+    "first": {
+      "datetime": "2020-08-12T14:25:09Z",
+      "uri": "https://web.archive.org/web/20200812142509/https://www.wusa9.com/article/news/health/coronavirus/projected-coronavirus-deaths-us-could-surpass-world-war-ii/507-f2a3dd0c-3051-47e1-83ab-b8e796040cb1"
+    },
+    "last": {
+      "datetime": "2020-10-06T00:12:31Z",
+      "uri": "https://web.archive.org/web/20201006001231/https://www.wusa9.com/article/news/health/coronavirus/projected-coronavirus-deaths-us-could-surpass-world-war-ii/507-f2a3dd0c-3051-47e1-83ab-b8e796040cb1"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.wusa9.com/article/news/health/coronavirus/projected-coronavirus-deaths-us-could-surpass-world-war-ii/507-f2a3dd0c-3051-47e1-83ab-b8e796040cb1%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.wusa9.com/article/news/health/coronavirus/projected-coronavirus-deaths-us-could-surpass-world-war-ii/507-f2a3dd0c-3051-47e1-83ab-b8e796040cb1%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.wusa9.com/article/news/health/coronavirus/projected-coronavirus-deaths-us-could-surpass-world-war-ii/507-f2a3dd0c-3051-47e1-83ab-b8e796040cb1%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.wusa9.com/article/news/health/coronavirus/projected-coronavirus-deaths-us-could-surpass-world-war-ii/507-f2a3dd0c-3051-47e1-83ab-b8e796040cb1%0A"
+}

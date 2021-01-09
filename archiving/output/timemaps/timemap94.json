@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.syracuse.com/coronavirus/2020/10/coronavirus-48-new-cases-in-onondaga-county-biggest-one-day-jump-since-may.html%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.syracuse.com/coronavirus/2020/10/coronavirus-48-new-cases-in-onondaga-county-biggest-one-day-jump-since-may.html%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-08T10:06:03Z",
+        "uri": "https://web.archive.org/web/20201008100603/https://www.syracuse.com/coronavirus/2020/10/coronavirus-48-new-cases-in-onondaga-county-biggest-one-day-jump-since-may.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-08T10:06:03Z",
+      "uri": "https://web.archive.org/web/20201008100603/https://www.syracuse.com/coronavirus/2020/10/coronavirus-48-new-cases-in-onondaga-county-biggest-one-day-jump-since-may.html"
+    },
+    "last": {
+      "datetime": "2020-10-08T10:06:03Z",
+      "uri": "https://web.archive.org/web/20201008100603/https://www.syracuse.com/coronavirus/2020/10/coronavirus-48-new-cases-in-onondaga-county-biggest-one-day-jump-since-may.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.syracuse.com/coronavirus/2020/10/coronavirus-48-new-cases-in-onondaga-county-biggest-one-day-jump-since-may.html%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.syracuse.com/coronavirus/2020/10/coronavirus-48-new-cases-in-onondaga-county-biggest-one-day-jump-since-may.html%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.syracuse.com/coronavirus/2020/10/coronavirus-48-new-cases-in-onondaga-county-biggest-one-day-jump-since-may.html%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.syracuse.com/coronavirus/2020/10/coronavirus-48-new-cases-in-onondaga-county-biggest-one-day-jump-since-may.html%0A"
+}

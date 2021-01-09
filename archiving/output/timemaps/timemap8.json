@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://globalnews.ca/news/7374552/totally-under-control-movie-trailer-covid-19-donald-trump/amp/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://globalnews.ca/news/7374552/totally-under-control-movie-trailer-covid-19-donald-trump/amp/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-03T12:17:25Z",
+        "uri": "https://web.archive.org/web/20201003121725/https://globalnews.ca/news/7374552/totally-under-control-movie-trailer-covid-19-donald-trump/amp/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-03T12:17:25Z",
+      "uri": "https://web.archive.org/web/20201003121725/https://globalnews.ca/news/7374552/totally-under-control-movie-trailer-covid-19-donald-trump/amp/"
+    },
+    "last": {
+      "datetime": "2020-10-03T12:17:25Z",
+      "uri": "https://web.archive.org/web/20201003121725/https://globalnews.ca/news/7374552/totally-under-control-movie-trailer-covid-19-donald-trump/amp/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://globalnews.ca/news/7374552/totally-under-control-movie-trailer-covid-19-donald-trump/amp/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://globalnews.ca/news/7374552/totally-under-control-movie-trailer-covid-19-donald-trump/amp/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://globalnews.ca/news/7374552/totally-under-control-movie-trailer-covid-19-donald-trump/amp/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://globalnews.ca/news/7374552/totally-under-control-movie-trailer-covid-19-donald-trump/amp/%0A"
+}

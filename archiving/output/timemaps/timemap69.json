@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://tom-gillispie.blogspot.com/2018/08/politics.html%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://tom-gillispie.blogspot.com/2018/08/politics.html%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-04-01T02:46:30Z",
+        "uri": "https://web.archive.org/web/20190401024630/https://tom-gillispie.blogspot.com/2018/08/politics.html"
+      },
+      {
+        "datetime": "2019-04-03T21:35:42Z",
+        "uri": "https://web.archive.org/web/20190403213542/http://tom-gillispie.blogspot.com/2018/08/politics.html"
+      },
+      {
+        "datetime": "2020-04-23T00:50:38Z",
+        "uri": "https://web.archive.org/web/20200423005038/http://tom-gillispie.blogspot.com/2018/08/politics.html"
+      },
+      {
+        "datetime": "2020-05-12T19:21:20Z",
+        "uri": "https://web.archive.org/web/20200512192120/https://tom-gillispie.blogspot.com/2018/08/politics.html"
+      },
+      {
+        "datetime": "2020-10-04T00:29:21Z",
+        "uri": "https://web.archive.org/web/20201004002921/http://tom-gillispie.blogspot.com/2018/08/politics.html"
+      },
+      {
+        "datetime": "2020-10-05T15:00:58Z",
+        "uri": "https://web.archive.org/web/20201005150058/https://tom-gillispie.blogspot.com/2018/08/politics.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-04-01T02:46:30Z",
+      "uri": "https://web.archive.org/web/20190401024630/https://tom-gillispie.blogspot.com/2018/08/politics.html"
+    },
+    "last": {
+      "datetime": "2020-10-05T15:00:58Z",
+      "uri": "https://web.archive.org/web/20201005150058/https://tom-gillispie.blogspot.com/2018/08/politics.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://tom-gillispie.blogspot.com/2018/08/politics.html%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://tom-gillispie.blogspot.com/2018/08/politics.html%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://tom-gillispie.blogspot.com/2018/08/politics.html%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://tom-gillispie.blogspot.com/2018/08/politics.html%0A"
+}

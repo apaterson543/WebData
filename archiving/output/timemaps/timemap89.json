@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.breitbart.com/economy/2020/10/07/fed-found-economy-is-recovering-much-faster-than-officials-expected/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.breitbart.com/economy/2020/10/07/fed-found-economy-is-recovering-much-faster-than-officials-expected/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-08T04:07:11Z",
+        "uri": "https://web.archive.org/web/20201008040711/https://www.breitbart.com/economy/2020/10/07/fed-found-economy-is-recovering-much-faster-than-officials-expected/"
+      },
+      {
+        "datetime": "2020-10-08T08:05:35Z",
+        "uri": "https://web.archive.org/web/20201008080535/https://www.breitbart.com/economy/2020/10/07/fed-found-economy-is-recovering-much-faster-than-officials-expected/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-08T04:07:11Z",
+      "uri": "https://web.archive.org/web/20201008040711/https://www.breitbart.com/economy/2020/10/07/fed-found-economy-is-recovering-much-faster-than-officials-expected/"
+    },
+    "last": {
+      "datetime": "2020-10-08T08:05:35Z",
+      "uri": "https://web.archive.org/web/20201008080535/https://www.breitbart.com/economy/2020/10/07/fed-found-economy-is-recovering-much-faster-than-officials-expected/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.breitbart.com/economy/2020/10/07/fed-found-economy-is-recovering-much-faster-than-officials-expected/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.breitbart.com/economy/2020/10/07/fed-found-economy-is-recovering-much-faster-than-officials-expected/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.breitbart.com/economy/2020/10/07/fed-found-economy-is-recovering-much-faster-than-officials-expected/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.breitbart.com/economy/2020/10/07/fed-found-economy-is-recovering-much-faster-than-officials-expected/%0A"
+}

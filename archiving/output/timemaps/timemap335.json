@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://ktla.com/news/local-news/san-bernardino-county-is-bringing-back-alternate-care-sites-after-surge-in-covid-19-hospitalizations/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://ktla.com/news/local-news/san-bernardino-county-is-bringing-back-alternate-care-sites-after-surge-in-covid-19-hospitalizations/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-08-06T08:04:50Z",
+        "uri": "https://web.archive.org/web/20200806080450/https://ktla.com/news/local-news/san-bernardino-county-is-bringing-back-alternate-care-sites-after-surge-in-covid-19-hospitalizations/"
+      },
+      {
+        "datetime": "2020-09-28T18:12:24Z",
+        "uri": "https://web.archive.org/web/20200928181224/https://ktla.com/news/local-news/san-bernardino-county-is-bringing-back-alternate-care-sites-after-surge-in-covid-19-hospitalizations/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-08-06T08:04:50Z",
+      "uri": "https://web.archive.org/web/20200806080450/https://ktla.com/news/local-news/san-bernardino-county-is-bringing-back-alternate-care-sites-after-surge-in-covid-19-hospitalizations/"
+    },
+    "last": {
+      "datetime": "2020-09-28T18:12:24Z",
+      "uri": "https://web.archive.org/web/20200928181224/https://ktla.com/news/local-news/san-bernardino-county-is-bringing-back-alternate-care-sites-after-surge-in-covid-19-hospitalizations/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://ktla.com/news/local-news/san-bernardino-county-is-bringing-back-alternate-care-sites-after-surge-in-covid-19-hospitalizations/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://ktla.com/news/local-news/san-bernardino-county-is-bringing-back-alternate-care-sites-after-surge-in-covid-19-hospitalizations/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://ktla.com/news/local-news/san-bernardino-county-is-bringing-back-alternate-care-sites-after-surge-in-covid-19-hospitalizations/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://ktla.com/news/local-news/san-bernardino-county-is-bringing-back-alternate-care-sites-after-surge-in-covid-19-hospitalizations/%0A"
+}

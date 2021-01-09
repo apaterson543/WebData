@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.zdnet.com/article/budget-2020-australias-cyber-dollars-are-full-of-stale-hot-air/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.zdnet.com/article/budget-2020-australias-cyber-dollars-are-full-of-stale-hot-air/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T05:44:06Z",
+        "uri": "https://web.archive.org/web/20201007054406/https://www.zdnet.com/article/budget-2020-australias-cyber-dollars-are-full-of-stale-hot-air/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T05:44:06Z",
+      "uri": "https://web.archive.org/web/20201007054406/https://www.zdnet.com/article/budget-2020-australias-cyber-dollars-are-full-of-stale-hot-air/"
+    },
+    "last": {
+      "datetime": "2020-10-07T05:44:06Z",
+      "uri": "https://web.archive.org/web/20201007054406/https://www.zdnet.com/article/budget-2020-australias-cyber-dollars-are-full-of-stale-hot-air/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.zdnet.com/article/budget-2020-australias-cyber-dollars-are-full-of-stale-hot-air/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.zdnet.com/article/budget-2020-australias-cyber-dollars-are-full-of-stale-hot-air/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.zdnet.com/article/budget-2020-australias-cyber-dollars-are-full-of-stale-hot-air/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.zdnet.com/article/budget-2020-australias-cyber-dollars-are-full-of-stale-hot-air/"
+}

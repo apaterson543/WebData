@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.essence.com/lifestyle/health-wellness/anxiety-stress-relief-coronavirus-worry/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.essence.com/lifestyle/health-wellness/anxiety-stress-relief-coronavirus-worry/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-03-18T17:19:46Z",
+        "uri": "https://web.archive.org/web/20200318171946/https://www.essence.com/lifestyle/health-wellness/anxiety-stress-relief-coronavirus-worry/"
+      },
+      {
+        "datetime": "2020-04-02T23:57:05Z",
+        "uri": "https://web.archive.org/web/20200402235705/https://www.essence.com/lifestyle/health-wellness/anxiety-stress-relief-coronavirus-worry/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-03-18T17:19:46Z",
+      "uri": "https://web.archive.org/web/20200318171946/https://www.essence.com/lifestyle/health-wellness/anxiety-stress-relief-coronavirus-worry/"
+    },
+    "last": {
+      "datetime": "2020-04-02T23:57:05Z",
+      "uri": "https://web.archive.org/web/20200402235705/https://www.essence.com/lifestyle/health-wellness/anxiety-stress-relief-coronavirus-worry/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.essence.com/lifestyle/health-wellness/anxiety-stress-relief-coronavirus-worry/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.essence.com/lifestyle/health-wellness/anxiety-stress-relief-coronavirus-worry/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.essence.com/lifestyle/health-wellness/anxiety-stress-relief-coronavirus-worry/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.essence.com/lifestyle/health-wellness/anxiety-stress-relief-coronavirus-worry/%0A"
+}

@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://awics.co.uk/blog-15th-june-2020%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://awics.co.uk/blog-15th-june-2020%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-09-02T16:20:48Z",
+        "uri": "https://web.archive.org/web/20200902162048/https://awics.co.uk/blog-15th-june-2020"
+      }
+    ],
+    "first": {
+      "datetime": "2020-09-02T16:20:48Z",
+      "uri": "https://web.archive.org/web/20200902162048/https://awics.co.uk/blog-15th-june-2020"
+    },
+    "last": {
+      "datetime": "2020-09-02T16:20:48Z",
+      "uri": "https://web.archive.org/web/20200902162048/https://awics.co.uk/blog-15th-june-2020"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://awics.co.uk/blog-15th-june-2020%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://awics.co.uk/blog-15th-june-2020%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://awics.co.uk/blog-15th-june-2020%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://awics.co.uk/blog-15th-june-2020%0A"
+}

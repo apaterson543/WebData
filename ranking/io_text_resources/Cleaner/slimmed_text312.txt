@@ -1,0 +1,3 @@
+https://english.mojahedin.org/i/iran-coronavirus-news-117900-deaths-20201007
+
+b'Bad RequestBad Request - Invalid URLHTTP Error 400. The request URL is invalid.'

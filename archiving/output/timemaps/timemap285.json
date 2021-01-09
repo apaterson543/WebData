@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.abqjournal.com/1504411/nm-clerks-report-heavy-first-day-of-voting.html%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.abqjournal.com/1504411/nm-clerks-report-heavy-first-day-of-voting.html%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T04:15:21Z",
+        "uri": "https://web.archive.org/web/20201007041521/https://www.abqjournal.com/1504411/nm-clerks-report-heavy-first-day-of-voting.html"
+      },
+      {
+        "datetime": "2020-10-08T08:30:40Z",
+        "uri": "https://web.archive.org/web/20201008083040/https://www.abqjournal.com/1504411/nm-clerks-report-heavy-first-day-of-voting.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T04:15:21Z",
+      "uri": "https://web.archive.org/web/20201007041521/https://www.abqjournal.com/1504411/nm-clerks-report-heavy-first-day-of-voting.html"
+    },
+    "last": {
+      "datetime": "2020-10-08T08:30:40Z",
+      "uri": "https://web.archive.org/web/20201008083040/https://www.abqjournal.com/1504411/nm-clerks-report-heavy-first-day-of-voting.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.abqjournal.com/1504411/nm-clerks-report-heavy-first-day-of-voting.html%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.abqjournal.com/1504411/nm-clerks-report-heavy-first-day-of-voting.html%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.abqjournal.com/1504411/nm-clerks-report-heavy-first-day-of-voting.html%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.abqjournal.com/1504411/nm-clerks-report-heavy-first-day-of-voting.html%0A"
+}

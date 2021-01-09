@@ -1,0 +1,38 @@
+{
+  "original_uri": "https://www.cnn.com/travel/article/cruise-ship-demolition-photos-aliaga-turkey/index.html%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.cnn.com/travel/article/cruise-ship-demolition-photos-aliaga-turkey/index.html%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T12:51:27Z",
+        "uri": "https://web.archive.org/web/20201007125127/https://www.cnn.com/travel/article/cruise-ship-demolition-photos-aliaga-turkey/index.html"
+      },
+      {
+        "datetime": "2020-10-07T14:40:31Z",
+        "uri": "https://web.archive.org/web/20201007144031/https://www.cnn.com/travel/article/cruise-ship-demolition-photos-aliaga-turkey/index.html"
+      },
+      {
+        "datetime": "2020-10-07T18:50:45Z",
+        "uri": "https://web.archive.org/web/20201007185045/https://www.cnn.com/travel/article/cruise-ship-demolition-photos-aliaga-turkey/index.html"
+      },
+      {
+        "datetime": "2020-10-07T19:34:58Z",
+        "uri": "https://web.archive.org/web/20201007193458/https://www.cnn.com/travel/article/cruise-ship-demolition-photos-aliaga-turkey/index.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T12:51:27Z",
+      "uri": "https://web.archive.org/web/20201007125127/https://www.cnn.com/travel/article/cruise-ship-demolition-photos-aliaga-turkey/index.html"
+    },
+    "last": {
+      "datetime": "2020-10-07T19:34:58Z",
+      "uri": "https://web.archive.org/web/20201007193458/https://www.cnn.com/travel/article/cruise-ship-demolition-photos-aliaga-turkey/index.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.cnn.com/travel/article/cruise-ship-demolition-photos-aliaga-turkey/index.html%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.cnn.com/travel/article/cruise-ship-demolition-photos-aliaga-turkey/index.html%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.cnn.com/travel/article/cruise-ship-demolition-photos-aliaga-turkey/index.html%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.cnn.com/travel/article/cruise-ship-demolition-photos-aliaga-turkey/index.html%0A"
+}

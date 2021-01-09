@@ -1,0 +1,894 @@
+{
+  "original_uri": "https://www.bitforex.com/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.bitforex.com/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2008-06-05T13:09:07Z",
+        "uri": "https://web.archive.org/web/20080605130907/http://bitforex.com:80/"
+      },
+      {
+        "datetime": "2008-08-20T03:11:03Z",
+        "uri": "https://web.archive.org/web/20080820031103/http://bitforex.com/"
+      },
+      {
+        "datetime": "2008-09-07T23:51:24Z",
+        "uri": "https://web.archive.org/web/20080907235124/http://www.bitforex.com/"
+      },
+      {
+        "datetime": "2008-09-23T16:42:27Z",
+        "uri": "https://web.archive.org/web/20080923164227/http://bitforex.com:80/"
+      },
+      {
+        "datetime": "2008-10-24T06:16:33Z",
+        "uri": "https://web.archive.org/web/20081024061633/http://bitforex.com:80/"
+      },
+      {
+        "datetime": "2010-02-09T22:42:10Z",
+        "uri": "https://web.archive.org/web/20100209224210/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2010-05-19T09:46:00Z",
+        "uri": "https://web.archive.org/web/20100519094600/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2010-09-01T06:24:41Z",
+        "uri": "https://web.archive.org/web/20100901062441/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2010-09-02T10:05:08Z",
+        "uri": "https://web.archive.org/web/20100902100508/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2010-12-12T09:06:22Z",
+        "uri": "https://web.archive.org/web/20101212090622/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2011-02-07T15:26:25Z",
+        "uri": "https://web.archive.org/web/20110207152625/http://bitforex.com/"
+      },
+      {
+        "datetime": "2011-02-13T09:33:31Z",
+        "uri": "https://web.archive.org/web/20110213093331/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2011-07-02T10:00:44Z",
+        "uri": "https://web.archive.org/web/20110702100044/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2011-09-01T10:15:18Z",
+        "uri": "https://web.archive.org/web/20110901101518/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2012-01-06T17:33:59Z",
+        "uri": "https://web.archive.org/web/20120106173359/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2012-01-09T19:14:14Z",
+        "uri": "https://web.archive.org/web/20120109191414/http://bitforex.com:80/"
+      },
+      {
+        "datetime": "2012-12-21T20:40:13Z",
+        "uri": "https://web.archive.org/web/20121221204013/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2013-05-20T10:50:43Z",
+        "uri": "https://web.archive.org/web/20130520105043/http://bitforex.com/"
+      },
+      {
+        "datetime": "2014-05-16T20:51:57Z",
+        "uri": "https://web.archive.org/web/20140516205157/http://bitforex.com/"
+      },
+      {
+        "datetime": "2014-05-18T02:51:32Z",
+        "uri": "https://web.archive.org/web/20140518025132/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2014-07-18T01:43:35Z",
+        "uri": "https://web.archive.org/web/20140718014335/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2014-12-16T21:28:13Z",
+        "uri": "https://web.archive.org/web/20141216212813/http://bitforex.com/"
+      },
+      {
+        "datetime": "2015-03-26T18:17:35Z",
+        "uri": "https://web.archive.org/web/20150326181735/http://bitforex.com/"
+      },
+      {
+        "datetime": "2015-08-01T00:49:21Z",
+        "uri": "https://web.archive.org/web/20150801004921/http://bitforex.com/"
+      },
+      {
+        "datetime": "2016-01-09T06:32:11Z",
+        "uri": "https://web.archive.org/web/20160109063211/http://bitforex.com/"
+      },
+      {
+        "datetime": "2016-02-27T04:44:35Z",
+        "uri": "https://web.archive.org/web/20160227044435/http://bitforex.com/"
+      },
+      {
+        "datetime": "2016-03-04T02:20:09Z",
+        "uri": "https://web.archive.org/web/20160304022009/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2016-03-11T05:32:31Z",
+        "uri": "https://web.archive.org/web/20160311053231/http://bitforex.com/"
+      },
+      {
+        "datetime": "2016-10-01T15:50:26Z",
+        "uri": "https://web.archive.org/web/20161001155026/http://bitforex.com/"
+      },
+      {
+        "datetime": "2016-10-19T00:59:00Z",
+        "uri": "https://web.archive.org/web/20161019005900/http://www.bitforex.com/"
+      },
+      {
+        "datetime": "2017-06-14T01:10:38Z",
+        "uri": "https://web.archive.org/web/20170614011038/http://bitforex.com/"
+      },
+      {
+        "datetime": "2017-09-22T20:36:36Z",
+        "uri": "https://web.archive.org/web/20170922203636/http://bitforex.com/"
+      },
+      {
+        "datetime": "2018-01-25T09:00:42Z",
+        "uri": "https://web.archive.org/web/20180125090042/http://bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-01-26T01:14:56Z",
+        "uri": "https://web.archive.org/web/20180126011456/http://bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-02-26T09:12:46Z",
+        "uri": "https://web.archive.org/web/20180226091246/http://bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-06-18T01:53:30Z",
+        "uri": "https://web.archive.org/web/20180618015330/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-06-21T22:51:56Z",
+        "uri": "https://web.archive.org/web/20180621225156/https://bitforex.com/"
+      },
+      {
+        "datetime": "2018-06-25T02:32:36Z",
+        "uri": "https://web.archive.org/web/20180625023236/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-06-29T14:13:10Z",
+        "uri": "https://web.archive.org/web/20180629141310/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-07-03T12:38:52Z",
+        "uri": "https://web.archive.org/web/20180703123852/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-07-07T05:24:16Z",
+        "uri": "https://web.archive.org/web/20180707052416/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-07-10T14:05:48Z",
+        "uri": "https://web.archive.org/web/20180710140548/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-07-15T11:13:30Z",
+        "uri": "https://web.archive.org/web/20180715111330/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-07-19T13:19:58Z",
+        "uri": "https://web.archive.org/web/20180719131958/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-07-19T15:58:00Z",
+        "uri": "https://web.archive.org/web/20180719155800/https://bitforex.com/"
+      },
+      {
+        "datetime": "2018-07-20T03:44:36Z",
+        "uri": "https://web.archive.org/web/20180720034436/http://bitforex.com"
+      },
+      {
+        "datetime": "2018-07-20T03:44:37Z",
+        "uri": "https://web.archive.org/web/20180720034437/https://bitforex.com/"
+      },
+      {
+        "datetime": "2018-07-22T11:30:00Z",
+        "uri": "https://web.archive.org/web/20180722113000/https://bitforex.com/"
+      },
+      {
+        "datetime": "2018-07-22T20:13:20Z",
+        "uri": "https://web.archive.org/web/20180722201320/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-07-26T02:39:56Z",
+        "uri": "https://web.archive.org/web/20180726023956/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-07-27T09:11:37Z",
+        "uri": "https://web.archive.org/web/20180727091137/https://bitforex.com/"
+      },
+      {
+        "datetime": "2018-07-28T13:47:21Z",
+        "uri": "https://web.archive.org/web/20180728134721/https://bitforex.com/"
+      },
+      {
+        "datetime": "2018-07-29T18:54:58Z",
+        "uri": "https://web.archive.org/web/20180729185458/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-08-02T10:14:15Z",
+        "uri": "https://web.archive.org/web/20180802101415/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-08-03T20:57:26Z",
+        "uri": "https://web.archive.org/web/20180803205726/http://bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-08-04T19:28:08Z",
+        "uri": "https://web.archive.org/web/20180804192808/http://bitforex.com/"
+      },
+      {
+        "datetime": "2018-08-05T22:12:49Z",
+        "uri": "https://web.archive.org/web/20180805221249/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-08-09T15:00:45Z",
+        "uri": "https://web.archive.org/web/20180809150045/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-08-12T13:32:11Z",
+        "uri": "https://web.archive.org/web/20180812133211/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-08-13T16:29:35Z",
+        "uri": "https://web.archive.org/web/20180813162935/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-08-17T13:59:36Z",
+        "uri": "https://web.archive.org/web/20180817135936/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-08-17T16:16:24Z",
+        "uri": "https://web.archive.org/web/20180817161624/https://bitforex.com/"
+      },
+      {
+        "datetime": "2018-08-21T13:05:21Z",
+        "uri": "https://web.archive.org/web/20180821130521/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-08-22T12:57:42Z",
+        "uri": "https://web.archive.org/web/20180822125742/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-08-25T17:39:51Z",
+        "uri": "https://web.archive.org/web/20180825173951/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-08-26T11:28:16Z",
+        "uri": "https://web.archive.org/web/20180826112816/http://www.bitforex.com/"
+      },
+      {
+        "datetime": "2018-08-26T20:31:26Z",
+        "uri": "https://web.archive.org/web/20180826203126/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2018-08-27T21:32:40Z",
+        "uri": "https://web.archive.org/web/20180827213240/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2018-08-27T21:49:23Z",
+        "uri": "https://web.archive.org/web/20180827214923/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2018-08-29T00:05:43Z",
+        "uri": "https://web.archive.org/web/20180829000543/http://www.bitforex.com/"
+      },
+      {
+        "datetime": "2018-08-29T14:11:08Z",
+        "uri": "https://web.archive.org/web/20180829141108/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-08-30T15:12:26Z",
+        "uri": "https://web.archive.org/web/20180830151226/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-08-31T08:40:33Z",
+        "uri": "https://web.archive.org/web/20180831084033/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2018-08-31T21:27:03Z",
+        "uri": "https://web.archive.org/web/20180831212703/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2018-09-01T21:14:45Z",
+        "uri": "https://web.archive.org/web/20180901211445/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2018-09-02T21:30:13Z",
+        "uri": "https://web.archive.org/web/20180902213013/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2018-09-03T06:51:47Z",
+        "uri": "https://web.archive.org/web/20180903065147/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-09-03T16:39:39Z",
+        "uri": "https://web.archive.org/web/20180903163939/http://bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-09-04T20:36:24Z",
+        "uri": "https://web.archive.org/web/20180904203624/http://bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-09-06T07:53:07Z",
+        "uri": "https://web.archive.org/web/20180906075307/https://bitforex.com/"
+      },
+      {
+        "datetime": "2018-09-06T12:58:42Z",
+        "uri": "https://web.archive.org/web/20180906125842/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-09-07T17:47:09Z",
+        "uri": "https://web.archive.org/web/20180907174709/http://www.bitforex.com/"
+      },
+      {
+        "datetime": "2018-09-10T03:05:58Z",
+        "uri": "https://web.archive.org/web/20180910030558/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-09-11T03:05:53Z",
+        "uri": "https://web.archive.org/web/20180911030553/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2018-09-13T17:57:47Z",
+        "uri": "https://web.archive.org/web/20180913175747/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-09-18T19:10:35Z",
+        "uri": "https://web.archive.org/web/20180918191035/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-09-22T18:04:21Z",
+        "uri": "https://web.archive.org/web/20180922180421/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-09-23T20:29:17Z",
+        "uri": "https://web.archive.org/web/20180923202917/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-10-01T02:44:47Z",
+        "uri": "https://web.archive.org/web/20181001024447/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-10-04T14:46:17Z",
+        "uri": "https://web.archive.org/web/20181004144617/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-10-06T07:13:39Z",
+        "uri": "https://web.archive.org/web/20181006071339/http://bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-10-07T17:53:09Z",
+        "uri": "https://web.archive.org/web/20181007175309/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-10-10T21:06:16Z",
+        "uri": "https://web.archive.org/web/20181010210616/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-10-15T01:23:38Z",
+        "uri": "https://web.archive.org/web/20181015012338/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-10-18T02:52:11Z",
+        "uri": "https://web.archive.org/web/20181018025211/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-10-21T19:27:01Z",
+        "uri": "https://web.archive.org/web/20181021192701/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-10-25T21:44:54Z",
+        "uri": "https://web.archive.org/web/20181025214454/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-10-28T06:05:20Z",
+        "uri": "https://web.archive.org/web/20181028060520/http://www.bitforex.com/"
+      },
+      {
+        "datetime": "2018-10-28T06:05:25Z",
+        "uri": "https://web.archive.org/web/20181028060525/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2018-10-30T10:05:03Z",
+        "uri": "https://web.archive.org/web/20181030100503/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-10-30T16:11:41Z",
+        "uri": "https://web.archive.org/web/20181030161141/https://bitforex.com/"
+      },
+      {
+        "datetime": "2018-11-03T14:59:35Z",
+        "uri": "https://web.archive.org/web/20181103145935/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-11-06T22:33:02Z",
+        "uri": "https://web.archive.org/web/20181106223302/http://bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-11-08T02:24:01Z",
+        "uri": "https://web.archive.org/web/20181108022401/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-11-15T07:52:05Z",
+        "uri": "https://web.archive.org/web/20181115075205/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-11-21T21:29:37Z",
+        "uri": "https://web.archive.org/web/20181121212937/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-11-24T00:39:19Z",
+        "uri": "https://web.archive.org/web/20181124003919/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2018-11-25T14:58:42Z",
+        "uri": "https://web.archive.org/web/20181125145842/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2018-11-29T20:14:31Z",
+        "uri": "https://web.archive.org/web/20181129201431/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-12-08T10:33:53Z",
+        "uri": "https://web.archive.org/web/20181208103353/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-12-08T12:53:36Z",
+        "uri": "https://web.archive.org/web/20181208125336/http://bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-12-17T14:19:27Z",
+        "uri": "https://web.archive.org/web/20181217141927/http://www.bitforex.com/"
+      },
+      {
+        "datetime": "2018-12-17T14:19:30Z",
+        "uri": "https://web.archive.org/web/20181217141930/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2018-12-17T14:19:36Z",
+        "uri": "https://web.archive.org/web/20181217141936/https://bitforex.com/"
+      },
+      {
+        "datetime": "2018-12-18T16:55:35Z",
+        "uri": "https://web.archive.org/web/20181218165535/http://www.bitforex.com/"
+      },
+      {
+        "datetime": "2018-12-18T16:55:38Z",
+        "uri": "https://web.archive.org/web/20181218165538/https://bitforex.com/"
+      },
+      {
+        "datetime": "2018-12-19T01:18:23Z",
+        "uri": "https://web.archive.org/web/20181219011823/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2018-12-29T20:51:27Z",
+        "uri": "https://web.archive.org/web/20181229205127/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2019-01-04T06:00:04Z",
+        "uri": "https://web.archive.org/web/20190104060004/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2019-01-08T17:35:01Z",
+        "uri": "https://web.archive.org/web/20190108173501/http://bitforex.com:80/"
+      },
+      {
+        "datetime": "2019-01-16T01:27:00Z",
+        "uri": "https://web.archive.org/web/20190116012700/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2019-01-21T15:57:30Z",
+        "uri": "https://web.archive.org/web/20190121155730/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2019-02-05T00:30:35Z",
+        "uri": "https://web.archive.org/web/20190205003035/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2019-02-09T04:17:46Z",
+        "uri": "https://web.archive.org/web/20190209041746/http://bitforex.com:80/"
+      },
+      {
+        "datetime": "2019-02-10T09:10:24Z",
+        "uri": "https://web.archive.org/web/20190210091024/http://bitforex.com:80/"
+      },
+      {
+        "datetime": "2019-02-12T11:16:42Z",
+        "uri": "https://web.archive.org/web/20190212111642/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2019-02-12T14:57:38Z",
+        "uri": "https://web.archive.org/web/20190212145738/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2019-02-13T21:28:26Z",
+        "uri": "https://web.archive.org/web/20190213212826/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2019-02-26T10:10:06Z",
+        "uri": "https://web.archive.org/web/20190226101006/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2019-03-07T11:12:36Z",
+        "uri": "https://web.archive.org/web/20190307111236/http://www.bitforex.com/"
+      },
+      {
+        "datetime": "2019-03-07T11:12:40Z",
+        "uri": "https://web.archive.org/web/20190307111240/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2019-03-09T13:57:47Z",
+        "uri": "https://web.archive.org/web/20190309135747/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2019-03-10T17:22:45Z",
+        "uri": "https://web.archive.org/web/20190310172245/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2019-03-11T16:26:43Z",
+        "uri": "https://web.archive.org/web/20190311162643/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2019-03-13T11:13:11Z",
+        "uri": "https://web.archive.org/web/20190313111311/http://bitforex.com:80/"
+      },
+      {
+        "datetime": "2019-03-20T17:47:03Z",
+        "uri": "https://web.archive.org/web/20190320174703/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2019-03-27T08:54:43Z",
+        "uri": "https://web.archive.org/web/20190327085443/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2019-04-05T20:54:28Z",
+        "uri": "https://web.archive.org/web/20190405205428/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2019-04-06T12:28:21Z",
+        "uri": "https://web.archive.org/web/20190406122821/http://www.bitforex.com/"
+      },
+      {
+        "datetime": "2019-04-10T10:12:32Z",
+        "uri": "https://web.archive.org/web/20190410101232/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2019-04-14T00:10:47Z",
+        "uri": "https://web.archive.org/web/20190414001047/http://bitforex.com:80/"
+      },
+      {
+        "datetime": "2019-04-16T17:34:02Z",
+        "uri": "https://web.archive.org/web/20190416173402/https://bitforex.com/"
+      },
+      {
+        "datetime": "2019-04-20T16:48:29Z",
+        "uri": "https://web.archive.org/web/20190420164829/http://www.bitforex.com/"
+      },
+      {
+        "datetime": "2019-04-20T16:48:33Z",
+        "uri": "https://web.archive.org/web/20190420164833/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2019-04-21T02:06:49Z",
+        "uri": "https://web.archive.org/web/20190421020649/http://www.bitforex.com/"
+      },
+      {
+        "datetime": "2019-04-21T02:06:54Z",
+        "uri": "https://web.archive.org/web/20190421020654/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2019-04-21T22:15:15Z",
+        "uri": "https://web.archive.org/web/20190421221515/http://www.bitforex.com/"
+      },
+      {
+        "datetime": "2019-04-21T22:15:29Z",
+        "uri": "https://web.archive.org/web/20190421221529/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2019-04-25T13:12:24Z",
+        "uri": "https://web.archive.org/web/20190425131224/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2019-05-11T19:11:45Z",
+        "uri": "https://web.archive.org/web/20190511191145/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2019-05-15T06:00:43Z",
+        "uri": "https://web.archive.org/web/20190515060043/http://bitforex.com:80/"
+      },
+      {
+        "datetime": "2019-05-17T06:34:21Z",
+        "uri": "https://web.archive.org/web/20190517063421/http://www.bitforex.com/"
+      },
+      {
+        "datetime": "2019-05-17T06:34:26Z",
+        "uri": "https://web.archive.org/web/20190517063426/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2019-05-17T22:03:27Z",
+        "uri": "https://web.archive.org/web/20190517220327/http://www.bitforex.com/"
+      },
+      {
+        "datetime": "2019-05-17T22:03:31Z",
+        "uri": "https://web.archive.org/web/20190517220331/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2019-05-28T14:32:04Z",
+        "uri": "https://web.archive.org/web/20190528143204/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2019-06-10T01:34:49Z",
+        "uri": "https://web.archive.org/web/20190610013449/http://www.bitforex.com/"
+      },
+      {
+        "datetime": "2019-06-13T10:24:58Z",
+        "uri": "https://web.archive.org/web/20190613102458/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2019-06-15T18:58:42Z",
+        "uri": "https://web.archive.org/web/20190615185842/http://bitforex.com:80/"
+      },
+      {
+        "datetime": "2019-07-03T15:01:53Z",
+        "uri": "https://web.archive.org/web/20190703150153/https://bitforex.com/"
+      },
+      {
+        "datetime": "2019-07-17T19:14:18Z",
+        "uri": "https://web.archive.org/web/20190717191418/http://bitforex.com:80/"
+      },
+      {
+        "datetime": "2019-07-18T22:42:15Z",
+        "uri": "https://web.archive.org/web/20190718224215/http://bitforex.com/"
+      },
+      {
+        "datetime": "2019-07-19T00:34:40Z",
+        "uri": "https://web.archive.org/web/20190719003440/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2019-07-19T02:47:25Z",
+        "uri": "https://web.archive.org/web/20190719024725/https://bitforex.com/"
+      },
+      {
+        "datetime": "2019-07-27T11:50:51Z",
+        "uri": "https://web.archive.org/web/20190727115051/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2019-08-23T22:10:41Z",
+        "uri": "https://web.archive.org/web/20190823221041/http://bitforex.com:80/"
+      },
+      {
+        "datetime": "2019-08-25T00:33:06Z",
+        "uri": "https://web.archive.org/web/20190825003306/http://bitforex.com:80/"
+      },
+      {
+        "datetime": "2019-08-27T23:01:46Z",
+        "uri": "https://web.archive.org/web/20190827230146/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2019-09-25T16:45:42Z",
+        "uri": "https://web.archive.org/web/20190925164542/http://bitforex.com:80/"
+      },
+      {
+        "datetime": "2019-09-29T03:34:38Z",
+        "uri": "https://web.archive.org/web/20190929033438/https://bitforex.com/"
+      },
+      {
+        "datetime": "2019-09-29T19:29:48Z",
+        "uri": "https://web.archive.org/web/20190929192948/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2019-10-21T00:52:43Z",
+        "uri": "https://web.archive.org/web/20191021005243/http://bitforex.com/"
+      },
+      {
+        "datetime": "2019-10-21T00:52:44Z",
+        "uri": "https://web.archive.org/web/20191021005244/https://bitforex.com/"
+      },
+      {
+        "datetime": "2019-11-02T03:03:10Z",
+        "uri": "https://web.archive.org/web/20191102030310/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2019-11-15T02:27:58Z",
+        "uri": "https://web.archive.org/web/20191115022758/http://bitforex.com:80/"
+      },
+      {
+        "datetime": "2019-12-15T00:43:11Z",
+        "uri": "https://web.archive.org/web/20191215004311/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2019-12-28T03:45:18Z",
+        "uri": "https://web.archive.org/web/20191228034518/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2020-01-20T00:02:08Z",
+        "uri": "https://web.archive.org/web/20200120000208/http://bitforex.com:80/"
+      },
+      {
+        "datetime": "2020-01-20T11:50:17Z",
+        "uri": "https://web.archive.org/web/20200120115017/http://www.bitforex.com:80/"
+      },
+      {
+        "datetime": "2020-01-23T06:07:45Z",
+        "uri": "https://web.archive.org/web/20200123060745/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2020-02-01T19:32:45Z",
+        "uri": "https://web.archive.org/web/20200201193245/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2020-02-22T09:07:06Z",
+        "uri": "http://wayback.vefsafn.is/wayback/20200222090706/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2020-04-06T10:43:32Z",
+        "uri": "https://web.archive.org/web/20200406104332/https://bitforex.com/"
+      },
+      {
+        "datetime": "2020-04-08T23:33:31Z",
+        "uri": "https://web.archive.org/web/20200408233331/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2020-04-13T12:37:27Z",
+        "uri": "https://web.archive.org/web/20200413123727/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2020-04-13T12:37:30Z",
+        "uri": "https://web.archive.org/web/20200413123730/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2020-04-16T20:36:33Z",
+        "uri": "https://web.archive.org/web/20200416203633/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2020-04-17T10:42:14Z",
+        "uri": "https://web.archive.org/web/20200417104214/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2020-04-20T09:19:32Z",
+        "uri": "https://web.archive.org/web/20200420091932/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2020-04-21T21:09:56Z",
+        "uri": "https://web.archive.org/web/20200421210956/https://bitforex.com/"
+      },
+      {
+        "datetime": "2020-04-21T21:09:58Z",
+        "uri": "https://web.archive.org/web/20200421210958/https://bitforex.com/"
+      },
+      {
+        "datetime": "2020-04-27T23:31:03Z",
+        "uri": "https://web.archive.org/web/20200427233103/http://www.bitforex.com/"
+      },
+      {
+        "datetime": "2020-04-28T12:18:56Z",
+        "uri": "https://web.archive.org/web/20200428121856/http://www.bitforex.com/"
+      },
+      {
+        "datetime": "2020-05-10T21:41:26Z",
+        "uri": "https://web.archive.org/web/20200510214126/https://bitforex.com/"
+      },
+      {
+        "datetime": "2020-05-11T11:27:20Z",
+        "uri": "https://web.archive.org/web/20200511112720/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2020-05-11T11:57:45Z",
+        "uri": "https://web.archive.org/web/20200511115745/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2020-05-18T23:16:04Z",
+        "uri": "https://web.archive.org/web/20200518231604/http://bitforex.com/"
+      },
+      {
+        "datetime": "2020-05-26T09:09:58Z",
+        "uri": "https://web.archive.org/web/20200526090958/https://bitforex.com/"
+      },
+      {
+        "datetime": "2020-06-02T06:32:56Z",
+        "uri": "https://web.archive.org/web/20200602063256/http://bitforex.com/"
+      },
+      {
+        "datetime": "2020-06-02T06:32:57Z",
+        "uri": "https://web.archive.org/web/20200602063257/https://bitforex.com/"
+      },
+      {
+        "datetime": "2020-06-02T06:32:58Z",
+        "uri": "https://web.archive.org/web/20200602063258/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2020-06-17T04:35:38Z",
+        "uri": "https://web.archive.org/web/20200617043538/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2020-07-28T17:03:49Z",
+        "uri": "https://web.archive.org/web/20200728170349/http://bitforex.com/"
+      },
+      {
+        "datetime": "2020-07-28T17:03:52Z",
+        "uri": "https://web.archive.org/web/20200728170352/https://bitforex.com/"
+      },
+      {
+        "datetime": "2020-07-28T17:03:54Z",
+        "uri": "https://web.archive.org/web/20200728170354/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2020-08-06T13:04:51Z",
+        "uri": "https://web.archive.org/web/20200806130451/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2020-08-13T00:17:16Z",
+        "uri": "https://web.archive.org/web/20200813001716/http://bitforex.com/"
+      },
+      {
+        "datetime": "2020-08-13T00:17:21Z",
+        "uri": "https://web.archive.org/web/20200813001721/https://bitforex.com/"
+      },
+      {
+        "datetime": "2020-08-13T00:17:25Z",
+        "uri": "https://web.archive.org/web/20200813001725/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2020-08-18T06:31:03Z",
+        "uri": "https://web.archive.org/web/20200818063103/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2020-08-24T07:23:54Z",
+        "uri": "https://web.archive.org/web/20200824072354/http://bitforex.com/"
+      },
+      {
+        "datetime": "2020-08-24T07:23:58Z",
+        "uri": "https://web.archive.org/web/20200824072358/https://bitforex.com/"
+      },
+      {
+        "datetime": "2020-08-24T07:23:59Z",
+        "uri": "https://web.archive.org/web/20200824072359/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2020-08-28T20:54:59Z",
+        "uri": "https://web.archive.org/web/20200828205459/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2020-09-09T18:20:46Z",
+        "uri": "https://web.archive.org/web/20200909182046/http://bitforex.com/"
+      },
+      {
+        "datetime": "2020-09-09T18:20:49Z",
+        "uri": "https://web.archive.org/web/20200909182049/https://bitforex.com/"
+      },
+      {
+        "datetime": "2020-09-09T18:20:52Z",
+        "uri": "https://web.archive.org/web/20200909182052/https://www.bitforex.com/"
+      },
+      {
+        "datetime": "2020-09-15T09:32:33Z",
+        "uri": "https://web.archive.org/web/20200915093233/http://bitforex.com/"
+      }
+    ],
+    "first": {
+      "datetime": "2008-06-05T13:09:07Z",
+      "uri": "https://web.archive.org/web/20080605130907/http://bitforex.com:80/"
+    },
+    "last": {
+      "datetime": "2020-09-15T09:32:33Z",
+      "uri": "https://web.archive.org/web/20200915093233/http://bitforex.com/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.bitforex.com/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.bitforex.com/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.bitforex.com/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.bitforex.com/%0A"
+}

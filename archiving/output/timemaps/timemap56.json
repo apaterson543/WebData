@@ -1,0 +1,38 @@
+{
+  "original_uri": "https://www.livescience.com/coronavirus-survives-9-hours-on-skin.html%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.livescience.com/coronavirus-survives-9-hours-on-skin.html%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-08T00:43:20Z",
+        "uri": "https://web.archive.org/web/20201008004320/https://www.livescience.com/coronavirus-survives-9-hours-on-skin.html"
+      },
+      {
+        "datetime": "2020-10-08T06:57:10Z",
+        "uri": "https://web.archive.org/web/20201008065710/https://www.livescience.com/coronavirus-survives-9-hours-on-skin.html"
+      },
+      {
+        "datetime": "2020-10-08T06:58:27Z",
+        "uri": "https://web.archive.org/web/20201008065827/https://www.livescience.com/coronavirus-survives-9-hours-on-skin.html"
+      },
+      {
+        "datetime": "2020-10-08T06:58:27Z",
+        "uri": "https://web.archive.org/web/20201008065827/https://www.livescience.com/coronavirus-survives-9-hours-on-skin.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-08T00:43:20Z",
+      "uri": "https://web.archive.org/web/20201008004320/https://www.livescience.com/coronavirus-survives-9-hours-on-skin.html"
+    },
+    "last": {
+      "datetime": "2020-10-08T06:58:27Z",
+      "uri": "https://web.archive.org/web/20201008065827/https://www.livescience.com/coronavirus-survives-9-hours-on-skin.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.livescience.com/coronavirus-survives-9-hours-on-skin.html%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.livescience.com/coronavirus-survives-9-hours-on-skin.html%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.livescience.com/coronavirus-survives-9-hours-on-skin.html%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.livescience.com/coronavirus-survives-9-hours-on-skin.html%0A"
+}

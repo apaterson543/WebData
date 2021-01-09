@@ -1,0 +1,42 @@
+{
+  "original_uri": "https://med.stanford.edu/news/all-news/2020/09/few-americans-have-coronavirus-antibodies-study-finds.html%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://med.stanford.edu/news/all-news/2020/09/few-americans-have-coronavirus-antibodies-study-finds.html%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-09-30T03:50:05Z",
+        "uri": "https://web.archive.org/web/20200930035005/http://med.stanford.edu/news/all-news/2020/09/few-americans-have-coronavirus-antibodies-study-finds.html"
+      },
+      {
+        "datetime": "2020-09-30T04:25:03Z",
+        "uri": "https://web.archive.org/web/20200930042503/http://med.stanford.edu/news/all-news/2020/09/few-americans-have-coronavirus-antibodies-study-finds.html"
+      },
+      {
+        "datetime": "2020-10-01T00:25:03Z",
+        "uri": "https://web.archive.org/web/20201001002503/http://med.stanford.edu/news/all-news/2020/09/few-americans-have-coronavirus-antibodies-study-finds.html"
+      },
+      {
+        "datetime": "2020-10-01T02:07:50Z",
+        "uri": "https://web.archive.org/web/20201001020750/http://med.stanford.edu/news/all-news/2020/09/few-americans-have-coronavirus-antibodies-study-finds.html"
+      },
+      {
+        "datetime": "2020-10-03T09:03:16Z",
+        "uri": "https://web.archive.org/web/20201003090316/http://med.stanford.edu/news/all-news/2020/09/few-americans-have-coronavirus-antibodies-study-finds.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-09-30T03:50:05Z",
+      "uri": "https://web.archive.org/web/20200930035005/http://med.stanford.edu/news/all-news/2020/09/few-americans-have-coronavirus-antibodies-study-finds.html"
+    },
+    "last": {
+      "datetime": "2020-10-03T09:03:16Z",
+      "uri": "https://web.archive.org/web/20201003090316/http://med.stanford.edu/news/all-news/2020/09/few-americans-have-coronavirus-antibodies-study-finds.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://med.stanford.edu/news/all-news/2020/09/few-americans-have-coronavirus-antibodies-study-finds.html%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://med.stanford.edu/news/all-news/2020/09/few-americans-have-coronavirus-antibodies-study-finds.html%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://med.stanford.edu/news/all-news/2020/09/few-americans-have-coronavirus-antibodies-study-finds.html%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://med.stanford.edu/news/all-news/2020/09/few-americans-have-coronavirus-antibodies-study-finds.html%0A"
+}

@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://komonews.com/news/coronavirus/covid-19-inslee-announces-changes-to-states-plan-to-restart-economic-activities%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://komonews.com/news/coronavirus/covid-19-inslee-announces-changes-to-states-plan-to-restart-economic-activities%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T09:05:15Z",
+        "uri": "https://web.archive.org/web/20201007090515/https://komonews.com/news/coronavirus/covid-19-inslee-announces-changes-to-states-plan-to-restart-economic-activities"
+      },
+      {
+        "datetime": "2020-10-07T09:19:33Z",
+        "uri": "https://web.archive.org/web/20201007091933/http://komonews.com/news/coronavirus/covid-19-inslee-announces-changes-to-states-plan-to-restart-economic-activities"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T09:05:15Z",
+      "uri": "https://web.archive.org/web/20201007090515/https://komonews.com/news/coronavirus/covid-19-inslee-announces-changes-to-states-plan-to-restart-economic-activities"
+    },
+    "last": {
+      "datetime": "2020-10-07T09:19:33Z",
+      "uri": "https://web.archive.org/web/20201007091933/http://komonews.com/news/coronavirus/covid-19-inslee-announces-changes-to-states-plan-to-restart-economic-activities"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://komonews.com/news/coronavirus/covid-19-inslee-announces-changes-to-states-plan-to-restart-economic-activities%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://komonews.com/news/coronavirus/covid-19-inslee-announces-changes-to-states-plan-to-restart-economic-activities%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://komonews.com/news/coronavirus/covid-19-inslee-announces-changes-to-states-plan-to-restart-economic-activities%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://komonews.com/news/coronavirus/covid-19-inslee-announces-changes-to-states-plan-to-restart-economic-activities%0A"
+}

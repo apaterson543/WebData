@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.supermarketnews.com/winning-pet-care/5-opportunities-retailer-success-pet-food%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.supermarketnews.com/winning-pet-care/5-opportunities-retailer-success-pet-food%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T06:29:06Z",
+        "uri": "https://web.archive.org/web/20201007062906/https://www.supermarketnews.com/winning-pet-care/5-opportunities-retailer-success-pet-food"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T06:29:06Z",
+      "uri": "https://web.archive.org/web/20201007062906/https://www.supermarketnews.com/winning-pet-care/5-opportunities-retailer-success-pet-food"
+    },
+    "last": {
+      "datetime": "2020-10-07T06:29:06Z",
+      "uri": "https://web.archive.org/web/20201007062906/https://www.supermarketnews.com/winning-pet-care/5-opportunities-retailer-success-pet-food"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.supermarketnews.com/winning-pet-care/5-opportunities-retailer-success-pet-food%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.supermarketnews.com/winning-pet-care/5-opportunities-retailer-success-pet-food%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.supermarketnews.com/winning-pet-care/5-opportunities-retailer-success-pet-food%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.supermarketnews.com/winning-pet-care/5-opportunities-retailer-success-pet-food%0A"
+}

@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.npr.org/2020/10/07/920320592/an-impossible-choice-for-homeless-parents-a-job-or-their-childs-education%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.npr.org/2020/10/07/920320592/an-impossible-choice-for-homeless-parents-a-job-or-their-childs-education%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T18:34:47Z",
+        "uri": "https://web.archive.org/web/20201007183447/https://www.npr.org/2020/10/07/920320592/an-impossible-choice-for-homeless-parents-a-job-or-their-childs-education"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T18:34:47Z",
+      "uri": "https://web.archive.org/web/20201007183447/https://www.npr.org/2020/10/07/920320592/an-impossible-choice-for-homeless-parents-a-job-or-their-childs-education"
+    },
+    "last": {
+      "datetime": "2020-10-07T18:34:47Z",
+      "uri": "https://web.archive.org/web/20201007183447/https://www.npr.org/2020/10/07/920320592/an-impossible-choice-for-homeless-parents-a-job-or-their-childs-education"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.npr.org/2020/10/07/920320592/an-impossible-choice-for-homeless-parents-a-job-or-their-childs-education%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.npr.org/2020/10/07/920320592/an-impossible-choice-for-homeless-parents-a-job-or-their-childs-education%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.npr.org/2020/10/07/920320592/an-impossible-choice-for-homeless-parents-a-job-or-their-childs-education%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.npr.org/2020/10/07/920320592/an-impossible-choice-for-homeless-parents-a-job-or-their-childs-education%0A"
+}

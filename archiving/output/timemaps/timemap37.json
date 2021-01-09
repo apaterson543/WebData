@@ -1,0 +1,234 @@
+{
+  "original_uri": "https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-03-16T16:05:28Z",
+        "uri": "https://web.archive.org/web/20200316160528/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-03-19T02:44:58Z",
+        "uri": "https://web.archive.org/web/20200319024458/http://news.emory.edu:80/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-03-21T23:15:57Z",
+        "uri": "https://web.archive.org/web/20200321231557/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-03-24T22:28:47Z",
+        "uri": "https://web.archive.org/web/20200324222847/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-03-25T16:19:10Z",
+        "uri": "https://web.archive.org/web/20200325161910/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-03-28T02:37:31Z",
+        "uri": "https://web.archive.org/web/20200328023731/http://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-03-28T21:59:39Z",
+        "uri": "https://web.archive.org/web/20200328215939/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-04-20T23:02:36Z",
+        "uri": "https://web.archive.org/web/20200420230236/http://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-04-25T09:16:49Z",
+        "uri": "https://web.archive.org/web/20200425091649/http://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-04-26T08:45:28Z",
+        "uri": "https://web.archive.org/web/20200426084528/http://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-05-01T19:47:52Z",
+        "uri": "https://web.archive.org/web/20200501194752/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-05-04T15:22:49Z",
+        "uri": "https://web.archive.org/web/20200504152249/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-05-04T20:53:10Z",
+        "uri": "https://web.archive.org/web/20200504205310/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-05-07T18:13:34Z",
+        "uri": "https://web.archive.org/web/20200507181334/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-05-12T09:51:27Z",
+        "uri": "https://web.archive.org/web/20200512095127/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-05-12T20:11:51Z",
+        "uri": "https://web.archive.org/web/20200512201151/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-05-13T02:11:10Z",
+        "uri": "https://web.archive.org/web/20200513021110/http://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-05-13T04:47:16Z",
+        "uri": "https://web.archive.org/web/20200513044716/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-05-18T19:39:22Z",
+        "uri": "https://web.archive.org/web/20200518193922/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-05-22T03:38:00Z",
+        "uri": "https://web.archive.org/web/20200522033800/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-05-22T18:36:41Z",
+        "uri": "https://web.archive.org/web/20200522183641/http://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-05-26T02:22:52Z",
+        "uri": "https://web.archive.org/web/20200526022252/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-05-26T12:04:28Z",
+        "uri": "https://web.archive.org/web/20200526120428/http://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-05-30T08:30:06Z",
+        "uri": "https://web.archive.org/web/20200530083006/http://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-05-31T20:17:39Z",
+        "uri": "https://web.archive.org/web/20200531201739/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-06-01T15:38:39Z",
+        "uri": "https://web.archive.org/web/20200601153839/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-06-01T22:49:08Z",
+        "uri": "https://web.archive.org/web/20200601224908/http://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-06-08T09:22:57Z",
+        "uri": "https://web.archive.org/web/20200608092257/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-06-08T21:56:03Z",
+        "uri": "https://web.archive.org/web/20200608215603/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-06-12T10:11:16Z",
+        "uri": "https://web.archive.org/web/20200612101116/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-06-16T01:16:41Z",
+        "uri": "https://web.archive.org/web/20200616011641/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-06-16T10:11:12Z",
+        "uri": "https://web.archive.org/web/20200616101112/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-06-16T17:58:00Z",
+        "uri": "https://web.archive.org/web/20200616175800/http://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-06-22T17:48:49Z",
+        "uri": "https://web.archive.org/web/20200622174849/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-06-30T04:58:09Z",
+        "uri": "https://web.archive.org/web/20200630045809/http://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-06-30T07:09:56Z",
+        "uri": "https://web.archive.org/web/20200630070956/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-07-05T03:15:31Z",
+        "uri": "https://web.archive.org/web/20200705031531/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-07-08T18:09:25Z",
+        "uri": "https://web.archive.org/web/20200708180925/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-07-14T23:07:20Z",
+        "uri": "https://web.archive.org/web/20200714230720/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-07-16T05:53:14Z",
+        "uri": "https://web.archive.org/web/20200716055314/http://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-07-16T06:23:36Z",
+        "uri": "https://web.archive.org/web/20200716062336/http://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-07-21T19:17:48Z",
+        "uri": "https://web.archive.org/web/20200721191748/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-07-23T04:43:50Z",
+        "uri": "https://web.archive.org/web/20200723044350/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-07-23T15:13:32Z",
+        "uri": "https://web.archive.org/web/20200723151332/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-08-01T06:25:08Z",
+        "uri": "https://web.archive.org/web/20200801062508/http://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-08-03T03:50:55Z",
+        "uri": "https://web.archive.org/web/20200803035055/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-08-04T15:00:24Z",
+        "uri": "https://web.archive.org/web/20200804150024/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-08-06T01:51:41Z",
+        "uri": "https://web.archive.org/web/20200806015141/http://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-08-08T09:16:07Z",
+        "uri": "https://web.archive.org/web/20200808091607/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-08-12T17:55:15Z",
+        "uri": "https://web.archive.org/web/20200812175515/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-08-19T10:40:22Z",
+        "uri": "https://web.archive.org/web/20200819104022/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-09-22T04:28:59Z",
+        "uri": "https://web.archive.org/web/20200922042859/http://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      },
+      {
+        "datetime": "2020-10-04T19:13:16Z",
+        "uri": "https://web.archive.org/web/20201004191316/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-03-16T16:05:28Z",
+      "uri": "https://web.archive.org/web/20200316160528/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+    },
+    "last": {
+      "datetime": "2020-10-04T19:13:16Z",
+      "uri": "https://web.archive.org/web/20201004191316/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://news.emory.edu/stories/2020/03/coronavirus_experts_availabe_for_media/index.html%0A"
+}

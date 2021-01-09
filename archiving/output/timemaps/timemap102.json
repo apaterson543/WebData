@@ -1,0 +1,34 @@
+{
+  "original_uri": "https://www.cnbc.com/2020/10/06/hhs-threatens-to-withhold-federal-funding-from-hospitals-that-fail-to-report-coronavirus-data.html%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.cnbc.com/2020/10/06/hhs-threatens-to-withhold-federal-funding-from-hospitals-that-fail-to-report-coronavirus-data.html%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T00:15:07Z",
+        "uri": "https://web.archive.org/web/20201007001507/https://www.cnbc.com/2020/10/06/hhs-threatens-to-withhold-federal-funding-from-hospitals-that-fail-to-report-coronavirus-data.html"
+      },
+      {
+        "datetime": "2020-10-07T03:54:41Z",
+        "uri": "https://web.archive.org/web/20201007035441/https://www.cnbc.com/2020/10/06/hhs-threatens-to-withhold-federal-funding-from-hospitals-that-fail-to-report-coronavirus-data.html"
+      },
+      {
+        "datetime": "2020-10-08T02:51:38Z",
+        "uri": "https://web.archive.org/web/20201008025138/https://www.cnbc.com/2020/10/06/hhs-threatens-to-withhold-federal-funding-from-hospitals-that-fail-to-report-coronavirus-data.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T00:15:07Z",
+      "uri": "https://web.archive.org/web/20201007001507/https://www.cnbc.com/2020/10/06/hhs-threatens-to-withhold-federal-funding-from-hospitals-that-fail-to-report-coronavirus-data.html"
+    },
+    "last": {
+      "datetime": "2020-10-08T02:51:38Z",
+      "uri": "https://web.archive.org/web/20201008025138/https://www.cnbc.com/2020/10/06/hhs-threatens-to-withhold-federal-funding-from-hospitals-that-fail-to-report-coronavirus-data.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.cnbc.com/2020/10/06/hhs-threatens-to-withhold-federal-funding-from-hospitals-that-fail-to-report-coronavirus-data.html%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.cnbc.com/2020/10/06/hhs-threatens-to-withhold-federal-funding-from-hospitals-that-fail-to-report-coronavirus-data.html%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.cnbc.com/2020/10/06/hhs-threatens-to-withhold-federal-funding-from-hospitals-that-fail-to-report-coronavirus-data.html%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.cnbc.com/2020/10/06/hhs-threatens-to-withhold-federal-funding-from-hospitals-that-fail-to-report-coronavirus-data.html%0A"
+}

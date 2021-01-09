@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://dailyvoice.com/new-jersey/monmouth/obituaries/diana-tennant-51-jersey-shore-food-bank-employee-dies-of-coronavirus/786264/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://dailyvoice.com/new-jersey/monmouth/obituaries/diana-tennant-51-jersey-shore-food-bank-employee-dies-of-coronavirus/786264/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-05-30T21:02:36Z",
+        "uri": "https://web.archive.org/web/20200530210236/https://dailyvoice.com/new-jersey/monmouth/obituaries/diana-tennant-51-jersey-shore-food-bank-employee-dies-of-coronavirus/786264/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-05-30T21:02:36Z",
+      "uri": "https://web.archive.org/web/20200530210236/https://dailyvoice.com/new-jersey/monmouth/obituaries/diana-tennant-51-jersey-shore-food-bank-employee-dies-of-coronavirus/786264/"
+    },
+    "last": {
+      "datetime": "2020-05-30T21:02:36Z",
+      "uri": "https://web.archive.org/web/20200530210236/https://dailyvoice.com/new-jersey/monmouth/obituaries/diana-tennant-51-jersey-shore-food-bank-employee-dies-of-coronavirus/786264/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://dailyvoice.com/new-jersey/monmouth/obituaries/diana-tennant-51-jersey-shore-food-bank-employee-dies-of-coronavirus/786264/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://dailyvoice.com/new-jersey/monmouth/obituaries/diana-tennant-51-jersey-shore-food-bank-employee-dies-of-coronavirus/786264/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://dailyvoice.com/new-jersey/monmouth/obituaries/diana-tennant-51-jersey-shore-food-bank-employee-dies-of-coronavirus/786264/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://dailyvoice.com/new-jersey/monmouth/obituaries/diana-tennant-51-jersey-shore-food-bank-employee-dies-of-coronavirus/786264/"
+}

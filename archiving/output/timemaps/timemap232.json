@@ -1,0 +1,58 @@
+{
+  "original_uri": "https://www.bbc.co.uk/news/business-54446285%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.bbc.co.uk/news/business-54446285%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T15:02:02Z",
+        "uri": "https://web.archive.org/web/20201007150202/https://www.bbc.co.uk/news/business-54446285"
+      },
+      {
+        "datetime": "2020-10-07T15:02:15Z",
+        "uri": "https://web.archive.org/web/20201007150215/https://www.bbc.co.uk/news/business-54446285"
+      },
+      {
+        "datetime": "2020-10-07T15:58:23Z",
+        "uri": "https://web.archive.org/web/20201007155823/https://www.bbc.co.uk/news/business-54446285"
+      },
+      {
+        "datetime": "2020-10-07T18:00:19Z",
+        "uri": "https://web.archive.org/web/20201007180019/https://www.bbc.co.uk/news/business-54446285"
+      },
+      {
+        "datetime": "2020-10-07T18:00:22Z",
+        "uri": "https://web.archive.org/web/20201007180022/http://bbc.co.uk/news/business-54446285"
+      },
+      {
+        "datetime": "2020-10-08T05:28:47Z",
+        "uri": "https://web.archive.org/web/20201008052847/https://www.bbc.co.uk/news/business-54446285"
+      },
+      {
+        "datetime": "2020-10-08T05:28:49Z",
+        "uri": "https://web.archive.org/web/20201008052849/http://bbc.co.uk/news/business-54446285"
+      },
+      {
+        "datetime": "2020-10-08T06:01:05Z",
+        "uri": "https://web.archive.org/web/20201008060105/https://www.bbc.co.uk/news/business-54446285"
+      },
+      {
+        "datetime": "2020-10-08T09:04:15Z",
+        "uri": "https://web.archive.org/web/20201008090415/https://www.bbc.co.uk/news/business-54446285"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T15:02:02Z",
+      "uri": "https://web.archive.org/web/20201007150202/https://www.bbc.co.uk/news/business-54446285"
+    },
+    "last": {
+      "datetime": "2020-10-08T09:04:15Z",
+      "uri": "https://web.archive.org/web/20201008090415/https://www.bbc.co.uk/news/business-54446285"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.bbc.co.uk/news/business-54446285%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.bbc.co.uk/news/business-54446285%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.bbc.co.uk/news/business-54446285%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.bbc.co.uk/news/business-54446285%0A"
+}

@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.jpost.com/breaking-news/pentagon-risk-grows-as-no-2-marines-officer-positive-for-coronavirus-644974%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.jpost.com/breaking-news/pentagon-risk-grows-as-no-2-marines-officer-positive-for-coronavirus-644974%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-08T00:04:23Z",
+        "uri": "https://web.archive.org/web/20201008000423/https://www.jpost.com/breaking-news/pentagon-risk-grows-as-no-2-marines-officer-positive-for-coronavirus-644974"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-08T00:04:23Z",
+      "uri": "https://web.archive.org/web/20201008000423/https://www.jpost.com/breaking-news/pentagon-risk-grows-as-no-2-marines-officer-positive-for-coronavirus-644974"
+    },
+    "last": {
+      "datetime": "2020-10-08T00:04:23Z",
+      "uri": "https://web.archive.org/web/20201008000423/https://www.jpost.com/breaking-news/pentagon-risk-grows-as-no-2-marines-officer-positive-for-coronavirus-644974"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.jpost.com/breaking-news/pentagon-risk-grows-as-no-2-marines-officer-positive-for-coronavirus-644974%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.jpost.com/breaking-news/pentagon-risk-grows-as-no-2-marines-officer-positive-for-coronavirus-644974%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.jpost.com/breaking-news/pentagon-risk-grows-as-no-2-marines-officer-positive-for-coronavirus-644974%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.jpost.com/breaking-news/pentagon-risk-grows-as-no-2-marines-officer-positive-for-coronavirus-644974%0A"
+}

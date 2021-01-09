@@ -1,0 +1,34 @@
+{
+  "original_uri": "https://www.presstv.com/Detail/2020/10/07/635820/US-Donald-Trump-Joe-Biden-presidential-debate%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.presstv.com/Detail/2020/10/07/635820/US-Donald-Trump-Joe-Biden-presidential-debate%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T09:53:07Z",
+        "uri": "https://web.archive.org/web/20201007095307/https://www.presstv.com/Detail/2020/10/07/635820/US-Donald-Trump-Joe-Biden-presidential-debate"
+      },
+      {
+        "datetime": "2020-10-07T11:00:40Z",
+        "uri": "https://web.archive.org/web/20201007110040/https://www.presstv.com/Detail/2020/10/07/635820/US-Donald-Trump-Joe-Biden-presidential-debate"
+      },
+      {
+        "datetime": "2020-10-08T08:25:57Z",
+        "uri": "https://web.archive.org/web/20201008082557/https://www.presstv.com/Detail/2020/10/07/635820/US-Donald-Trump-Joe-Biden-presidential-debate"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T09:53:07Z",
+      "uri": "https://web.archive.org/web/20201007095307/https://www.presstv.com/Detail/2020/10/07/635820/US-Donald-Trump-Joe-Biden-presidential-debate"
+    },
+    "last": {
+      "datetime": "2020-10-08T08:25:57Z",
+      "uri": "https://web.archive.org/web/20201008082557/https://www.presstv.com/Detail/2020/10/07/635820/US-Donald-Trump-Joe-Biden-presidential-debate"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.presstv.com/Detail/2020/10/07/635820/US-Donald-Trump-Joe-Biden-presidential-debate%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.presstv.com/Detail/2020/10/07/635820/US-Donald-Trump-Joe-Biden-presidential-debate%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.presstv.com/Detail/2020/10/07/635820/US-Donald-Trump-Joe-Biden-presidential-debate%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.presstv.com/Detail/2020/10/07/635820/US-Donald-Trump-Joe-Biden-presidential-debate%0A"
+}

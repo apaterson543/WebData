@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.zdnet.com/article/us-antitrust-probe-finds-alarming-pattern-of-innovation-stifling-practices/",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.zdnet.com/article/us-antitrust-probe-finds-alarming-pattern-of-innovation-stifling-practices/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T08:22:34Z",
+        "uri": "https://web.archive.org/web/20201007082234/https://www.zdnet.com/article/us-antitrust-probe-finds-alarming-pattern-of-innovation-stifling-practices/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T08:22:34Z",
+      "uri": "https://web.archive.org/web/20201007082234/https://www.zdnet.com/article/us-antitrust-probe-finds-alarming-pattern-of-innovation-stifling-practices/"
+    },
+    "last": {
+      "datetime": "2020-10-07T08:22:34Z",
+      "uri": "https://web.archive.org/web/20201007082234/https://www.zdnet.com/article/us-antitrust-probe-finds-alarming-pattern-of-innovation-stifling-practices/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.zdnet.com/article/us-antitrust-probe-finds-alarming-pattern-of-innovation-stifling-practices/",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.zdnet.com/article/us-antitrust-probe-finds-alarming-pattern-of-innovation-stifling-practices/",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.zdnet.com/article/us-antitrust-probe-finds-alarming-pattern-of-innovation-stifling-practices/"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.zdnet.com/article/us-antitrust-probe-finds-alarming-pattern-of-innovation-stifling-practices/"
+}

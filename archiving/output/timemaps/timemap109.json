@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.alternet.org/2020/10/the-pandemics-effects-on-opioid-users-in-the-us-and-europe/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.alternet.org/2020/10/the-pandemics-effects-on-opioid-users-in-the-us-and-europe/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-06T16:24:25Z",
+        "uri": "https://web.archive.org/web/20201006162425/https://www.alternet.org/2020/10/the-pandemics-effects-on-opioid-users-in-the-us-and-europe/"
+      },
+      {
+        "datetime": "2020-10-06T19:02:31Z",
+        "uri": "https://web.archive.org/web/20201006190231/https://www.alternet.org/2020/10/the-pandemics-effects-on-opioid-users-in-the-us-and-europe/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-06T16:24:25Z",
+      "uri": "https://web.archive.org/web/20201006162425/https://www.alternet.org/2020/10/the-pandemics-effects-on-opioid-users-in-the-us-and-europe/"
+    },
+    "last": {
+      "datetime": "2020-10-06T19:02:31Z",
+      "uri": "https://web.archive.org/web/20201006190231/https://www.alternet.org/2020/10/the-pandemics-effects-on-opioid-users-in-the-us-and-europe/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.alternet.org/2020/10/the-pandemics-effects-on-opioid-users-in-the-us-and-europe/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.alternet.org/2020/10/the-pandemics-effects-on-opioid-users-in-the-us-and-europe/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.alternet.org/2020/10/the-pandemics-effects-on-opioid-users-in-the-us-and-europe/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.alternet.org/2020/10/the-pandemics-effects-on-opioid-users-in-the-us-and-europe/%0A"
+}

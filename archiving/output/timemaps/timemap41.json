@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.popsci.com/story/health/fall-activities-covid-19/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.popsci.com/story/health/fall-activities-covid-19/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-08T06:59:14Z",
+        "uri": "https://web.archive.org/web/20201008065914/https://www.popsci.com/story/health/fall-activities-covid-19/"
+      },
+      {
+        "datetime": "2020-10-08T06:59:14Z",
+        "uri": "https://web.archive.org/web/20201008065914/https://www.popsci.com/story/health/fall-activities-covid-19/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-08T06:59:14Z",
+      "uri": "https://web.archive.org/web/20201008065914/https://www.popsci.com/story/health/fall-activities-covid-19/"
+    },
+    "last": {
+      "datetime": "2020-10-08T06:59:14Z",
+      "uri": "https://web.archive.org/web/20201008065914/https://www.popsci.com/story/health/fall-activities-covid-19/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.popsci.com/story/health/fall-activities-covid-19/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.popsci.com/story/health/fall-activities-covid-19/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.popsci.com/story/health/fall-activities-covid-19/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.popsci.com/story/health/fall-activities-covid-19/%0A"
+}

@@ -1,0 +1,90 @@
+{
+  "original_uri": "https://www.cnet.com/features/how-tech-and-social-media-are-making-us-feel-lonelier-than-ever/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.cnet.com/features/how-tech-and-social-media-are-making-us-feel-lonelier-than-ever/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-06-20T13:58:26Z",
+        "uri": "https://web.archive.org/web/20200620135826/https://www.cnet.com/features/how-tech-and-social-media-are-making-us-feel-lonelier-than-ever/"
+      },
+      {
+        "datetime": "2020-06-23T14:31:45Z",
+        "uri": "https://web.archive.org/web/20200623143145/https://www.cnet.com/features/how-tech-and-social-media-are-making-us-feel-lonelier-than-ever/"
+      },
+      {
+        "datetime": "2020-06-30T04:38:43Z",
+        "uri": "https://web.archive.org/web/20200630043843/https://www.cnet.com/features/how-tech-and-social-media-are-making-us-feel-lonelier-than-ever/"
+      },
+      {
+        "datetime": "2020-06-30T15:14:26Z",
+        "uri": "https://web.archive.org/web/20200630151426/https://www.cnet.com/features/how-tech-and-social-media-are-making-us-feel-lonelier-than-ever/"
+      },
+      {
+        "datetime": "2020-07-07T16:18:16Z",
+        "uri": "https://web.archive.org/web/20200707161816/https://www.cnet.com/features/how-tech-and-social-media-are-making-us-feel-lonelier-than-ever/"
+      },
+      {
+        "datetime": "2020-07-14T21:01:26Z",
+        "uri": "https://web.archive.org/web/20200714210126/https://www.cnet.com/features/how-tech-and-social-media-are-making-us-feel-lonelier-than-ever/"
+      },
+      {
+        "datetime": "2020-07-21T18:02:45Z",
+        "uri": "https://web.archive.org/web/20200721180245/https://www.cnet.com/features/how-tech-and-social-media-are-making-us-feel-lonelier-than-ever/"
+      },
+      {
+        "datetime": "2020-07-27T13:06:14Z",
+        "uri": "https://web.archive.org/web/20200727130614/https://www.cnet.com/features/how-tech-and-social-media-are-making-us-feel-lonelier-than-ever/"
+      },
+      {
+        "datetime": "2020-07-28T19:20:59Z",
+        "uri": "https://web.archive.org/web/20200728192059/https://www.cnet.com/features/how-tech-and-social-media-are-making-us-feel-lonelier-than-ever/"
+      },
+      {
+        "datetime": "2020-08-05T03:12:42Z",
+        "uri": "https://web.archive.org/web/20200805031242/https://www.cnet.com/features/how-tech-and-social-media-are-making-us-feel-lonelier-than-ever/"
+      },
+      {
+        "datetime": "2020-08-11T18:55:40Z",
+        "uri": "https://web.archive.org/web/20200811185540/https://www.cnet.com/features/how-tech-and-social-media-are-making-us-feel-lonelier-than-ever/"
+      },
+      {
+        "datetime": "2020-08-18T19:51:52Z",
+        "uri": "https://web.archive.org/web/20200818195152/https://www.cnet.com/features/how-tech-and-social-media-are-making-us-feel-lonelier-than-ever/"
+      },
+      {
+        "datetime": "2020-08-21T03:42:20Z",
+        "uri": "https://web.archive.org/web/20200821034220/https://www.cnet.com/features/how-tech-and-social-media-are-making-us-feel-lonelier-than-ever/"
+      },
+      {
+        "datetime": "2020-08-25T20:35:55Z",
+        "uri": "https://web.archive.org/web/20200825203555/https://www.cnet.com/features/how-tech-and-social-media-are-making-us-feel-lonelier-than-ever/"
+      },
+      {
+        "datetime": "2020-09-01T22:22:26Z",
+        "uri": "https://web.archive.org/web/20200901222226/https://www.cnet.com/features/how-tech-and-social-media-are-making-us-feel-lonelier-than-ever/"
+      },
+      {
+        "datetime": "2020-09-08T23:38:49Z",
+        "uri": "https://web.archive.org/web/20200908233849/https://www.cnet.com/features/how-tech-and-social-media-are-making-us-feel-lonelier-than-ever/"
+      },
+      {
+        "datetime": "2020-09-23T06:14:55Z",
+        "uri": "https://web.archive.org/web/20200923061455/https://www.cnet.com/features/how-tech-and-social-media-are-making-us-feel-lonelier-than-ever/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-06-20T13:58:26Z",
+      "uri": "https://web.archive.org/web/20200620135826/https://www.cnet.com/features/how-tech-and-social-media-are-making-us-feel-lonelier-than-ever/"
+    },
+    "last": {
+      "datetime": "2020-09-23T06:14:55Z",
+      "uri": "https://web.archive.org/web/20200923061455/https://www.cnet.com/features/how-tech-and-social-media-are-making-us-feel-lonelier-than-ever/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.cnet.com/features/how-tech-and-social-media-are-making-us-feel-lonelier-than-ever/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.cnet.com/features/how-tech-and-social-media-are-making-us-feel-lonelier-than-ever/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.cnet.com/features/how-tech-and-social-media-are-making-us-feel-lonelier-than-ever/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.cnet.com/features/how-tech-and-social-media-are-making-us-feel-lonelier-than-ever/%0A"
+}

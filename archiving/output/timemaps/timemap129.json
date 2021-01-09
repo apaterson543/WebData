@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.bbc.com/news/world-middle-east-54418336%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.bbc.com/news/world-middle-east-54418336%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T03:24:28Z",
+        "uri": "https://web.archive.org/web/20201007032428/https://www.bbc.com/news/world-middle-east-54418336"
+      },
+      {
+        "datetime": "2020-10-07T23:44:46Z",
+        "uri": "https://web.archive.org/web/20201007234446/https://www.bbc.com/news/world-middle-east-54418336"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T03:24:28Z",
+      "uri": "https://web.archive.org/web/20201007032428/https://www.bbc.com/news/world-middle-east-54418336"
+    },
+    "last": {
+      "datetime": "2020-10-07T23:44:46Z",
+      "uri": "https://web.archive.org/web/20201007234446/https://www.bbc.com/news/world-middle-east-54418336"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.bbc.com/news/world-middle-east-54418336%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.bbc.com/news/world-middle-east-54418336%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.bbc.com/news/world-middle-east-54418336%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.bbc.com/news/world-middle-east-54418336%0A"
+}

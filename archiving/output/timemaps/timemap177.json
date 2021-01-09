@@ -1,0 +1,34 @@
+{
+  "original_uri": "https://tom-gillispie.blogspot.com/2020/07/schools.html%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://tom-gillispie.blogspot.com/2020/07/schools.html%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-09-16T06:24:15Z",
+        "uri": "https://web.archive.org/web/20200916062415/https://tom-gillispie.blogspot.com/2020/07/schools.html"
+      },
+      {
+        "datetime": "2020-09-16T23:44:18Z",
+        "uri": "https://web.archive.org/web/20200916234418/http://tom-gillispie.blogspot.com/2020/07/schools.html"
+      },
+      {
+        "datetime": "2020-09-29T21:28:00Z",
+        "uri": "https://web.archive.org/web/20200929212800/https://tom-gillispie.blogspot.com/2020/07/schools.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-09-16T06:24:15Z",
+      "uri": "https://web.archive.org/web/20200916062415/https://tom-gillispie.blogspot.com/2020/07/schools.html"
+    },
+    "last": {
+      "datetime": "2020-09-29T21:28:00Z",
+      "uri": "https://web.archive.org/web/20200929212800/https://tom-gillispie.blogspot.com/2020/07/schools.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://tom-gillispie.blogspot.com/2020/07/schools.html%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://tom-gillispie.blogspot.com/2020/07/schools.html%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://tom-gillispie.blogspot.com/2020/07/schools.html%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://tom-gillispie.blogspot.com/2020/07/schools.html%0A"
+}

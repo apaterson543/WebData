@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.fox5ny.com/live/wnyw2%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.fox5ny.com/live/wnyw2%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-06T11:48:00Z",
+        "uri": "https://web.archive.org/web/20201006114800/https://fox5ny.com/live/wnyw2"
+      },
+      {
+        "datetime": "2020-10-06T12:03:02Z",
+        "uri": "https://web.archive.org/web/20201006120302/https://www.fox5ny.com/live/wnyw2"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-06T11:48:00Z",
+      "uri": "https://web.archive.org/web/20201006114800/https://fox5ny.com/live/wnyw2"
+    },
+    "last": {
+      "datetime": "2020-10-06T12:03:02Z",
+      "uri": "https://web.archive.org/web/20201006120302/https://www.fox5ny.com/live/wnyw2"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.fox5ny.com/live/wnyw2%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.fox5ny.com/live/wnyw2%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.fox5ny.com/live/wnyw2%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.fox5ny.com/live/wnyw2%0A"
+}

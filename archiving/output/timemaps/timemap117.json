@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://news.sky.com/story/coronavirus-easyjet-warns-it-may-need-more-state-funding-12098639%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://news.sky.com/story/coronavirus-easyjet-warns-it-may-need-more-state-funding-12098639%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-08T02:55:03Z",
+        "uri": "https://web.archive.org/web/20201008025503/https://news.sky.com/story/coronavirus-easyjet-warns-it-may-need-more-state-funding-12098639"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-08T02:55:03Z",
+      "uri": "https://web.archive.org/web/20201008025503/https://news.sky.com/story/coronavirus-easyjet-warns-it-may-need-more-state-funding-12098639"
+    },
+    "last": {
+      "datetime": "2020-10-08T02:55:03Z",
+      "uri": "https://web.archive.org/web/20201008025503/https://news.sky.com/story/coronavirus-easyjet-warns-it-may-need-more-state-funding-12098639"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://news.sky.com/story/coronavirus-easyjet-warns-it-may-need-more-state-funding-12098639%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://news.sky.com/story/coronavirus-easyjet-warns-it-may-need-more-state-funding-12098639%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://news.sky.com/story/coronavirus-easyjet-warns-it-may-need-more-state-funding-12098639%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://news.sky.com/story/coronavirus-easyjet-warns-it-may-need-more-state-funding-12098639%0A"
+}

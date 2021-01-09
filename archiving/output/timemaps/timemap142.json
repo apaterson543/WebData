@@ -1,0 +1,34 @@
+{
+  "original_uri": "https://thegadabouttown.com/2020/05/12/pandemic-diary-just-a-box-of-rain/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://thegadabouttown.com/2020/05/12/pandemic-diary-just-a-box-of-rain/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-06-20T09:25:20Z",
+        "uri": "https://web.archive.org/web/20200620092520/https://thegadabouttown.com/2020/05/12/pandemic-diary-just-a-box-of-rain/"
+      },
+      {
+        "datetime": "2020-08-25T01:47:27Z",
+        "uri": "https://web.archive.org/web/20200825014727/https://thegadabouttown.com/2020/05/12/pandemic-diary-just-a-box-of-rain/"
+      },
+      {
+        "datetime": "2020-08-25T02:39:36Z",
+        "uri": "https://web.archive.org/web/20200825023936/https://thegadabouttown.com/2020/05/12/pandemic-diary-just-a-box-of-rain/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-06-20T09:25:20Z",
+      "uri": "https://web.archive.org/web/20200620092520/https://thegadabouttown.com/2020/05/12/pandemic-diary-just-a-box-of-rain/"
+    },
+    "last": {
+      "datetime": "2020-08-25T02:39:36Z",
+      "uri": "https://web.archive.org/web/20200825023936/https://thegadabouttown.com/2020/05/12/pandemic-diary-just-a-box-of-rain/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://thegadabouttown.com/2020/05/12/pandemic-diary-just-a-box-of-rain/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://thegadabouttown.com/2020/05/12/pandemic-diary-just-a-box-of-rain/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://thegadabouttown.com/2020/05/12/pandemic-diary-just-a-box-of-rain/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://thegadabouttown.com/2020/05/12/pandemic-diary-just-a-box-of-rain/%0A"
+}

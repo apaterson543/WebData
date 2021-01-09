@@ -1,0 +1,25 @@
+YSHEN@ODU.EDU <donotreply@blackboard.com>
+
+Tue, Nov 10, 2:54 PM
+
+to
+
+Class,
+
+Please see my comments and feedback on your P1 submission.
+
+    Submission and Report
+        Need to submit your entire Visual Studio project.
+        Did not follow file naming convention.
+        Figures should be centralized and numbered with captions.
+        Figures are too small (illegible), or too large (taking too much space).
+        Times New Roman should be used as the preferred font for reports.
+        Sections should be numbered.
+    PDF functions compute a value at a time.  This is highly inefficient, as function calls have overhead.  In this assignment, PDF functions should calculate all values of the theoretical distributions with just one function call.
+    Parameters changes in response to arrows didn’t follow the requirements, e.g., right arrow should increase mu value, up arrow should increase the sigma value.
+    Didn’t add doxygen comments to global variables and function parameters (arguments).
+    Used power functions to calculate the square, i.e., pow(x, 2).  This is highly inefficient as it is a function call.  You should use x * x instead, as this is an intrinsic operation, and most CPUs have hardware multipliers.
+    A few used screen coordinates instead of world coordinates.  I am most disappointed by this, as I reiterated world coordinates over and over again in class and during my office hours.  The conversion from world coordinates to screen coordinates should be handled by OpenGL, not the programmer by adding hardcoded scaling and offset parameters.  gluOrtho2D() is the function to set world view volume in this assignment.
+    Intensive computations should be avoided in the display() function as much as possible.
+
+Yuzhong Shen

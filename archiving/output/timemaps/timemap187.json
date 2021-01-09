@@ -1,0 +1,38 @@
+{
+  "original_uri": "https://stankeviciusinternational.com/contact.html%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://stankeviciusinternational.com/contact.html%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-07-13T20:48:24Z",
+        "uri": "https://web.archive.org/web/20200713204824/http://stankeviciusinternational.com/contact.html"
+      },
+      {
+        "datetime": "2020-07-13T20:48:31Z",
+        "uri": "https://web.archive.org/web/20200713204831/https://stankeviciusinternational.com/contact.html"
+      },
+      {
+        "datetime": "2020-09-05T18:13:00Z",
+        "uri": "https://web.archive.org/web/20200905181300/http://stankeviciusinternational.com/contact.html"
+      },
+      {
+        "datetime": "2020-09-06T13:27:00Z",
+        "uri": "https://web.archive.org/web/20200906132700/https://stankeviciusinternational.com/contact.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-07-13T20:48:24Z",
+      "uri": "https://web.archive.org/web/20200713204824/http://stankeviciusinternational.com/contact.html"
+    },
+    "last": {
+      "datetime": "2020-09-06T13:27:00Z",
+      "uri": "https://web.archive.org/web/20200906132700/https://stankeviciusinternational.com/contact.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://stankeviciusinternational.com/contact.html%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://stankeviciusinternational.com/contact.html%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://stankeviciusinternational.com/contact.html%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://stankeviciusinternational.com/contact.html%0A"
+}

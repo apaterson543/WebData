@@ -1,0 +1,42 @@
+{
+  "original_uri": "https://www.bbc.co.uk/news/health-54442386%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.bbc.co.uk/news/health-54442386%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T12:42:02Z",
+        "uri": "https://web.archive.org/web/20201007124202/https://www.bbc.co.uk/news/health-54442386"
+      },
+      {
+        "datetime": "2020-10-07T18:14:08Z",
+        "uri": "https://web.archive.org/web/20201007181408/https://www.bbc.co.uk/news/health-54442386"
+      },
+      {
+        "datetime": "2020-10-08T06:38:31Z",
+        "uri": "https://web.archive.org/web/20201008063831/https://www.bbc.co.uk/news/health-54442386"
+      },
+      {
+        "datetime": "2020-10-08T06:38:31Z",
+        "uri": "https://web.archive.org/web/20201008063831/https://www.bbc.co.uk/news/health-54442386"
+      },
+      {
+        "datetime": "2020-10-08T19:00:15Z",
+        "uri": "https://web.archive.org/web/20201008190015/https://www.bbc.co.uk/news/health-54442386"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T12:42:02Z",
+      "uri": "https://web.archive.org/web/20201007124202/https://www.bbc.co.uk/news/health-54442386"
+    },
+    "last": {
+      "datetime": "2020-10-08T19:00:15Z",
+      "uri": "https://web.archive.org/web/20201008190015/https://www.bbc.co.uk/news/health-54442386"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.bbc.co.uk/news/health-54442386%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.bbc.co.uk/news/health-54442386%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.bbc.co.uk/news/health-54442386%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.bbc.co.uk/news/health-54442386%0A"
+}

@@ -1,0 +1,3 @@
+https://www.news-medical.net/news/20201007/SARS-CoV-2-infection-analysis-could-help-fight-against-COVID-19.aspx
+
+b'Bad RequestBad Request - Invalid URLHTTP Error 400. The request URL is invalid.'

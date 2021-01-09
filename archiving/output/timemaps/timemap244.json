@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.startribune.com/trump-reports-no-symptoms-returns-to-downplaying-virus/572659212/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.startribune.com/trump-reports-no-symptoms-returns-to-downplaying-virus/572659212/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-08T08:01:50Z",
+        "uri": "https://web.archive.org/web/20201008080150/https://www.startribune.com/trump-reports-no-symptoms-returns-to-downplaying-virus/572659212/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-08T08:01:50Z",
+      "uri": "https://web.archive.org/web/20201008080150/https://www.startribune.com/trump-reports-no-symptoms-returns-to-downplaying-virus/572659212/"
+    },
+    "last": {
+      "datetime": "2020-10-08T08:01:50Z",
+      "uri": "https://web.archive.org/web/20201008080150/https://www.startribune.com/trump-reports-no-symptoms-returns-to-downplaying-virus/572659212/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.startribune.com/trump-reports-no-symptoms-returns-to-downplaying-virus/572659212/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.startribune.com/trump-reports-no-symptoms-returns-to-downplaying-virus/572659212/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.startribune.com/trump-reports-no-symptoms-returns-to-downplaying-virus/572659212/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.startribune.com/trump-reports-no-symptoms-returns-to-downplaying-virus/572659212/%0A"
+}

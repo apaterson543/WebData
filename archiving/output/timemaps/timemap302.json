@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://www.telegraph.co.uk/health-fitness/body/have-got-covid-teeth-grinding-has-soared-lockdown/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.telegraph.co.uk/health-fitness/body/have-got-covid-teeth-grinding-has-soared-lockdown/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-04T16:04:51Z",
+        "uri": "https://web.archive.org/web/20201004160451/https://www.telegraph.co.uk/health-fitness/body/have-got-covid-teeth-grinding-has-soared-lockdown/"
+      },
+      {
+        "datetime": "2020-10-04T18:43:36Z",
+        "uri": "https://web.archive.org/web/20201004184336/https://www.telegraph.co.uk/health-fitness/body/have-got-covid-teeth-grinding-has-soared-lockdown/"
+      },
+      {
+        "datetime": "2020-10-04T18:43:44Z",
+        "uri": "https://web.archive.org/web/20201004184344/https://www.telegraph.co.uk/health-fitness/body/have-got-covid-teeth-grinding-has-soared-lockdown"
+      },
+      {
+        "datetime": "2020-10-04T18:44:20Z",
+        "uri": "https://web.archive.org/web/20201004184420/http://www.telegraph.co.uk/health-fitness/body/have-got-covid-teeth-grinding-has-soared-lockdown/"
+      },
+      {
+        "datetime": "2020-10-07T16:28:14Z",
+        "uri": "https://web.archive.org/web/20201007162814/https://www.telegraph.co.uk/health-fitness/body/have-got-covid-teeth-grinding-has-soared-lockdown/"
+      },
+      {
+        "datetime": "2020-10-07T16:59:02Z",
+        "uri": "https://web.archive.org/web/20201007165902/https://www.telegraph.co.uk/health-fitness/body/have-got-covid-teeth-grinding-has-soared-lockdown/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-04T16:04:51Z",
+      "uri": "https://web.archive.org/web/20201004160451/https://www.telegraph.co.uk/health-fitness/body/have-got-covid-teeth-grinding-has-soared-lockdown/"
+    },
+    "last": {
+      "datetime": "2020-10-07T16:59:02Z",
+      "uri": "https://web.archive.org/web/20201007165902/https://www.telegraph.co.uk/health-fitness/body/have-got-covid-teeth-grinding-has-soared-lockdown/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.telegraph.co.uk/health-fitness/body/have-got-covid-teeth-grinding-has-soared-lockdown/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.telegraph.co.uk/health-fitness/body/have-got-covid-teeth-grinding-has-soared-lockdown/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.telegraph.co.uk/health-fitness/body/have-got-covid-teeth-grinding-has-soared-lockdown/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.telegraph.co.uk/health-fitness/body/have-got-covid-teeth-grinding-has-soared-lockdown/%0A"
+}

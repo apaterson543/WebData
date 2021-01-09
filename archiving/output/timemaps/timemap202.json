@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.theoaklandpress.com/news/coronavirus/mdhhs-issues-order-requiring-schools-to-notify-public-of-coronavirus-cases-within-24-hours/article_daee3e72-0890-11eb-bc24-677804736095.html%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.theoaklandpress.com/news/coronavirus/mdhhs-issues-order-requiring-schools-to-notify-public-of-coronavirus-cases-within-24-hours/article_daee3e72-0890-11eb-bc24-677804736095.html%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-08T06:12:10Z",
+        "uri": "https://web.archive.org/web/20201008061210/https://www.theoaklandpress.com/news/coronavirus/mdhhs-issues-order-requiring-schools-to-notify-public-of-coronavirus-cases-within-24-hours/article_daee3e72-0890-11eb-bc24-677804736095.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-08T06:12:10Z",
+      "uri": "https://web.archive.org/web/20201008061210/https://www.theoaklandpress.com/news/coronavirus/mdhhs-issues-order-requiring-schools-to-notify-public-of-coronavirus-cases-within-24-hours/article_daee3e72-0890-11eb-bc24-677804736095.html"
+    },
+    "last": {
+      "datetime": "2020-10-08T06:12:10Z",
+      "uri": "https://web.archive.org/web/20201008061210/https://www.theoaklandpress.com/news/coronavirus/mdhhs-issues-order-requiring-schools-to-notify-public-of-coronavirus-cases-within-24-hours/article_daee3e72-0890-11eb-bc24-677804736095.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.theoaklandpress.com/news/coronavirus/mdhhs-issues-order-requiring-schools-to-notify-public-of-coronavirus-cases-within-24-hours/article_daee3e72-0890-11eb-bc24-677804736095.html%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.theoaklandpress.com/news/coronavirus/mdhhs-issues-order-requiring-schools-to-notify-public-of-coronavirus-cases-within-24-hours/article_daee3e72-0890-11eb-bc24-677804736095.html%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.theoaklandpress.com/news/coronavirus/mdhhs-issues-order-requiring-schools-to-notify-public-of-coronavirus-cases-within-24-hours/article_daee3e72-0890-11eb-bc24-677804736095.html%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.theoaklandpress.com/news/coronavirus/mdhhs-issues-order-requiring-schools-to-notify-public-of-coronavirus-cases-within-24-hours/article_daee3e72-0890-11eb-bc24-677804736095.html%0A"
+}

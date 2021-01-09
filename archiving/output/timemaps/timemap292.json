@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.bbc.com/news/uk-scotland-54449573%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.bbc.com/news/uk-scotland-54449573%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T20:45:59Z",
+        "uri": "https://web.archive.org/web/20201007204559/https://www.bbc.com/news/uk-scotland-54449573"
+      },
+      {
+        "datetime": "2020-10-07T23:44:48Z",
+        "uri": "https://web.archive.org/web/20201007234448/https://www.bbc.com/news/uk-scotland-54449573"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T20:45:59Z",
+      "uri": "https://web.archive.org/web/20201007204559/https://www.bbc.com/news/uk-scotland-54449573"
+    },
+    "last": {
+      "datetime": "2020-10-07T23:44:48Z",
+      "uri": "https://web.archive.org/web/20201007234448/https://www.bbc.com/news/uk-scotland-54449573"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.bbc.com/news/uk-scotland-54449573%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.bbc.com/news/uk-scotland-54449573%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.bbc.com/news/uk-scotland-54449573%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.bbc.com/news/uk-scotland-54449573%0A"
+}

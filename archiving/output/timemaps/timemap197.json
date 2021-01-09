@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.ajc.com/news/coronavirus/months-into-pandemic-ppe-shortage-persists/6OMYNYLDV5GJ5EBEMOSPWEC6MA/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.ajc.com/news/coronavirus/months-into-pandemic-ppe-shortage-persists/6OMYNYLDV5GJ5EBEMOSPWEC6MA/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-08T03:21:55Z",
+        "uri": "https://web.archive.org/web/20201008032155/https://www.ajc.com/news/coronavirus/months-into-pandemic-ppe-shortage-persists/6OMYNYLDV5GJ5EBEMOSPWEC6MA/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-08T03:21:55Z",
+      "uri": "https://web.archive.org/web/20201008032155/https://www.ajc.com/news/coronavirus/months-into-pandemic-ppe-shortage-persists/6OMYNYLDV5GJ5EBEMOSPWEC6MA/"
+    },
+    "last": {
+      "datetime": "2020-10-08T03:21:55Z",
+      "uri": "https://web.archive.org/web/20201008032155/https://www.ajc.com/news/coronavirus/months-into-pandemic-ppe-shortage-persists/6OMYNYLDV5GJ5EBEMOSPWEC6MA/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.ajc.com/news/coronavirus/months-into-pandemic-ppe-shortage-persists/6OMYNYLDV5GJ5EBEMOSPWEC6MA/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.ajc.com/news/coronavirus/months-into-pandemic-ppe-shortage-persists/6OMYNYLDV5GJ5EBEMOSPWEC6MA/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.ajc.com/news/coronavirus/months-into-pandemic-ppe-shortage-persists/6OMYNYLDV5GJ5EBEMOSPWEC6MA/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.ajc.com/news/coronavirus/months-into-pandemic-ppe-shortage-persists/6OMYNYLDV5GJ5EBEMOSPWEC6MA/%0A"
+}

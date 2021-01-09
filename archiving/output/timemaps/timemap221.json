@@ -1,0 +1,38 @@
+{
+  "original_uri": "https://www.espn.com/nfl/story/_/id/30060441/source-new-england-patriots-stephon-gilmore-tests-positive-covid-19-no-practice-team%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.espn.com/nfl/story/_/id/30060441/source-new-england-patriots-stephon-gilmore-tests-positive-covid-19-no-practice-team%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T16:05:37Z",
+        "uri": "https://web.archive.org/web/20201007160537/https://www.espn.com/nfl/story/_/id/30060441/source-new-england-patriots-stephon-gilmore-tests-positive-covid-19-no-practice-team"
+      },
+      {
+        "datetime": "2020-10-07T16:05:44Z",
+        "uri": "https://web.archive.org/web/20201007160544/http://espn.com/nfl/story/_/id/30060441/source-new-england-patriots-stephon-gilmore-tests-positive-covid-19-no-practice-team"
+      },
+      {
+        "datetime": "2020-10-07T18:32:58Z",
+        "uri": "https://web.archive.org/web/20201007183258/https://www.espn.com/nfl/story/_/id/30060441/source-new-england-patriots-stephon-gilmore-tests-positive-covid-19-no-practice-team"
+      },
+      {
+        "datetime": "2020-10-08T07:43:25Z",
+        "uri": "https://web.archive.org/web/20201008074325/https://www.espn.com/nfl/story/_/id/30060441/source-new-england-patriots-stephon-gilmore-tests-positive-covid-19-no-practice-team"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T16:05:37Z",
+      "uri": "https://web.archive.org/web/20201007160537/https://www.espn.com/nfl/story/_/id/30060441/source-new-england-patriots-stephon-gilmore-tests-positive-covid-19-no-practice-team"
+    },
+    "last": {
+      "datetime": "2020-10-08T07:43:25Z",
+      "uri": "https://web.archive.org/web/20201008074325/https://www.espn.com/nfl/story/_/id/30060441/source-new-england-patriots-stephon-gilmore-tests-positive-covid-19-no-practice-team"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.espn.com/nfl/story/_/id/30060441/source-new-england-patriots-stephon-gilmore-tests-positive-covid-19-no-practice-team%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.espn.com/nfl/story/_/id/30060441/source-new-england-patriots-stephon-gilmore-tests-positive-covid-19-no-practice-team%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.espn.com/nfl/story/_/id/30060441/source-new-england-patriots-stephon-gilmore-tests-positive-covid-19-no-practice-team%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.espn.com/nfl/story/_/id/30060441/source-new-england-patriots-stephon-gilmore-tests-positive-covid-19-no-practice-team%0A"
+}

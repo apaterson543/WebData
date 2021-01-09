@@ -1,0 +1,42 @@
+{
+  "original_uri": "http://www.homebalancer.com/reviews.html%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/http://www.homebalancer.com/reviews.html%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-06-16T16:09:41Z",
+        "uri": "https://web.archive.org/web/20190616160941/http://www.homebalancer.com/reviews.html"
+      },
+      {
+        "datetime": "2020-05-14T23:49:49Z",
+        "uri": "https://web.archive.org/web/20200514234949/http://www.homebalancer.com/reviews.html"
+      },
+      {
+        "datetime": "2020-08-05T16:35:48Z",
+        "uri": "https://web.archive.org/web/20200805163548/http://www.homebalancer.com/reviews.html"
+      },
+      {
+        "datetime": "2020-09-05T01:53:45Z",
+        "uri": "https://web.archive.org/web/20200905015345/http://www.homebalancer.com/reviews.html"
+      },
+      {
+        "datetime": "2020-10-04T08:40:29Z",
+        "uri": "https://web.archive.org/web/20201004084029/http://www.homebalancer.com/reviews.html"
+      }
+    ],
+    "first": {
+      "datetime": "2019-06-16T16:09:41Z",
+      "uri": "https://web.archive.org/web/20190616160941/http://www.homebalancer.com/reviews.html"
+    },
+    "last": {
+      "datetime": "2020-10-04T08:40:29Z",
+      "uri": "https://web.archive.org/web/20201004084029/http://www.homebalancer.com/reviews.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/http://www.homebalancer.com/reviews.html%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/http://www.homebalancer.com/reviews.html%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/http://www.homebalancer.com/reviews.html%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/http://www.homebalancer.com/reviews.html%0A"
+}

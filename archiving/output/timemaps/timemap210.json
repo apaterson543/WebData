@@ -1,0 +1,82 @@
+{
+  "original_uri": "https://covir.io/v2/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://covir.io/v2/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-07-11T20:39:45Z",
+        "uri": "https://web.archive.org/web/20200711203945/https://covir.io/v2"
+      },
+      {
+        "datetime": "2020-07-11T20:43:06Z",
+        "uri": "https://web.archive.org/web/20200711204306/https://covir.io/v2/"
+      },
+      {
+        "datetime": "2020-07-30T05:17:19Z",
+        "uri": "https://web.archive.org/web/20200730051719/https://covir.io/v2/"
+      },
+      {
+        "datetime": "2020-07-30T08:45:38Z",
+        "uri": "https://web.archive.org/web/20200730084538/https://covir.io/v2/"
+      },
+      {
+        "datetime": "2020-08-03T09:38:32Z",
+        "uri": "https://web.archive.org/web/20200803093832/https://covir.io/v2/"
+      },
+      {
+        "datetime": "2020-08-03T23:57:43Z",
+        "uri": "https://web.archive.org/web/20200803235743/https://covir.io/v2/"
+      },
+      {
+        "datetime": "2020-08-11T01:54:17Z",
+        "uri": "https://web.archive.org/web/20200811015417/https://covir.io/v2"
+      },
+      {
+        "datetime": "2020-08-17T06:35:39Z",
+        "uri": "https://web.archive.org/web/20200817063539/https://covir.io/v2"
+      },
+      {
+        "datetime": "2020-08-17T14:14:11Z",
+        "uri": "https://web.archive.org/web/20200817141411/https://covir.io/v2"
+      },
+      {
+        "datetime": "2020-08-17T14:14:13Z",
+        "uri": "https://web.archive.org/web/20200817141413/https://covir.io/v2/"
+      },
+      {
+        "datetime": "2020-08-22T02:07:26Z",
+        "uri": "https://web.archive.org/web/20200822020726/https://covir.io/v2"
+      },
+      {
+        "datetime": "2020-08-24T04:23:55Z",
+        "uri": "https://web.archive.org/web/20200824042355/https://covir.io/v2/"
+      },
+      {
+        "datetime": "2020-08-26T10:36:06Z",
+        "uri": "https://web.archive.org/web/20200826103606/https://covir.io/v2/"
+      },
+      {
+        "datetime": "2020-08-29T11:23:07Z",
+        "uri": "https://web.archive.org/web/20200829112307/https://covir.io/v2"
+      },
+      {
+        "datetime": "2020-08-30T15:27:10Z",
+        "uri": "https://web.archive.org/web/20200830152710/https://covir.io/v2/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-07-11T20:39:45Z",
+      "uri": "https://web.archive.org/web/20200711203945/https://covir.io/v2"
+    },
+    "last": {
+      "datetime": "2020-08-30T15:27:10Z",
+      "uri": "https://web.archive.org/web/20200830152710/https://covir.io/v2/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://covir.io/v2/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://covir.io/v2/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://covir.io/v2/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://covir.io/v2/%0A"
+}

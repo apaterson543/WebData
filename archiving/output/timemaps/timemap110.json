@@ -1,0 +1,526 @@
+{
+  "original_uri": "https://www.bbc.co.uk/news/health-23179570",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.bbc.co.uk/news/health-23179570",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2013-07-05T01:43:48Z",
+        "uri": "https://wayback.archive-it.org/all/20130705014348/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-07-05T01:43:48Z",
+        "uri": "https://web.archive.org/web/20130705014348/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-07-05T12:04:43Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20130705120443mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-07-06T01:42:43Z",
+        "uri": "https://wayback.archive-it.org/all/20130706014243/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-07-06T01:42:43Z",
+        "uri": "https://web.archive.org/web/20130706014243/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-07-06T11:57:02Z",
+        "uri": "https://web.archive.org/web/20130706115702/http://www.bbc.co.uk:80/news/health-23179570"
+      },
+      {
+        "datetime": "2013-07-06T12:04:27Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20130706120427mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-07-07T01:39:34Z",
+        "uri": "https://wayback.archive-it.org/all/20130707013934/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-07-07T01:39:34Z",
+        "uri": "https://web.archive.org/web/20130707013934/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-07-07T12:04:05Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20130707120405mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-07-08T01:39:35Z",
+        "uri": "https://wayback.archive-it.org/all/20130708013935/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-07-08T01:39:35Z",
+        "uri": "https://web.archive.org/web/20130708013935/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-07-08T09:41:29Z",
+        "uri": "https://web.archive.org/web/20130708094129/http://www.bbc.co.uk:80/news/health-23179570"
+      },
+      {
+        "datetime": "2013-07-08T12:04:14Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20130708120414mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-07-09T09:23:08Z",
+        "uri": "https://web.archive.org/web/20130709092308/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-07-09T14:28:24Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20130709142824mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-07-10T14:28:14Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20130710142814mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-07-10T22:38:36Z",
+        "uri": "https://web.archive.org/web/20130710223836/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-07-11T04:57:53Z",
+        "uri": "https://web.archive.org/web/20130711045753/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-07-11T14:28:56Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20130711142856mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-07-11T17:10:42Z",
+        "uri": "https://web.archive.org/web/20130711171042/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-07-11T17:34:47Z",
+        "uri": "https://wayback.archive-it.org/all/20130711173447/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-07-11T17:34:47Z",
+        "uri": "https://web.archive.org/web/20130711173447/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-07-12T15:16:29Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20130712151629mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-07-12T23:10:06Z",
+        "uri": "https://web.archive.org/web/20130712231006/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-07-26T14:59:39Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20130726145939mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-07-27T07:49:38Z",
+        "uri": "https://web.archive.org/web/20130727074938/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-07-27T16:36:13Z",
+        "uri": "https://web.archive.org/web/20130727163613/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-07-27T22:21:32Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20130727222132mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-08-08T18:00:30Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20130808180030mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-08-09T14:37:43Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20130809143743mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-08-10T14:28:44Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20130810142844mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-08-10T23:38:27Z",
+        "uri": "https://web.archive.org/web/20130810233827/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-08-12T01:27:48Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20130812012748mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-08-12T09:54:22Z",
+        "uri": "https://web.archive.org/web/20130812095422/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-08-13T01:57:35Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20130813015735mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-08-14T01:41:47Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20130814014147mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-08-15T02:05:33Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20130815020533mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-08-16T02:44:51Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20130816024451mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-08-17T03:04:42Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20130817030442mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-08-18T02:49:42Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20130818024942mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-08-19T03:05:02Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20130819030502mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-08-22T10:35:43Z",
+        "uri": "https://web.archive.org/web/20130822103543/http://www.bbc.co.uk:80/news/health-23179570"
+      },
+      {
+        "datetime": "2013-08-22T13:31:32Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20130822133132mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-08-22T19:15:13Z",
+        "uri": "https://wayback.archive-it.org/all/20130822191513/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-08-22T19:15:13Z",
+        "uri": "https://web.archive.org/web/20130822191513/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-08-22T22:23:19Z",
+        "uri": "https://web.archive.org/web/20130822222319/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-08-23T22:43:02Z",
+        "uri": "https://web.archive.org/web/20130823224302/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-08-24T00:30:44Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20130824003044mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-08-25T02:00:26Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20130825020026mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-08-26T02:11:13Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20130826021113mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-08-27T02:14:42Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20130827021442mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-08-28T01:55:16Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20130828015516mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-08-29T03:15:38Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20130829031538mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-09-11T03:36:21Z",
+        "uri": "https://web.archive.org/web/20130911033621/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-09-11T06:23:18Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20130911062318mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-09-11T19:04:20Z",
+        "uri": "https://wayback.archive-it.org/all/20130911190420/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-09-12T07:15:15Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20130912071515mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-11-01T09:41:25Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20131101094125mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-11-12T21:58:36Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20131112215836mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-11-14T08:54:19Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20131114085419mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-11-15T09:11:31Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20131115091131mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-11-16T06:55:46Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20131116065546mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-11-21T10:51:38Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20131121105138mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-11-22T10:56:12Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20131122105612mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-11-23T09:12:34Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20131123091234mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-12-30T16:59:46Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20131230165946mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-12-30T17:09:16Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20131230170916mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2013-12-31T21:12:47Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20131231211247mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2014-03-01T19:23:01Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20140301192301mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2014-05-14T08:59:49Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20140514085949mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2014-06-06T10:16:08Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20140606101608mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2014-06-20T08:08:22Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20140620080822mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2014-10-15T06:44:25Z",
+        "uri": "https://web.archive.org/web/20141015064425/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2014-12-27T05:14:08Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20141227051408mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2014-12-28T04:52:38Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20141228045238mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2015-04-07T21:05:11Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20150407210511mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2015-05-30T04:31:16Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20150530043116mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2015-06-02T06:36:38Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20150602063638mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2015-06-11T10:30:28Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20150611103028mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2015-06-22T00:36:31Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20150622003631mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2015-06-25T23:25:58Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20150625232558mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2015-07-02T17:57:08Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20150702175708mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2015-07-10T04:02:33Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20150710040233mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2015-07-16T22:24:09Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20150716222409mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2015-09-17T12:50:35Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20150917125035mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2015-12-31T03:32:16Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20151231033216mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2016-01-09T15:17:53Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20160109151753mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2016-01-24T19:07:39Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20160124190739mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2016-09-20T04:38:10Z",
+        "uri": "https://web.archive.org/web/20160920043810/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2016-12-26T04:25:36Z",
+        "uri": "https://web.archive.org/web/20161226042536/http://bbc.co.uk/news/health-23179570/"
+      },
+      {
+        "datetime": "2017-01-02T12:11:33Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170102121133mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2017-01-04T17:00:45Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170104170045mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2017-01-10T04:07:33Z",
+        "uri": "https://www.webarchive.org.uk/wayback/archive/20170110040733mp_/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2020-01-21T01:39:59Z",
+        "uri": "https://web.archive.org/web/20200121013959/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2020-01-21T01:40:02Z",
+        "uri": "https://web.archive.org/web/20200121014002/https://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2020-01-21T01:40:16Z",
+        "uri": "https://web.archive.org/web/20200121014016/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2020-01-21T01:40:18Z",
+        "uri": "https://web.archive.org/web/20200121014018/https://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2020-01-21T01:40:36Z",
+        "uri": "https://web.archive.org/web/20200121014036/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2020-01-21T01:40:39Z",
+        "uri": "https://web.archive.org/web/20200121014039/https://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2020-01-21T01:40:50Z",
+        "uri": "https://web.archive.org/web/20200121014050/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2020-01-21T01:40:51Z",
+        "uri": "https://web.archive.org/web/20200121014051/https://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2020-01-21T01:42:13Z",
+        "uri": "https://web.archive.org/web/20200121014213/https://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2020-01-21T01:43:44Z",
+        "uri": "https://web.archive.org/web/20200121014344/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2020-01-21T01:43:46Z",
+        "uri": "https://web.archive.org/web/20200121014346/https://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2020-01-21T01:44:17Z",
+        "uri": "https://web.archive.org/web/20200121014417/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2020-01-21T01:44:18Z",
+        "uri": "https://web.archive.org/web/20200121014418/https://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2020-01-21T01:45:17Z",
+        "uri": "https://web.archive.org/web/20200121014517/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2020-01-21T01:45:20Z",
+        "uri": "https://web.archive.org/web/20200121014520/https://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2020-01-21T01:45:27Z",
+        "uri": "https://web.archive.org/web/20200121014527/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2020-01-21T01:45:28Z",
+        "uri": "https://web.archive.org/web/20200121014528/https://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2020-01-21T01:45:30Z",
+        "uri": "https://web.archive.org/web/20200121014530/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2020-01-21T01:45:31Z",
+        "uri": "https://web.archive.org/web/20200121014531/https://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2020-01-21T01:45:32Z",
+        "uri": "https://web.archive.org/web/20200121014532/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2020-01-21T01:45:33Z",
+        "uri": "https://web.archive.org/web/20200121014533/https://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2020-01-21T01:46:13Z",
+        "uri": "https://web.archive.org/web/20200121014613/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2020-01-21T01:46:15Z",
+        "uri": "https://web.archive.org/web/20200121014615/https://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2020-01-21T01:46:16Z",
+        "uri": "https://web.archive.org/web/20200121014616/https://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2020-01-21T01:46:28Z",
+        "uri": "https://web.archive.org/web/20200121014628/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2020-01-21T01:46:29Z",
+        "uri": "https://web.archive.org/web/20200121014629/https://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2020-03-13T21:18:45Z",
+        "uri": "http://archive.md/20200313211845/https://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2020-04-06T14:19:25Z",
+        "uri": "https://web.archive.org/web/20200406141925/https://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2020-04-07T18:56:46Z",
+        "uri": "https://web.archive.org/web/20200407185646/https://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2020-05-05T23:23:51Z",
+        "uri": "https://web.archive.org/web/20200505232351/https://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2020-09-09T10:03:08Z",
+        "uri": "https://web.archive.org/web/20200909100308/http://www.bbc.co.uk/news/health-23179570"
+      },
+      {
+        "datetime": "2020-09-09T14:39:29Z",
+        "uri": "https://web.archive.org/web/20200909143929/https://www.bbc.co.uk/news/health-23179570"
+      }
+    ],
+    "first": {
+      "datetime": "2013-07-05T01:43:48Z",
+      "uri": "https://wayback.archive-it.org/all/20130705014348/http://www.bbc.co.uk/news/health-23179570"
+    },
+    "last": {
+      "datetime": "2020-09-09T14:39:29Z",
+      "uri": "https://web.archive.org/web/20200909143929/https://www.bbc.co.uk/news/health-23179570"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.bbc.co.uk/news/health-23179570",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.bbc.co.uk/news/health-23179570",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.bbc.co.uk/news/health-23179570"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.bbc.co.uk/news/health-23179570"
+}

@@ -1,0 +1,38 @@
+{
+  "original_uri": "https://www.documentcloud.org/documents/7222830-Foege-Letter.html%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.documentcloud.org/documents/7222830-Foege-Letter.html%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T10:35:32Z",
+        "uri": "https://web.archive.org/web/20201007103532/https://www.documentcloud.org/documents/7222830-Foege-Letter.html"
+      },
+      {
+        "datetime": "2020-10-07T20:55:58Z",
+        "uri": "https://web.archive.org/web/20201007205558/https://www.documentcloud.org/documents/7222830-Foege-Letter.html"
+      },
+      {
+        "datetime": "2020-10-07T22:08:02Z",
+        "uri": "https://web.archive.org/web/20201007220802/https://www.documentcloud.org/documents/7222830-Foege-Letter.html"
+      },
+      {
+        "datetime": "2020-10-08T01:51:16Z",
+        "uri": "https://web.archive.org/web/20201008015116/https://www.documentcloud.org/documents/7222830-Foege-Letter.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T10:35:32Z",
+      "uri": "https://web.archive.org/web/20201007103532/https://www.documentcloud.org/documents/7222830-Foege-Letter.html"
+    },
+    "last": {
+      "datetime": "2020-10-08T01:51:16Z",
+      "uri": "https://web.archive.org/web/20201008015116/https://www.documentcloud.org/documents/7222830-Foege-Letter.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.documentcloud.org/documents/7222830-Foege-Letter.html%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.documentcloud.org/documents/7222830-Foege-Letter.html%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.documentcloud.org/documents/7222830-Foege-Letter.html%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.documentcloud.org/documents/7222830-Foege-Letter.html%0A"
+}

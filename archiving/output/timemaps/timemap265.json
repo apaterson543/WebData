@@ -1,0 +1,530 @@
+{
+  "original_uri": "https://eshcs.com/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://eshcs.com/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2011-02-01T12:10:22Z",
+        "uri": "https://web.archive.org/web/20110201121022/http://eshcs.com/"
+      },
+      {
+        "datetime": "2011-02-07T14:43:11Z",
+        "uri": "https://web.archive.org/web/20110207144311/http://www.eshcs.com/"
+      },
+      {
+        "datetime": "2011-04-01T13:11:21Z",
+        "uri": "https://web.archive.org/web/20110401131121/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2011-09-12T02:19:38Z",
+        "uri": "https://web.archive.org/web/20110912021938/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2011-09-23T20:21:35Z",
+        "uri": "https://web.archive.org/web/20110923202135/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2011-10-24T12:34:57Z",
+        "uri": "https://web.archive.org/web/20111024123457/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2011-11-24T04:33:39Z",
+        "uri": "https://web.archive.org/web/20111124043339/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2011-12-24T23:29:25Z",
+        "uri": "https://web.archive.org/web/20111224232925/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2012-01-25T02:49:00Z",
+        "uri": "https://web.archive.org/web/20120125024900/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2012-02-24T18:46:51Z",
+        "uri": "https://web.archive.org/web/20120224184651/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2012-03-26T09:07:30Z",
+        "uri": "https://web.archive.org/web/20120326090730/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2012-04-26T11:43:48Z",
+        "uri": "https://web.archive.org/web/20120426114348/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2012-05-27T19:35:01Z",
+        "uri": "https://web.archive.org/web/20120527193501/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2012-06-28T10:05:58Z",
+        "uri": "https://web.archive.org/web/20120628100558/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2012-08-02T03:18:12Z",
+        "uri": "https://web.archive.org/web/20120802031812/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2012-09-02T01:23:14Z",
+        "uri": "https://web.archive.org/web/20120902012314/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2012-12-01T05:50:26Z",
+        "uri": "https://web.archive.org/web/20121201055026/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2013-01-01T08:28:49Z",
+        "uri": "https://web.archive.org/web/20130101082849/http://eshcs.com:80/"
+      },
+      {
+        "datetime": "2013-02-01T07:06:52Z",
+        "uri": "https://web.archive.org/web/20130201070652/http://eshcs.com:80/"
+      },
+      {
+        "datetime": "2013-03-04T11:03:06Z",
+        "uri": "https://web.archive.org/web/20130304110306/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2013-04-05T00:30:25Z",
+        "uri": "https://web.archive.org/web/20130405003025/http://eshcs.com:80/"
+      },
+      {
+        "datetime": "2013-05-06T03:44:15Z",
+        "uri": "https://web.archive.org/web/20130506034415/http://eshcs.com:80/"
+      },
+      {
+        "datetime": "2013-05-30T00:41:54Z",
+        "uri": "https://web.archive.org/web/20130530004154/http://eshcs.com/"
+      },
+      {
+        "datetime": "2013-06-06T05:06:40Z",
+        "uri": "https://web.archive.org/web/20130606050640/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2013-07-08T00:07:54Z",
+        "uri": "https://web.archive.org/web/20130708000754/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2013-08-08T06:18:20Z",
+        "uri": "https://web.archive.org/web/20130808061820/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2013-09-10T03:07:08Z",
+        "uri": "https://web.archive.org/web/20130910030708/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2013-10-11T12:04:48Z",
+        "uri": "https://web.archive.org/web/20131011120448/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2013-11-12T21:30:12Z",
+        "uri": "https://web.archive.org/web/20131112213012/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2013-12-14T13:55:56Z",
+        "uri": "https://web.archive.org/web/20131214135556/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2013-12-30T17:36:06Z",
+        "uri": "https://web.archive.org/web/20131230173606/http://eshcs.com/"
+      },
+      {
+        "datetime": "2014-03-20T22:36:36Z",
+        "uri": "https://web.archive.org/web/20140320223636/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2014-03-28T23:36:58Z",
+        "uri": "https://web.archive.org/web/20140328233658/http://www.eshcs.com/"
+      },
+      {
+        "datetime": "2014-04-21T16:27:17Z",
+        "uri": "https://web.archive.org/web/20140421162717/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2014-05-17T12:25:56Z",
+        "uri": "https://web.archive.org/web/20140517122556/http://eshcs.com/"
+      },
+      {
+        "datetime": "2014-05-23T17:39:38Z",
+        "uri": "https://web.archive.org/web/20140523173938/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2014-06-27T04:06:12Z",
+        "uri": "https://web.archive.org/web/20140627040612/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2014-07-04T00:48:45Z",
+        "uri": "https://web.archive.org/web/20140704004845/http://www.eshcs.com/"
+      },
+      {
+        "datetime": "2014-07-28T20:12:20Z",
+        "uri": "https://web.archive.org/web/20140728201220/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2014-09-02T08:31:24Z",
+        "uri": "https://web.archive.org/web/20140902083124/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2014-09-30T16:27:11Z",
+        "uri": "https://web.archive.org/web/20140930162711/http://www.eshcs.com/"
+      },
+      {
+        "datetime": "2014-12-17T08:45:11Z",
+        "uri": "https://web.archive.org/web/20141217084511/http://eshcs.com/"
+      },
+      {
+        "datetime": "2015-01-02T04:44:05Z",
+        "uri": "https://web.archive.org/web/20150102044405/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2015-02-22T01:25:45Z",
+        "uri": "https://web.archive.org/web/20150222012545/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2015-03-15T08:23:25Z",
+        "uri": "https://web.archive.org/web/20150315082325/http://www.eshcs.com/"
+      },
+      {
+        "datetime": "2015-03-28T21:24:42Z",
+        "uri": "https://web.archive.org/web/20150328212442/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2015-04-28T16:01:39Z",
+        "uri": "https://web.archive.org/web/20150428160139/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2015-05-30T11:14:01Z",
+        "uri": "https://web.archive.org/web/20150530111401/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2015-06-30T21:21:40Z",
+        "uri": "https://web.archive.org/web/20150630212140/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2015-08-01T06:37:29Z",
+        "uri": "https://web.archive.org/web/20150801063729/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2015-08-01T10:13:49Z",
+        "uri": "https://web.archive.org/web/20150801101349/http://eshcs.com/"
+      },
+      {
+        "datetime": "2015-09-05T05:16:04Z",
+        "uri": "https://web.archive.org/web/20150905051604/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2015-09-15T07:51:50Z",
+        "uri": "https://web.archive.org/web/20150915075150/http://www.eshcs.com/"
+      },
+      {
+        "datetime": "2016-01-11T14:57:44Z",
+        "uri": "https://web.archive.org/web/20160111145744/http://eshcs.com/"
+      },
+      {
+        "datetime": "2016-03-14T06:21:46Z",
+        "uri": "https://web.archive.org/web/20160314062146/http://eshcs.com/"
+      },
+      {
+        "datetime": "2016-04-07T07:49:44Z",
+        "uri": "https://web.archive.org/web/20160407074944/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2016-05-15T17:43:48Z",
+        "uri": "https://web.archive.org/web/20160515174348/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2016-08-08T18:23:50Z",
+        "uri": "https://web.archive.org/web/20160808182350/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2016-08-10T23:25:55Z",
+        "uri": "https://web.archive.org/web/20160810232555/http://www.eshcs.com/"
+      },
+      {
+        "datetime": "2016-09-09T13:17:01Z",
+        "uri": "https://web.archive.org/web/20160909131701/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2016-10-03T11:38:33Z",
+        "uri": "https://web.archive.org/web/20161003113833/http://eshcs.com/"
+      },
+      {
+        "datetime": "2016-11-12T01:01:12Z",
+        "uri": "https://web.archive.org/web/20161112010112/http://www.eshcs.com:80/?"
+      },
+      {
+        "datetime": "2016-11-28T22:07:50Z",
+        "uri": "https://web.archive.org/web/20161128220750/http://www.eshcs.com/"
+      },
+      {
+        "datetime": "2017-02-13T09:01:49Z",
+        "uri": "https://web.archive.org/web/20170213090149/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2017-05-04T13:47:52Z",
+        "uri": "https://web.archive.org/web/20170504134752/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2017-05-18T17:33:15Z",
+        "uri": "https://web.archive.org/web/20170518173315/http://eshcs.com/"
+      },
+      {
+        "datetime": "2017-06-05T06:57:13Z",
+        "uri": "https://web.archive.org/web/20170605065713/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2017-06-06T07:37:08Z",
+        "uri": "https://web.archive.org/web/20170606073708/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2017-06-07T16:48:21Z",
+        "uri": "https://web.archive.org/web/20170607164821/http://eshcs.com:80/"
+      },
+      {
+        "datetime": "2017-07-07T05:11:47Z",
+        "uri": "https://web.archive.org/web/20170707051147/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2017-08-07T22:02:35Z",
+        "uri": "https://web.archive.org/web/20170807220235/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2017-09-01T02:46:32Z",
+        "uri": "https://web.archive.org/web/20170901024632/http://eshcs.com:80/"
+      },
+      {
+        "datetime": "2017-09-14T03:57:49Z",
+        "uri": "https://web.archive.org/web/20170914035749/http://eshcs.com/"
+      },
+      {
+        "datetime": "2017-09-30T01:40:16Z",
+        "uri": "https://web.archive.org/web/20170930014016/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2017-10-01T19:02:51Z",
+        "uri": "https://web.archive.org/web/20171001190251/http://eshcs.com:80/"
+      },
+      {
+        "datetime": "2017-10-31T09:30:43Z",
+        "uri": "https://web.archive.org/web/20171031093043/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2017-11-01T22:19:10Z",
+        "uri": "https://web.archive.org/web/20171101221910/http://eshcs.com:80/"
+      },
+      {
+        "datetime": "2017-12-01T06:50:06Z",
+        "uri": "https://web.archive.org/web/20171201065006/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2017-12-03T02:11:51Z",
+        "uri": "https://web.archive.org/web/20171203021151/http://eshcs.com:80/"
+      },
+      {
+        "datetime": "2018-01-01T04:53:07Z",
+        "uri": "https://web.archive.org/web/20180101045307/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2018-01-03T04:31:27Z",
+        "uri": "https://web.archive.org/web/20180103043127/http://eshcs.com:80/"
+      },
+      {
+        "datetime": "2018-01-31T23:33:16Z",
+        "uri": "https://web.archive.org/web/20180131233316/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2018-02-03T12:02:30Z",
+        "uri": "https://web.archive.org/web/20180203120230/http://eshcs.com:80/"
+      },
+      {
+        "datetime": "2018-03-04T18:15:36Z",
+        "uri": "https://web.archive.org/web/20180304181536/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2018-03-06T15:58:44Z",
+        "uri": "https://web.archive.org/web/20180306155844/http://eshcs.com:80/"
+      },
+      {
+        "datetime": "2018-03-15T07:53:20Z",
+        "uri": "https://web.archive.org/web/20180315075320/http://eshcs.com/"
+      },
+      {
+        "datetime": "2018-04-04T18:38:41Z",
+        "uri": "https://web.archive.org/web/20180404183841/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2018-04-06T21:00:08Z",
+        "uri": "https://web.archive.org/web/20180406210008/http://eshcs.com:80/"
+      },
+      {
+        "datetime": "2018-04-11T23:37:04Z",
+        "uri": "https://web.archive.org/web/20180411233704/https://eshcs.com/"
+      },
+      {
+        "datetime": "2018-04-13T09:35:23Z",
+        "uri": "https://web.archive.org/web/20180413093523/https://eshcs.com/"
+      },
+      {
+        "datetime": "2018-05-05T21:23:35Z",
+        "uri": "https://web.archive.org/web/20180505212335/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2018-06-06T09:38:40Z",
+        "uri": "https://web.archive.org/web/20180606093840/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2018-07-07T17:11:14Z",
+        "uri": "https://web.archive.org/web/20180707171114/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2018-08-06T21:29:27Z",
+        "uri": "https://web.archive.org/web/20180806212927/http://eshcs.com/"
+      },
+      {
+        "datetime": "2018-08-08T04:34:06Z",
+        "uri": "https://web.archive.org/web/20180808043406/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2018-08-23T07:33:53Z",
+        "uri": "https://web.archive.org/web/20180823073353/https://eshcs.com/"
+      },
+      {
+        "datetime": "2018-09-08T19:55:12Z",
+        "uri": "https://web.archive.org/web/20180908195512/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2018-10-10T20:00:22Z",
+        "uri": "https://web.archive.org/web/20181010200022/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2018-11-11T20:24:19Z",
+        "uri": "https://web.archive.org/web/20181111202419/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2018-12-12T22:16:47Z",
+        "uri": "https://web.archive.org/web/20181212221647/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2018-12-27T20:16:43Z",
+        "uri": "https://web.archive.org/web/20181227201643/http://eshcs.com/"
+      },
+      {
+        "datetime": "2019-01-09T23:37:53Z",
+        "uri": "https://web.archive.org/web/20190109233753/https://eshcs.com/"
+      },
+      {
+        "datetime": "2019-01-13T07:12:58Z",
+        "uri": "https://web.archive.org/web/20190113071258/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2019-02-13T04:26:11Z",
+        "uri": "https://web.archive.org/web/20190213042611/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2019-03-16T17:16:40Z",
+        "uri": "https://web.archive.org/web/20190316171640/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2019-04-16T20:39:34Z",
+        "uri": "https://web.archive.org/web/20190416203934/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2019-05-17T17:50:25Z",
+        "uri": "https://web.archive.org/web/20190517175025/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2019-05-18T17:23:52Z",
+        "uri": "https://web.archive.org/web/20190518172352/http://eshcs.com:80/"
+      },
+      {
+        "datetime": "2019-06-17T19:22:51Z",
+        "uri": "https://web.archive.org/web/20190617192251/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2019-07-09T09:11:12Z",
+        "uri": "https://web.archive.org/web/20190709091112/http://eshcs.com/"
+      },
+      {
+        "datetime": "2019-07-19T05:31:02Z",
+        "uri": "https://web.archive.org/web/20190719053102/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2019-08-19T20:58:16Z",
+        "uri": "https://web.archive.org/web/20190819205816/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2019-09-20T08:16:09Z",
+        "uri": "https://web.archive.org/web/20190920081609/http://www.eshcs.com:80/"
+      },
+      {
+        "datetime": "2019-10-07T06:28:38Z",
+        "uri": "https://web.archive.org/web/20191007062838/http://eshcs.com:80/"
+      },
+      {
+        "datetime": "2019-12-06T22:36:46Z",
+        "uri": "https://web.archive.org/web/20191206223646/http://eshcs.com:80/"
+      },
+      {
+        "datetime": "2020-01-09T17:03:32Z",
+        "uri": "https://web.archive.org/web/20200109170332/https://eshcs.com/"
+      },
+      {
+        "datetime": "2020-02-05T08:39:47Z",
+        "uri": "https://web.archive.org/web/20200205083947/http://eshcs.com:80/"
+      },
+      {
+        "datetime": "2020-02-10T23:48:49Z",
+        "uri": "https://web.archive.org/web/20200210234849/http://www.eshcs.com/"
+      },
+      {
+        "datetime": "2020-02-10T23:48:51Z",
+        "uri": "https://web.archive.org/web/20200210234851/https://eshcs.com/"
+      },
+      {
+        "datetime": "2020-05-09T16:16:34Z",
+        "uri": "https://web.archive.org/web/20200509161634/http://eshcs.com/"
+      },
+      {
+        "datetime": "2020-05-13T19:30:06Z",
+        "uri": "https://web.archive.org/web/20200513193006/https://eshcs.com/"
+      },
+      {
+        "datetime": "2020-06-25T15:08:11Z",
+        "uri": "https://web.archive.org/web/20200625150811/http://eshcs.com/"
+      },
+      {
+        "datetime": "2020-07-21T18:08:15Z",
+        "uri": "https://web.archive.org/web/20200721180815/http://eshcs.com/"
+      },
+      {
+        "datetime": "2020-07-23T01:35:32Z",
+        "uri": "https://web.archive.org/web/20200723013532/https://eshcs.com/"
+      },
+      {
+        "datetime": "2020-08-16T23:09:01Z",
+        "uri": "https://web.archive.org/web/20200816230901/http://eshcs.com/"
+      },
+      {
+        "datetime": "2020-08-16T23:09:02Z",
+        "uri": "https://web.archive.org/web/20200816230902/https://eshcs.com/"
+      },
+      {
+        "datetime": "2020-08-16T23:09:07Z",
+        "uri": "https://web.archive.org/web/20200816230907/https://eshcs.com/"
+      }
+    ],
+    "first": {
+      "datetime": "2011-02-01T12:10:22Z",
+      "uri": "https://web.archive.org/web/20110201121022/http://eshcs.com/"
+    },
+    "last": {
+      "datetime": "2020-08-16T23:09:07Z",
+      "uri": "https://web.archive.org/web/20200816230907/https://eshcs.com/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://eshcs.com/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://eshcs.com/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://eshcs.com/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://eshcs.com/%0A"
+}

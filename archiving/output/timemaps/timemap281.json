@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.abqjournal.com/1504444/nm-restaurants-brace-for-colder-weather.html%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.abqjournal.com/1504444/nm-restaurants-brace-for-colder-weather.html%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-08T08:26:41Z",
+        "uri": "https://web.archive.org/web/20201008082641/https://www.abqjournal.com/1504444/nm-restaurants-brace-for-colder-weather.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-08T08:26:41Z",
+      "uri": "https://web.archive.org/web/20201008082641/https://www.abqjournal.com/1504444/nm-restaurants-brace-for-colder-weather.html"
+    },
+    "last": {
+      "datetime": "2020-10-08T08:26:41Z",
+      "uri": "https://web.archive.org/web/20201008082641/https://www.abqjournal.com/1504444/nm-restaurants-brace-for-colder-weather.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.abqjournal.com/1504444/nm-restaurants-brace-for-colder-weather.html%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.abqjournal.com/1504444/nm-restaurants-brace-for-colder-weather.html%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.abqjournal.com/1504444/nm-restaurants-brace-for-colder-weather.html%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.abqjournal.com/1504444/nm-restaurants-brace-for-colder-weather.html%0A"
+}

@@ -1,0 +1,42 @@
+{
+  "original_uri": "https://www.thenumbersdontaddup.com/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.thenumbersdontaddup.com/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-07-20T13:11:24Z",
+        "uri": "https://web.archive.org/web/20200720131124/https://www.thenumbersdontaddup.com/"
+      },
+      {
+        "datetime": "2020-09-16T03:36:14Z",
+        "uri": "https://web.archive.org/web/20200916033614/https://thenumbersdontaddup.com/"
+      },
+      {
+        "datetime": "2020-09-17T02:08:42Z",
+        "uri": "https://web.archive.org/web/20200917020842/https://www.thenumbersdontaddup.com/"
+      },
+      {
+        "datetime": "2020-09-17T02:09:44Z",
+        "uri": "https://web.archive.org/web/20200917020944/https://www.thenumbersdontaddup.com/"
+      },
+      {
+        "datetime": "2020-10-03T16:33:02Z",
+        "uri": "https://web.archive.org/web/20201003163302/https://thenumbersdontaddup.com/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-07-20T13:11:24Z",
+      "uri": "https://web.archive.org/web/20200720131124/https://www.thenumbersdontaddup.com/"
+    },
+    "last": {
+      "datetime": "2020-10-03T16:33:02Z",
+      "uri": "https://web.archive.org/web/20201003163302/https://thenumbersdontaddup.com/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.thenumbersdontaddup.com/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.thenumbersdontaddup.com/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.thenumbersdontaddup.com/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.thenumbersdontaddup.com/%0A"
+}

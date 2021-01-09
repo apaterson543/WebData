@@ -1,0 +1,6 @@
+age,gender,occupation,user id,zip code,correlation
+34.0,M,programmer,600.0,02320,-1.0
+10.0,M,student,471.0,77459,-1.0
+24.0,F,student,348.0,45660,-1.0
+22.0,F,administrator,180.0,60202,-1.0
+37.0,M,programmer,55.0,01331,-1.000000000000004

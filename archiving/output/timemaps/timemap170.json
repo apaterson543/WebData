@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.washingtonpost.com/podcasts/daily-202-big-idea/the-white-house-coronavirus-outbreak-is-an-epic-disaster/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.washingtonpost.com/podcasts/daily-202-big-idea/the-white-house-coronavirus-outbreak-is-an-epic-disaster/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T21:11:04Z",
+        "uri": "https://web.archive.org/web/20201007211104/https://www.washingtonpost.com/podcasts/daily-202-big-idea/the-white-house-coronavirus-outbreak-is-an-epic-disaster/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T21:11:04Z",
+      "uri": "https://web.archive.org/web/20201007211104/https://www.washingtonpost.com/podcasts/daily-202-big-idea/the-white-house-coronavirus-outbreak-is-an-epic-disaster/"
+    },
+    "last": {
+      "datetime": "2020-10-07T21:11:04Z",
+      "uri": "https://web.archive.org/web/20201007211104/https://www.washingtonpost.com/podcasts/daily-202-big-idea/the-white-house-coronavirus-outbreak-is-an-epic-disaster/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.washingtonpost.com/podcasts/daily-202-big-idea/the-white-house-coronavirus-outbreak-is-an-epic-disaster/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.washingtonpost.com/podcasts/daily-202-big-idea/the-white-house-coronavirus-outbreak-is-an-epic-disaster/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.washingtonpost.com/podcasts/daily-202-big-idea/the-white-house-coronavirus-outbreak-is-an-epic-disaster/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.washingtonpost.com/podcasts/daily-202-big-idea/the-white-house-coronavirus-outbreak-is-an-epic-disaster/%0A"
+}

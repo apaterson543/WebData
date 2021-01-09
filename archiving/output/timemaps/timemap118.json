@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://gulfnews.com/world/americas/after-white-house-covid-19-breaches-pentagon-1.74404055%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://gulfnews.com/world/americas/after-white-house-covid-19-breaches-pentagon-1.74404055%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T22:53:54Z",
+        "uri": "https://web.archive.org/web/20201007225354/https://gulfnews.com/world/americas/after-white-house-covid-19-breaches-pentagon-1.74404055"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T22:53:54Z",
+      "uri": "https://web.archive.org/web/20201007225354/https://gulfnews.com/world/americas/after-white-house-covid-19-breaches-pentagon-1.74404055"
+    },
+    "last": {
+      "datetime": "2020-10-07T22:53:54Z",
+      "uri": "https://web.archive.org/web/20201007225354/https://gulfnews.com/world/americas/after-white-house-covid-19-breaches-pentagon-1.74404055"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://gulfnews.com/world/americas/after-white-house-covid-19-breaches-pentagon-1.74404055%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://gulfnews.com/world/americas/after-white-house-covid-19-breaches-pentagon-1.74404055%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://gulfnews.com/world/americas/after-white-house-covid-19-breaches-pentagon-1.74404055%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://gulfnews.com/world/americas/after-white-house-covid-19-breaches-pentagon-1.74404055%0A"
+}

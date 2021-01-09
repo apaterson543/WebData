@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.reuters.com/article/us-health-coronavirus-latam-poverty-insi/virus-shatters-latin-americas-middle-class-dreams-idUSKBN26S23D%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.reuters.com/article/us-health-coronavirus-latam-poverty-insi/virus-shatters-latin-americas-middle-class-dreams-idUSKBN26S23D%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T13:27:40Z",
+        "uri": "https://web.archive.org/web/20201007132740/https://www.reuters.com/article/us-health-coronavirus-latam-poverty-insi/virus-shatters-latin-americas-middle-class-dreams-idUSKBN26S23D"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T13:27:40Z",
+      "uri": "https://web.archive.org/web/20201007132740/https://www.reuters.com/article/us-health-coronavirus-latam-poverty-insi/virus-shatters-latin-americas-middle-class-dreams-idUSKBN26S23D"
+    },
+    "last": {
+      "datetime": "2020-10-07T13:27:40Z",
+      "uri": "https://web.archive.org/web/20201007132740/https://www.reuters.com/article/us-health-coronavirus-latam-poverty-insi/virus-shatters-latin-americas-middle-class-dreams-idUSKBN26S23D"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.reuters.com/article/us-health-coronavirus-latam-poverty-insi/virus-shatters-latin-americas-middle-class-dreams-idUSKBN26S23D%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.reuters.com/article/us-health-coronavirus-latam-poverty-insi/virus-shatters-latin-americas-middle-class-dreams-idUSKBN26S23D%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.reuters.com/article/us-health-coronavirus-latam-poverty-insi/virus-shatters-latin-americas-middle-class-dreams-idUSKBN26S23D%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.reuters.com/article/us-health-coronavirus-latam-poverty-insi/virus-shatters-latin-americas-middle-class-dreams-idUSKBN26S23D%0A"
+}

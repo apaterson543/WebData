@@ -1,0 +1,3 @@
+https://rs.n1info.com/English/NEWS/a658168/Coronavirus-UPDATE-1-death-121new-cases.html
+
+b'Bad RequestBad Request - Invalid URLHTTP Error 400. The request URL is invalid.'

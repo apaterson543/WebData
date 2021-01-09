@@ -1,0 +1,2110 @@
+{
+  "original_uri": "https://www.jpost.com/coronavirus%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.jpost.com/coronavirus%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-02-19T19:47:49Z",
+        "uri": "https://web.archive.org/web/20200219194749/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-02-20T21:04:52Z",
+        "uri": "https://web.archive.org/web/20200220210452/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-02-21T21:18:04Z",
+        "uri": "https://web.archive.org/web/20200221211804/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-02-22T21:37:40Z",
+        "uri": "https://web.archive.org/web/20200222213740/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-02-23T22:25:24Z",
+        "uri": "https://web.archive.org/web/20200223222524/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-02-24T23:26:44Z",
+        "uri": "https://web.archive.org/web/20200224232644/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-02-26T00:13:53Z",
+        "uri": "https://web.archive.org/web/20200226001353/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-02-27T01:17:48Z",
+        "uri": "https://web.archive.org/web/20200227011748/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-02-28T02:28:11Z",
+        "uri": "https://web.archive.org/web/20200228022811/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-02-29T03:17:20Z",
+        "uri": "https://web.archive.org/web/20200229031720/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-03-16T16:15:59Z",
+        "uri": "https://web.archive.org/web/20200316161559/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-03-17T05:06:45Z",
+        "uri": "https://web.archive.org/web/20200317050645/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-03-17T14:13:07Z",
+        "uri": "https://web.archive.org/web/20200317141307/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-03-17T14:39:41Z",
+        "uri": "https://web.archive.org/web/20200317143941/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-03-18T15:10:25Z",
+        "uri": "https://web.archive.org/web/20200318151025/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-03-19T14:41:35Z",
+        "uri": "https://web.archive.org/web/20200319144135/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-03-19T15:58:21Z",
+        "uri": "https://web.archive.org/web/20200319155821/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-03-20T16:16:01Z",
+        "uri": "https://web.archive.org/web/20200320161601/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-03-20T22:14:30Z",
+        "uri": "https://web.archive.org/web/20200320221430/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-03-21T18:28:53Z",
+        "uri": "https://web.archive.org/web/20200321182853/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-03-22T06:15:13Z",
+        "uri": "https://web.archive.org/web/20200322061513/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-03-22T19:07:21Z",
+        "uri": "https://web.archive.org/web/20200322190721/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-03-23T20:10:37Z",
+        "uri": "https://web.archive.org/web/20200323201037/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-03-24T20:36:47Z",
+        "uri": "https://web.archive.org/web/20200324203647/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-03-25T07:41:56Z",
+        "uri": "https://web.archive.org/web/20200325074156/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-03-25T21:24:29Z",
+        "uri": "https://web.archive.org/web/20200325212429/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-03-26T14:54:35Z",
+        "uri": "https://web.archive.org/web/20200326145435/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-03-26T22:26:47Z",
+        "uri": "https://web.archive.org/web/20200326222647/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-03-27T03:07:17Z",
+        "uri": "https://web.archive.org/web/20200327030717/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-03-27T23:16:35Z",
+        "uri": "https://web.archive.org/web/20200327231635/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-03-27T23:26:49Z",
+        "uri": "https://web.archive.org/web/20200327232649/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-03-27T23:26:49Z",
+        "uri": "https://web.archive.org/web/20200327232649/http://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-03-28T01:23:35Z",
+        "uri": "https://web.archive.org/web/20200328012335/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-03-28T17:26:47Z",
+        "uri": "https://web.archive.org/web/20200328172647/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-03-28T19:35:52Z",
+        "uri": "https://web.archive.org/web/20200328193552/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-03-28T19:35:54Z",
+        "uri": "https://web.archive.org/web/20200328193554/http://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-03-29T00:12:24Z",
+        "uri": "https://web.archive.org/web/20200329001224/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-03-29T15:26:52Z",
+        "uri": "https://web.archive.org/web/20200329152652/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-03-29T22:26:04Z",
+        "uri": "https://web.archive.org/web/20200329222604/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-03-30T01:00:11Z",
+        "uri": "https://web.archive.org/web/20200330010011/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-03-30T04:42:00Z",
+        "uri": "https://web.archive.org/web/20200330044200/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-03-30T22:20:33Z",
+        "uri": "https://web.archive.org/web/20200330222033/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-03-30T23:00:02Z",
+        "uri": "https://web.archive.org/web/20200330230002/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-03-31T01:53:17Z",
+        "uri": "https://web.archive.org/web/20200331015317/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-03-31T13:45:58Z",
+        "uri": "https://web.archive.org/web/20200331134558/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-03-31T13:45:59Z",
+        "uri": "https://web.archive.org/web/20200331134559/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-03-31T13:45:59Z",
+        "uri": "https://web.archive.org/web/20200331134559/http://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-03-31T20:07:31Z",
+        "uri": "https://web.archive.org/web/20200331200731/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-03-31T22:25:56Z",
+        "uri": "https://web.archive.org/web/20200331222556/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-01T02:48:05Z",
+        "uri": "https://web.archive.org/web/20200401024805/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-01T20:44:22Z",
+        "uri": "https://web.archive.org/web/20200401204422/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-02T03:42:03Z",
+        "uri": "https://web.archive.org/web/20200402034203/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-02T18:41:01Z",
+        "uri": "https://web.archive.org/web/20200402184101/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-03T04:08:55Z",
+        "uri": "https://web.archive.org/web/20200403040855/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-03T11:05:57Z",
+        "uri": "https://web.archive.org/web/20200403110557/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-04T05:09:53Z",
+        "uri": "https://web.archive.org/web/20200404050953/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-04T23:56:26Z",
+        "uri": "https://web.archive.org/web/20200404235626/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-04T23:56:27Z",
+        "uri": "https://web.archive.org/web/20200404235627/http://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-04T23:56:28Z",
+        "uri": "https://web.archive.org/web/20200404235628/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-05T01:58:29Z",
+        "uri": "https://web.archive.org/web/20200405015829/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-05T04:16:44Z",
+        "uri": "https://web.archive.org/web/20200405041644/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-05T04:16:44Z",
+        "uri": "https://web.archive.org/web/20200405041644/http://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-05T06:02:33Z",
+        "uri": "https://web.archive.org/web/20200405060233/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-06T06:26:32Z",
+        "uri": "https://web.archive.org/web/20200406062632/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-06T11:39:07Z",
+        "uri": "https://web.archive.org/web/20200406113907/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-07T06:59:38Z",
+        "uri": "https://web.archive.org/web/20200407065938/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-07T10:38:20Z",
+        "uri": "https://web.archive.org/web/20200407103820/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-07T14:11:51Z",
+        "uri": "https://web.archive.org/web/20200407141151/http://www.jpost.com:80/coronavirus"
+      },
+      {
+        "datetime": "2020-04-08T07:28:42Z",
+        "uri": "https://web.archive.org/web/20200408072842/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-08T09:08:25Z",
+        "uri": "https://web.archive.org/web/20200408090825/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-08T10:35:43Z",
+        "uri": "https://web.archive.org/web/20200408103543/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-09T02:26:05Z",
+        "uri": "https://web.archive.org/web/20200409022605/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-09T02:26:05Z",
+        "uri": "https://web.archive.org/web/20200409022605/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-09T08:00:58Z",
+        "uri": "https://web.archive.org/web/20200409080058/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-09T08:31:55Z",
+        "uri": "https://web.archive.org/web/20200409083155/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-09T12:19:56Z",
+        "uri": "https://web.archive.org/web/20200409121956/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-09T12:19:56Z",
+        "uri": "https://web.archive.org/web/20200409121956/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-10T06:15:31Z",
+        "uri": "https://web.archive.org/web/20200410061531/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-10T08:43:12Z",
+        "uri": "https://web.archive.org/web/20200410084312/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-10T23:25:10Z",
+        "uri": "https://web.archive.org/web/20200410232510/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-11T05:33:42Z",
+        "uri": "https://web.archive.org/web/20200411053342/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-11T05:44:43Z",
+        "uri": "https://web.archive.org/web/20200411054443/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-11T09:39:32Z",
+        "uri": "https://web.archive.org/web/20200411093932/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-12T07:12:45Z",
+        "uri": "https://web.archive.org/web/20200412071245/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-12T10:35:39Z",
+        "uri": "https://web.archive.org/web/20200412103539/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-12T18:55:27Z",
+        "uri": "https://web.archive.org/web/20200412185527/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-13T11:28:08Z",
+        "uri": "https://web.archive.org/web/20200413112808/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-13T21:48:01Z",
+        "uri": "https://web.archive.org/web/20200413214801/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-13T23:18:20Z",
+        "uri": "https://web.archive.org/web/20200413231820/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-14T12:22:51Z",
+        "uri": "https://web.archive.org/web/20200414122251/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-15T06:57:49Z",
+        "uri": "https://web.archive.org/web/20200415065749/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-15T06:57:51Z",
+        "uri": "https://web.archive.org/web/20200415065751/http://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-15T06:57:53Z",
+        "uri": "https://web.archive.org/web/20200415065753/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-15T07:28:57Z",
+        "uri": "https://web.archive.org/web/20200415072857/http://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-15T08:02:58Z",
+        "uri": "https://web.archive.org/web/20200415080258/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-15T14:05:34Z",
+        "uri": "https://web.archive.org/web/20200415140534/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-15T14:05:37Z",
+        "uri": "https://web.archive.org/web/20200415140537/http://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-15T14:05:39Z",
+        "uri": "https://web.archive.org/web/20200415140539/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-15T17:01:36Z",
+        "uri": "https://web.archive.org/web/20200415170136/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-16T17:38:24Z",
+        "uri": "https://web.archive.org/web/20200416173824/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-17T18:15:33Z",
+        "uri": "https://web.archive.org/web/20200417181533/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-18T09:42:42Z",
+        "uri": "https://web.archive.org/web/20200418094242/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-18T19:11:01Z",
+        "uri": "https://web.archive.org/web/20200418191101/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-19T19:52:47Z",
+        "uri": "https://web.archive.org/web/20200419195247/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-20T20:15:08Z",
+        "uri": "https://web.archive.org/web/20200420201508/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-21T21:10:15Z",
+        "uri": "https://web.archive.org/web/20200421211015/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-22T21:23:59Z",
+        "uri": "https://web.archive.org/web/20200422212359/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-23T01:22:08Z",
+        "uri": "https://web.archive.org/web/20200423012208/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-23T21:52:08Z",
+        "uri": "https://web.archive.org/web/20200423215208/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-24T23:14:10Z",
+        "uri": "https://web.archive.org/web/20200424231410/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-25T23:39:30Z",
+        "uri": "https://web.archive.org/web/20200425233930/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-27T00:08:21Z",
+        "uri": "https://web.archive.org/web/20200427000821/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-28T00:55:56Z",
+        "uri": "https://web.archive.org/web/20200428005556/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-28T22:31:05Z",
+        "uri": "https://web.archive.org/web/20200428223105/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-29T01:36:08Z",
+        "uri": "https://web.archive.org/web/20200429013608/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-30T02:16:51Z",
+        "uri": "https://web.archive.org/web/20200430021651/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-30T05:23:22Z",
+        "uri": "https://web.archive.org/web/20200430052322/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-30T12:41:53Z",
+        "uri": "https://web.archive.org/web/20200430124153/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-04-30T13:31:46Z",
+        "uri": "https://web.archive.org/web/20200430133146/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-01T02:36:42Z",
+        "uri": "https://web.archive.org/web/20200501023642/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-01T07:24:54Z",
+        "uri": "https://web.archive.org/web/20200501072454/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-01T12:23:19Z",
+        "uri": "https://web.archive.org/web/20200501122319/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-02T05:26:10Z",
+        "uri": "https://web.archive.org/web/20200502052610/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-02T15:52:20Z",
+        "uri": "https://web.archive.org/web/20200502155220/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-02T15:52:20Z",
+        "uri": "https://web.archive.org/web/20200502155220/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-03T06:23:23Z",
+        "uri": "https://web.archive.org/web/20200503062323/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-04T07:08:31Z",
+        "uri": "https://web.archive.org/web/20200504070831/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-04T14:59:05Z",
+        "uri": "https://web.archive.org/web/20200504145905/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-05T08:15:57Z",
+        "uri": "https://web.archive.org/web/20200505081557/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-05T11:51:29Z",
+        "uri": "https://web.archive.org/web/20200505115129/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-06T08:38:26Z",
+        "uri": "https://web.archive.org/web/20200506083826/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-06T23:35:45Z",
+        "uri": "https://web.archive.org/web/20200506233545/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-07T09:34:54Z",
+        "uri": "https://web.archive.org/web/20200507093454/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-08T10:24:40Z",
+        "uri": "https://web.archive.org/web/20200508102440/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-09T00:06:52Z",
+        "uri": "https://web.archive.org/web/20200509000652/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-09T11:10:48Z",
+        "uri": "https://web.archive.org/web/20200509111048/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-09T11:18:18Z",
+        "uri": "https://web.archive.org/web/20200509111818/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-10T13:38:55Z",
+        "uri": "https://web.archive.org/web/20200510133855/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-11T14:47:22Z",
+        "uri": "https://web.archive.org/web/20200511144722/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-12T03:40:44Z",
+        "uri": "https://web.archive.org/web/20200512034044/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-12T16:14:18Z",
+        "uri": "https://web.archive.org/web/20200512161418/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-13T17:15:47Z",
+        "uri": "https://web.archive.org/web/20200513171547/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-13T17:30:19Z",
+        "uri": "https://web.archive.org/web/20200513173019/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-14T05:06:26Z",
+        "uri": "https://web.archive.org/web/20200514050626/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-14T10:20:06Z",
+        "uri": "https://web.archive.org/web/20200514102006/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-14T18:28:26Z",
+        "uri": "https://web.archive.org/web/20200514182826/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-15T19:29:42Z",
+        "uri": "https://web.archive.org/web/20200515192942/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-16T20:52:40Z",
+        "uri": "https://web.archive.org/web/20200516205240/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-17T21:38:18Z",
+        "uri": "https://web.archive.org/web/20200517213818/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-18T22:24:40Z",
+        "uri": "https://web.archive.org/web/20200518222440/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-19T22:44:52Z",
+        "uri": "https://web.archive.org/web/20200519224452/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-20T23:07:03Z",
+        "uri": "https://web.archive.org/web/20200520230703/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-21T03:39:45Z",
+        "uri": "https://web.archive.org/web/20200521033945/http://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-21T03:39:46Z",
+        "uri": "https://web.archive.org/web/20200521033946/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-21T04:59:07Z",
+        "uri": "https://web.archive.org/web/20200521045907/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-21T19:56:17Z",
+        "uri": "https://web.archive.org/web/20200521195617/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-22T00:08:20Z",
+        "uri": "https://web.archive.org/web/20200522000820/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-22T11:27:04Z",
+        "uri": "https://web.archive.org/web/20200522112704/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-23T00:49:31Z",
+        "uri": "https://web.archive.org/web/20200523004931/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-23T04:06:39Z",
+        "uri": "https://web.archive.org/web/20200523040639/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-23T07:10:04Z",
+        "uri": "https://web.archive.org/web/20200523071004/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-23T21:58:03Z",
+        "uri": "https://web.archive.org/web/20200523215803/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-24T01:48:22Z",
+        "uri": "https://web.archive.org/web/20200524014822/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-24T13:29:38Z",
+        "uri": "https://web.archive.org/web/20200524132938/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-24T19:44:17Z",
+        "uri": "https://web.archive.org/web/20200524194417/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-25T02:14:54Z",
+        "uri": "https://web.archive.org/web/20200525021454/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-26T03:15:22Z",
+        "uri": "https://web.archive.org/web/20200526031522/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-26T09:35:12Z",
+        "uri": "https://web.archive.org/web/20200526093512/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-26T09:40:15Z",
+        "uri": "https://web.archive.org/web/20200526094015/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-26T23:34:33Z",
+        "uri": "https://web.archive.org/web/20200526233433/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-27T03:42:57Z",
+        "uri": "https://web.archive.org/web/20200527034257/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-27T10:23:29Z",
+        "uri": "https://web.archive.org/web/20200527102329/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-28T04:03:34Z",
+        "uri": "https://web.archive.org/web/20200528040334/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-28T07:46:34Z",
+        "uri": "https://web.archive.org/web/20200528074634/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-28T08:51:36Z",
+        "uri": "https://web.archive.org/web/20200528085136/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-28T11:03:50Z",
+        "uri": "https://web.archive.org/web/20200528110350/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-28T12:44:22Z",
+        "uri": "https://web.archive.org/web/20200528124422/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-28T13:25:35Z",
+        "uri": "https://web.archive.org/web/20200528132535/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-28T15:13:50Z",
+        "uri": "https://web.archive.org/web/20200528151350/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-29T04:55:16Z",
+        "uri": "https://web.archive.org/web/20200529045516/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-29T23:30:52Z",
+        "uri": "https://web.archive.org/web/20200529233052/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-30T05:52:55Z",
+        "uri": "https://web.archive.org/web/20200530055255/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-31T04:01:57Z",
+        "uri": "https://web.archive.org/web/20200531040157/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-31T07:00:11Z",
+        "uri": "https://web.archive.org/web/20200531070011/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-31T10:31:23Z",
+        "uri": "https://web.archive.org/web/20200531103123/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-05-31T13:28:08Z",
+        "uri": "https://web.archive.org/web/20200531132808/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-01T03:14:42Z",
+        "uri": "https://web.archive.org/web/20200601031442/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-01T04:49:58Z",
+        "uri": "https://web.archive.org/web/20200601044958/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-01T06:00:19Z",
+        "uri": "https://web.archive.org/web/20200601060019/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-01T07:58:49Z",
+        "uri": "https://web.archive.org/web/20200601075849/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-01T11:49:10Z",
+        "uri": "https://web.archive.org/web/20200601114910/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-01T12:21:30Z",
+        "uri": "https://web.archive.org/web/20200601122130/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-01T18:39:35Z",
+        "uri": "https://web.archive.org/web/20200601183935/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-02T05:55:56Z",
+        "uri": "https://web.archive.org/web/20200602055556/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-02T07:03:51Z",
+        "uri": "https://web.archive.org/web/20200602070351/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-02T08:13:54Z",
+        "uri": "https://web.archive.org/web/20200602081354/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-02T20:54:13Z",
+        "uri": "https://web.archive.org/web/20200602205413/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-03T01:58:35Z",
+        "uri": "https://web.archive.org/web/20200603015835/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-03T03:09:24Z",
+        "uri": "https://web.archive.org/web/20200603030924/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-03T07:41:09Z",
+        "uri": "https://web.archive.org/web/20200603074109/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-03T10:50:15Z",
+        "uri": "https://web.archive.org/web/20200603105015/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-03T12:26:16Z",
+        "uri": "https://web.archive.org/web/20200603122616/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-03T15:30:25Z",
+        "uri": "https://web.archive.org/web/20200603153025/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-04T04:19:50Z",
+        "uri": "https://web.archive.org/web/20200604041950/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-04T05:51:35Z",
+        "uri": "https://web.archive.org/web/20200604055135/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-04T12:21:38Z",
+        "uri": "https://web.archive.org/web/20200604122138/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-04T13:09:55Z",
+        "uri": "https://web.archive.org/web/20200604130955/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-04T13:20:02Z",
+        "uri": "https://web.archive.org/web/20200604132002/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-05T13:51:59Z",
+        "uri": "https://web.archive.org/web/20200605135159/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-06T00:33:44Z",
+        "uri": "https://web.archive.org/web/20200606003344/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-06T14:38:05Z",
+        "uri": "https://web.archive.org/web/20200606143805/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-06T14:51:40Z",
+        "uri": "https://web.archive.org/web/20200606145140/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-07T00:39:03Z",
+        "uri": "https://web.archive.org/web/20200607003903/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-07T15:55:06Z",
+        "uri": "https://web.archive.org/web/20200607155506/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-07T23:30:04Z",
+        "uri": "https://web.archive.org/web/20200607233004/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-08T14:01:37Z",
+        "uri": "https://web.archive.org/web/20200608140137/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-08T16:48:56Z",
+        "uri": "https://web.archive.org/web/20200608164856/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-08T17:41:37Z",
+        "uri": "https://web.archive.org/web/20200608174137/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-09T01:19:46Z",
+        "uri": "https://web.archive.org/web/20200609011946/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-09T01:31:55Z",
+        "uri": "https://web.archive.org/web/20200609013155/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-09T07:33:44Z",
+        "uri": "https://web.archive.org/web/20200609073344/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-09T08:01:21Z",
+        "uri": "https://web.archive.org/web/20200609080121/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-09T09:12:40Z",
+        "uri": "https://web.archive.org/web/20200609091240/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-09T10:20:48Z",
+        "uri": "https://web.archive.org/web/20200609102048/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-09T17:18:25Z",
+        "uri": "https://web.archive.org/web/20200609171825/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-09T17:28:27Z",
+        "uri": "https://web.archive.org/web/20200609172827/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-10T09:46:52Z",
+        "uri": "https://web.archive.org/web/20200610094652/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-10T18:14:43Z",
+        "uri": "https://web.archive.org/web/20200610181443/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-10T19:22:27Z",
+        "uri": "https://web.archive.org/web/20200610192227/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-11T03:39:04Z",
+        "uri": "https://web.archive.org/web/20200611033904/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-11T07:01:46Z",
+        "uri": "https://web.archive.org/web/20200611070146/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-11T19:01:02Z",
+        "uri": "https://web.archive.org/web/20200611190102/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-12T14:43:37Z",
+        "uri": "https://web.archive.org/web/20200612144337/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-12T17:20:51Z",
+        "uri": "https://web.archive.org/web/20200612172051/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-12T20:01:47Z",
+        "uri": "https://web.archive.org/web/20200612200147/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-13T21:12:55Z",
+        "uri": "https://web.archive.org/web/20200613211255/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-13T21:32:35Z",
+        "uri": "https://web.archive.org/web/20200613213235/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-14T01:09:47Z",
+        "uri": "https://web.archive.org/web/20200614010947/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-14T04:41:42Z",
+        "uri": "https://web.archive.org/web/20200614044142/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-14T11:18:41Z",
+        "uri": "https://web.archive.org/web/20200614111841/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-14T21:01:55Z",
+        "uri": "https://web.archive.org/web/20200614210155/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-14T22:10:06Z",
+        "uri": "https://web.archive.org/web/20200614221006/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-15T20:34:11Z",
+        "uri": "https://web.archive.org/web/20200615203411/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-15T22:32:24Z",
+        "uri": "https://web.archive.org/web/20200615223224/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-16T08:15:29Z",
+        "uri": "https://web.archive.org/web/20200616081529/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-16T21:54:33Z",
+        "uri": "https://web.archive.org/web/20200616215433/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-16T23:25:35Z",
+        "uri": "https://web.archive.org/web/20200616232535/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-17T11:03:24Z",
+        "uri": "https://web.archive.org/web/20200617110324/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-17T15:25:20Z",
+        "uri": "https://web.archive.org/web/20200617152520/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-17T22:00:48Z",
+        "uri": "https://web.archive.org/web/20200617220048/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-18T00:46:11Z",
+        "uri": "https://web.archive.org/web/20200618004611/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-18T16:16:44Z",
+        "uri": "https://web.archive.org/web/20200618161644/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-19T01:28:50Z",
+        "uri": "https://web.archive.org/web/20200619012850/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-19T13:41:14Z",
+        "uri": "https://web.archive.org/web/20200619134114/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-20T02:09:05Z",
+        "uri": "https://web.archive.org/web/20200620020905/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-21T03:04:03Z",
+        "uri": "https://web.archive.org/web/20200621030403/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-22T03:36:08Z",
+        "uri": "https://web.archive.org/web/20200622033608/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-22T16:58:39Z",
+        "uri": "https://web.archive.org/web/20200622165839/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-23T04:14:42Z",
+        "uri": "https://web.archive.org/web/20200623041442/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-24T05:19:03Z",
+        "uri": "https://web.archive.org/web/20200624051903/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-24T10:39:15Z",
+        "uri": "https://web.archive.org/web/20200624103915/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-24T12:07:55Z",
+        "uri": "https://web.archive.org/web/20200624120755/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-24T16:56:57Z",
+        "uri": "https://web.archive.org/web/20200624165657/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-25T06:28:03Z",
+        "uri": "https://web.archive.org/web/20200625062803/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-26T07:32:53Z",
+        "uri": "https://web.archive.org/web/20200626073253/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-26T09:41:17Z",
+        "uri": "https://web.archive.org/web/20200626094117/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-27T08:29:41Z",
+        "uri": "https://web.archive.org/web/20200627082941/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-28T09:12:23Z",
+        "uri": "https://web.archive.org/web/20200628091223/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-29T10:02:18Z",
+        "uri": "https://web.archive.org/web/20200629100218/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-30T10:53:48Z",
+        "uri": "https://web.archive.org/web/20200630105348/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-30T14:41:34Z",
+        "uri": "https://web.archive.org/web/20200630144134/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-06-30T21:15:25Z",
+        "uri": "https://web.archive.org/web/20200630211525/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-01T01:26:36Z",
+        "uri": "https://web.archive.org/web/20200701012636/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-01T11:41:45Z",
+        "uri": "https://web.archive.org/web/20200701114145/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-01T13:39:43Z",
+        "uri": "https://web.archive.org/web/20200701133943/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-01T14:38:23Z",
+        "uri": "https://web.archive.org/web/20200701143823/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-02T12:20:21Z",
+        "uri": "https://web.archive.org/web/20200702122021/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-03T13:03:18Z",
+        "uri": "https://web.archive.org/web/20200703130318/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-03T18:10:53Z",
+        "uri": "https://web.archive.org/web/20200703181053/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-03T19:05:00Z",
+        "uri": "https://web.archive.org/web/20200703190500/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-04T13:52:37Z",
+        "uri": "https://web.archive.org/web/20200704135237/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-05T15:26:36Z",
+        "uri": "https://web.archive.org/web/20200705152636/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-06T16:54:46Z",
+        "uri": "https://web.archive.org/web/20200706165446/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-07T19:31:06Z",
+        "uri": "https://web.archive.org/web/20200707193106/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-08T09:42:19Z",
+        "uri": "https://web.archive.org/web/20200708094219/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-08T21:02:08Z",
+        "uri": "https://web.archive.org/web/20200708210208/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-09T10:01:09Z",
+        "uri": "https://web.archive.org/web/20200709100109/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-09T22:05:31Z",
+        "uri": "https://web.archive.org/web/20200709220531/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-10T10:15:42Z",
+        "uri": "https://web.archive.org/web/20200710101542/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-10T23:21:52Z",
+        "uri": "https://web.archive.org/web/20200710232152/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-12T00:52:33Z",
+        "uri": "https://web.archive.org/web/20200712005233/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-12T01:11:48Z",
+        "uri": "https://web.archive.org/web/20200712011148/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-12T01:11:49Z",
+        "uri": "https://web.archive.org/web/20200712011149/http://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-12T04:21:17Z",
+        "uri": "https://web.archive.org/web/20200712042117/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-13T01:47:52Z",
+        "uri": "https://web.archive.org/web/20200713014752/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-13T02:02:47Z",
+        "uri": "https://web.archive.org/web/20200713020247/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-13T02:02:48Z",
+        "uri": "https://web.archive.org/web/20200713020248/http://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-14T03:40:50Z",
+        "uri": "https://web.archive.org/web/20200714034050/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-14T04:09:51Z",
+        "uri": "https://web.archive.org/web/20200714040951/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-14T04:09:52Z",
+        "uri": "https://web.archive.org/web/20200714040952/http://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-15T04:45:18Z",
+        "uri": "https://web.archive.org/web/20200715044518/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-15T04:46:41Z",
+        "uri": "https://web.archive.org/web/20200715044641/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-15T04:46:43Z",
+        "uri": "https://web.archive.org/web/20200715044643/http://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-15T09:28:07Z",
+        "uri": "https://web.archive.org/web/20200715092807/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-16T05:19:19Z",
+        "uri": "https://web.archive.org/web/20200716051919/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-16T05:22:04Z",
+        "uri": "https://web.archive.org/web/20200716052204/http://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-16T05:22:04Z",
+        "uri": "https://web.archive.org/web/20200716052204/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-17T02:13:45Z",
+        "uri": "https://web.archive.org/web/20200717021345/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-17T02:13:49Z",
+        "uri": "https://web.archive.org/web/20200717021349/http://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-17T02:13:51Z",
+        "uri": "https://web.archive.org/web/20200717021351/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-17T06:22:10Z",
+        "uri": "https://web.archive.org/web/20200717062210/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-17T06:23:45Z",
+        "uri": "https://web.archive.org/web/20200717062345/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-17T06:23:46Z",
+        "uri": "https://web.archive.org/web/20200717062346/http://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-18T04:35:06Z",
+        "uri": "https://web.archive.org/web/20200718043506/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-18T06:58:01Z",
+        "uri": "https://web.archive.org/web/20200718065801/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-18T06:59:03Z",
+        "uri": "https://web.archive.org/web/20200718065903/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-19T08:07:59Z",
+        "uri": "https://web.archive.org/web/20200719080759/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-19T08:10:10Z",
+        "uri": "https://web.archive.org/web/20200719081010/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-19T08:10:11Z",
+        "uri": "https://web.archive.org/web/20200719081011/http://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-20T08:00:15Z",
+        "uri": "https://web.archive.org/web/20200720080015/https://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-20T10:00:47Z",
+        "uri": "https://web.archive.org/web/20200720100047/https://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-21T11:41:03Z",
+        "uri": "https://web.archive.org/web/20200721114103/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-21T11:43:18Z",
+        "uri": "https://web.archive.org/web/20200721114318/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-22T09:53:18Z",
+        "uri": "https://web.archive.org/web/20200722095318/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-22T12:35:40Z",
+        "uri": "https://web.archive.org/web/20200722123540/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-22T12:43:41Z",
+        "uri": "https://web.archive.org/web/20200722124341/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-23T14:31:00Z",
+        "uri": "https://web.archive.org/web/20200723143100/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-23T14:37:33Z",
+        "uri": "https://web.archive.org/web/20200723143733/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-24T16:18:37Z",
+        "uri": "https://web.archive.org/web/20200724161837/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-24T16:20:43Z",
+        "uri": "https://web.archive.org/web/20200724162043/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-25T17:16:15Z",
+        "uri": "https://web.archive.org/web/20200725171615/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-25T17:17:41Z",
+        "uri": "https://web.archive.org/web/20200725171741/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-26T17:56:03Z",
+        "uri": "https://web.archive.org/web/20200726175603/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-26T18:08:43Z",
+        "uri": "https://web.archive.org/web/20200726180843/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-26T23:55:14Z",
+        "uri": "https://web.archive.org/web/20200726235514/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-27T18:52:25Z",
+        "uri": "https://web.archive.org/web/20200727185225/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-27T19:05:34Z",
+        "uri": "https://web.archive.org/web/20200727190534/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-28T15:04:10Z",
+        "uri": "https://web.archive.org/web/20200728150410/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-28T15:56:42Z",
+        "uri": "https://web.archive.org/web/20200728155642/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-28T20:28:56Z",
+        "uri": "https://web.archive.org/web/20200728202856/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-28T20:29:57Z",
+        "uri": "https://web.archive.org/web/20200728202957/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-29T21:37:28Z",
+        "uri": "https://web.archive.org/web/20200729213728/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-29T21:40:57Z",
+        "uri": "https://web.archive.org/web/20200729214057/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-30T12:29:55Z",
+        "uri": "https://web.archive.org/web/20200730122955/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-30T23:49:36Z",
+        "uri": "https://web.archive.org/web/20200730234936/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-07-30T23:51:56Z",
+        "uri": "https://web.archive.org/web/20200730235156/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-01T00:14:19Z",
+        "uri": "https://web.archive.org/web/20200801001419/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-01T00:25:51Z",
+        "uri": "https://web.archive.org/web/20200801002551/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-01T17:53:28Z",
+        "uri": "https://web.archive.org/web/20200801175328/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-02T01:23:15Z",
+        "uri": "https://web.archive.org/web/20200802012315/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-02T01:24:39Z",
+        "uri": "https://web.archive.org/web/20200802012439/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-03T02:03:28Z",
+        "uri": "https://web.archive.org/web/20200803020328/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-03T04:26:49Z",
+        "uri": "https://web.archive.org/web/20200803042649/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-03T04:37:38Z",
+        "uri": "https://web.archive.org/web/20200803043738/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-03T23:04:02Z",
+        "uri": "https://web.archive.org/web/20200803230402/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-04T04:38:06Z",
+        "uri": "https://web.archive.org/web/20200804043806/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-04T05:38:13Z",
+        "uri": "https://web.archive.org/web/20200804053813/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-04T05:58:26Z",
+        "uri": "https://web.archive.org/web/20200804055826/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-05T06:47:10Z",
+        "uri": "https://web.archive.org/web/20200805064710/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-05T06:50:22Z",
+        "uri": "https://web.archive.org/web/20200805065022/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-05T21:22:20Z",
+        "uri": "https://web.archive.org/web/20200805212220/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-06T07:26:27Z",
+        "uri": "https://web.archive.org/web/20200806072627/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-06T07:27:06Z",
+        "uri": "https://web.archive.org/web/20200806072706/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-06T13:09:55Z",
+        "uri": "https://web.archive.org/web/20200806130955/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-07T05:42:58Z",
+        "uri": "https://web.archive.org/web/20200807054258/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-07T08:42:00Z",
+        "uri": "https://web.archive.org/web/20200807084200/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-07T08:43:12Z",
+        "uri": "https://web.archive.org/web/20200807084312/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-07T16:06:07Z",
+        "uri": "https://web.archive.org/web/20200807160607/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-08T01:31:22Z",
+        "uri": "https://web.archive.org/web/20200808013122/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-08T01:31:27Z",
+        "uri": "https://web.archive.org/web/20200808013127/https://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-08T09:05:49Z",
+        "uri": "https://web.archive.org/web/20200808090549/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-08T09:21:29Z",
+        "uri": "https://web.archive.org/web/20200808092129/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-08T13:37:21Z",
+        "uri": "https://web.archive.org/web/20200808133721/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-09T09:56:36Z",
+        "uri": "https://web.archive.org/web/20200809095636/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-09T10:07:59Z",
+        "uri": "https://web.archive.org/web/20200809100759/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-09T11:56:43Z",
+        "uri": "https://web.archive.org/web/20200809115643/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-10T11:21:28Z",
+        "uri": "https://web.archive.org/web/20200810112128/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-10T11:33:03Z",
+        "uri": "https://web.archive.org/web/20200810113303/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-10T14:35:08Z",
+        "uri": "https://web.archive.org/web/20200810143508/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-11T12:06:48Z",
+        "uri": "https://web.archive.org/web/20200811120648/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-11T12:19:27Z",
+        "uri": "https://web.archive.org/web/20200811121927/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-12T08:37:58Z",
+        "uri": "https://web.archive.org/web/20200812083758/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-12T13:00:51Z",
+        "uri": "https://web.archive.org/web/20200812130051/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-12T13:01:48Z",
+        "uri": "https://web.archive.org/web/20200812130148/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-13T13:01:27Z",
+        "uri": "https://web.archive.org/web/20200813130127/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-13T13:01:32Z",
+        "uri": "https://web.archive.org/web/20200813130132/https://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-13T14:23:43Z",
+        "uri": "https://web.archive.org/web/20200813142343/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-13T14:27:02Z",
+        "uri": "https://web.archive.org/web/20200813142702/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-14T14:42:08Z",
+        "uri": "https://web.archive.org/web/20200814144208/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-14T14:53:05Z",
+        "uri": "https://web.archive.org/web/20200814145305/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-15T15:14:14Z",
+        "uri": "https://web.archive.org/web/20200815151414/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-15T15:18:11Z",
+        "uri": "https://web.archive.org/web/20200815151811/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-16T16:14:26Z",
+        "uri": "https://web.archive.org/web/20200816161426/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-16T16:18:31Z",
+        "uri": "https://web.archive.org/web/20200816161831/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-17T16:42:22Z",
+        "uri": "https://web.archive.org/web/20200817164222/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-17T16:44:15Z",
+        "uri": "https://web.archive.org/web/20200817164415/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-18T01:23:31Z",
+        "uri": "https://web.archive.org/web/20200818012331/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-18T17:18:40Z",
+        "uri": "https://web.archive.org/web/20200818171840/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-18T17:39:56Z",
+        "uri": "https://web.archive.org/web/20200818173956/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-18T17:41:15Z",
+        "uri": "https://web.archive.org/web/20200818174115/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-19T01:27:59Z",
+        "uri": "https://web.archive.org/web/20200819012759/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-19T01:28:00Z",
+        "uri": "https://web.archive.org/web/20200819012800/https://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-19T18:01:30Z",
+        "uri": "https://web.archive.org/web/20200819180130/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-19T18:14:04Z",
+        "uri": "https://web.archive.org/web/20200819181404/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-20T18:36:59Z",
+        "uri": "https://web.archive.org/web/20200820183659/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-20T18:39:46Z",
+        "uri": "https://web.archive.org/web/20200820183946/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-20T19:02:49Z",
+        "uri": "https://web.archive.org/web/20200820190249/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-21T19:16:00Z",
+        "uri": "https://web.archive.org/web/20200821191600/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-21T19:18:36Z",
+        "uri": "https://web.archive.org/web/20200821191836/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-22T19:42:07Z",
+        "uri": "https://web.archive.org/web/20200822194207/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-22T19:43:37Z",
+        "uri": "https://web.archive.org/web/20200822194337/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-23T20:03:28Z",
+        "uri": "https://web.archive.org/web/20200823200328/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-23T20:14:46Z",
+        "uri": "https://web.archive.org/web/20200823201446/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-24T05:43:17Z",
+        "uri": "https://web.archive.org/web/20200824054317/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-24T17:50:49Z",
+        "uri": "https://web.archive.org/web/20200824175049/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-24T17:51:00Z",
+        "uri": "https://web.archive.org/web/20200824175100/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-24T17:51:00Z",
+        "uri": "https://web.archive.org/web/20200824175100/https://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-24T17:53:39Z",
+        "uri": "https://web.archive.org/web/20200824175339/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-24T20:37:15Z",
+        "uri": "https://web.archive.org/web/20200824203715/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-24T20:48:54Z",
+        "uri": "https://web.archive.org/web/20200824204854/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-25T21:09:35Z",
+        "uri": "https://web.archive.org/web/20200825210935/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-25T21:10:43Z",
+        "uri": "https://web.archive.org/web/20200825211043/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-26T21:29:58Z",
+        "uri": "https://web.archive.org/web/20200826212958/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-26T21:32:39Z",
+        "uri": "https://web.archive.org/web/20200826213239/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-27T08:23:09Z",
+        "uri": "https://web.archive.org/web/20200827082309/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-27T22:28:45Z",
+        "uri": "https://web.archive.org/web/20200827222845/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-27T22:29:52Z",
+        "uri": "https://web.archive.org/web/20200827222952/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-28T02:06:44Z",
+        "uri": "https://web.archive.org/web/20200828020644/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-28T22:58:23Z",
+        "uri": "https://web.archive.org/web/20200828225823/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-28T22:59:36Z",
+        "uri": "https://web.archive.org/web/20200828225936/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-29T23:17:40Z",
+        "uri": "https://web.archive.org/web/20200829231740/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-29T23:18:49Z",
+        "uri": "https://web.archive.org/web/20200829231849/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-30T21:03:31Z",
+        "uri": "https://web.archive.org/web/20200830210331/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-30T23:40:42Z",
+        "uri": "https://web.archive.org/web/20200830234042/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-08-30T23:44:51Z",
+        "uri": "https://web.archive.org/web/20200830234451/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-01T00:15:56Z",
+        "uri": "https://web.archive.org/web/20200901001556/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-01T00:19:44Z",
+        "uri": "https://web.archive.org/web/20200901001944/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-02T00:42:18Z",
+        "uri": "https://web.archive.org/web/20200902004218/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-02T00:43:07Z",
+        "uri": "https://web.archive.org/web/20200902004307/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-03T01:30:40Z",
+        "uri": "https://web.archive.org/web/20200903013040/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-03T01:32:15Z",
+        "uri": "https://web.archive.org/web/20200903013215/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-03T22:21:49Z",
+        "uri": "https://web.archive.org/web/20200903222149/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-04T02:53:15Z",
+        "uri": "https://web.archive.org/web/20200904025315/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-04T02:54:15Z",
+        "uri": "https://web.archive.org/web/20200904025415/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-04T19:46:32Z",
+        "uri": "https://web.archive.org/web/20200904194632/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-05T03:26:19Z",
+        "uri": "https://web.archive.org/web/20200905032619/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-05T03:27:11Z",
+        "uri": "https://web.archive.org/web/20200905032711/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-06T04:30:24Z",
+        "uri": "https://web.archive.org/web/20200906043024/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-06T04:31:12Z",
+        "uri": "https://web.archive.org/web/20200906043112/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-07T03:09:11Z",
+        "uri": "https://web.archive.org/web/20200907030911/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-07T05:19:58Z",
+        "uri": "https://web.archive.org/web/20200907051958/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-07T05:22:22Z",
+        "uri": "https://web.archive.org/web/20200907052222/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-08T05:59:05Z",
+        "uri": "https://web.archive.org/web/20200908055905/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-08T06:01:46Z",
+        "uri": "https://web.archive.org/web/20200908060146/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-09T06:44:01Z",
+        "uri": "https://web.archive.org/web/20200909064401/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-09T06:46:16Z",
+        "uri": "https://web.archive.org/web/20200909064616/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-10T08:25:38Z",
+        "uri": "https://web.archive.org/web/20200910082538/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-10T08:26:31Z",
+        "uri": "https://web.archive.org/web/20200910082631/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-11T09:10:38Z",
+        "uri": "https://web.archive.org/web/20200911091038/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-11T09:11:56Z",
+        "uri": "https://web.archive.org/web/20200911091156/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-12T09:42:49Z",
+        "uri": "https://web.archive.org/web/20200912094249/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-12T09:44:58Z",
+        "uri": "https://web.archive.org/web/20200912094458/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-13T10:49:09Z",
+        "uri": "https://web.archive.org/web/20200913104909/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-13T10:51:49Z",
+        "uri": "https://web.archive.org/web/20200913105149/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-14T11:41:54Z",
+        "uri": "https://web.archive.org/web/20200914114154/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-14T11:46:13Z",
+        "uri": "https://web.archive.org/web/20200914114613/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-14T19:28:18Z",
+        "uri": "https://web.archive.org/web/20200914192818/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-15T10:41:54Z",
+        "uri": "https://web.archive.org/web/20200915104154/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-16T17:19:39Z",
+        "uri": "https://web.archive.org/web/20200916171939/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-16T23:56:44Z",
+        "uri": "https://web.archive.org/web/20200916235644/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-16T23:57:27Z",
+        "uri": "https://web.archive.org/web/20200916235727/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-18T01:14:39Z",
+        "uri": "https://web.archive.org/web/20200918011439/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-18T01:15:58Z",
+        "uri": "https://web.archive.org/web/20200918011558/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-19T02:00:04Z",
+        "uri": "https://web.archive.org/web/20200919020004/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-19T02:03:26Z",
+        "uri": "https://web.archive.org/web/20200919020326/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-19T21:13:03Z",
+        "uri": "https://web.archive.org/web/20200919211303/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-19T23:36:22Z",
+        "uri": "https://web.archive.org/web/20200919233622/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-20T03:34:27Z",
+        "uri": "https://web.archive.org/web/20200920033427/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-20T03:38:16Z",
+        "uri": "https://web.archive.org/web/20200920033816/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-21T04:39:33Z",
+        "uri": "https://web.archive.org/web/20200921043933/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-21T05:05:14Z",
+        "uri": "https://web.archive.org/web/20200921050514/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-22T00:15:26Z",
+        "uri": "https://web.archive.org/web/20200922001526/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-22T04:58:42Z",
+        "uri": "https://web.archive.org/web/20200922045842/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-22T05:10:04Z",
+        "uri": "https://web.archive.org/web/20200922051004/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-23T10:36:48Z",
+        "uri": "https://web.archive.org/web/20200923103648/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-23T10:39:09Z",
+        "uri": "https://web.archive.org/web/20200923103909/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-24T12:35:07Z",
+        "uri": "https://web.archive.org/web/20200924123507/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-24T13:44:36Z",
+        "uri": "https://web.archive.org/web/20200924134436/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-25T13:08:51Z",
+        "uri": "https://web.archive.org/web/20200925130851/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-25T13:30:38Z",
+        "uri": "https://web.archive.org/web/20200925133038/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-25T13:33:14Z",
+        "uri": "https://web.archive.org/web/20200925133314/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-26T14:16:52Z",
+        "uri": "https://web.archive.org/web/20200926141652/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-26T14:18:38Z",
+        "uri": "https://web.archive.org/web/20200926141838/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-28T16:54:48Z",
+        "uri": "https://web.archive.org/web/20200928165448/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-28T16:56:33Z",
+        "uri": "https://web.archive.org/web/20200928165633/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-29T17:58:12Z",
+        "uri": "https://web.archive.org/web/20200929175812/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-29T18:00:59Z",
+        "uri": "https://web.archive.org/web/20200929180059/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-30T18:16:17Z",
+        "uri": "https://web.archive.org/web/20200930181617/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-09-30T18:21:07Z",
+        "uri": "https://web.archive.org/web/20200930182107/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-10-01T10:33:12Z",
+        "uri": "https://web.archive.org/web/20201001103312/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-10-01T19:01:17Z",
+        "uri": "https://web.archive.org/web/20201001190117/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-10-01T19:02:52Z",
+        "uri": "https://web.archive.org/web/20201001190252/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-10-02T02:29:51Z",
+        "uri": "https://web.archive.org/web/20201002022951/https://www.jpost.com/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-02T20:00:11Z",
+        "uri": "https://web.archive.org/web/20201002200011/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-10-02T20:02:57Z",
+        "uri": "https://web.archive.org/web/20201002200257/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-10-03T07:27:20Z",
+        "uri": "https://web.archive.org/web/20201003072720/https://www.jpost.com/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-03T20:39:53Z",
+        "uri": "https://web.archive.org/web/20201003203953/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-10-03T20:40:30Z",
+        "uri": "https://web.archive.org/web/20201003204030/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-10-04T03:39:27Z",
+        "uri": "https://web.archive.org/web/20201004033927/https://www.jpost.com/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-04T21:28:53Z",
+        "uri": "https://web.archive.org/web/20201004212853/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-10-04T21:29:47Z",
+        "uri": "https://web.archive.org/web/20201004212947/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-10-05T00:41:01Z",
+        "uri": "https://web.archive.org/web/20201005004101/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-10-05T04:35:47Z",
+        "uri": "https://web.archive.org/web/20201005043547/https://www.jpost.com/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-05T21:54:48Z",
+        "uri": "https://web.archive.org/web/20201005215448/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-10-05T22:11:02Z",
+        "uri": "https://web.archive.org/web/20201005221102/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-10-06T05:39:30Z",
+        "uri": "https://web.archive.org/web/20201006053930/https://www.jpost.com/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-06T23:33:05Z",
+        "uri": "https://web.archive.org/web/20201006233305/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-10-06T23:37:11Z",
+        "uri": "https://web.archive.org/web/20201006233711/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-10-07T06:29:50Z",
+        "uri": "https://web.archive.org/web/20201007062950/https://www.jpost.com/coronavirus/"
+      },
+      {
+        "datetime": "2020-10-08T00:03:20Z",
+        "uri": "https://web.archive.org/web/20201008000320/https://www.jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-10-08T00:07:18Z",
+        "uri": "https://web.archive.org/web/20201008000718/http://jpost.com/coronavirus"
+      },
+      {
+        "datetime": "2020-10-08T05:28:47Z",
+        "uri": "https://web.archive.org/web/20201008052847/https://www.jpost.com/coronavirus/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-02-19T19:47:49Z",
+      "uri": "https://web.archive.org/web/20200219194749/https://www.jpost.com/coronavirus"
+    },
+    "last": {
+      "datetime": "2020-10-08T05:28:47Z",
+      "uri": "https://web.archive.org/web/20201008052847/https://www.jpost.com/coronavirus/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.jpost.com/coronavirus%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.jpost.com/coronavirus%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.jpost.com/coronavirus%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.jpost.com/coronavirus%0A"
+}

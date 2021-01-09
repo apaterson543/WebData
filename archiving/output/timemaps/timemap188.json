@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://covid-small-business.mckinsey.com/en/back-to-business/smb-insights/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://covid-small-business.mckinsey.com/en/back-to-business/smb-insights/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-08-31T19:19:12Z",
+        "uri": "https://web.archive.org/web/20200831191912/https://covid-small-business.mckinsey.com/en/back-to-business/smb-insights"
+      }
+    ],
+    "first": {
+      "datetime": "2020-08-31T19:19:12Z",
+      "uri": "https://web.archive.org/web/20200831191912/https://covid-small-business.mckinsey.com/en/back-to-business/smb-insights"
+    },
+    "last": {
+      "datetime": "2020-08-31T19:19:12Z",
+      "uri": "https://web.archive.org/web/20200831191912/https://covid-small-business.mckinsey.com/en/back-to-business/smb-insights"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://covid-small-business.mckinsey.com/en/back-to-business/smb-insights/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://covid-small-business.mckinsey.com/en/back-to-business/smb-insights/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://covid-small-business.mckinsey.com/en/back-to-business/smb-insights/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://covid-small-business.mckinsey.com/en/back-to-business/smb-insights/%0A"
+}

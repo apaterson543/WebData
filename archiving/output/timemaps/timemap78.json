@@ -1,0 +1,98 @@
+{
+  "original_uri": "https://www.nytimes.com/2020/10/02/business/media/foxnews-trump-coronavirus-exposure.html%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2020/10/02/business/media/foxnews-trump-coronavirus-exposure.html%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-02T19:10:03Z",
+        "uri": "https://web.archive.org/web/20201002191003/https://www.nytimes.com/2020/10/02/business/media/foxnews-trump-coronavirus-exposure.html"
+      },
+      {
+        "datetime": "2020-10-02T19:33:39Z",
+        "uri": "https://web.archive.org/web/20201002193339/https://www.nytimes.com/2020/10/02/business/media/foxnews-trump-coronavirus-exposure.html"
+      },
+      {
+        "datetime": "2020-10-02T20:15:37Z",
+        "uri": "https://web.archive.org/web/20201002201537/https://www.nytimes.com/2020/10/02/business/media/foxnews-trump-coronavirus-exposure.html"
+      },
+      {
+        "datetime": "2020-10-02T21:10:12Z",
+        "uri": "https://web.archive.org/web/20201002211012/https://www.nytimes.com/2020/10/02/business/media/foxnews-trump-coronavirus-exposure.html"
+      },
+      {
+        "datetime": "2020-10-02T22:38:42Z",
+        "uri": "https://web.archive.org/web/20201002223842/https://www.nytimes.com/2020/10/02/business/media/foxnews-trump-coronavirus-exposure.html"
+      },
+      {
+        "datetime": "2020-10-03T00:28:03Z",
+        "uri": "https://web.archive.org/web/20201003002803/https://www.nytimes.com/2020/10/02/business/media/foxnews-trump-coronavirus-exposure.html"
+      },
+      {
+        "datetime": "2020-10-03T00:29:37Z",
+        "uri": "https://web.archive.org/web/20201003002937/https://www.nytimes.com/2020/10/02/business/media/foxnews-trump-coronavirus-exposure.html"
+      },
+      {
+        "datetime": "2020-10-03T06:31:32Z",
+        "uri": "https://web.archive.org/web/20201003063132/https://www.nytimes.com/2020/10/02/business/media/foxnews-trump-coronavirus-exposure.html"
+      },
+      {
+        "datetime": "2020-10-03T08:53:27Z",
+        "uri": "https://web.archive.org/web/20201003085327/https://www.nytimes.com/2020/10/02/business/media/foxnews-trump-coronavirus-exposure.html"
+      },
+      {
+        "datetime": "2020-10-03T15:06:12Z",
+        "uri": "https://web.archive.org/web/20201003150612/https://www.nytimes.com/2020/10/02/business/media/foxnews-trump-coronavirus-exposure.html"
+      },
+      {
+        "datetime": "2020-10-03T15:06:14Z",
+        "uri": "https://web.archive.org/web/20201003150614/https://www.nytimes.com/2020/10/02/business/media/foxnews-trump-coronavirus-exposure.html"
+      },
+      {
+        "datetime": "2020-10-03T22:32:00Z",
+        "uri": "https://web.archive.org/web/20201003223200/https://www.nytimes.com/2020/10/02/business/media/foxnews-trump-coronavirus-exposure.html"
+      },
+      {
+        "datetime": "2020-10-05T03:28:19Z",
+        "uri": "https://web.archive.org/web/20201005032819/https://www.nytimes.com/2020/10/02/business/media/foxnews-trump-coronavirus-exposure.html"
+      },
+      {
+        "datetime": "2020-10-05T09:20:15Z",
+        "uri": "https://web.archive.org/web/20201005092015/https://www.nytimes.com/2020/10/02/business/media/foxnews-trump-coronavirus-exposure.html"
+      },
+      {
+        "datetime": "2020-10-06T05:54:02Z",
+        "uri": "https://web.archive.org/web/20201006055402/https://www.nytimes.com/2020/10/02/business/media/foxnews-trump-coronavirus-exposure.html"
+      },
+      {
+        "datetime": "2020-10-06T21:36:18Z",
+        "uri": "https://web.archive.org/web/20201006213618/https://www.nytimes.com/2020/10/02/business/media/foxnews-trump-coronavirus-exposure.html"
+      },
+      {
+        "datetime": "2020-10-07T11:56:55Z",
+        "uri": "https://web.archive.org/web/20201007115655/https://www.nytimes.com/2020/10/02/business/media/foxnews-trump-coronavirus-exposure.html"
+      },
+      {
+        "datetime": "2020-10-07T19:07:23Z",
+        "uri": "https://web.archive.org/web/20201007190723/https://www.nytimes.com/2020/10/02/business/media/foxnews-trump-coronavirus-exposure.html"
+      },
+      {
+        "datetime": "2020-10-08T22:06:34Z",
+        "uri": "https://web.archive.org/web/20201008220634/https://www.nytimes.com/2020/10/02/business/media/foxnews-trump-coronavirus-exposure.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-02T19:10:03Z",
+      "uri": "https://web.archive.org/web/20201002191003/https://www.nytimes.com/2020/10/02/business/media/foxnews-trump-coronavirus-exposure.html"
+    },
+    "last": {
+      "datetime": "2020-10-08T22:06:34Z",
+      "uri": "https://web.archive.org/web/20201008220634/https://www.nytimes.com/2020/10/02/business/media/foxnews-trump-coronavirus-exposure.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.nytimes.com/2020/10/02/business/media/foxnews-trump-coronavirus-exposure.html%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.nytimes.com/2020/10/02/business/media/foxnews-trump-coronavirus-exposure.html%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.nytimes.com/2020/10/02/business/media/foxnews-trump-coronavirus-exposure.html%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.nytimes.com/2020/10/02/business/media/foxnews-trump-coronavirus-exposure.html%0A"
+}

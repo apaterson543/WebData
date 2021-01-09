@@ -1,0 +1,58 @@
+{
+  "original_uri": "https://www.theguardian.com/politics/live/2020/oct/07/uk-coronavirus-live-news-latest-updates-march-style-lockdown-scotland-new-rules-covid-19%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.theguardian.com/politics/live/2020/oct/07/uk-coronavirus-live-news-latest-updates-march-style-lockdown-scotland-new-rules-covid-19%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T10:06:02Z",
+        "uri": "https://web.archive.org/web/20201007100602/https://www.theguardian.com/politics/live/2020/oct/07/uk-coronavirus-live-news-latest-updates-march-style-lockdown-scotland-new-rules-covid-19"
+      },
+      {
+        "datetime": "2020-10-07T10:06:02Z",
+        "uri": "https://web.archive.org/web/20201007100602/https://www.theguardian.com/politics/live/2020/oct/07/uk-coronavirus-live-news-latest-updates-march-style-lockdown-scotland-new-rules-covid-19"
+      },
+      {
+        "datetime": "2020-10-07T10:08:03Z",
+        "uri": "https://web.archive.org/web/20201007100803/https://www.theguardian.com/politics/live/2020/oct/07/uk-coronavirus-live-news-latest-updates-march-style-lockdown-scotland-new-rules-covid-19"
+      },
+      {
+        "datetime": "2020-10-07T16:55:27Z",
+        "uri": "https://web.archive.org/web/20201007165527/https://www.theguardian.com/politics/live/2020/oct/07/uk-coronavirus-live-news-latest-updates-march-style-lockdown-scotland-new-rules-covid-19"
+      },
+      {
+        "datetime": "2020-10-07T16:57:11Z",
+        "uri": "https://web.archive.org/web/20201007165711/https://www.theguardian.com/politics/live/2020/oct/07/uk-coronavirus-live-news-latest-updates-march-style-lockdown-scotland-new-rules-covid-19"
+      },
+      {
+        "datetime": "2020-10-07T18:24:14Z",
+        "uri": "https://web.archive.org/web/20201007182414/https://www.theguardian.com/politics/live/2020/oct/07/uk-coronavirus-live-news-latest-updates-march-style-lockdown-scotland-new-rules-covid-19"
+      },
+      {
+        "datetime": "2020-10-07T22:49:05Z",
+        "uri": "https://web.archive.org/web/20201007224905/https://www.theguardian.com/politics/live/2020/oct/07/uk-coronavirus-live-news-latest-updates-march-style-lockdown-scotland-new-rules-covid-19"
+      },
+      {
+        "datetime": "2020-10-08T00:29:26Z",
+        "uri": "https://web.archive.org/web/20201008002926/https://www.theguardian.com/politics/live/2020/oct/07/uk-coronavirus-live-news-latest-updates-march-style-lockdown-scotland-new-rules-covid-19"
+      },
+      {
+        "datetime": "2020-10-08T06:20:02Z",
+        "uri": "https://web.archive.org/web/20201008062002/https://www.theguardian.com/politics/live/2020/oct/07/uk-coronavirus-live-news-latest-updates-march-style-lockdown-scotland-new-rules-covid-19"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T10:06:02Z",
+      "uri": "https://web.archive.org/web/20201007100602/https://www.theguardian.com/politics/live/2020/oct/07/uk-coronavirus-live-news-latest-updates-march-style-lockdown-scotland-new-rules-covid-19"
+    },
+    "last": {
+      "datetime": "2020-10-08T06:20:02Z",
+      "uri": "https://web.archive.org/web/20201008062002/https://www.theguardian.com/politics/live/2020/oct/07/uk-coronavirus-live-news-latest-updates-march-style-lockdown-scotland-new-rules-covid-19"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.theguardian.com/politics/live/2020/oct/07/uk-coronavirus-live-news-latest-updates-march-style-lockdown-scotland-new-rules-covid-19%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.theguardian.com/politics/live/2020/oct/07/uk-coronavirus-live-news-latest-updates-march-style-lockdown-scotland-new-rules-covid-19%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.theguardian.com/politics/live/2020/oct/07/uk-coronavirus-live-news-latest-updates-march-style-lockdown-scotland-new-rules-covid-19%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.theguardian.com/politics/live/2020/oct/07/uk-coronavirus-live-news-latest-updates-march-style-lockdown-scotland-new-rules-covid-19%0A"
+}

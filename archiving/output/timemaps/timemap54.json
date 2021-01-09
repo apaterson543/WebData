@@ -1,0 +1,1518 @@
+{
+  "original_uri": "https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-01-11T21:51:02Z",
+        "uri": "https://web.archive.org/web/20200111215102/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-01-12T03:58:48Z",
+        "uri": "https://web.archive.org/web/20200112035848/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-01-12T10:02:23Z",
+        "uri": "https://web.archive.org/web/20200112100223/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-01-13T07:39:15Z",
+        "uri": "https://web.archive.org/web/20200113073915/http://www.cidrap.umn.edu:80/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-01-16T11:09:56Z",
+        "uri": "https://web.archive.org/web/20200116110956/http://www.cidrap.umn.edu:80/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-01-17T18:11:07Z",
+        "uri": "https://web.archive.org/web/20200117181107/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-01-20T18:02:11Z",
+        "uri": "https://web.archive.org/web/20200120180211/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-01-20T18:03:25Z",
+        "uri": "https://web.archive.org/web/20200120180325/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-01-20T18:03:40Z",
+        "uri": "https://web.archive.org/web/20200120180340/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-01-21T04:23:44Z",
+        "uri": "https://web.archive.org/web/20200121042344/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-01-22T04:36:01Z",
+        "uri": "https://web.archive.org/web/20200122043601/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-01-22T15:18:51Z",
+        "uri": "https://web.archive.org/web/20200122151851/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-01-23T20:17:44Z",
+        "uri": "https://web.archive.org/web/20200123201744/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-01-24T16:58:15Z",
+        "uri": "https://web.archive.org/web/20200124165815/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-01-26T02:44:58Z",
+        "uri": "https://web.archive.org/web/20200126024458/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-01-26T02:45:17Z",
+        "uri": "https://web.archive.org/web/20200126024517/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-01-28T15:26:28Z",
+        "uri": "https://web.archive.org/web/20200128152628/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-01-29T22:08:18Z",
+        "uri": "https://web.archive.org/web/20200129220818/http://www.cidrap.umn.edu:80/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-01-30T01:07:46Z",
+        "uri": "https://web.archive.org/web/20200130010746/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-02-15T22:44:37Z",
+        "uri": "https://web.archive.org/web/20200215224437/http://www.cidrap.umn.edu:80/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-02-26T13:13:15Z",
+        "uri": "https://web.archive.org/web/20200226131315/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-02-27T20:54:15Z",
+        "uri": "https://web.archive.org/web/20200227205415/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-02-27T23:48:07Z",
+        "uri": "https://web.archive.org/web/20200227234807/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-02-28T19:41:57Z",
+        "uri": "https://web.archive.org/web/20200228194157/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-02-29T03:54:33Z",
+        "uri": "https://web.archive.org/web/20200229035433/http://www.cidrap.umn.edu:80/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-02-29T11:11:26Z",
+        "uri": "https://web.archive.org/web/20200229111126/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-03-01T03:29:42Z",
+        "uri": "https://web.archive.org/web/20200301032942/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-03-01T04:49:11Z",
+        "uri": "https://web.archive.org/web/20200301044911/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-03-02T11:47:51Z",
+        "uri": "https://web.archive.org/web/20200302114751/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-03-03T12:59:12Z",
+        "uri": "https://web.archive.org/web/20200303125912/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-03-04T17:17:15Z",
+        "uri": "https://web.archive.org/web/20200304171715/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-03-24T06:35:16Z",
+        "uri": "https://web.archive.org/web/20200324063516/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-03-27T01:15:39Z",
+        "uri": "https://web.archive.org/web/20200327011539/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-03-27T21:30:03Z",
+        "uri": "https://web.archive.org/web/20200327213003/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-03-28T15:47:17Z",
+        "uri": "https://web.archive.org/web/20200328154717/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-03-28T16:10:41Z",
+        "uri": "https://web.archive.org/web/20200328161041/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-03-29T20:08:39Z",
+        "uri": "https://web.archive.org/web/20200329200839/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-03-29T20:22:17Z",
+        "uri": "https://web.archive.org/web/20200329202217/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-03-29T22:32:26Z",
+        "uri": "https://web.archive.org/web/20200329223226/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-03-29T22:37:28Z",
+        "uri": "https://web.archive.org/web/20200329223728/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-03-30T04:54:15Z",
+        "uri": "https://web.archive.org/web/20200330045415/http://www.cidrap.umn.edu:80/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-03-30T07:04:26Z",
+        "uri": "https://web.archive.org/web/20200330070426/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-03-30T12:34:07Z",
+        "uri": "https://web.archive.org/web/20200330123407/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-03-30T16:51:01Z",
+        "uri": "https://web.archive.org/web/20200330165101/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-03-31T04:36:45Z",
+        "uri": "https://web.archive.org/web/20200331043645/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-01T01:19:06Z",
+        "uri": "https://web.archive.org/web/20200401011906/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-01T12:07:40Z",
+        "uri": "https://web.archive.org/web/20200401120740/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-01T20:17:53Z",
+        "uri": "https://web.archive.org/web/20200401201753/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-02T01:09:28Z",
+        "uri": "https://web.archive.org/web/20200402010928/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-02T12:46:48Z",
+        "uri": "https://web.archive.org/web/20200402124648/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-04T03:30:36Z",
+        "uri": "https://web.archive.org/web/20200404033036/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-04T03:30:40Z",
+        "uri": "https://web.archive.org/web/20200404033040/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-04T04:56:21Z",
+        "uri": "https://web.archive.org/web/20200404045621/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-04T04:58:05Z",
+        "uri": "https://web.archive.org/web/20200404045805/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-04T10:40:54Z",
+        "uri": "https://web.archive.org/web/20200404104054/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-05T02:33:42Z",
+        "uri": "https://web.archive.org/web/20200405023342/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-05T07:01:22Z",
+        "uri": "https://web.archive.org/web/20200405070122/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-05T07:02:18Z",
+        "uri": "https://web.archive.org/web/20200405070218/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-06T03:13:35Z",
+        "uri": "https://web.archive.org/web/20200406031335/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-06T04:48:07Z",
+        "uri": "https://web.archive.org/web/20200406044807/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-06T13:58:24Z",
+        "uri": "https://web.archive.org/web/20200406135824/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-07T08:11:05Z",
+        "uri": "https://web.archive.org/web/20200407081105/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-07T08:41:52Z",
+        "uri": "https://web.archive.org/web/20200407084152/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-08T06:49:20Z",
+        "uri": "https://web.archive.org/web/20200408064920/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-08T09:19:42Z",
+        "uri": "https://web.archive.org/web/20200408091942/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-09T11:49:49Z",
+        "uri": "https://web.archive.org/web/20200409114949/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-10T15:17:11Z",
+        "uri": "https://web.archive.org/web/20200410151711/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-10T15:24:56Z",
+        "uri": "https://web.archive.org/web/20200410152456/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-10T23:24:19Z",
+        "uri": "https://web.archive.org/web/20200410232419/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-10T23:24:20Z",
+        "uri": "https://web.archive.org/web/20200410232420/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-11T01:26:00Z",
+        "uri": "https://web.archive.org/web/20200411012600/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-11T01:52:07Z",
+        "uri": "https://web.archive.org/web/20200411015207/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-11T04:04:38Z",
+        "uri": "https://web.archive.org/web/20200411040438/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-11T12:20:22Z",
+        "uri": "https://web.archive.org/web/20200411122022/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-11T12:20:26Z",
+        "uri": "https://web.archive.org/web/20200411122026/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-11T16:48:32Z",
+        "uri": "https://web.archive.org/web/20200411164832/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-11T16:48:35Z",
+        "uri": "https://web.archive.org/web/20200411164835/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-12T02:40:06Z",
+        "uri": "https://web.archive.org/web/20200412024006/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-12T02:46:34Z",
+        "uri": "https://web.archive.org/web/20200412024634/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-12T06:37:13Z",
+        "uri": "https://web.archive.org/web/20200412063713/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-12T06:37:14Z",
+        "uri": "https://web.archive.org/web/20200412063714/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-12T22:33:05Z",
+        "uri": "https://web.archive.org/web/20200412223305/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-13T02:58:00Z",
+        "uri": "https://web.archive.org/web/20200413025800/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-13T09:55:57Z",
+        "uri": "https://web.archive.org/web/20200413095557/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-13T09:55:58Z",
+        "uri": "https://web.archive.org/web/20200413095558/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-14T03:28:06Z",
+        "uri": "https://web.archive.org/web/20200414032806/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-14T06:43:26Z",
+        "uri": "https://web.archive.org/web/20200414064326/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-15T02:41:47Z",
+        "uri": "https://web.archive.org/web/20200415024147/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-15T04:05:16Z",
+        "uri": "https://web.archive.org/web/20200415040516/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-15T07:25:35Z",
+        "uri": "https://web.archive.org/web/20200415072535/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-15T07:33:39Z",
+        "uri": "https://web.archive.org/web/20200415073339/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-15T18:54:02Z",
+        "uri": "https://web.archive.org/web/20200415185402/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-15T18:54:14Z",
+        "uri": "https://web.archive.org/web/20200415185414/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-16T07:01:00Z",
+        "uri": "https://web.archive.org/web/20200416070100/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-16T09:18:24Z",
+        "uri": "https://web.archive.org/web/20200416091824/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-16T09:18:26Z",
+        "uri": "https://web.archive.org/web/20200416091826/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-16T10:32:23Z",
+        "uri": "https://web.archive.org/web/20200416103223/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-16T11:41:36Z",
+        "uri": "https://web.archive.org/web/20200416114136/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-17T00:54:49Z",
+        "uri": "https://web.archive.org/web/20200417005449/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-17T00:54:52Z",
+        "uri": "https://web.archive.org/web/20200417005452/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-17T17:13:25Z",
+        "uri": "https://web.archive.org/web/20200417171325/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-17T19:49:53Z",
+        "uri": "https://web.archive.org/web/20200417194953/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-18T16:50:10Z",
+        "uri": "https://web.archive.org/web/20200418165010/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-18T16:50:44Z",
+        "uri": "https://web.archive.org/web/20200418165044/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-18T17:08:05Z",
+        "uri": "https://web.archive.org/web/20200418170805/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-18T19:36:30Z",
+        "uri": "https://web.archive.org/web/20200418193630/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-18T19:36:36Z",
+        "uri": "https://web.archive.org/web/20200418193636/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-18T22:26:24Z",
+        "uri": "https://web.archive.org/web/20200418222624/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-19T07:24:16Z",
+        "uri": "https://web.archive.org/web/20200419072416/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-19T18:07:14Z",
+        "uri": "https://web.archive.org/web/20200419180714/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-20T02:17:53Z",
+        "uri": "https://web.archive.org/web/20200420021753/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-20T05:09:07Z",
+        "uri": "https://web.archive.org/web/20200420050907/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-20T05:09:08Z",
+        "uri": "https://web.archive.org/web/20200420050908/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-20T12:42:23Z",
+        "uri": "https://web.archive.org/web/20200420124223/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-20T14:08:47Z",
+        "uri": "https://web.archive.org/web/20200420140847/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-20T17:30:38Z",
+        "uri": "https://web.archive.org/web/20200420173038/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-20T21:17:57Z",
+        "uri": "https://web.archive.org/web/20200420211757/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-21T12:31:15Z",
+        "uri": "https://web.archive.org/web/20200421123115/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-22T11:27:27Z",
+        "uri": "https://web.archive.org/web/20200422112727/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-22T15:16:18Z",
+        "uri": "https://web.archive.org/web/20200422151618/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-22T15:16:20Z",
+        "uri": "https://web.archive.org/web/20200422151620/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-23T03:55:19Z",
+        "uri": "https://web.archive.org/web/20200423035519/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-23T14:56:30Z",
+        "uri": "https://web.archive.org/web/20200423145630/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-25T03:54:50Z",
+        "uri": "https://web.archive.org/web/20200425035450/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-25T03:54:50Z",
+        "uri": "https://web.archive.org/web/20200425035450/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-25T11:25:27Z",
+        "uri": "https://web.archive.org/web/20200425112527/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-27T04:08:58Z",
+        "uri": "https://web.archive.org/web/20200427040858/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-28T00:58:23Z",
+        "uri": "https://web.archive.org/web/20200428005823/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-04-28T00:58:23Z",
+        "uri": "https://web.archive.org/web/20200428005823/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-01T03:35:24Z",
+        "uri": "https://web.archive.org/web/20200501033524/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-02T08:07:54Z",
+        "uri": "https://web.archive.org/web/20200502080754/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-02T11:52:53Z",
+        "uri": "https://web.archive.org/web/20200502115253/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-09T02:03:36Z",
+        "uri": "https://web.archive.org/web/20200509020336/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-09T02:03:49Z",
+        "uri": "https://web.archive.org/web/20200509020349/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-09T17:45:21Z",
+        "uri": "https://web.archive.org/web/20200509174521/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-10T16:06:31Z",
+        "uri": "https://web.archive.org/web/20200510160631/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-11T03:28:27Z",
+        "uri": "https://web.archive.org/web/20200511032827/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-12T03:29:46Z",
+        "uri": "https://web.archive.org/web/20200512032946/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-13T07:13:47Z",
+        "uri": "https://web.archive.org/web/20200513071347/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-13T07:31:13Z",
+        "uri": "https://web.archive.org/web/20200513073113/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-13T14:51:59Z",
+        "uri": "https://web.archive.org/web/20200513145159/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-13T14:52:01Z",
+        "uri": "https://web.archive.org/web/20200513145201/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-14T04:32:46Z",
+        "uri": "https://web.archive.org/web/20200514043246/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-14T08:01:44Z",
+        "uri": "https://web.archive.org/web/20200514080144/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-14T17:27:25Z",
+        "uri": "https://web.archive.org/web/20200514172725/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-15T07:43:54Z",
+        "uri": "https://web.archive.org/web/20200515074354/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-15T11:54:20Z",
+        "uri": "https://web.archive.org/web/20200515115420/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-16T09:13:51Z",
+        "uri": "https://web.archive.org/web/20200516091351/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-16T15:47:40Z",
+        "uri": "https://web.archive.org/web/20200516154740/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-16T15:47:40Z",
+        "uri": "https://web.archive.org/web/20200516154740/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-16T16:51:01Z",
+        "uri": "https://web.archive.org/web/20200516165101/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-17T00:13:07Z",
+        "uri": "https://web.archive.org/web/20200517001307/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-17T03:19:37Z",
+        "uri": "https://web.archive.org/web/20200517031937/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-17T03:19:59Z",
+        "uri": "https://web.archive.org/web/20200517031959/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-17T03:48:09Z",
+        "uri": "https://web.archive.org/web/20200517034809/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-17T05:08:21Z",
+        "uri": "https://web.archive.org/web/20200517050821/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-17T15:01:09Z",
+        "uri": "https://web.archive.org/web/20200517150109/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-17T15:01:11Z",
+        "uri": "https://web.archive.org/web/20200517150111/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-17T17:20:31Z",
+        "uri": "https://web.archive.org/web/20200517172031/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-18T03:51:53Z",
+        "uri": "https://web.archive.org/web/20200518035153/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-18T07:46:16Z",
+        "uri": "https://web.archive.org/web/20200518074616/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-19T03:40:19Z",
+        "uri": "https://web.archive.org/web/20200519034019/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-19T11:42:24Z",
+        "uri": "https://web.archive.org/web/20200519114224/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-20T08:13:44Z",
+        "uri": "https://web.archive.org/web/20200520081344/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-20T11:16:09Z",
+        "uri": "https://web.archive.org/web/20200520111609/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-21T07:41:52Z",
+        "uri": "https://web.archive.org/web/20200521074152/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-21T11:45:30Z",
+        "uri": "https://web.archive.org/web/20200521114530/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-21T23:18:08Z",
+        "uri": "https://web.archive.org/web/20200521231808/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-22T01:46:42Z",
+        "uri": "https://web.archive.org/web/20200522014642/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-22T01:47:00Z",
+        "uri": "https://web.archive.org/web/20200522014700/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-22T06:31:29Z",
+        "uri": "https://web.archive.org/web/20200522063129/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-22T08:08:17Z",
+        "uri": "https://web.archive.org/web/20200522080817/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-22T08:08:26Z",
+        "uri": "https://web.archive.org/web/20200522080826/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-22T15:04:27Z",
+        "uri": "https://web.archive.org/web/20200522150427/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-22T15:04:28Z",
+        "uri": "https://web.archive.org/web/20200522150428/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-22T22:19:35Z",
+        "uri": "https://web.archive.org/web/20200522221935/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-23T13:57:27Z",
+        "uri": "https://web.archive.org/web/20200523135727/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-23T14:51:51Z",
+        "uri": "https://web.archive.org/web/20200523145151/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-23T20:33:23Z",
+        "uri": "https://web.archive.org/web/20200523203323/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-24T04:38:44Z",
+        "uri": "https://web.archive.org/web/20200524043844/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-24T09:03:05Z",
+        "uri": "https://web.archive.org/web/20200524090305/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-24T09:03:06Z",
+        "uri": "https://web.archive.org/web/20200524090306/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-24T09:09:17Z",
+        "uri": "https://web.archive.org/web/20200524090917/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-24T09:09:19Z",
+        "uri": "https://web.archive.org/web/20200524090919/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-24T20:57:25Z",
+        "uri": "https://web.archive.org/web/20200524205725/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-24T20:57:27Z",
+        "uri": "https://web.archive.org/web/20200524205727/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-25T04:28:36Z",
+        "uri": "https://web.archive.org/web/20200525042836/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-25T07:17:30Z",
+        "uri": "https://web.archive.org/web/20200525071730/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-25T09:55:03Z",
+        "uri": "https://web.archive.org/web/20200525095503/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-26T05:52:36Z",
+        "uri": "https://web.archive.org/web/20200526055236/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-26T14:02:10Z",
+        "uri": "https://web.archive.org/web/20200526140210/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-27T03:57:59Z",
+        "uri": "https://web.archive.org/web/20200527035759/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-27T03:58:44Z",
+        "uri": "https://web.archive.org/web/20200527035844/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-27T08:06:19Z",
+        "uri": "https://web.archive.org/web/20200527080619/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-27T09:30:45Z",
+        "uri": "https://web.archive.org/web/20200527093045/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-27T12:36:35Z",
+        "uri": "https://web.archive.org/web/20200527123635/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-27T12:36:37Z",
+        "uri": "https://web.archive.org/web/20200527123637/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-27T18:35:56Z",
+        "uri": "https://web.archive.org/web/20200527183556/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-29T01:05:43Z",
+        "uri": "https://web.archive.org/web/20200529010543/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-29T13:03:14Z",
+        "uri": "https://web.archive.org/web/20200529130314/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-29T13:03:18Z",
+        "uri": "https://web.archive.org/web/20200529130318/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-31T08:02:08Z",
+        "uri": "https://web.archive.org/web/20200531080208/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-05-31T08:02:09Z",
+        "uri": "https://web.archive.org/web/20200531080209/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-01T21:43:42Z",
+        "uri": "https://web.archive.org/web/20200601214342/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-02T14:12:11Z",
+        "uri": "https://web.archive.org/web/20200602141211/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-02T19:10:00Z",
+        "uri": "https://web.archive.org/web/20200602191000/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-02T20:58:45Z",
+        "uri": "https://web.archive.org/web/20200602205845/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-02T20:58:47Z",
+        "uri": "https://web.archive.org/web/20200602205847/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-03T00:16:09Z",
+        "uri": "https://web.archive.org/web/20200603001609/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-03T00:22:40Z",
+        "uri": "https://web.archive.org/web/20200603002240/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-03T00:22:42Z",
+        "uri": "https://web.archive.org/web/20200603002242/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-03T22:33:45Z",
+        "uri": "https://web.archive.org/web/20200603223345/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-03T22:34:11Z",
+        "uri": "https://web.archive.org/web/20200603223411/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-08T09:52:35Z",
+        "uri": "https://web.archive.org/web/20200608095235/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-08T09:52:36Z",
+        "uri": "https://web.archive.org/web/20200608095236/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-08T17:03:56Z",
+        "uri": "https://web.archive.org/web/20200608170356/https://cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-11T07:57:59Z",
+        "uri": "https://web.archive.org/web/20200611075759/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-13T05:49:18Z",
+        "uri": "https://web.archive.org/web/20200613054918/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-14T07:14:57Z",
+        "uri": "https://web.archive.org/web/20200614071457/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-14T07:14:58Z",
+        "uri": "https://web.archive.org/web/20200614071458/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-14T07:18:12Z",
+        "uri": "https://web.archive.org/web/20200614071812/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-14T09:12:52Z",
+        "uri": "https://web.archive.org/web/20200614091252/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-15T05:18:20Z",
+        "uri": "https://web.archive.org/web/20200615051820/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-15T05:18:20Z",
+        "uri": "https://web.archive.org/web/20200615051820/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-15T07:01:31Z",
+        "uri": "https://web.archive.org/web/20200615070131/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-15T07:27:19Z",
+        "uri": "https://web.archive.org/web/20200615072719/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-15T18:03:36Z",
+        "uri": "https://web.archive.org/web/20200615180336/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-16T05:54:54Z",
+        "uri": "https://web.archive.org/web/20200616055454/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-17T02:16:52Z",
+        "uri": "https://web.archive.org/web/20200617021652/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-17T06:51:25Z",
+        "uri": "https://web.archive.org/web/20200617065125/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-17T07:18:01Z",
+        "uri": "https://web.archive.org/web/20200617071801/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-18T09:10:06Z",
+        "uri": "https://web.archive.org/web/20200618091006/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-19T04:22:57Z",
+        "uri": "https://web.archive.org/web/20200619042257/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-19T06:53:20Z",
+        "uri": "https://web.archive.org/web/20200619065320/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-20T02:28:06Z",
+        "uri": "https://web.archive.org/web/20200620022806/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-20T07:57:36Z",
+        "uri": "https://web.archive.org/web/20200620075736/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-20T13:06:00Z",
+        "uri": "https://web.archive.org/web/20200620130600/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-21T08:33:56Z",
+        "uri": "https://web.archive.org/web/20200621083356/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-21T11:08:10Z",
+        "uri": "https://web.archive.org/web/20200621110810/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-23T07:15:57Z",
+        "uri": "https://web.archive.org/web/20200623071557/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-23T07:43:57Z",
+        "uri": "https://web.archive.org/web/20200623074357/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-23T08:53:18Z",
+        "uri": "https://web.archive.org/web/20200623085318/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-24T11:12:12Z",
+        "uri": "https://web.archive.org/web/20200624111212/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-24T12:30:30Z",
+        "uri": "https://web.archive.org/web/20200624123030/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-24T13:17:48Z",
+        "uri": "https://web.archive.org/web/20200624131748/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-25T20:43:36Z",
+        "uri": "https://web.archive.org/web/20200625204336/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-26T11:15:25Z",
+        "uri": "https://web.archive.org/web/20200626111525/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-26T11:51:48Z",
+        "uri": "https://web.archive.org/web/20200626115148/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-27T08:22:46Z",
+        "uri": "https://web.archive.org/web/20200627082246/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-27T16:39:34Z",
+        "uri": "https://web.archive.org/web/20200627163934/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-28T01:16:40Z",
+        "uri": "https://web.archive.org/web/20200628011640/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-28T03:42:13Z",
+        "uri": "https://web.archive.org/web/20200628034213/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-29T01:44:14Z",
+        "uri": "https://web.archive.org/web/20200629014414/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-29T02:23:28Z",
+        "uri": "https://web.archive.org/web/20200629022328/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-29T03:52:36Z",
+        "uri": "https://web.archive.org/web/20200629035236/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-29T21:36:53Z",
+        "uri": "https://web.archive.org/web/20200629213653/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-30T06:29:25Z",
+        "uri": "https://web.archive.org/web/20200630062925/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-06-30T09:36:01Z",
+        "uri": "https://web.archive.org/web/20200630093601/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-01T08:59:53Z",
+        "uri": "https://web.archive.org/web/20200701085953/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-01T20:57:07Z",
+        "uri": "https://web.archive.org/web/20200701205707/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-02T11:58:32Z",
+        "uri": "https://web.archive.org/web/20200702115832/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-02T13:53:54Z",
+        "uri": "https://web.archive.org/web/20200702135354/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-02T18:30:26Z",
+        "uri": "https://web.archive.org/web/20200702183026/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-03T14:44:41Z",
+        "uri": "https://web.archive.org/web/20200703144441/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-04T03:34:45Z",
+        "uri": "https://web.archive.org/web/20200704033445/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-04T04:37:34Z",
+        "uri": "https://web.archive.org/web/20200704043734/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-04T21:13:53Z",
+        "uri": "https://web.archive.org/web/20200704211353/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-05T01:18:55Z",
+        "uri": "https://web.archive.org/web/20200705011855/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-05T01:19:33Z",
+        "uri": "https://web.archive.org/web/20200705011933/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-05T02:18:27Z",
+        "uri": "https://web.archive.org/web/20200705021827/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-05T09:53:35Z",
+        "uri": "https://web.archive.org/web/20200705095335/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-05T20:15:58Z",
+        "uri": "https://web.archive.org/web/20200705201558/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-06T04:26:41Z",
+        "uri": "https://web.archive.org/web/20200706042641/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-06T14:55:09Z",
+        "uri": "https://web.archive.org/web/20200706145509/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-06T14:55:09Z",
+        "uri": "https://web.archive.org/web/20200706145509/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-07T02:16:00Z",
+        "uri": "https://web.archive.org/web/20200707021600/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-07T03:19:37Z",
+        "uri": "https://web.archive.org/web/20200707031937/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-07T20:14:56Z",
+        "uri": "https://web.archive.org/web/20200707201456/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-08T05:47:14Z",
+        "uri": "https://web.archive.org/web/20200708054714/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-09T04:14:41Z",
+        "uri": "https://web.archive.org/web/20200709041441/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-09T14:21:01Z",
+        "uri": "https://web.archive.org/web/20200709142101/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-10T05:11:33Z",
+        "uri": "https://web.archive.org/web/20200710051133/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-10T06:42:23Z",
+        "uri": "https://web.archive.org/web/20200710064223/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-11T06:06:40Z",
+        "uri": "https://web.archive.org/web/20200711060640/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-11T10:37:45Z",
+        "uri": "https://web.archive.org/web/20200711103745/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-12T05:38:35Z",
+        "uri": "https://web.archive.org/web/20200712053835/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-12T06:19:25Z",
+        "uri": "https://web.archive.org/web/20200712061925/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-13T01:52:54Z",
+        "uri": "https://web.archive.org/web/20200713015254/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-13T12:31:35Z",
+        "uri": "https://web.archive.org/web/20200713123135/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-14T05:02:36Z",
+        "uri": "https://web.archive.org/web/20200714050236/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-14T08:35:39Z",
+        "uri": "https://web.archive.org/web/20200714083539/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-15T03:51:21Z",
+        "uri": "https://web.archive.org/web/20200715035121/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-15T10:59:12Z",
+        "uri": "https://web.archive.org/web/20200715105912/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-15T22:57:33Z",
+        "uri": "https://web.archive.org/web/20200715225733/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-16T07:26:06Z",
+        "uri": "https://web.archive.org/web/20200716072606/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-17T08:20:45Z",
+        "uri": "https://web.archive.org/web/20200717082045/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-17T13:52:23Z",
+        "uri": "https://web.archive.org/web/20200717135223/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-18T04:40:52Z",
+        "uri": "https://web.archive.org/web/20200718044052/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-19T02:00:22Z",
+        "uri": "https://web.archive.org/web/20200719020022/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-19T03:39:50Z",
+        "uri": "https://web.archive.org/web/20200719033950/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-19T07:15:43Z",
+        "uri": "https://web.archive.org/web/20200719071543/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-20T02:35:09Z",
+        "uri": "https://web.archive.org/web/20200720023509/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-20T11:06:06Z",
+        "uri": "https://web.archive.org/web/20200720110606/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-20T11:06:10Z",
+        "uri": "https://web.archive.org/web/20200720110610/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-20T19:12:20Z",
+        "uri": "https://web.archive.org/web/20200720191220/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-21T01:11:24Z",
+        "uri": "https://web.archive.org/web/20200721011124/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-21T05:15:24Z",
+        "uri": "https://web.archive.org/web/20200721051524/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-22T04:09:59Z",
+        "uri": "https://web.archive.org/web/20200722040959/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-23T02:59:37Z",
+        "uri": "https://web.archive.org/web/20200723025937/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-24T07:47:41Z",
+        "uri": "https://web.archive.org/web/20200724074741/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-24T09:28:39Z",
+        "uri": "https://web.archive.org/web/20200724092839/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-25T05:38:41Z",
+        "uri": "https://web.archive.org/web/20200725053841/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-25T07:24:07Z",
+        "uri": "https://web.archive.org/web/20200725072407/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-25T14:38:57Z",
+        "uri": "https://web.archive.org/web/20200725143857/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-26T03:31:33Z",
+        "uri": "https://web.archive.org/web/20200726033133/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-26T04:00:47Z",
+        "uri": "https://web.archive.org/web/20200726040047/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-26T07:06:54Z",
+        "uri": "https://web.archive.org/web/20200726070654/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-26T07:44:14Z",
+        "uri": "https://web.archive.org/web/20200726074414/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-26T09:10:45Z",
+        "uri": "https://web.archive.org/web/20200726091045/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-27T01:39:57Z",
+        "uri": "https://web.archive.org/web/20200727013957/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-27T03:08:19Z",
+        "uri": "https://web.archive.org/web/20200727030819/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-28T02:56:58Z",
+        "uri": "https://web.archive.org/web/20200728025658/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-28T06:24:47Z",
+        "uri": "https://web.archive.org/web/20200728062447/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-28T10:08:35Z",
+        "uri": "https://web.archive.org/web/20200728100835/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-29T05:57:48Z",
+        "uri": "https://web.archive.org/web/20200729055748/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-29T10:41:59Z",
+        "uri": "https://web.archive.org/web/20200729104159/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-30T14:18:53Z",
+        "uri": "https://web.archive.org/web/20200730141853/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-31T11:19:02Z",
+        "uri": "https://web.archive.org/web/20200731111902/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-07-31T22:26:37Z",
+        "uri": "https://web.archive.org/web/20200731222637/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-01T03:00:50Z",
+        "uri": "https://web.archive.org/web/20200801030050/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-01T08:09:50Z",
+        "uri": "https://web.archive.org/web/20200801080950/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-02T05:28:30Z",
+        "uri": "https://web.archive.org/web/20200802052830/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-02T10:08:53Z",
+        "uri": "https://web.archive.org/web/20200802100853/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-02T10:09:07Z",
+        "uri": "https://web.archive.org/web/20200802100907/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-02T14:24:32Z",
+        "uri": "https://web.archive.org/web/20200802142432/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-02T17:28:11Z",
+        "uri": "https://web.archive.org/web/20200802172811/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-03T04:07:04Z",
+        "uri": "https://web.archive.org/web/20200803040704/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-03T08:57:29Z",
+        "uri": "https://web.archive.org/web/20200803085729/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-04T04:54:10Z",
+        "uri": "https://web.archive.org/web/20200804045410/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-04T07:52:25Z",
+        "uri": "https://web.archive.org/web/20200804075225/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-05T04:41:00Z",
+        "uri": "https://web.archive.org/web/20200805044100/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-05T07:59:53Z",
+        "uri": "https://web.archive.org/web/20200805075953/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-06T04:14:47Z",
+        "uri": "https://web.archive.org/web/20200806041447/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-06T19:13:07Z",
+        "uri": "https://web.archive.org/web/20200806191307/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-07T02:05:33Z",
+        "uri": "https://web.archive.org/web/20200807020533/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-07T03:49:02Z",
+        "uri": "https://web.archive.org/web/20200807034902/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-08T06:52:00Z",
+        "uri": "https://web.archive.org/web/20200808065200/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-08T06:55:09Z",
+        "uri": "https://web.archive.org/web/20200808065509/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-09T00:01:38Z",
+        "uri": "https://web.archive.org/web/20200809000138/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-09T01:35:45Z",
+        "uri": "https://web.archive.org/web/20200809013545/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-09T01:36:47Z",
+        "uri": "https://web.archive.org/web/20200809013647/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-09T13:00:17Z",
+        "uri": "https://web.archive.org/web/20200809130017/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-09T23:12:49Z",
+        "uri": "https://web.archive.org/web/20200809231249/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-10T02:55:53Z",
+        "uri": "https://web.archive.org/web/20200810025553/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-11T05:11:30Z",
+        "uri": "https://web.archive.org/web/20200811051130/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-11T07:42:55Z",
+        "uri": "https://web.archive.org/web/20200811074255/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-12T05:19:57Z",
+        "uri": "https://web.archive.org/web/20200812051957/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-12T05:29:05Z",
+        "uri": "https://web.archive.org/web/20200812052905/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-13T05:22:55Z",
+        "uri": "https://web.archive.org/web/20200813052255/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-13T08:05:00Z",
+        "uri": "https://web.archive.org/web/20200813080500/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-14T03:41:56Z",
+        "uri": "https://web.archive.org/web/20200814034156/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-14T08:38:15Z",
+        "uri": "https://web.archive.org/web/20200814083815/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-15T00:35:17Z",
+        "uri": "https://web.archive.org/web/20200815003517/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-15T05:08:59Z",
+        "uri": "https://web.archive.org/web/20200815050859/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-16T03:26:32Z",
+        "uri": "https://web.archive.org/web/20200816032632/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-16T12:02:10Z",
+        "uri": "https://web.archive.org/web/20200816120210/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-17T02:16:29Z",
+        "uri": "https://web.archive.org/web/20200817021629/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-17T04:16:18Z",
+        "uri": "https://web.archive.org/web/20200817041618/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-17T20:07:08Z",
+        "uri": "https://web.archive.org/web/20200817200708/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-28T21:20:48Z",
+        "uri": "https://web.archive.org/web/20200828212048/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-28T21:47:43Z",
+        "uri": "https://web.archive.org/web/20200828214743/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-08-30T21:16:52Z",
+        "uri": "https://web.archive.org/web/20200830211652/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-09-06T20:14:59Z",
+        "uri": "https://web.archive.org/web/20200906201459/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      },
+      {
+        "datetime": "2020-10-02T22:23:05Z",
+        "uri": "https://web.archive.org/web/20201002222305/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+      }
+    ],
+    "first": {
+      "datetime": "2020-01-11T21:51:02Z",
+      "uri": "https://web.archive.org/web/20200111215102/http://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+    },
+    "last": {
+      "datetime": "2020-10-02T22:23:05Z",
+      "uri": "https://web.archive.org/web/20201002222305/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.cidrap.umn.edu/news-perspective/2020/01/china-releases-genetic-data-new-coronavirus-now-deadly%0A"
+}

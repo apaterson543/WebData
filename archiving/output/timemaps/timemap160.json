@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://enustore.com/products/palo-santo-green-jade-small-bead-bracelets%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://enustore.com/products/palo-santo-green-jade-small-bead-bracelets%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-06-29T16:49:14Z",
+        "uri": "https://web.archive.org/web/20200629164914/https://enustore.com/products/palo-santo-green-jade-small-bead-bracelets"
+      },
+      {
+        "datetime": "2020-08-03T23:32:51Z",
+        "uri": "https://web.archive.org/web/20200803233251/https://enustore.com/products/palo-santo-green-jade-small-bead-bracelets"
+      }
+    ],
+    "first": {
+      "datetime": "2020-06-29T16:49:14Z",
+      "uri": "https://web.archive.org/web/20200629164914/https://enustore.com/products/palo-santo-green-jade-small-bead-bracelets"
+    },
+    "last": {
+      "datetime": "2020-08-03T23:32:51Z",
+      "uri": "https://web.archive.org/web/20200803233251/https://enustore.com/products/palo-santo-green-jade-small-bead-bracelets"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://enustore.com/products/palo-santo-green-jade-small-bead-bracelets%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://enustore.com/products/palo-santo-green-jade-small-bead-bracelets%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://enustore.com/products/palo-santo-green-jade-small-bead-bracelets%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://enustore.com/products/palo-santo-green-jade-small-bead-bracelets%0A"
+}

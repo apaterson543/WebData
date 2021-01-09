@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://thehill.com/policy/healthcare/519935-fauci-as-many-as-400000-americans-could-die-from-coronavirus",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://thehill.com/policy/healthcare/519935-fauci-as-many-as-400000-americans-could-die-from-coronavirus",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-08T02:35:27Z",
+        "uri": "https://wayback.archive-it.org/all/20201008023527/https://thehill.com/policy/healthcare/519935-fauci-as-many-as-400000-americans-could-die-from-coronavirus"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-08T02:35:27Z",
+      "uri": "https://wayback.archive-it.org/all/20201008023527/https://thehill.com/policy/healthcare/519935-fauci-as-many-as-400000-americans-could-die-from-coronavirus"
+    },
+    "last": {
+      "datetime": "2020-10-08T02:35:27Z",
+      "uri": "https://wayback.archive-it.org/all/20201008023527/https://thehill.com/policy/healthcare/519935-fauci-as-many-as-400000-americans-could-die-from-coronavirus"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://thehill.com/policy/healthcare/519935-fauci-as-many-as-400000-americans-could-die-from-coronavirus",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://thehill.com/policy/healthcare/519935-fauci-as-many-as-400000-americans-could-die-from-coronavirus",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://thehill.com/policy/healthcare/519935-fauci-as-many-as-400000-americans-could-die-from-coronavirus"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://thehill.com/policy/healthcare/519935-fauci-as-many-as-400000-americans-could-die-from-coronavirus"
+}

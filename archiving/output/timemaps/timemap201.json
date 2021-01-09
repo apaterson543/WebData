@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://dengarden.com/cleaning/Borax-on-Wooden-Joists-for-Mold-Treament%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://dengarden.com/cleaning/Borax-on-Wooden-Joists-for-Mold-Treament%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-04-27T13:51:06Z",
+        "uri": "https://web.archive.org/web/20200427135106/https://dengarden.com/cleaning/Borax-on-Wooden-Joists-for-Mold-Treament"
+      },
+      {
+        "datetime": "2020-08-03T00:28:23Z",
+        "uri": "https://web.archive.org/web/20200803002823/https://dengarden.com/cleaning/Borax-on-Wooden-Joists-for-Mold-Treament"
+      }
+    ],
+    "first": {
+      "datetime": "2020-04-27T13:51:06Z",
+      "uri": "https://web.archive.org/web/20200427135106/https://dengarden.com/cleaning/Borax-on-Wooden-Joists-for-Mold-Treament"
+    },
+    "last": {
+      "datetime": "2020-08-03T00:28:23Z",
+      "uri": "https://web.archive.org/web/20200803002823/https://dengarden.com/cleaning/Borax-on-Wooden-Joists-for-Mold-Treament"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://dengarden.com/cleaning/Borax-on-Wooden-Joists-for-Mold-Treament%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://dengarden.com/cleaning/Borax-on-Wooden-Joists-for-Mold-Treament%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://dengarden.com/cleaning/Borax-on-Wooden-Joists-for-Mold-Treament%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://dengarden.com/cleaning/Borax-on-Wooden-Joists-for-Mold-Treament%0A"
+}

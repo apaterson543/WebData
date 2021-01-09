@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://www.theguardian.com/education/2020/oct/06/manchester-students-organising-covid-positive-parties%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.theguardian.com/education/2020/oct/06/manchester-students-organising-covid-positive-parties%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-06T20:55:59Z",
+        "uri": "https://web.archive.org/web/20201006205559/https://www.theguardian.com/education/2020/oct/06/manchester-students-organising-covid-positive-parties"
+      },
+      {
+        "datetime": "2020-10-06T21:59:42Z",
+        "uri": "https://web.archive.org/web/20201006215942/https://www.theguardian.com/education/2020/oct/06/manchester-students-organising-covid-positive-parties"
+      },
+      {
+        "datetime": "2020-10-07T07:16:02Z",
+        "uri": "https://web.archive.org/web/20201007071602/https://www.theguardian.com/education/2020/oct/06/manchester-students-organising-covid-positive-parties"
+      },
+      {
+        "datetime": "2020-10-07T09:55:58Z",
+        "uri": "https://web.archive.org/web/20201007095558/https://www.theguardian.com/education/2020/oct/06/manchester-students-organising-covid-positive-parties"
+      },
+      {
+        "datetime": "2020-10-08T05:29:33Z",
+        "uri": "https://web.archive.org/web/20201008052933/https://www.theguardian.com/education/2020/oct/06/manchester-students-organising-covid-positive-parties"
+      },
+      {
+        "datetime": "2020-10-08T07:04:33Z",
+        "uri": "https://web.archive.org/web/20201008070433/https://www.theguardian.com/education/2020/oct/06/manchester-students-organising-covid-positive-parties"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-06T20:55:59Z",
+      "uri": "https://web.archive.org/web/20201006205559/https://www.theguardian.com/education/2020/oct/06/manchester-students-organising-covid-positive-parties"
+    },
+    "last": {
+      "datetime": "2020-10-08T07:04:33Z",
+      "uri": "https://web.archive.org/web/20201008070433/https://www.theguardian.com/education/2020/oct/06/manchester-students-organising-covid-positive-parties"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.theguardian.com/education/2020/oct/06/manchester-students-organising-covid-positive-parties%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.theguardian.com/education/2020/oct/06/manchester-students-organising-covid-positive-parties%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.theguardian.com/education/2020/oct/06/manchester-students-organising-covid-positive-parties%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.theguardian.com/education/2020/oct/06/manchester-students-organising-covid-positive-parties%0A"
+}

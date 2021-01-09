@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://gulfnews.com/world/mena/busy-damascus-cemetery-points-to-higher-in-syria-1.74404867%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://gulfnews.com/world/mena/busy-damascus-cemetery-points-to-higher-in-syria-1.74404867%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T22:52:41Z",
+        "uri": "https://web.archive.org/web/20201007225241/https://gulfnews.com/world/mena/busy-damascus-cemetery-points-to-higher-in-syria-1.74404867"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T22:52:41Z",
+      "uri": "https://web.archive.org/web/20201007225241/https://gulfnews.com/world/mena/busy-damascus-cemetery-points-to-higher-in-syria-1.74404867"
+    },
+    "last": {
+      "datetime": "2020-10-07T22:52:41Z",
+      "uri": "https://web.archive.org/web/20201007225241/https://gulfnews.com/world/mena/busy-damascus-cemetery-points-to-higher-in-syria-1.74404867"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://gulfnews.com/world/mena/busy-damascus-cemetery-points-to-higher-in-syria-1.74404867%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://gulfnews.com/world/mena/busy-damascus-cemetery-points-to-higher-in-syria-1.74404867%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://gulfnews.com/world/mena/busy-damascus-cemetery-points-to-higher-in-syria-1.74404867%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://gulfnews.com/world/mena/busy-damascus-cemetery-points-to-higher-in-syria-1.74404867%0A"
+}

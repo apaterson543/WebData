@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.naijanews.com/2020/10/07/coronavirus-ncdc-confirms-155-new-covid-19-cases-in-nigeria/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.naijanews.com/2020/10/07/coronavirus-ncdc-confirms-155-new-covid-19-cases-in-nigeria/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-08T01:54:33Z",
+        "uri": "https://web.archive.org/web/20201008015433/https://www.naijanews.com/2020/10/07/coronavirus-ncdc-confirms-155-new-covid-19-cases-in-nigeria/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-08T01:54:33Z",
+      "uri": "https://web.archive.org/web/20201008015433/https://www.naijanews.com/2020/10/07/coronavirus-ncdc-confirms-155-new-covid-19-cases-in-nigeria/"
+    },
+    "last": {
+      "datetime": "2020-10-08T01:54:33Z",
+      "uri": "https://web.archive.org/web/20201008015433/https://www.naijanews.com/2020/10/07/coronavirus-ncdc-confirms-155-new-covid-19-cases-in-nigeria/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.naijanews.com/2020/10/07/coronavirus-ncdc-confirms-155-new-covid-19-cases-in-nigeria/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.naijanews.com/2020/10/07/coronavirus-ncdc-confirms-155-new-covid-19-cases-in-nigeria/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.naijanews.com/2020/10/07/coronavirus-ncdc-confirms-155-new-covid-19-cases-in-nigeria/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.naijanews.com/2020/10/07/coronavirus-ncdc-confirms-155-new-covid-19-cases-in-nigeria/%0A"
+}

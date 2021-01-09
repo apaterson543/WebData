@@ -1,0 +1,82 @@
+{
+  "original_uri": "https://www.telegraph.co.uk/news/2020/09/24/new-coronavirus-mutation-could-evolving-get-around-mask-wearing/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.telegraph.co.uk/news/2020/09/24/new-coronavirus-mutation-could-evolving-get-around-mask-wearing/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-09-24T13:45:33Z",
+        "uri": "https://web.archive.org/web/20200924134533/https://www.telegraph.co.uk/news/2020/09/24/new-coronavirus-mutation-could-evolving-get-around-mask-wearing/"
+      },
+      {
+        "datetime": "2020-09-25T02:52:49Z",
+        "uri": "https://web.archive.org/web/20200925025249/https://www.telegraph.co.uk/news/2020/09/24/new-coronavirus-mutation-could-evolving-get-around-mask-wearing/"
+      },
+      {
+        "datetime": "2020-09-25T10:49:46Z",
+        "uri": "https://web.archive.org/web/20200925104946/https://www.telegraph.co.uk/news/2020/09/24/new-coronavirus-mutation-could-evolving-get-around-mask-wearing/"
+      },
+      {
+        "datetime": "2020-09-25T13:37:32Z",
+        "uri": "https://web.archive.org/web/20200925133732/https://www.telegraph.co.uk/news/2020/09/24/new-coronavirus-mutation-could-evolving-get-around-mask-wearing/"
+      },
+      {
+        "datetime": "2020-09-25T13:37:36Z",
+        "uri": "https://web.archive.org/web/20200925133736/https://www.telegraph.co.uk/news/2020/09/24/new-coronavirus-mutation-could-evolving-get-around-mask-wearing"
+      },
+      {
+        "datetime": "2020-09-25T13:38:09Z",
+        "uri": "https://web.archive.org/web/20200925133809/http://www.telegraph.co.uk/news/2020/09/24/new-coronavirus-mutation-could-evolving-get-around-mask-wearing/"
+      },
+      {
+        "datetime": "2020-09-25T22:22:28Z",
+        "uri": "https://web.archive.org/web/20200925222228/https://www.telegraph.co.uk/news/2020/09/24/new-coronavirus-mutation-could-evolving-get-around-mask-wearing/"
+      },
+      {
+        "datetime": "2020-09-25T23:20:21Z",
+        "uri": "https://web.archive.org/web/20200925232021/https://www.telegraph.co.uk/news/2020/09/24/new-coronavirus-mutation-could-evolving-get-around-mask-wearing/"
+      },
+      {
+        "datetime": "2020-09-28T18:30:46Z",
+        "uri": "https://web.archive.org/web/20200928183046/https://www.telegraph.co.uk/news/2020/09/24/new-coronavirus-mutation-could-evolving-get-around-mask-wearing"
+      },
+      {
+        "datetime": "2020-09-28T18:30:47Z",
+        "uri": "https://web.archive.org/web/20200928183047/https://www.telegraph.co.uk/news/2020/09/24/new-coronavirus-mutation-could-evolving-get-around-mask-wearing/"
+      },
+      {
+        "datetime": "2020-09-28T18:30:47Z",
+        "uri": "https://web.archive.org/web/20200928183047/http://www.telegraph.co.uk/news/2020/09/24/new-coronavirus-mutation-could-evolving-get-around-mask-wearing/"
+      },
+      {
+        "datetime": "2020-10-06T01:44:15Z",
+        "uri": "https://web.archive.org/web/20201006014415/https://www.telegraph.co.uk/news/2020/09/24/new-coronavirus-mutation-could-evolving-get-around-mask-wearing/"
+      },
+      {
+        "datetime": "2020-10-06T01:44:21Z",
+        "uri": "https://web.archive.org/web/20201006014421/https://www.telegraph.co.uk/news/2020/09/24/new-coronavirus-mutation-could-evolving-get-around-mask-wearing"
+      },
+      {
+        "datetime": "2020-10-06T01:45:19Z",
+        "uri": "https://web.archive.org/web/20201006014519/http://www.telegraph.co.uk/news/2020/09/24/new-coronavirus-mutation-could-evolving-get-around-mask-wearing/"
+      },
+      {
+        "datetime": "2020-10-07T21:51:27Z",
+        "uri": "https://web.archive.org/web/20201007215127/https://www.telegraph.co.uk/news/2020/09/24/new-coronavirus-mutation-could-evolving-get-around-mask-wearing/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-09-24T13:45:33Z",
+      "uri": "https://web.archive.org/web/20200924134533/https://www.telegraph.co.uk/news/2020/09/24/new-coronavirus-mutation-could-evolving-get-around-mask-wearing/"
+    },
+    "last": {
+      "datetime": "2020-10-07T21:51:27Z",
+      "uri": "https://web.archive.org/web/20201007215127/https://www.telegraph.co.uk/news/2020/09/24/new-coronavirus-mutation-could-evolving-get-around-mask-wearing/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.telegraph.co.uk/news/2020/09/24/new-coronavirus-mutation-could-evolving-get-around-mask-wearing/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.telegraph.co.uk/news/2020/09/24/new-coronavirus-mutation-could-evolving-get-around-mask-wearing/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.telegraph.co.uk/news/2020/09/24/new-coronavirus-mutation-could-evolving-get-around-mask-wearing/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.telegraph.co.uk/news/2020/09/24/new-coronavirus-mutation-could-evolving-get-around-mask-wearing/%0A"
+}

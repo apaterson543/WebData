@@ -1,0 +1,46 @@
+{
+  "original_uri": "https://www.nature.com/articles/d41586-020-02801-8%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.nature.com/articles/d41586-020-02801-8%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-06T19:01:06Z",
+        "uri": "https://web.archive.org/web/20201006190106/https://www.nature.com/articles/d41586-020-02801-8"
+      },
+      {
+        "datetime": "2020-10-06T19:38:15Z",
+        "uri": "https://web.archive.org/web/20201006193815/https://www.nature.com/articles/d41586-020-02801-8"
+      },
+      {
+        "datetime": "2020-10-07T01:35:37Z",
+        "uri": "https://web.archive.org/web/20201007013537/https://www.nature.com/articles/d41586-020-02801-8"
+      },
+      {
+        "datetime": "2020-10-07T16:28:28Z",
+        "uri": "https://web.archive.org/web/20201007162828/https://www.nature.com/articles/d41586-020-02801-8"
+      },
+      {
+        "datetime": "2020-10-08T03:16:49Z",
+        "uri": "https://web.archive.org/web/20201008031649/https://www.nature.com/articles/d41586-020-02801-8"
+      },
+      {
+        "datetime": "2020-10-08T17:02:36Z",
+        "uri": "https://web.archive.org/web/20201008170236/https://www.nature.com/articles/d41586-020-02801-8"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-06T19:01:06Z",
+      "uri": "https://web.archive.org/web/20201006190106/https://www.nature.com/articles/d41586-020-02801-8"
+    },
+    "last": {
+      "datetime": "2020-10-08T17:02:36Z",
+      "uri": "https://web.archive.org/web/20201008170236/https://www.nature.com/articles/d41586-020-02801-8"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.nature.com/articles/d41586-020-02801-8%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.nature.com/articles/d41586-020-02801-8%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.nature.com/articles/d41586-020-02801-8%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.nature.com/articles/d41586-020-02801-8%0A"
+}

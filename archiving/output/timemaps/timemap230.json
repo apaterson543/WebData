@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://www.cnbc.com/2020/10/07/coronavirus-new-demand-for-personal-chefs-as-restaurant-industry-lags.html%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.cnbc.com/2020/10/07/coronavirus-new-demand-for-personal-chefs-as-restaurant-industry-lags.html%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-08T06:03:42Z",
+        "uri": "https://web.archive.org/web/20201008060342/https://www.cnbc.com/2020/10/07/coronavirus-new-demand-for-personal-chefs-as-restaurant-industry-lags.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-08T06:03:42Z",
+      "uri": "https://web.archive.org/web/20201008060342/https://www.cnbc.com/2020/10/07/coronavirus-new-demand-for-personal-chefs-as-restaurant-industry-lags.html"
+    },
+    "last": {
+      "datetime": "2020-10-08T06:03:42Z",
+      "uri": "https://web.archive.org/web/20201008060342/https://www.cnbc.com/2020/10/07/coronavirus-new-demand-for-personal-chefs-as-restaurant-industry-lags.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.cnbc.com/2020/10/07/coronavirus-new-demand-for-personal-chefs-as-restaurant-industry-lags.html%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.cnbc.com/2020/10/07/coronavirus-new-demand-for-personal-chefs-as-restaurant-industry-lags.html%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.cnbc.com/2020/10/07/coronavirus-new-demand-for-personal-chefs-as-restaurant-industry-lags.html%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.cnbc.com/2020/10/07/coronavirus-new-demand-for-personal-chefs-as-restaurant-industry-lags.html%0A"
+}

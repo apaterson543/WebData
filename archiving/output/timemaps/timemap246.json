@@ -1,0 +1,26 @@
+{
+  "original_uri": "https://ideas.ted.com/6-things-we-can-learn-from-how-women-leaders-have-handled-the-pandemic/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://ideas.ted.com/6-things-we-can-learn-from-how-women-leaders-have-handled-the-pandemic/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-02T00:43:22Z",
+        "uri": "https://web.archive.org/web/20201002004322/https://ideas.ted.com/6-things-we-can-learn-from-how-women-leaders-have-handled-the-pandemic/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-02T00:43:22Z",
+      "uri": "https://web.archive.org/web/20201002004322/https://ideas.ted.com/6-things-we-can-learn-from-how-women-leaders-have-handled-the-pandemic/"
+    },
+    "last": {
+      "datetime": "2020-10-02T00:43:22Z",
+      "uri": "https://web.archive.org/web/20201002004322/https://ideas.ted.com/6-things-we-can-learn-from-how-women-leaders-have-handled-the-pandemic/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://ideas.ted.com/6-things-we-can-learn-from-how-women-leaders-have-handled-the-pandemic/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://ideas.ted.com/6-things-we-can-learn-from-how-women-leaders-have-handled-the-pandemic/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://ideas.ted.com/6-things-we-can-learn-from-how-women-leaders-have-handled-the-pandemic/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://ideas.ted.com/6-things-we-can-learn-from-how-women-leaders-have-handled-the-pandemic/%0A"
+}

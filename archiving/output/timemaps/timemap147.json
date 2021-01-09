@@ -1,0 +1,30 @@
+{
+  "original_uri": "https://www.techrepublic.com/article/phishing-attack-spoofs-irs-covid-19-relief-to-steal-personal-data/%0A",
+  "self": "https://memgator.cs.odu.edu/timemap/json/https://www.techrepublic.com/article/phishing-attack-spoofs-irs-covid-19-relief-to-steal-personal-data/%0A",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-10-07T18:36:07Z",
+        "uri": "https://web.archive.org/web/20201007183607/https://www.techrepublic.com/article/phishing-attack-spoofs-irs-covid-19-relief-to-steal-personal-data/"
+      },
+      {
+        "datetime": "2020-10-07T18:38:03Z",
+        "uri": "https://web.archive.org/web/20201007183803/http://www.techrepublic.com/article/phishing-attack-spoofs-irs-covid-19-relief-to-steal-personal-data/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-10-07T18:36:07Z",
+      "uri": "https://web.archive.org/web/20201007183607/https://www.techrepublic.com/article/phishing-attack-spoofs-irs-covid-19-relief-to-steal-personal-data/"
+    },
+    "last": {
+      "datetime": "2020-10-07T18:38:03Z",
+      "uri": "https://web.archive.org/web/20201007183803/http://www.techrepublic.com/article/phishing-attack-spoofs-irs-covid-19-relief-to-steal-personal-data/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "https://memgator.cs.odu.edu/timemap/link/https://www.techrepublic.com/article/phishing-attack-spoofs-irs-covid-19-relief-to-steal-personal-data/%0A",
+    "json_format": "https://memgator.cs.odu.edu/timemap/json/https://www.techrepublic.com/article/phishing-attack-spoofs-irs-covid-19-relief-to-steal-personal-data/%0A",
+    "cdxj_format": "https://memgator.cs.odu.edu/timemap/cdxj/https://www.techrepublic.com/article/phishing-attack-spoofs-irs-covid-19-relief-to-steal-personal-data/%0A"
+  },
+  "timegate_uri": "https://memgator.cs.odu.edu/timegate/https://www.techrepublic.com/article/phishing-attack-spoofs-irs-covid-19-relief-to-steal-personal-data/%0A"
+}
