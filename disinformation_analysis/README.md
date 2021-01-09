@@ -1,8 +1,7 @@
-# Homework 6 - Analyzing Disinformation Domains
-### Andrew Paterson - CS 432
+# Analyzing Disinformation Domains
 
 
-### Q1
+### P1
 
 From the 1679 URIs found in [D2](project_files/D2.csv):
  * 792 of the links redirected to another URI
@@ -29,7 +28,7 @@ By further processing of the above file, it was found that [D2](project_files/D2
 
 It is interesting to see the domains in this top 5 include a few sources that are notorious for presenting disinformation.
 
-### Q2
+### P2
 
 The table below represents an overlap in domains found in [D1](project_files/D1.csv), [D2](project_files/D2.csv), and [D3](project_files/D3.csv).
 
@@ -39,9 +38,7 @@ I found the column representing domains that are present in all of the datasets 
 related to mass shootings and Syria floating around on the internet so comparing sites that were known for posting false information related to 
 COVID-19 takes away credibility from the sites that appear in all 3 of these datasets.
 
-### Q3
-
-Questions to answer:
+### P3
 
 [200_tweets.csv](project_files/200_tweets.csv)
 Using the domains that appeared in [D3](project_files/D3.csv) (False COVID-19 information), 284 tweets were collected that contain
@@ -65,7 +62,7 @@ I read the headline: "Dr. Fauci Warns US Likely To Cancel Christmas, Hints That 
 From what I have experienced in the past, many of these 3rd party sites that claim to be politically moderate use appeal to emotion to 
 promote false information. 
 
-### Q4
+### P4
 
 For this section, the number of tweets per domain ([data from Q3](project_files/tweets_per_domain.csv)) was compared with the original D1 data and your domain dataset from Q1 ([D2](project_files/D2.csv)).  
 
