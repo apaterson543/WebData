@@ -1,10 +1,10 @@
-#Homework 2 - Report
+
 
 #### Andrew Paterson
 
-## Q1.
+## P1.
 
-For this question, the key word "#coronavirus" was used in
+For this section, the key word "#coronavirus" was used in
 the search function of tweepy's cursor tool. After checking about 
 40,000 tweets, the program found 1000 unique links that were not pointing 
 to the Twitter domain. These links can be found in the file: [unique_uris](output/unique_urls.txt)
@@ -22,7 +22,7 @@ To view the link gathering program, click [here](src/unique_links.py).
 
 
 
-## Q2.
+## P2.
 For the program see [gather_timemaps.py](src/gather_timemaps.py).
 
 Sample data can be found in the [timemaps](output/timemaps) folder.
@@ -33,7 +33,7 @@ For the program that generated the histogram of the collected timemaps, see: [ga
 
 The archives for the list of URIs collected in part one are not particularly well archived. Only 346 of the links had archives. 
 
-## Q3
+## P3
 * Total URIs: 1000 
 * No Mementos: 654
 
