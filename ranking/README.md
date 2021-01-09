@@ -1,124 +1,127 @@
 # Homework 3 - Ranking Webpages
-**Due:** Sunday, October 18, 2020 by 11:59pm
-
-## Assignment
-
-This assignment will have you investigate different ways to rank webpages based on a query.  
-
-Write a report that addresses the following questions.  Your GitHub repo should include all scripts, code, output files, images (including .tex file if submitting PDF) needed to complete the assignment.
+### Andrew Paterson
 
 ### Q1. Data Collection
 
-*For the following tasks, consider which items could be scripted, either with a shell script or with Python.  You may even want to create separate scripts for different tasks.  It's up to you to determine the best way to collect the data.*
+To collect all of the source text from the 1000 files gathered in homework 2, I used the requests .content tool. 
+Next, in order to eliminate the non-content text such as HTML tags, I used the lxml library 
+and its .clean_html() function. This still left some tags and css. Next I wrote a few regex replace statements to get 
+rid of any remaining tags and line break characters. After this process there was still some unwanted text in these files 
+but it was little enough to begin further processing. 
 
-Download the content of the 1000 URIs from HW2.  `curl`, `wget`, or `lynx` are all good candidate programs to use.  We want just the raw HTML, not the images, stylesheets, etc.
+The reason this method was chose is because I was unable to get python boilerpipe to run on my computer. I will surely
+continue to experiment in order to get that method running for the future.
 
-Examples from the command line:
+While gathering the text from these pages I found that since they were collected 2 weeks ago, many of them ceased to exist.
+Only 979 of them gave a response.
 
-`% curl http://www.cnn.com/ > www.cnn.com`
+To view the text collected from the files see [Cleaner](io_text_resources/Cleaner).
 
-`% wget -O www.cnn.com http://www.cnn.com/`
+To view the raw html originally gathered from the page, see [Raw](io_text_resources/Raw).
 
-`% lynx -source http://www.cnn.com/ > www.cnn.com`
+To view the python script used to collect this text see [collect_text.py](collect_text.py).
 
-<nolink>`www.cnn.com` is just an example output file name, keep in mind that the shell will not like some of the characters that can occur
-in URIs (e.g., "?", "&").  You might want to hash the URIs to associate them with their respective filename, like:
 
-```
-% echo -n "http://www.cs.odu.edu/show_features.shtml?72" | md5 
-41d5f125d13b4bb554e6e31b6b591eeb
-```
-
-(`md5` might be `md5sum` on some machines; note the `-n` in echo -- this removes the trailing newline.)
-
-Now use a tool to remove (most) of the HTML markup for all 1000 HTML documents. `python-boilerpipe` will do a fair job, see 
-http://ws-dl.blogspot.com/2017/03/2017-03-20-survey-of-5-boilerplate.html:
-
-```{python}
-from boilerpipe.extract import Extractor
-extractor = Extractor(extractor='ArticleExtractor', html=html)
-extractor.getText()
-```
-
-Keep both files for each URI (i.e., raw HTML and processed). Upload both sets of files to your GitHub repo.
 
 ### Q2. Rank with TF-IDF
 
-Choose a query term (e.g., "coronavirus") that is not a stop word (e.g, "the"), not super-general (e.g., "web"), and not HTML markup (e.g., "http") that is found in at least 10 of your documents. (Hint: you can use `grep -c` on the processed files to identify a good query.)  If the term is present in more than 10 documents, choose any 10 English-language documents from different domains from the result set.  (If you do not end up with a list of 10 URIs, you've done something wrong.)
+I chose 'coronavirus' as my query term. The reason I chose this word is because it was my query term on twitter while
+initially gathering the 1000 unique links. As mentioned in Q1, only 979 of the links previously collected returned a response.
+Of these 979, only a little over 300 actually contained the query word. This is interesting because people put the tag
+\#coronavirus but on links that did not contain that word.
 
-As per the example in the Week 6 slides, compute TF-IDF values for the query term in each of the 10 documents and create a table with the
-TF, IDF, and TF-IDF values, as well as the corresponding URIs.  Rank the URIs in decreasing order by TF-IDF values.  For
-example:
+In order to maximize my chances of having a non-zero TF-IDF, I scanned through all the text to find the ten files with the 
+highest number of occurences of the query term. 
 
-Table 1. 10 Hits for the term "shadow", ranked by TF-IDF.
+For collection script, see [get_ten.py](get_ten.py).
 
-|TF-IDF	|TF	|IDF	|URI
-|------:|--:|---:|---
-|0.150	|0.014	|10.680	|http://foo.com/
-|0.044	|0.008	|10.680	|http://bar.com/
+For the top ten files chosen that contained the query term, a file was generated for each that contained:
+* Line 0: URI
+* Line 3: Source text
+* Line 4: Number of occurences of query term in file
 
-You can use Google or Bing for the DF estimation.  If you use Google, use 55 B as the total size of the corpus, and if you use Bing, use 10 B as the total size of the corpus (based on data from https://www.worldwidewebsize.com).
+Also the file [number_of_files_containing_term.txt](io_text_resources/TopTen/number_of_files_containing_term.txt)
+was generated during the execution of [get_ten.py](get_ten.py) to count the number of files actually containing the term
+for calculation of TF.
 
-To count the number of words in the processed document (i.e., the denominator for TF), you can use `wc`:
+To view these 10 files, see [TopTen](io_text_resources/TopTen).
 
-```
-% wc -w www.cnn.com.processed
-    2370 www.cnn.com.processed
-```
+After collecting these files, the script [create_TF_IDF.py](create_TF_IDF.py) was used to calculate the TF-IDF for each of the 10 
+files collected. For the files in corpus, I used Bing's estimated size of the web. 
 
-It won't be completely accurate, but it will be probably be consistently inaccurate across all files.  You can use more 
-accurate methods if you'd like, just explain how you did it.  
+Later on for question 4, this same file was manipulated to change Bing's number to the total number of links collected by twitter
 
-Don't forget the log base 2 for IDF, and mind your [significant digits](https://en.wikipedia.org/wiki/Significant_figures#Rounding_and_decimal_places)!
+This script also generated the .csv file: [TF_IDF_WEB.csv](io_text_resources/Charts/TF_IDF_web.csv).
+
+This table created in the .csv file is also depicted in **Table 1**. 
+
+**Table 1.**  *10 pages with hits for the term "coronavirus", ranked by TF-IDF where corpus size is Bing web size estimation.*
+
+|TF-IDF |TF	|IDF |URI
+|---:|---:|---:|---
+|0.621773 |0.025132 |24.739500 |https://www.donaldjtrump.com/media/timeline-the-trump-administrations-decisive-actions-to-combat-the-coronavirus/
+|1.144139 |0.046247 |24.739500 |https://nodexlgraphgallery.org/Pages/Graph.aspx?graphID=237287
+|0.143908 |0.005816 |24.739500 |https://www.wbaltv.com/article/maryland-coronavirus-numbers-map-faq-october-5-11/34271761
+|0.576042 |0.023284 |24.739500 |https://www.click2houston.com/health/2020/03/22/chart-houston-area-coronavirus-cases-in-the-past-week/?utm_source=twitter&utm_medium=social&utm_campaign=snd&utm_content=kprc2
+|0.236443 |0.009557 |24.739500 |https://www.politico.com/news/2020/10/06/osha-coronavirus-penalties-426828
+|0.051653 |0.002087 |24.739500 |https://www.dailymail.co.uk/news/article-8815059/Nicola-Sturgeon-set-BAN-alcohol-Scotlands-pubs-force-6pm-closing.html
+|0.180347 |0.007289 |24.739500 |https://www.city-journal.org/trump-coronavirus-diagnosis-models-positive-masculinity
+|0.252443 |0.010204 |24.739500 |http://www.msn.com/en-us/news/us/how-much-would-trumps-coronavirus-treatment-cost-most-americans/ar-BB19MG4w?ocid=st
+|0.029061 |0.001174 |24.739500 |https://www.dailymail.co.uk/tvshowbiz/article-8813329/Wendy-Williams-mispronounced-coronavirus-cornova-Trumps-return-White-House.html
+|0.022490 |0.000909 |24.739500 |https://www.theguardian.com/world/live/2020/oct/07/coronavirus-live-news-six-us-states-see-record-hospital-patients-facebook-deletes-trump-post?CMP=share_btn_tw&page=with:block-5f7db5e18f08ac58bb46810c#block-5f7db5e18f08ac58bb46810c
+
 
 ### Q3. Rank with PageRank
 
-Now rank the same 10 URIs from Q2, but this time by their PageRank.  Use any of the free PR estimaters on the web,
-such as:
+To gather the PageRank of these pages on the web, I chose the tool:
+
 * http://www.prchecker.info/check_page_rank.php
-* http://www.checkpagerank.net/
-* https://dnschecker.org/pagerank.php
-* https://smallseotools.com/google-pagerank-checker/
+  
+After manually entering the 10 URIs collected in **Q2**, It turned out that all of them had a zero page rank. 
+This may be because none of the domains are extremely popular and also because all of the pages are a particular article 
+and not the landing page of the main domain website.
 
-If you use these tools, you'll have to do so by hand (they have anti-bot captchas), but there are only 10 to do.  Normalize the
-values they give you to be from 0 to 1.0.  Use the same tool on all 10 (again, consistency is more important than accuracy).  Also
-note that these tools typically report on the domain rather than the page, so it's not entirely accurate.  
-
-Create a table similar to Table 1:
-
-Table 2.  10 hits for the term "shadow", ranked by PageRank.
+**Table 2.**  10 pages with hits for the term "coronavirus", ranked by PageRank.
 
 |PageRank	|URI
 |-----:|---
-|0.9|		http://bar.com/
-|0.5	|	http://foo.com/
+|0 |https://www.donaldjtrump.com/media/timeline-the-trump-administrations-decisive-actions-to-combat-the-coronavirus/
+|0 |https://nodexlgraphgallery.org/Pages/Graph.aspx?graphID=237287
+|0 |https://www.wbaltv.com/article/maryland-coronavirus-numbers-map-faq-october-5-11/34271761
+|0 |https://www.click2houston.com/health/2020/03/22/chart-houston-area-coronavirus-cases-in-the-past-week/?utm_source=twitter&utm_medium=social&utm_campaign=snd&utm_content=kprc2
+|0 |https://www.politico.com/news/2020/10/06/osha-coronavirus-penalties-426828
+|0 |https://www.dailymail.co.uk/news/article-8815059/Nicola-Sturgeon-set-BAN-alcohol-Scotlands-pubs-force-6pm-closing.html
+|0 |https://www.city-journal.org/trump-coronavirus-diagnosis-models-positive-masculinity
+|0 |http://www.msn.com/en-us/news/us/how-much-would-trumps-coronavirus-treatment-cost-most-americans/ar-BB19MG4w?ocid=st
+|0 |https://www.dailymail.co.uk/tvshowbiz/article-8813329/Wendy-Williams-mispronounced-coronavirus-cornova-Trumps-return-White-House.html
+|0 |https://www.theguardian.com/world/live/2020/oct/07/coronavirus-live-news-six-us-states-see-record-hospital-patients-facebook-deletes-trump-post?CMP=share_btn_tw&page=with:block-5f7db5e18f08ac58bb46810c#block-5f7db5e18f08ac58bb46810c
 
-Briefly compare and contrast the rankings produced in Q2 and Q3.
+*This information can also be observed in [page_rank.csv](io_text_resources/Charts/page_rank.csv).*
 
 ## Extra Credit
 
-### Q4. *(2 points)*
-Re-do Q2 using your Twitter collection as the corpus instead of all of the Web. You should have 1000 total documents collected from Twitter, and you can use `grep` to discover how many of those documents contain your query term.  Compare this ranking to those obtained in Q2 and discuss.
+### Q4. 
 
-### Q5. *(3 points)* 
-Compute the Kendall Tau_b score for two of your lists (use "b" because there will likely be tie values in the rankings). You may choose any two from the Q2, Q3, and Q4 (if attempted) rankings.  Report both the Tau value and the "p" value.
+Similarly to **Q2** I used the [create_TF_IDF.py](create_TF_IDF.py) script to calculate the TF-IDF of the 10 web pages in [TopTen](io_text_resources/TopTen). However, for this
+calculation, the corpus size denoted in the script was changed to 979 to represent the number of files in the corpus of twitter 
+links gathered in [unique_urls.txt](io_text_resources/unique_urls.txt) in the last homework assignment.
 
-See: 
-* http://stackoverflow.com/questions/2557863/measures-of-association-in-r-kendalls-tau-b-and-tau-c
-* http://en.wikipedia.org/wiki/Kendall_tau_rank_correlation_coefficient#Tau-b
-* http://en.wikipedia.org/wiki/Correlation_and_dependence
+Once again, the file [number_of_files_containing_term.txt](io_text_resources/TopTen/number_of_files_containing_term.txt) was used for the calculation of TF.
 
-### Q6. *(3 points)*  
-Build a simple (i.e., no positional information) inverted file (in ASCII) for all the words from your 1000 URIs.  Upload the entire file your GitHub repo and discuss an interesting portion of the file in your report.
+**Table 1.**  *10 pages with hits for the term "coronavirus", ranked by TF-IDF where corpus size is number of active links gathered from Twitter.*
 
-## Submission
+|TF-IDF |TF	|IDF |URI
+|---:|---:|---:|---
+|0.036577 |0.025132 |1.455384 |https://www.donaldjtrump.com/media/timeline-the-trump-administrations-decisive-actions-to-combat-the-coronavirus/
+|0.067307 |0.046247 |1.455384 |https://nodexlgraphgallery.org/Pages/Graph.aspx?graphID=237287
+|0.008465 |0.005816 |1.455384 |https://www.wbaltv.com/article/maryland-coronavirus-numbers-map-faq-october-5-11/34271761
+|0.033887 |02328431 |1.455384 |https://www.click2houston.com/health/2020/03/22/chart-houston-area-coronavirus-cases-in-the-past-week/?utm_source=twitter&utm_medium=social&utm_campaign=snd&utm_content=kprc2
+|0.013909 |0.009557 |1.455384 |https://www.politico.com/news/2020/10/06/osha-coronavirus-penalties-426828
+|0.003038 |0.002087 |1.455384 |https://www.dailymail.co.uk/news/article-8815059/Nicola-Sturgeon-set-BAN-alcohol-Scotlands-pubs-force-6pm-closing.html
+|0.010609 |0.007289 |1.455384 |https://www.city-journal.org/trump-coronavirus-diagnosis-models-positive-masculinity
+|0.014850 |0.010204 |1.455384 |http://www.msn.com/en-us/news/us/how-much-would-trumps-coronavirus-treatment-cost-most-americans/ar-BB19MG4w?ocid=st
+|0.001709 |0.001174 |1.455384 |https://www.dailymail.co.uk/tvshowbiz/article-8813329/Wendy-Williams-mispronounced-coronavirus-cornova-Trumps-return-White-House.html
+|0.001323 |0.000909 |1.455384 |https://www.theguardian.com/world/live/2020/oct/07/coronavirus-live-news-six-us-states-see-record-hospital-patients-facebook-deletes-trump-post?CMP=share_btn_tw&page=with:block-5f7db5e18f08ac58bb46810c#block-5f7db5e18f08ac58bb46810c
 
-Make sure that you have committed and pushed your local repo to GitHub.  Your GitHub repo should include all scripts, code, output files, images (including .tex file if submitting PDF) needed to complete the assignment. Include "Ready to grade @weiglemc @brutushammerfist" in your final commit message.
+*This information can also be observed in [TF_IDF_twitter.csv](io_text_resources/Charts/TF_IDF_twitter.csv).*
 
-Submit the URL of your report in Blackboard:
-
-* Click on HW3 under Assignments in Blackboard.
-* Under "Assignment Submission", click the "Write Submission" button.
-* Copy/paste the URL of your report into the edit box
-  * should be something like https<nolink>://github.com/cs432-websci-fall20/hw3-ranking-*username*/blob/master/report.{pdf,md}
-* Make sure to "Submit" your assignment.

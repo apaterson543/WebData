@@ -1,101 +1,221 @@
 # Homework 8 - Clustering
-**Due:** Sunday, December 6, 2020 by 11:59pm
+**Andrew Paterson CS 432**
 
-## Reports
-* CS 432 students *may* complete this report in Markdown. Or, you may choose to use LaTeX instead. 
-* CS 532 students *must* complete this report using LaTeX generated to a PDF file (GitHub repo must contain both the LaTeX source and PDF).
-* Any graphs required for your reports must be done in R or using a Python plotting library (see ["The 7 most popular ways to plot data in Python"](https://opensource.com/article/20/4/plot-data-python)) -- Excel graphs are unacceptable!
-* When you include an image in your report, *do not change the [aspect ratio](https://en.wikipedia.org/wiki/Aspect_ratio_(image)) of the image*. If you have trouble with this, ask for help in our Piazza group.
 
-Reports are not just a list of questions and answers, but should include descriptions, screenshots, copy-paste of code output, references, as necessary.  For each question you address, you must describe how you answered the question.  
-
-You may use existing code, but you **must** document and reference where you adapted the code -- give credit where credit is due! *Use without attribution is plagiarism!*
-
-All reports must include your name, class (make sure to distinguish between CS 432 and CS 532), assignment number/title, and date.  You do not need a title page.  
-
-## Assignment
-
-Write a report that answers and explains your answers to the following questions. Support your answers by including all relevant discussion, assumptions, examples, etc. You must describe how you answered the questions. Your GitHub repo should include all scripts, code, output files, images needed to complete the assignment. If you use a Google Colab notebook, you must save a copy in GitHub in your HW8 repo.
-
-We will be clustering Twitter accounts based on the content of their last 200 (or so) tweets.
 
 ### Q1. - collect data
-Generate a list of 100 popular accounts on Twitter.  The accounts must be verified, have > 10,000 followers, and have > 5000 tweets.  See [GET users/lookup](https://developer.twitter.com/en/docs/accounts-and-users/follow-search-get-users/api-reference/get-users-lookup) and [User object](https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/user-object) for details on obtaining this information for a set of accounts.  You may also generate this information manually by visiting individual account pages. For example:
-* https://twitter.com/weiglemc - not verified, 435 followers, 2450 tweets - *don't include*
-* https://twitter.com/WNBA - verified (blue checkmark), 659,000+ followers, 76,000+ tweets - *could include*
 
-Save the list of accounts (screen_names) in a text file (one per line) and upload to your GitHub repo.
+To collect 100 popular verified accounts that have > 10,000 followers and > than 5,000 tweets, I used tweepy's cursor
+function to gather accounts that are associated with the search **soccer**. Because it is the most popular sport in the world (even 
+though everyone outside of the United States calls if football) I figured I could easily gather a substantial number of accounts.
 
-Download 200 English-language tweets from the 100 accounts. See [GET statuses/user_timeline](https://developer.twitter.com/en/docs/tweets/timelines/api-reference/get-statuses-user_timeline) for details. Note that you may receive fewer than 200 tweets in a single API call due to deleted or protected tweets. It's OK as long as you get somewhere close to 200 tweets for each account. (I don't want to you have to make more than one API call per account.)
+```
+users = tw.Cursor(api.search_users, q='filter:verified soccer',lang='en').items(250)
 
-Save the tweets from the 100 accounts to your GitHub repo.  It can all be in a single file or a separate file for each account. Since this is an intermediate file, the format is up to you. 
+user_frame = pd.DataFrame(columns=['screen_name','followers_count','statuses_count'])
+
+for user in users:
+    if user.followers_count > 10000 and user.statuses_count > 5000:
+        confirmed_user = { 'screen_name': user.screen_name,'followers_count':user.followers_count,
+                           'statuses_count': user.statuses_count}
+        user_frame = user_frame.append(confirmed_user, ignore_index=True)
+
+user_frame = user_frame.drop_duplicates()
+
+```
+
+[Users](q1_data/100_users.csv) contains the accounts along with their respective follower count and tweet counts for verification.
+
+
+Next, I downloaded 200 English-language tweets from the 100 accounts. 
+
+```
+for index, row in users.iterrows():
+    statuses = tw.Cursor(api.user_timeline, screen_name=row['screen_name'], lang='en', include_rts=False).items(200)
+    filename = "q1_data/tweets_by_user/user" + str(index) + ".txt"
+    with open(filename, 'a') as file:
+        file.write(row['screen_name'] + ' \n')
+        for status in statuses:
+            file.write(status.text)
+```
+These tweets in their original form can be viewed line by line in this [folder](q1_data/tweets_by_user/).
+
 
 ### Q2. - create account-term matrix
-Generate an account-term matrix from the accounts' tweets.  
+After collecting these tweets, it was necessary to remove any data that does not pertain to clustering based 
+on words used. This also includes stopwords used because they do not help us find associations. These stopwords
+were removed by tokenizing all the words used by each user and removing them using the Python NLTK library.
 
-First, you'll need to process the tweets to extract the terms:
-* Remove any terms that have non-ASCII characters (ex: you\u2019ll)
-   * Hint: `any(ord(char) >= 128 for char in word)`
-* Remove URIs
-* Remove account names (ex: @weiglemc)
-* Remove punctuation
-* Remove any terms that are < 3 characters or > 15 characters long
-* Convert all terms to lowercase
 
-Hint: Take advantage of regular expressions to detect URIs, account names (always start with '@'), and punctuation.
+The other text removed using regex included:
+* Any terms that have non-ASCII characters (ex: you\u2019ll)
+* URIs
+* Account names (ex: @weiglemc)
+* Punctuation
+* Any terms that are < 3 characters or > 15 characters long
+* Converted all terms to lowercase
 
-All of the tweets from a single account should be considered the same as a "blog" in our examples.
+The code used for this cleanup is shown below or can be found [here](Q2_clean_tweets.py).
 
-Then use the criteria on p. 32 of the PCI book (Ch 3 and on slide 12 in [Week-12 Clustering](https://docs.google.com/presentation/d/1Sz5tSqXBjMCLOIq7oIEq53BXDfLvNWwjIZFug3Z_aVE/edit)) to fake removing stopwords and computing TF-IDF.  This keeps only terms that appear in more than 10% and fewer than 50% of the accounts.  Note that this requires you to first build a dictionary that counts the number of accounts each term appears in (*not the number of times each term appears, but the number of accounts*).
+```
+all_tweets_cleaned = []
+all_words = ''
+for i in range(100):
+    user_num = i
+    file_name = "q1_data/tweets_by_user/user"+str(user_num)+".txt"
 
-From this filtered list of terms, create a final list of the most "popular" (i.e., frequent) 1000 terms over all accounts.  This time, you're counting how many times the term appeared over all accounts.
+    with open(file_name, 'r') as file:
+        user_tweets = file.read()
 
-Save the popular terms used in each account's tweets in a file and upload to your GitHub repo.  It can all be in a single file or a separate file for each account. Since this is an intermediate file, the format is up to you. 
+    user_tweets = user_tweets.split(' ', 1)
+    user_tweets[1] = re.sub('@.*', ' ', user_tweets[1]) # accounts
+    user_tweets[1] = re.sub('https://.*', ' ', user_tweets[1]) # uris
+    user_tweets[1] = re.sub('[.,\/}{"\')(:;!?+#=\-_]+', ' ', user_tweets[1]) # special characters and punctuation
+    user_tweets[1] = re.sub(r'[^a-zA-Z ]+', ' ', user_tweets[1]) # all non-english letter characters
+    user_tweets[1] = re.sub(r'\b\w{1,3}\b', ' ', user_tweets[1]) # words 3 characters and shorter
+    user_tweets[1] = re.sub(r'\b\w{15,}\b', ' ', user_tweets[1]) # words 15 characters and longer
+    user_tweets[1] = re.sub('\s+', ' ', user_tweets[1])
 
-In the account-term matrix, the account screen_name is the account identifier and should be start each row of the matrix.  Use the (max 1000) terms for the columns of the matrix.  The values are the frequency of occurrence in each account's tweets.  Essentially you are replicating the format of the "blogdata.txt" file included with the PCI book code. 
+    tokens = word_tokenize(user_tweets[1])
 
-Save the matrix in a text file (either tab-separated like blogdata.txt or comma-separated) and upload to your GitHub repo.
+    filtered = [w for w in tokens if not w in stop_words] # filter out stopwords
+    user_tweets[1] = " ".join(filtered)
+    all_tweets_cleaned.append(user_tweets)
+    all_words+= user_tweets[1]
+
+    words = [] # no duplicates/ clean
+for word in all_words:
+    if word.lower() not in words:
+        words.append(word.lower())    # get lower case versions of words and remove duplicates
+```
+*The 'stopwords' used are NLTKs listed English stopwords: https://gist.github.com/sebleier/554280*
+
+
+The initial set of words contained 7199 words. This has been reduced in size to the 1000 most used words across these tweets
+ordered from highest overall use of word to lowest. Screen names are in the initial collection order.
+
+**Code used for getting the final 1000**
+```
+all_terms = pd.read_csv("q2_data/unordered_matrix.csv")
+all_terms = all_terms.set_index('screen_name')
+
+
+s = all_terms.sum()
+
+all_terms = all_terms[s[s>1].nlargest(1000).index]
+
+all_terms.to_csv('1000_terms.csv')
+```
+
+**The below table represents the final [1000 words](1000_terms.csv)**
+
+| screen_name |  goal  |  first  |  back |  match  |  ...  |  ruled  |  seal  |  semi  |  semifinal |
+|:------- |   :----:   |  :----:   |  :----:   |  :----:   |  :----:   |  :----:   |  :----:   |  :----:   | :----:   |                                                   
+|USMNT           |  0   |  1   | 1   |  1  | ... |   0 |  0  | 0  |      0  |
+|MLS             |  0  |  0  | 0  |  0  | ... |   0 |  0  | 0  |      0  |
+|USWNT           |  2  |  5 | 5  |  1 | ... |   0 |  0  | 0  |      0  |
+|CanadaSoccerEN  |  0  |  0 | 0  |  1  | ... |   0 |  0  | 0  |      0  |
+|SoundersFC      |  5  |  1  | 1  |  1  | ... |   0 |  0  | 0  |      0  |
+|...             |  ...  |  ...  | ...  |  ...  | ... |   ... |  ...  | ...  |      ...  |
+|CONMEBOL        |  0  |  0  | 0  |  0  | ... |   0 |  0  | 0  |      0  |
+|Socceroos       |  2  |  4  | 0  |  1  | ... |   0 |   0 |   0 |        0|
+|FootballManager |  0  |  0  | 0  |  0  | ... |   0 |  0  |   0 |        0|
+|FecafootOfficie |  0  |  1  | 0  | 14  | ... |   0 |  0  |   0 |        0|
+|tochigisc       |  0  |  0  | 0  |  0  | ... |   0 |  0  |   0 |        0|
+
+100 rows x 1000 columns
+
 
 ### Q3. - dendrograms
-Create an ASCII dendrogram and a JPEG dendrogram that uses hierarchical clustering to cluster the most similar accounts (see slides 21, 23 - Week 12).  Include the JPEG in your report and upload the ASCII file to GitHub (it will be too unwieldy for inclusion in the report).
+To view similarities across the users based on words used in tweets, I created a dendrogram containing all the users.
+To generate this dendrogram, I used the [clusters](clusters.py) module obtained from: https://github.com/arthur-e/Programming-Collective-Intelligence/blob/master/chapter3/clusters.py.
+
+A few changes were made in reading the files to use comma separated values rather than tab separated int the `readfile()` function.
+ 
+ ![](q3_data/readfile_change.png)
+ 
+ Also in the `scaledown()` function some error handling for float division by zero was added:
+ 
+![](q3_data/scaledown_change.png)
+
+Then these functions were used in the [code](Q3_dendros.py):
+
+```
+import clusters
+
+file = ''
+with open('1000_terms.csv') as f:
+    file = f.readlines()
+
+screen_names, words, data = clusters.readfile(file)
+
+
+print(clusters.readfile(file))
+clust = clusters.hcluster(data)
+#
+#clusters.printclust(clust, labels=screen_names)
+clusters.drawdendrogram(clust,screen_names,jpeg='q3_data/userclust.jpg')
+```
+
+The ouput generated by the `drawdendrogram()` function of [clusters.py](clusters.py):
+
+![](q3_data/userclust.jpg)
 
 ### Q4. - k-means
-Cluster the accounts using k-Means, using *k*=5,10,20 (see slide 37 - Week 12).  In separate files, list the accounts in each cluster, for each value of *k*.  How many iterations were required for each value of *k*?
+Once again for this task, the [clusters](clusters.py) module was used to generate k-clusters
+for each of the k values: 5, 10 ,20.
+```
+import clusters
 
-Can you characterize the accounts that were clustered into each group?  Which *k* value created the most reasonable clusters?
+def get_clusts(data):
+    kclust5 = clusters.kcluster(data, k=5)
+    kclust10 = clusters.kcluster(data, k=10)
+    kclust20 = clusters.kcluster(data, k=20)
+    return kclust5, kclust10, kclust20
+```
+
+The individual clusters can be found in these files:
+
+* [k = 5](q4_data/k5) ------> 4 iterations
+* [k = 10](q4_data/k10) ----> 4 iterations
+* [k = 20](q4_data/k20) ----> 5 iterations
+
+
+These sets of clusters can be observed in the below tables:
+
+##### k = 5
+![](q4_data/k_tables/k5_table.png)
+
+##### k = 10
+![](q4_data/k_tables/k10_table.png)
+
+##### k = 20
+![](q4_data/k_tables/k20_table.png)
+
+From looking at these charts it is very apparent that the most reasonable clusters were created by a
+*k* value of 10. k=5 created a large cluster and other small ones while k=20 seems to separate the values
+too much for a dataset of 100 users. If we were using 1000 users or even 10,000, k=20 might be a better choice.
+
 
 ### Q5. - MDS
-Use MDS to create a JPEG of the accounts (see slide 50 - Week 12).  Include the JPEG in your report. How many iterations were required?
 
-## Extra Credit
+For this question, I created a MDS using the `scaledown()` and 'draw2d()' functions of the [clusters](clusters.py) module.
 
-### Q6.
-*(Extra credit, 3 points)*  
+The code for this generation can be viewed below:
 
-Re-generate the account-term matrix but this time process the terms using proper TF-IDF calculations instead of the hack discussed on slide 12 (p. 32).  Use the same 1000 terms, but this time replace their frequency count with TF-IDF scores (similar to as computed in HW3). Document the code, techniques, methods, etc. used to generate these TF-IDF values.  Upload the new account-term matrix file to GitHub.
+```
+with open('1000_terms.csv') as f:
+    file = f.readlines()
 
-Then re-do Q3 with the new matrix.  Compare and contrast the resulting dendrogram with the dendrogram from Q3.
+users, words, data = clusters.readfile(file)
 
-Note: Ideally you would not reuse the same 1000 terms and instead would come up with TF-IDF scores for all the terms and then choose the top 1000 from that list, but I'm trying to limit the amount of work necessary.
+coords = clusters.scaledown(data)
+clusters.draw2d(coords,users,jpeg='q5_data/twitter_user_MDS.jpg')
+```
 
-### Q7. 
-*(Extra credit, 1 point)* 
+This dataset required 587 iterations to generate the MDS below:
 
-Generate the dendrogram figure from Q3 using [scipy's dendrogram](https://docs.scipy.org/doc/scipy/reference/generated/scipy.cluster.hierarchy.dendrogram.html) or [plotly's create_dendrogram](https://plotly.com/python/dendrogram/). The clustering should be the same as what you get in Q3.
 
-### Q8. 
-*(Extra credit, 2 points)* 
+![](q5_data/twitter_user_MDS.jpg)
 
-Generate the MDS figure from Q5 using regular Python graphing libraries or Vega-Lite/D3 (i.e., don't generate a JPG file, but produce a scatterplot). Plot the labels (could be in addition to the points or in place of the points) or allow the user to mouse-over the points and display the labels. The figure won't look exactly like Q5 since the initial placement is random, but it should be similar. 
 
-## Submission
-
-Make sure that you have committed and pushed your local repo to GitHub.  Your repo should contain any code you developed to answer the questions.  Include "Ready to grade @weiglemc" in your final commit message. 
-
-Submit the URL of your *report* in Blackboard:
-
-* Click on HW8 under Assignments in Blackboard
-* Under "Assignment Submission", click the "Write Submission" button.
-* Copy/paste the URL of your report into the edit box
-  * should be something like https<nolink>://github.com/cs432-websci-fall20/hw8-cluster-*username*/blob/master/HW8-report.{pdf,md}
-* Make sure to "Submit" your assignment.

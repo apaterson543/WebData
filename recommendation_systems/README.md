@@ -1,31 +1,16 @@
 # Homework 7 - Recommendation Systems
-**Due:** *Monday*, November 30, 2020 before 11:59pm
-
-## Reports
-* CS 432 students *may* complete this report in Markdown. Or, you may choose to use LaTeX instead. 
-* CS 532 students *must* complete this report using LaTeX generated to a PDF file (GitHub repo must contain both the LaTeX source and PDF).
-* Any graphs required for your reports must be done in R or using a Python plotting library (see ["The 7 most popular ways to plot data in Python"](https://opensource.com/article/20/4/plot-data-python)) -- Excel graphs are unacceptable!
-* When you include an image in your report, *do not change the [aspect ratio](https://en.wikipedia.org/wiki/Aspect_ratio_(image)) of the image*. If you have trouble with this, ask for help in our Piazza group.
-
-Reports are not just a list of questions and answers, but should include descriptions, screenshots, copy-paste of code output, references, as necessary.  For each question you address, you must describe how you answered the question.  
-
-You may use existing code, but you **must** document and reference where you adapted the code -- give credit where credit is due! *Use without attribution is plagiarism!*
-
-All reports must include your name, class (make sure to distinguish between CS 432 and CS 532), assignment number/title, and date.  You do not need a title page.  
-
-## Assignment 
-
-Write a report that answers and explains your answers to the following questions. Include a description of how you answered the questions. Your GitHub repo should include all scripts, code, output files, images needed to complete the assignment.
-
-The goal of this assignment is to use the basic recommendation principles we have learned to recommend movies for yourself.
+#### Andrew Paterson - CS 432
 
 ### Dataset
-The MovieLens datasets were collected by the [GroupLens Research Project](https://grouplens.org/) at the University of Minnesota during the seven-month period from September 19, 1997 through April 22, 1998.  We are using the "100k dataset", available from
-https://grouplens.org/datasets/movielens/100k/
 
-There are three files that we will use:
+The datasets used in this assignmement were gathered from https://grouplens.org/datasets/movielens/100k/.
+The datasets were collected by the [GroupLens Research Project](https://grouplens.org/) at the University of 
+Minnesota during the seven-month period from September 19, 1997 through April 22, 1998.  We are using the "100k dataset", available from
+https://grouplens.org/datasets/movielens/100k/ 
 
-1.  u.data: 100,000 ratings by 943 users on 1682 movies. Each user has rated at least 20 movies. Users and items are numbered
+There are three files used:
+
+1.  [u.data](ml-100k/u.data): 100,000 ratings by 943 users on 1682 movies. Each user has rated at least 20 movies. Users and items are numbered
 consecutively from 1. The data is randomly ordered. This is a tab separated list of 
 
 ```
@@ -45,7 +30,7 @@ Example:
 115     265     2       881171488
 ```
 
-2.  u.item: Information about the 1682 movies. This is a tab separated list of
+2.  [u.item](ml-100k/u.item): Information about the 1682 movies. This is a tab separated list of
 
 ```
 movie id | movie title | release date | video release date | IMDb URL | unknown | Action | Adventure | Animation |Children's | Comedy | Crime | Documentary | Drama | Fantasy | Film-Noir | Horror | Musical | Mystery | Romance | Sci-Fi | Thriller | War | Western |
@@ -61,7 +46,7 @@ Example:
 163|Return of the Pink Panther, The (1974)|01-Jan-1974||http://us.imdb.com/M/title-exact?Return%20of%20the%20Pink%20Panther,%20The%20(1974)|0|0|0|0|0|1|0|0|0|0|0|0|0|0| 0|0|0|0|0
 ``` 
 
-3.  u.user: Demographic information about the users. This is a tab separated list of:
+3.  [u.user](ml-100k/u.user): Demographic information about the users. This is a tab separated list of:
 
 ```
 user id | age | gender | occupation | zip code
@@ -78,79 +63,162 @@ Example:
 5|33|F|other|15213
 ```
 
-### Example Code
-Instead of writing code from scratch, you are encouraged to modify the code from Ch 2 of *Programming Collective Intelligence* that performs movie recommendations from the MovieLens dataset.  Note that there is code that we did not go over in class (contained in `recommendations.py`) that reads in the u.data and u.item files. 
+### External Code
+The python module `recommendations.py` from Ch 2 of *Programming Collective Intelligence* was used to performs 
+ movie recommendations from the MovieLens dataset.  
 
-Main source: https://github.com/arthur-e/Programming-Collective-Intelligence/blob/master/chapter2/recommendations.py
+https://github.com/arthur-e/Programming-Collective-Intelligence/blob/master/chapter2/recommendations.py
 
-Class notebook w/examples: https://github.com/cs432-websci-fall20/assignments/blob/master/432_PCI_Ch02.ipynb
-
-Notes:
-* You do not have to write a single Python script that answers all of the questions (think modular!). 
-* You do not have write Python code for every operation. If you can answer questions using Unix commands, do so, but include the commands and describe what you did.
+This code has been slightly modified to function with this project and is also available [here](recommendations.py).
 
 ## Questions
 
 ### Q1
-Find 3 users who are closest to you in terms of age, gender, and occupation.  
 
-For each of those 3 users:
-* what are their top 3 (favorite) films?
-* what are their bottom 3 (least favorite) films?
+To find 3 users who are closest to me in terms of age, gender, and occupation, I read the `u.user` file into 
+a pandas dataframe. Because this information was needed in other areas, I created the [Data.py](Data.py) module for easy reference.
+After collecting this information in the dataframe, I then looped through each entry to find the closest matches to me. I am 27 year old male student.
 
-Based on the movie values in those 6 tables (3 users X (favorite + least favorite)), choose a user that you feel is most like you.  Feel free to note any outliers (e.g., "I mostly identify with user 123, except I did not like "Ghost" at all").  You can investigate more than just the top 3 and bottom 3 movies to find your best match.
+##### Closest three users to my demographic
+![](tables/top3use.png)
 
-This user is the *substitute you*.  
+
+After collecting these users, I then gathered all the movies they rated and picked the top 3 and bottom 3. Unfortunately, the scale is only out of
+5 in these ratings so it is hard to tell if these were actually their top three. However, for the purposes of this program their top and bottom rated 
+movies give us a little idea about their film taste.
+
+Rather than generating 6 Tables, I paired users' favorites and least favorites. 
+
+##### User id: 104
+![](tables/q1_user_0.png)
+
+##### User id: 286
+![](tables/q1_user_1.png)
+
+##### User id: 429
+![](tables/q1_user_2.png)
+
+
+
+Although I initially leaned towards assimilating myself with **user 104** because I enjoy the movie *Swingers*, I have more similar taste
+in movies to **user 429**. 
+
+For the following questions, **user 429** was used as the substitute me.
+
 
 ### Q2
-Which 5 users are most correlated to the *substitute you*? Which 5 users are least correlated (i.e., negative correlation)?
+To find the 5 users that are most and least correlated to **user 429**, I used the pre-created [recommendations.py](recommendations.py)
+`topMatches()` function and copy of it that shows the least reccomended `leastMatches()`. From these matches created,
+I used the pre-created [Data.py](Data.py) `get_users()` function to give me a pandas dataframe of all the users in [u.user](ml-100k/u.user). 
+I then used this dataframe to find the full user data based on the user id/index of the matches.
+
+
+```
+import pandas as pd
+import Data
+import recommendations
+
+users = Data.get_users()
+prefs = recommendations.loadMovieLens()
+
+person_list = list(prefs)
+
+sub_me = person_list[429]
+
+top5 = recommendations.topMatches(prefs,sub_me)
+bottom5 = recommendations.leastMatches(prefs,sub_me)
+print(top5)
+print(bottom5)
+top5_frame = pd.DataFrame()
+bottom5_frame = pd.DataFrame()
+
+for i in range(len(top5)):
+    top5_frame = top5_frame.append(users.iloc[int(top5[i][1])-1])
+    bottom5_frame = bottom5_frame.append(users.iloc[int(bottom5[i][1])-1])
+
+top_correlations = []
+bottom_correlations = []
+
+for i in range(len(top5)):
+    top_correlations.append(str(top5[i][0]))
+    bottom_correlations.append(str(bottom5[i][0]))
+
+top5_frame['correlation'] = top_correlations
+bottom5_frame['correlation'] = bottom_correlations
+```
+#### Output
+
+##### 5 users most correlated to me
+![](tables/q2_top5.png)
+
+##### 5 users least correlated to me
+![](tables/q2_bottom5.png)
 
 ### Q3
-Compute ratings for all the films that the *substitute you* has not seen.  
+To compute ratings for all the films that **user 429** has not seen, once again I used functions from [recommendations.py](recommendations.py).
+The `getReccomendations()` function takes the initial user/movie grouping `prefs` and single user to generate a list of movie tuples
+(overall rating, film)  that the user has not seen. This list is ordered from highest overall rating to lowest overall rating.
 
-Provide a list of the top 5 recommendations for films that the *substitute you* should see.  
+[q3_not_seen_ratings.csv](csv_files/q3_not_seen_ratings.csv)
+```
+prefs = recommendations.loadMovieLens()
+person_list = list(prefs)
+sub_me = person_list[429]
 
-Provide a list of the bottom 5 recommendations (i.e., films the *substitute you* is almost certain to hate).
+recommendations_list = recommendations.getRecommendations(prefs,sub_me)
+
+top_5_rec = recommendations_list[0:5]
+bottom_5_rec = recommendations_list[-5:]
+
+with open('csv_files/q3_not_seen_ratings.csv', 'w') as output:
+    csv_out = csv.writer(output)
+    csv_out.writerow(['rating','movie title'])
+    csv_out.writerows(recommendations_list)
+```
+#### Output
+##### Top 5 recommendations for films that the **user 429** should see.  
+
+![](tables/q3_sub_top_rec.png)
+
+##### Bottom 5 recommendations (i.e., films the **user 429** is almost certain to hate).
+
+![](tables/q3_sub_bottom_rec.png)
 
 ### Q4
-Choose your (the real you, not the *substitute you*) favorite and least favorite film from the data.  For each film, generate a list of the top 5 most correlated and bottom 5 least correlated films. 
+ 
+Choosing my favorite and least favorite from this list was difficult because there are a lot of movies in the 
+[u.item](ml-100k/u.item) dataset that I really like such as The Godfather, Silence of the Lambs, and Trainspotting.
+I ended up choosing *Reservoir Dogs (1992)* as my top movie because I enjoy that movie and was seeking to get the least
+cliche results. I also had a difficult time choosing my least favorite movie because I did not see any titles that I 
+remembered being particularly bad. Instead I chose a movie that I would currently have no interest in watching: 
+*Winnie the Pooh and the Blustery Day (1968)*. I'm sure I would have very much enjoyed this movie as a child but I
+have no interest now.
 
-Based on your knowledge of the resulting films, do you agree with the results?  In other words, do you personally like / dislike the resulting films?  
-* If you have not heard of the recommended movies, search for the movie's trailer on YouTube and watch it before you answer.  If you do this, include the link to the trailer in your report.  For example, the [trailer for "Top Gun (1986)"](https://www.youtube.com/watch?v=xa_z57UatDY) was found by searching for "top gun 1986 trailer" on Google.   
+To collect a list of recommended movies for me, I started with using the functions `loadMovieLens()` and 
+`calculateSimilarItems()` from [reccomendations.py](recommendations.py). The result of `calculateSimilarItems()`
+returns a python dictionary that holds the top ten most similar movies to each movie in the dataset [u.item](ml-100k/u.item).
 
-## Extra Credit
+Because this chart is very large, it is more ideal to index the results based on film. Below is a segment from
+the script used to collect this data. The first 5 results from `good_movie` and `not_for_me` can be found in the files:
+[q4_top_rec.csv](csv_files/q4_top_rec.csv) and [q4_bad_rec.csv](csv_files/q4_bad_rec.csv).
 
-### Q5
-*(Extra credit, 2 points)*  
+```
+prefs = recommendations.loadMovieLens()
 
-Rank all 1682 movies according to the 1997/1998 MovieLens data.  (*Rank*, not rate. These should be 1-1682.) Break any ties based on number of raters (for example, 7.2 with 10,000 raters > 7.2 with 9,000 raters).
+similarities = recommendations.calculateSimilarItems(prefs)
 
-Put a file with the full list in your repo.  List the top 10 and bottom 10 movies in your report.
+good_movie = similarities['Reservoir Dogs (1992)']
+not_for_me = similarities['Winnie the Pooh and the Blustery Day (1968)']
+```
+#### Output
 
-### Q6
-*(Extra credit, 4 points)*  
+##### Top recommended for me
+![](tables/q4_top_rec.png)
 
-Now rank the same 1682 movies according to [today's IMDB data](https://www.imdb.com/interfaces/).  Note that the IMDB data includes TV shows and other items that aren't movies.
+##### Recommended not to watch
+![](tables/q4_bad_rec.png)
 
-Put a file with the full list in your repo.  List the top 10 and bottom 10 movies in your report.
-
-### Q7
-*(Extra credit, 1 point)*
-
-*You must have done both Q5 and Q6 to complete this question.*
-
-Draw a scatterplot where each dot is a film (i.e., 1682 dots).  The x-axis is the MovieLens ranking (Q5) and the y-axis is today's IMDB ranking (Q6).
-
-Are there any interesting outliers?
-
-## Submission
-
-Make sure that you have committed and pushed your local repo to GitHub.  Your repo should contain any code you developed to answer the questions.  Include "Ready to grade @weiglemc @brutushammerfist" in your final commit message. 
-
-Submit the URL of your *report* in Blackboard:
-
-* Click on HW7 under Assignments in Blackboard
-* Under "Assignment Submission", click the "Write Submission" button.
-* Copy/paste the URL of your report into the edit box
-  * should be something like https<nolink>://github.com/cs432-websci-fall20/hw7-recommend-*username*/blob/master/HW7-report.{pdf,md}
-* Make sure to "Submit" your assignment.
+I think that this is a pretty good representation of films I would like. I have only seen *Twilight (1998)*, which I enjoyed but
+after reading the descriptions of the others I'm sure I would like them as well. I have a very broad range of movie genres that
+hold my interest though. I think that to get a more accurate recommendation for myself, it would be very beneficial to provide my own ratings on 
+at least 20 of the films in the dataset and make the same comparisons that were made for **user 429**.

@@ -1,45 +1,74 @@
 # Homework 9 - Email Classification
-**Due:** Sunday, December 13, 2020 by 11:59pm 
+**Andrew Paterson CS 432** 
 
-## Reports
-* CS 432 students *may* complete this report in Markdown. Or, you may choose to use LaTeX instead. 
-* CS 532 students *must* complete this report using LaTeX generated to a PDF file (GitHub repo must contain both the LaTeX source and PDF).
-* Any graphs required for your reports must be done in R or using a Python plotting library (see ["The 7 most popular ways to plot data in Python"](https://opensource.com/article/20/4/plot-data-python)) -- Excel graphs are unacceptable!
-* When you include an image in your report, *do not change the [aspect ratio](https://en.wikipedia.org/wiki/Aspect_ratio_(image)) of the image*. If you have trouble with this, ask for help in our Piazza group.
 
-Reports are not just a list of questions and answers, but should include descriptions, screenshots, copy-paste of code output, references, as necessary.  For each question you address, you must describe how you answered the question.  
-
-You may use existing code, but you **must** document and reference where you adapted the code -- give credit where credit is due! *Use without attribution is plagiarism!*
-
-All reports must include your name, class (make sure to distinguish between CS 432 and CS 532), assignment number/title, and date.  You do not need a title page.  
-
-## Assignment
-
-In this assignment, you will be classifying email into two groups based on topic -- either "on topic" or "not on topic".  You can choose the topic based on what types of emails you typically receive (or what you have access to).
-
-Write a report that answers and explains your answers to the following questions. Support your answers by including all relevant discussion, assumptions, examples, etc. *You must describe how you answered the questions.* Your GitHub repo should include all scripts, code, output files, images needed to complete the assignment. If you use a Google Colab notebook, you must save a copy in GitHub in your HW repo.
 
 ### Q1. Create two datasets, Testing and Training.
 
-You may choose a topic to classify your emails on (but choose only 1 topic). This can be spam, shopping emails, school emails, etc.  You must describe in your report what you will be classifying on.
+I recieve an obscene amount of emails that are advertisements. Many of them are things I might be interested in, however they usually go straight to my trash anyway.
+Because I have a plethora of training and test data for this classification chose to pick items that were advertisements. Advertisements are still spam
+but maybe a slightly more specific subset. 
 
-The **Training** dataset should consist of
-* 20 text documents for email messages you consider on your chosen topic
-* 20 text documents for email messages you consider *not* on your chosen topic
+The **Training** dataset I created consisted of
+* 20 text documents for email messages that I received that were trying to sell something.
+* 20 text documents for email messages that were from teachers, peers or my bank classified as other.
 
-The **Testing** dataset should consist of:
-* 5 text documents for email messages you consider on your chosen topic
-* 5 text documents for email messages you consider *not* on your chosen topic
+The **Testing** dataset consisted of 5 of each of these categories.
 
-Make sure that these are plain-text documents and that they do not include HTML tags.  The documents in the Testing set should be different than the documents in the Training set.
+I performed some pre-processing to change letters to lowercase for this classification in accordance with the statement given in the example
+that the `naivebayes` and `classification` classes would not recognize all caps.
 
-Upload your datasets to your GitHub repo. *Please do not include emails that contain sensitive information.*
+These datasets are available in [TrainingData](TrainingData) and [TestData](TestData).
 
 ### Q2. Naive Bayes classifier
-Use the provided example code (see https://github.com/cs432-websci-fall20/assignments/blob/master/432_PCI_Ch06.ipynb) to train and test the Naive Bayes classifier.  Use your *Training* dataset to train the Naive Bayes classifier.  Use your *Testing* dataset to test the Naive Bayes classifier and report the classification results for each email message in the *Testing* dataset.
+For this section, I used the `classification` and `naivebayes` classes from https://github.com/cs432-websci-fall20/assignments/blob/master/432_PCI_Ch06.ipynb to train and test the Naive Bayes classifier. 
+While adding my training data, I classified the advertisement emails as *Advertisement* and the other emails as *Other*. 
+
+```
+cl = naivebayes(getwords)
+cl.setdb('Ad_vs_other.db')
+cl.train(train1_ad,'Advertisement')
+cl.setthreshold('Advertisement', 3.0)
+```
+*Full code can be viewed [here](Q2_run_naive_bayes.py).*
+
+Because this training uses SQLite database, I created another module to test the test data as to not interfere or repeat training: [Test.py](Test.py)
+
+```
+test_data_results = []
+
+for i in range(10):
+    filename = "TestData/t%s.txt" % i
+    test_data_results.append((filename,cl.classify(preprocess_words_from_file(filename), default='unknown')))
+
+for tup in test_data_results:
+    print(tup)
+```
+From this script, the test results for each file in [TestData](TestData) were stored in a tuple and printed to the console.
+```
+('TestData/t0.txt', 'Advertisement')
+('TestData/t1.txt', 'Other')
+('TestData/t2.txt', 'Other')
+('TestData/t3.txt', 'Other')
+('TestData/t4.txt', 'Other')
+('TestData/t5.txt', 'Advertisement')
+('TestData/t6.txt', 'Advertisement')
+('TestData/t7.txt', 'Advertisement')
+('TestData/t8.txt', 'Advertisement')
+('TestData/t9.txt', 'Advertisement')
+
+```
 
 ### Q3. Confusion Matrix
-Draw a confusion matrix for your classification results (see [Week-13 Document Filtering](https://docs.google.com/presentation/d/1TgSeYh7gjpxl8f_9-FKG7MnXG1HI_iwH_KDFyUgKlWU/edit?usp=sharing), slides 40, 42, 43).
+
+Overall, the classification was pretty good. One email however, one from my bank telling me my statement was ready showed up in Advertisement.
+Test results are usually only as good as your training data so I think possibly with a larger training set with more examples similar to the false positive 
+the confusion could be reduced or eliminated.
+
+|               | Advertisement | Other |
+|:--------------|:-------------:|:-----:|
+| Advertisement |      5        |   1   |
+| Other         |      0        |   4   |
 
 ## Extra Credit
 

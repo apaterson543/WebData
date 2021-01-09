@@ -1,66 +1,170 @@
 # Homework 5 - Graph Partitioning
-**Due:** Sunday, November 8, 2020 by 11:59pm
+### Andrew Paterson - CS 432
 
-## Reports
-* CS 432 students *may* complete this report in Markdown. Or, you may choose to use LaTeX instead. 
-* CS 532 students *must* complete this report using LaTeX generated to a PDF file (GitHub repo must contain both the LaTeX source and PDF).
-* Any graphs required for your reports must be done in R or using a Python plotting library (see ["The 7 most popular ways to plot data in Python"](https://opensource.com/article/20/4/plot-data-python)) -- Excel graphs are unacceptable!
-* When you include an image in your report, *do not change the [aspect ratio](https://en.wikipedia.org/wiki/Aspect_ratio_(image)) of the image*. If you have trouble with this, ask for help in our Piazza group.
 
-Reports are not just a list of questions and answers, but should include descriptions, screenshots, copy-paste of code output, references, as necessary.  For each question you address, you must describe how you answered the question.  
 
-You may use existing code, but you **must** document and reference where you adapted the code -- give credit where credit is due! *Use without attribution is plagiarism!*
+#### 1. Karate Club Graph
+To draw the graph of the Zachary's Karate Club data set, I imported this data set from Networkx. The following graph
+represents the two karate masters, Mr. Hi (dark red) and John A (dark green), and their respective students in light red
+and light green. This data set imported from Networkx also included the teacher group for which each student node belongs.
 
-All reports must include your name, class (make sure to distinguish between CS 432 and CS 532), assignment number/title, and date.  You do not need a title page.  
+![Graph before split](Graphs/before_split.png)
 
-## Assignment 
+The script used to gather this data and graph it can be found below or in [Graph_1.py](Graph_1.py).
 
-We know the result of the Karate Club (Zachary, 1977) split. ***Prove or disprove that the result of split could have been predicted by the weighted graph of social interactions.***  How well does the mathematical model represent reality?  Generously document your answer with all supporting equations, code, graphs, arguments, etc.
+```
+import matplotlib.pyplot as plt
+import networkx as nx
 
-Use a Python or JavaScript library (as discussed in [Week-09 Graph Vis](https://docs.google.com/presentation/d/1POtPTmBw6MSBI7qIT85uT8DPndWcQzGpEaZQtySr1R0/edit?usp=sharing)) to generate the graphs and illustrate the Girvan-Newman algorithm graph partitioning algorithm.
+G = nx.karate_club_graph()
 
-### Steps
+color = ["#1f78b4"] * 34
+color[0] = "red"
+color[33] = "green"
 
-1. Draw the original Karate club graph (before the split) and color the nodes according to the factions they belong to (John A or Mr. Hi).
+for i in range(len(G.nodes)):
+    if i != 0 and i != 33:
+        if G.nodes[i]["club"] == 'Mr. Hi':
+            color[i] = "#ffcccb"
+        else:
+            color[i] = "#90ee90"
 
-2. Run multiple iterations of the Girvan-Newman graph partioning algorithm (see [Week-07 Social Networks](https://docs.google.com/presentation/d/1FzrzxRzslE20nWOjb_uM8jz2xvT1IOOZ9uIoYVjco7s/edit?usp=sharing), slides 90-99) on the Karate Club graph until the graph splits into two connected components.  *How many iterations did it take?*  Your report should include images of all of the iterations.
+nx.draw_kamada_kawai(G, with_labels=True, node_color=color)
+plt.savefig('Graphs/before_split.png')
+plt.show()
+```
+As you can see, using `G.nodes[i]["club"]` will return the karate club to which the individual represented by node 'i' belongs. 
 
-3. Compare the connected components of the experimental graph (Step 2) with the connected components of the split Karate club graph (Step 1). *Are they similar?  If not, what is different?*
+#### 2. Girvan-Newman Graph Partitioning    
 
-Note that it is not sufficient just to show the output of three steps.  You must provide an explanation of what is going on and an argument that "proves or disproves that the result of split could have been predicted by the weighted graph of social interactions".
+The **Girvan-Newman** graph partitioning algorithm is used for splitting a graph into sub-graphs by removing the edges with the 
+highest betweenness. By looping through and removing the edge with the highest betweenness one by one, we can observe the graph splitting into groups
+that are closer to one another.
 
-### Useful Resources
+This algorithm has three main steps:
+* Calculate betweenness of all edges
+* Remove the edge(s) with the highest betweeness
+* Repeat steps 1 and 2 until graph is partitioned.
 
-* Wayne Zachary, ["An Information Flow Model for Conflict and Fission in Small Groups"](http://aris.ss.uci.edu/~lin/76.pdf), 1977 - original paper 
-* [Zachary's Karate Club](https://en.wikipedia.org/wiki/Zachary's_karate_club) (Wikipedia)
-* Data 
-   * matrix format: [UCINET IV Version 1.0 DATASETS](http://vlado.fmf.uni-lj.si/pub/networks/data/Ucinet/UciData.htm#zachary)
-   * GML file: [Gephi Datasets](https://github.com/gephi/gephi/wiki/Datasets)
-   * [karate_club_graph() in NetworkX](https://networkx.org/documentation/stable/auto_examples/graph/plot_karate_club.html)
-* Example code
-  * using [karate_club_graph()](https://networkx.org/documentation/stable/auto_examples/graph/plot_karate_club.html) in [NetworkX](https://networkx.org/documentation/stable/index.html) - [CS 432/532 Google Colab notebook](https://github.com/cs432-websci-fall20/assignments/blob/master/432_NetworkX_example.ipynb)
-  * [CommunityGirvanNewman](https://snap.stanford.edu/snappy/doc/reference/CommunityGirvanNewman.html) in [Snap.py](https://snap.stanford.edu/snappy/doc/tutorial/index-tut.html) 
-  * [community_edge_betweenness()](http://igraph.org/python/doc/igraph-pysrc.html#Graph.community_edge_betweenness) in [igraph-python](https://igraph.org/python/) 
-  * ["What are the differences between community detection algorithms in igraph?"](http://stackoverflow.com/questions/9471906/what-are-the-differences-between-community-detection-algorithms-in-igraph/9478989#9478989), StackOverflow question/answer
-  * ["Are there implementations of algorithms for community detection in graphs? "](http://stackoverflow.com/questions/5822265/are-there-implementations-of-algorithms-for-community-detection-in-graphs), StackOverflow question/answer
+Thankfully, Networkx provides built in functions to determine the betweenness of all edges in a graph. Using `nx.edge_betweenness_centrality()` where *nx* is
+the import name of Networkx, A python dictionary is generated containing the betweenness of all edges in the format `(node1,node2):betweenness_value`.
 
-## Extra Credit
+By using this function, I was able to calculate the max betweeness with little to no trouble for the Girvan-Newman algorithm.
 
-### Q1. (3 points)
+```
+def find_max_betweenness(G):
+    max = 0
+    max_e = None
 
-We know the group split in two different groups.  Suppose the disagreements in the group were more nuanced.  *What would the clubs look like if they split into groups of 3, 4, and 5?*
+    f = nx.edge_betweenness_centrality(G, k=None, normalized=True, weight=None, seed=None)
+    for edge in f:
+            if max < f[edge]:
+                max = f[edge]
+                max_e = edge
 
-### Q2. (5 points)
-Use D3.js's force-directed graph layout to draw the Karate Club Graph before the split. Color the nodes according to the factions they belong to (John A or Mr. Hi). After a button is clicked, split the graph based on the original graph split. Include a link to the HTML/JavaScript files (or Observable notebook) in your report and all necessary screenshots.
+    max_edge = list(max_e)
+    return max_edge
 
-## Submission
+def girmin_newman(iteration_num, G):
+    for i in range(iteration_num):
+        max_between = find_max_betweenness(G)
+        G.remove_edge(max_between[0], max_between[1])
 
-Make sure that you have committed and pushed your local repo to GitHub.  Your repo should contain any code you developed to answer the questions.  Include "Ready to grade @weiglemc @brutushammerfist" in your final commit message. 
+```
+In this program I split the finding of max betweenness out of `girvan-newman()` for easier code interpretation. 
+The `girvan-newman()` function takes the number of iterations to run as a parameter so each iteration can be observed in
+it's own respective graph. To make this a little easier on myself, I used command line input to increase or decrease the number 
+of iterations by one.
 
-Submit the URL of your *report* in Blackboard:
+```
+    # input value via command line
+    value = ''
+    # Number of iterations to perform in girvan_newman()
+    iterate = 0
+    # Loop to prompt for input of change in number of iterations
+    while value != 'e':
+        # Gather dataset from NetworkX
+        G = nx.karate_club_graph()
 
-* Click on HW5 under Assignments in Blackboard
-* Under "Assignment Submission", click the "Write Submission" button.
-* Copy/paste the URL of your report into the edit box
-  * should be something like https<nolink>://github.com/cs432-websci-fall20/hw5-graph-*username*/blob/master/HW5-report.{pdf,md}
-* Make sure to "Submit" your assignment.
+        # Remove edges with highest betweenness
+        girmin_newman(iterate, G)
+        
+        # Graph formatting
+        color = color_nodes()
+        iterations = str(iterate) + " iterations"
+        ax = plt.gca()
+        ax.set_title(iterations)
+        nx.draw_kamada_kawai(G, with_labels=True, node_color=color, ax=ax)
+        plt.savefig('Graphs/after_' + iterations)
+        plt.show()
+        
+        # Command line input
+        value = input("Enter + to increase iterations or - to decease: ")
+        if value == '+':
+            iterate += 1
+        if value == '-':
+            iterate -= 1
+``` 
+The above code for question **2** can be found at [Graph_2.py](Graph_2.py).
+
+##### The Initial Graph
+To observe the changes through the Girvan-Newman algorithm, we first start with the graph generated in question **1**.
+
+![after_0_iterations](Graphs/after_0%20iterations.png)
+
+##### First Iteration
+![after_1_iterations](Graphs/after_1%20iterations.png)
+
+##### Second Iteration
+![after_2_iterations](Graphs/after_2%20iterations.png)
+
+##### Third Iteration
+![after_3_iterations](Graphs/after_3%20iterations.png)
+
+##### Fourth Iteration
+![after_4_iterations](Graphs/after_4%20iterations.png)
+
+##### Fifth Iteration
+![after_5_iterations](Graphs/after_5%20iterations.png)
+
+At this point, We can see that the graph has began to separate into two collectives based around node 0 and 33, i.e. the two karate teachers.
+
+##### Sixth Iteration
+![after_6_iterations](Graphs/after_6%20iterations.png)
+
+##### Seventh Iteration
+![after_7_iterations](Graphs/after_7%20iterations.png)
+
+Almost There!
+
+##### Eighth Iteration
+![after_8_iterations](Graphs/after_8%20iterations.png)
+
+##### Ninth Iteration
+![after_9_iterations](Graphs/after_9%20iterations.png)
+
+##### Tenth Iteration
+![after_10_iterations](Graphs/after_10%20iterations.png)
+
+The tenth iteration is the last where the two graph partitions will be connected. As you can see, the edge between nodes 2 and 13 will
+be the last to go.
+
+
+##### Eleventh Iteration
+After this iteration, the two graphs become two individual partitions. I had trouble with displaying this part because their centers are 
+forced to the gravity of the graph so they display on top of each other. Unfortunately I was unable to figure out how to show them separately. However, they are split into two partitions and from the previous iteration, 
+one can see which points belong to which graph.
+
+![after_11_iterations](Graphs/after_11%20iterations.png)
+
+
+#### 3. Comparison: Before and After Split
+
+Before the split, I colored the nodes by using the predefined data from NetworkX pertaining to which group each node belongs. However,
+after running enough iterations of the Girvan-Newman algorithm to split the data, I found that nodes 2 and 8 ended up being in the <span style="color: green;">John A</span> 
+group rather than the <span style="color: red;"> Mr. Hi </span> group. Other than that, all the other notes were consistent with the predicted
+data. 
+
+Another notable feature of the final graph is that the positions and length of edges reflecting betweenness have changed from the original.
+With the removal of higher betweenness levels, some of the edges with lower betweenness began to represent a higher ratio of betweenness in relation
+to others in in their respective partitions.
