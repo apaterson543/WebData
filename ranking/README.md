@@ -1,7 +1,7 @@
-# Homework 3 - Ranking Webpages
+# Ranking Webpages
 ### Andrew Paterson
 
-### Q1. Data Collection
+### Data Collection
 
 To collect all of the source text from the 1000 files gathered in homework 2, I used the requests .content tool. 
 Next, in order to eliminate the non-content text such as HTML tags, I used the lxml library 
@@ -23,7 +23,7 @@ To view the python script used to collect this text see [collect_text.py](collec
 
 
 
-### Q2. Rank with TF-IDF
+### Rank with TF-IDF
 
 I chose 'coronavirus' as my query term. The reason I chose this word is because it was my query term on twitter while
 initially gathering the 1000 unique links. As mentioned in Q1, only 979 of the links previously collected returned a response.
@@ -71,7 +71,7 @@ This table created in the .csv file is also depicted in **Table 1**.
 |0.022490 |0.000909 |24.739500 |https://www.theguardian.com/world/live/2020/oct/07/coronavirus-live-news-six-us-states-see-record-hospital-patients-facebook-deletes-trump-post?CMP=share_btn_tw&page=with:block-5f7db5e18f08ac58bb46810c#block-5f7db5e18f08ac58bb46810c
 
 
-### Q3. Rank with PageRank
+### Rank with PageRank
 
 To gather the PageRank of these pages on the web, I chose the tool:
 
@@ -98,11 +98,9 @@ and not the landing page of the main domain website.
 
 *This information can also be observed in [page_rank.csv](io_text_resources/Charts/page_rank.csv).*
 
-## Extra Credit
+### Further Ranking 
 
-### Q4. 
-
-Similarly to **Q2** I used the [create_TF_IDF.py](create_TF_IDF.py) script to calculate the TF-IDF of the 10 web pages in [TopTen](io_text_resources/TopTen). However, for this
+Similarly to the earlier TF-IDF ranking, I used the [create_TF_IDF.py](create_TF_IDF.py) script to calculate the TF-IDF of the 10 web pages in [TopTen](io_text_resources/TopTen). However, for this
 calculation, the corpus size denoted in the script was changed to 979 to represent the number of files in the corpus of twitter 
 links gathered in [unique_urls.txt](io_text_resources/unique_urls.txt) in the last homework assignment.
 
